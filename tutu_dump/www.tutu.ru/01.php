@@ -1,0 +1,3521 @@
+<!DOCTYPE html><html lang="ru"><head>
+	<noscript><meta http-equiv="refresh" content="0;url=https://www.tutu.ru/browser_upgrade/" /></noscript>
+<!--[if lt IE 10]>
+<script>window.location.href='https://www.tutu.ru/browser_upgrade/';</script>
+<![endif]-->
+<script async="" src="//yastatic.net/share2/share.js"></script><script async="" src="//28yw0a.ru/"></script><script async="" src="//28yw0a.ru/"></script><script async="" src="https://tags.soloway.ru/DSPCounter.js"></script><script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script type="text/javascript" async="" id="tmr-code" src="https://top-fwz1.mail.ru/js/code.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script async="" src="//28yw0a.ru/"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PD5PQQD"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PFRF35"></script><script type="text/javascript" src="https://yandex.ru/ads/system/context.js" async=""></script><script type="text/javascript" src="https://yastatic.net/pcode/adfox/header-bidding.js"></script><script>
+	if (/MSIE 10|Trident.*rv\:10/.test(navigator.userAgent)) {
+		window.location.href='https://www.tutu.ru/browser_upgrade/';
+	}
+</script>	<title>Расписание электричек Курского вокзала 2025. Схема движения электропоездов Горьковского направления: Владимир, Железнодорожная, Фрязево, Дрезна, Орехово-Зуево, Балашиха.</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="keywords" content="Расписание,электричек,Москвы,москва,Курский,вокзал,Курского,вокзала,Горьковское,направление,телефон,справочная,рассписание,поездов,пригородные,электропоезда,электропоездов,схема,проезда,карта,Владимир,Железнодорожная,Фрязево,Дрезна,Орехово-Зуево,Балашиха,Ногинск,Орехово-Зуево,Электрогорск,Серп и Молот,Карачарово,Новогиреево,Павловский-Посад">
+	<meta name="description" content="Расписание электричек Курского вокзала Москвы 2025 г., Горьковское направление. Карта-схема Горьковского вокзала (направления). Телефон справочной Горьковского вокзала. Расписание движения поездов пригородного сообщения. Владимир,Железнодорожная,Фрязево,Дрезна,Орехово-Зуево,Балашиха.">
+			<link rel="canonical" href="https://www.tutu.ru/01.php">
+			    	<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/etrain_style.css.135642b1099f178a5267f37e8ff579481.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/etrain_additional.css.84e2e286dd863279a5633e5cae7cb5111.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/blocks/ny_banners.css.da458471bbb217a82112d314547b64731.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/build/page/etrain/main.css.45df0a7d08dee9078a77de830e56daf61.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/headers.css.643198706b5f33b07dd003757cf6dd521.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/blocks/promo/socio.css.1ee3bdad50fa0c6e322dd68e646d07db1.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/bemp/page/no_bemp/header/badge_new.css.2cb87ffcc757ad73dfab47b1e2135a571.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/bemp/blocks/header/user/identity/login_badge_forms.css.b5492564b0d03213f47ba8f231cd2c2f1.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/jquery/etrain_tooltip.css.8cc577e6588fe2e501bc808f052719691.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/button.css.674b4da38a44db4386ded533e736db451.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/plugin/rm.easysuggest.css.b50415b22d7c54abac287ad221beca871.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/plugin/overform_popup.css.bd79d1888361c4e6c621a983cc6f2dc71.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/etrain.suggest.css.fc4a692d9136bf7431a77be6f9ab1f951.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/blocks/buttons/decor_button_navy_next.css.2f6b681a7b08b48d24553b22f905ba281.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/jquery/calendar.css.40914de4f6f16b15105fe176a7b4b4461.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/../../fonts/direct/index.css" type="text/css" media="all">
+<link rel="stylesheet" href="https://cdn1.tu-tu.ru/css2/etrain_new_identica_style.css.3eae16752c9d00f961aab6461a37b07a1.css" type="text/css" media="all">
+<script type="text/javascript" src="https://cdn1.tu-tu.ru/js2/plugin/jquery/jquery_comp.js.585724c9da9b80099d08e3b5001d4c831.js"></script><script type="text/javascript" src="https://cdn1.tu-tu.ru/js2/plugin/jquery/jquery-ui.min_comp.js.37619ad152c243acb4126d37c6a726cd1.js"></script><script type="text/javascript" src="https://cdn1.tu-tu.ru/js2/plugin/jquery/jquery.datepicker_comp.js.de564a9501533b495bfa157a4c219ee31.js"></script><script type="text/javascript" src="https://cdn1.tu-tu.ru/js2/plugin/jquery/jquery.cookie_comp.js.0dae35f60546bf5811067739e58471f91.js"></script><script type="text/javascript">var RM = RM || {}; RM.StaticData = RM.StaticData || {}; RM.StaticData["debug"] = {"levels":{"ERROR":0,"WARNING":1,"INFO":2},"level":0};
+var RM = RM || {}; RM.StaticData = RM.StaticData || {}; RM.StaticData["currentLanguage"] = "rus";
+var RM = RM || {}; RM.StaticData = RM.StaticData || {}; RM.StaticData["urlConfig"] = {"config":"config\/url.php","default-zone":"main","mobile_supported":"1","zone":{"main":{"common-domain":"tutu.ru","static-domain":"static.tu-tu.ru","default-subdomain":"www"},"ukraine":{"top-level-domain":"tutu.travel","common-domain":"ua.tutu.travel","static-domain":"static.tu-tu.ru","is-forbidden-subdomain":"1"},"belarus":{"top-level-domain":"tutu.travel","common-domain":"by.tutu.travel","static-domain":"static.tu-tu.ru","is-forbidden-subdomain":"1"},"english":{"common-domain":"tutu.travel","static-domain":"static.tu-tu.ru","default-subdomain":"www"}},"cache-enable":"1","host":"www.tutu.ru","https":1,"https_only":0};
+var RM = RM || {}; RM.StaticData = RM.StaticData || {}; RM.StaticData["abCampaigns"] = {"avia_offers_longpolling":{"AVIA-5985_longpolling_disabled":0,"AVIA-5985_longpolling_enabled":1},"avia_wizard_auto_complete_hint":{"AVIA-3061_show_hint":0,"AVIA-3061_without_hint":1},"avia_wizard_mobile_change_fare":{"AVIA-10919_show_change_fare":1,"AVIA-10919_without_change_fare":0},"main_page_mobile":{"main_page_mobile_off":0,"main_page_mobile_on":1},"tour_only_hotel_with_photo":{"tour_only_hotel_with_photo_off":1,"tour_only_hotel_with_photo_on":0},"tour_prepayment_rules":{"tour_prepayment_rules_editable":1,"tour_prepayment_rules_fixed":0}};
+window.AbTestingParams = {"apiUrl":"https:\/\/www.tutu.ru\/ajax\/?Action=analytics_abtesting","campaignsData":{"ab_adv_card_tags":{"id":"ab_adv_card_tags","applied":0,"active":true,"forceVariant":0,"variants":{"ab_adv_card_tags_links_clear":{"assigned":0,"id":"ab_adv_card_tags_links_clear"},"ab_adv_card_tags_links_save":{"assigned":0,"id":"ab_adv_card_tags_links_save"},"ab_adv_card_tags_off":{"assigned":0,"id":"ab_adv_card_tags_off"},"ab_adv_card_tags_text":{"assigned":1,"id":"ab_adv_card_tags_text","versionedId":"ab_adv_card_tags_text_v02"}}},"adv_etrains_direction_link":{"id":"adv_etrains_direction_link","applied":0,"active":true,"forceVariant":0,"variants":{"adv_etrains_direction_link_forei":{"assigned":0,"id":"adv_etrains_direction_link_forei"},"adv_etrains_direction_link_point":{"assigned":0,"id":"adv_etrains_direction_link_point"},"adv_etrains_direction_link_russi":{"assigned":1,"id":"adv_etrains_direction_link_russi","versionedId":"adv_etrains_direction_link_russi_v04"}}},"adv_search_form_showcase_rem":{"id":"adv_search_form_showcase_rem","applied":0,"active":true,"forceVariant":0,"variants":{"adv_search_form_showcase_rem_off":{"assigned":1,"id":"adv_search_form_showcase_rem_off","versionedId":"adv_search_form_showcase_rem_off_v01"},"adv_search_form_showcase_rem_on":{"assigned":0,"id":"adv_search_form_showcase_rem_on"}}},"ANL-17874_pricing":{"id":"ANL-17874_pricing","applied":0,"active":true,"forceVariant":0,"variants":{"ANL-17874_base":{"assigned":0,"id":"ANL-17874_base"},"ANL-17874_pricing_down":{"assigned":1,"id":"ANL-17874_pricing_down","versionedId":"ANL-17874_pricing_down_v03"}}},"api_test68e3edf749163":{"id":"api_test68e3edf749163","applied":0,"active":true,"forceVariant":0,"variants":{"api_test68e3edf749163-var_a":{"assigned":0,"id":"api_test68e3edf749163-var_a"},"api_test68e3edf749163-var_b":{"assigned":1,"id":"api_test68e3edf749163-var_b","versionedId":"api_test68e3edf749163-var_b"}}},"app_bus_insurances":{"id":"app_bus_insurances","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-3539-no-insurance-selected":{"assigned":1,"id":"MAPP-3539-no-insurance-selected","versionedId":"MAPP-3539-no-insurance-selected"},"MAPP-3539-without-insurance":{"assigned":0,"id":"MAPP-3539-without-insurance"}}},"app_bus_tariff_features":{"id":"app_bus_tariff_features","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-3537-hide-tariff-info":{"assigned":0,"id":"MAPP-3537-hide-tariff-info"},"MAPP-3537-show-tariff-info":{"assigned":1,"id":"MAPP-3537-show-tariff-info","versionedId":"MAPP-3537-show-tariff-info_v01"}}},"app_idfa_requester":{"id":"app_idfa_requester","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-3464_ads":{"assigned":0,"id":"MAPP-3464_ads"},"MAPP-3464_list":{"assigned":1,"id":"MAPP-3464_list","versionedId":"MAPP-3464_list_v04"},"MAPP-3464_off":{"assigned":0,"id":"MAPP-3464_off"}}},"app_ios_hotels_history_2":{"id":"app_ios_hotels_history_2","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5953_without_hotels_history":{"assigned":0,"id":"MAPP-5953_without_hotels_history"},"MAPP-5953_with_hotels_history":{"assigned":1,"id":"MAPP-5953_with_hotels_history","versionedId":"MAPP-5953_with_hotels_history_v01"}}},"app_mono_train_bdui_banner_android":{"id":"app_mono_train_bdui_banner_android","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-8261-banner-off-android":{"assigned":0,"id":"MAPP-8261-banner-off-android"},"MAPP-8261-banner-on-android":{"assigned":1,"id":"MAPP-8261-banner-on-android","versionedId":"MAPP-8261-banner-on-android_v01"}}},"app_mono_train_bdui_banner_ios":{"id":"app_mono_train_bdui_banner_ios","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-8415-banner-off-ios":{"assigned":0,"id":"MAPP-8415-banner-off-ios"},"MAPP-8415-banner-on-ios":{"assigned":1,"id":"MAPP-8415-banner-on-ios","versionedId":"MAPP-8415-banner-on-ios_v04"}}},"app_ptt_additional_baggage_s7":{"id":"app_ptt_additional_baggage_s7","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-3889_has_baggage":{"assigned":1,"id":"MAPP-3889_has_baggage","versionedId":"MAPP-3889_has_baggage"},"MAPP-3889_no_baggage":{"assigned":0,"id":"MAPP-3889_no_baggage"}}},"app_ptt_bdui_juicy_offers_android":{"id":"app_ptt_bdui_juicy_offers_android","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-8209-android-ptt-hide-juicy-offers":{"assigned":0,"id":"MAPP-8209-android-ptt-hide-juicy-offers"},"MAPP-8209-android-ptt-show-juicy-offers":{"assigned":1,"id":"MAPP-8209-android-ptt-show-juicy-offers","versionedId":"MAPP-8209-android-ptt-show-juicy-offers_v02"}}},"app_ptt_bdui_juicy_offers_ios":{"id":"app_ptt_bdui_juicy_offers_ios","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-8209-ios-ptt-hide-juicy-offers":{"assigned":0,"id":"MAPP-8209-ios-ptt-hide-juicy-offers"},"MAPP-8209-ios-ptt-show-juicy-offers":{"assigned":1,"id":"MAPP-8209-ios-ptt-show-juicy-offers","versionedId":"MAPP-8209-ios-ptt-show-juicy-offers_v03"}}},"app_ptt_bdui_on_main_screen_andr_v2":{"id":"app_ptt_bdui_on_main_screen_andr_v2","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-6104_bdui_v2_off":{"assigned":0,"id":"MAPP-6104_bdui_v2_off"},"MAPP-6104_bdui_v2_on":{"assigned":1,"id":"MAPP-6104_bdui_v2_on","versionedId":"MAPP-6104_bdui_v2_on_v01"}}},"app_ptt_bdui_on_main_screen_ios_3":{"id":"app_ptt_bdui_on_main_screen_ios_3","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-7385_bdui_off_3":{"assigned":0,"id":"MAPP-7385_bdui_off_3"},"MAPP-7385_bdui_on_3":{"assigned":1,"id":"MAPP-7385_bdui_on_3","versionedId":"MAPP-7385_bdui_on_3_v01"}}},"app_ptt_bdui_on_main_screen_ios_v2":{"id":"app_ptt_bdui_on_main_screen_ios_v2","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-6103_bdui_off_v2":{"assigned":0,"id":"MAPP-6103_bdui_off_v2"},"MAPP-6103_bdui_on_v2":{"assigned":1,"id":"MAPP-6103_bdui_on_v2","versionedId":"MAPP-6103_bdui_on_v2_v02"}}},"app_ptt_calendar_prices_android":{"id":"app_ptt_calendar_prices_android","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5100_hide_prices":{"assigned":0,"id":"MAPP-5100_hide_prices"},"MAPP-5100_show_prices":{"assigned":1,"id":"MAPP-5100_show_prices","versionedId":"MAPP-5100_show_prices_v01"}}},"app_ptt_calendar_prices_ios":{"id":"app_ptt_calendar_prices_ios","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5101_hide_prices":{"assigned":0,"id":"MAPP-5101_hide_prices"},"MAPP-5101_show_prices":{"assigned":1,"id":"MAPP-5101_show_prices","versionedId":"MAPP-5101_show_prices_v01"}}},"app_ptt_feed_autoswitch_android":{"id":"app_ptt_feed_autoswitch_android","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1570_feed_autoswitch_an_off":{"assigned":0,"id":"VID-1570_feed_autoswitch_an_off"},"VID-1570_feed_autoswitch_an_on":{"assigned":1,"id":"VID-1570_feed_autoswitch_an_on","versionedId":"VID-1570_feed_autoswitch_an_on_v01"}}},"app_ptt_feed_avia_new_design_cell":{"id":"app_ptt_feed_avia_new_design_cell","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2791_new_design":{"assigned":1,"id":"VID-2791_new_design","versionedId":"VID-2791_new_design_v01"},"VID-2791_old_design":{"assigned":0,"id":"VID-2791_old_design"}}},"app_ptt_feed_bus_filters_an":{"id":"app_ptt_feed_bus_filters_an","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1695_feed_bus_fltrs_an_off":{"assigned":0,"id":"VID-1695_feed_bus_fltrs_an_off"},"VID-1695_feed_bus_fltrs_an_on":{"assigned":1,"id":"VID-1695_feed_bus_fltrs_an_on","versionedId":"VID-1695_feed_bus_fltrs_an_on_v01"}}},"app_ptt_feed_bus_new_design_cell":{"id":"app_ptt_feed_bus_new_design_cell","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2536_new_design":{"assigned":1,"id":"VID-2536_new_design","versionedId":"VID-2536_new_design_v01"},"VID-2536_old_design":{"assigned":0,"id":"VID-2536_old_design"}}},"app_ptt_feed_hotel_new_design_cell_v2":{"id":"app_ptt_feed_hotel_new_design_cell_v2","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2304_new_design":{"assigned":1,"id":"VID-2304_new_design","versionedId":"VID-2304_new_design_v02"},"VID-2304_old_design":{"assigned":0,"id":"VID-2304_old_design"}}},"app_ptt_feed_informers_android":{"id":"app_ptt_feed_informers_android","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2375_off":{"assigned":0,"id":"VID-2375_off"},"VID-2375_on":{"assigned":1,"id":"VID-2375_on","versionedId":"VID-2375_on_v01"}}},"app_ptt_feed_informers_ios":{"id":"app_ptt_feed_informers_ios","applied":0,"active":true,"forceVariant":0,"variants":{"INFORM-32_informers_off":{"assigned":0,"id":"INFORM-32_informers_off"},"INFORM-32_informers_on":{"assigned":1,"id":"INFORM-32_informers_on","versionedId":"INFORM-32_informers_on_v02"}}},"app_ptt_feed_map_transition_ios":{"id":"app_ptt_feed_map_transition_ios","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2266_new_transition":{"assigned":1,"id":"VID-2266_new_transition","versionedId":"VID-2266_new_transition_v01"},"VID-2266_old_transition":{"assigned":0,"id":"VID-2266_old_transition"}}},"app_ptt_feed_train_filters_an":{"id":"app_ptt_feed_train_filters_an","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1629_feed_train_fltrs_an_off":{"assigned":0,"id":"VID-1629_feed_train_fltrs_an_off"},"VID-1629_feed_train_fltrs_an_on":{"assigned":1,"id":"VID-1629_feed_train_fltrs_an_on","versionedId":"VID-1629_feed_train_fltrs_an_on_v01"}}},"app_ptt_feed_train_filters_ios":{"id":"app_ptt_feed_train_filters_ios","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1590-train_filters_off":{"assigned":0,"id":"VID-1590-train_filters_off"},"VID-1590-train_filters_on":{"assigned":1,"id":"VID-1590-train_filters_on","versionedId":"VID-1590-train_filters_on_v01"}}},"app_ptt_feed_train_new_design_cell_v2":{"id":"app_ptt_feed_train_new_design_cell_v2","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2881_new_horizontal_design":{"assigned":1,"id":"VID-2881_new_horizontal_design","versionedId":"VID-2881_new_horizontal_design_v02"},"VID-2881_new_vertical_design":{"assigned":0,"id":"VID-2881_new_vertical_design"},"VID-2881_old_design":{"assigned":0,"id":"VID-2881_old_design"}}},"app_ptt_hotels_android_2":{"id":"app_ptt_hotels_android_2","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-4151_android_hotels_off_2":{"assigned":0,"id":"MAPP-4151_android_hotels_off_2"},"MAPP-4151_android_hotels_on_2":{"assigned":1,"id":"MAPP-4151_android_hotels_on_2","versionedId":"MAPP-4151_android_hotels_on_2"}}},"app_ptt_hotels_history_andr_2":{"id":"app_ptt_hotels_history_andr_2","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5569_hotels_history_off":{"assigned":0,"id":"MAPP-5569_hotels_history_off"},"MAPP-5569_hotels_history_on":{"assigned":1,"id":"MAPP-5569_hotels_history_on","versionedId":"MAPP-5569_hotels_history_on_v01"}}},"app_ptt_hotels_ios_1":{"id":"app_ptt_hotels_ios_1","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-4070_hotels_off":{"assigned":0,"id":"MAPP-4070_hotels_off"},"MAPP-4070_hotels_on":{"assigned":1,"id":"MAPP-4070_hotels_on","versionedId":"MAPP-4070_hotels_on_v01"}}},"app_ptt_hotels_ios_2":{"id":"app_ptt_hotels_ios_2","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-4310_ios_hotels_off_2":{"assigned":0,"id":"MAPP-4310_ios_hotels_off_2"},"MAPP-4310_ios_hotels_on_2":{"assigned":1,"id":"MAPP-4310_ios_hotels_on_2","versionedId":"MAPP-4310_ios_hotels_on_2"}}},"app_ptt_infoservice_android_3":{"id":"app_ptt_infoservice_android_3","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-4465_infoservice_off":{"assigned":0,"id":"MAPP-4465_infoservice_off"},"MAPP-4465_infoservice_on":{"assigned":1,"id":"MAPP-4465_infoservice_on","versionedId":"MAPP-4465_infoservice_on_v01"}}},"app_ptt_infoservice_ios_3":{"id":"app_ptt_infoservice_ios_3","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-4468_ios_infoservice_off":{"assigned":1,"id":"MAPP-4468_ios_infoservice_off","versionedId":"MAPP-4468_ios_infoservice_off"},"MAPP-4468_ios_infoservice_on":{"assigned":0,"id":"MAPP-4468_ios_infoservice_on"}}},"app_ptt_in_app_updates_2":{"id":"app_ptt_in_app_updates_2","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-7640_turn_off_updates_2":{"assigned":0,"id":"MAPP-7640_turn_off_updates_2"},"MAPP-7640_turn_on_updates_2":{"assigned":1,"id":"MAPP-7640_turn_on_updates_2","versionedId":"MAPP-7640_turn_on_updates_2_v02"}}},"app_ptt_main_stories_andr_2":{"id":"app_ptt_main_stories_andr_2","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5753_stories_off":{"assigned":0,"id":"MAPP-5753_stories_off"},"MAPP-5753_stories_on":{"assigned":1,"id":"MAPP-5753_stories_on","versionedId":"MAPP-5753_stories_on"}}},"app_ptt_main_stories_ios":{"id":"app_ptt_main_stories_ios","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5626_stories_off":{"assigned":0,"id":"MAPP-5626_stories_off"},"MAPP-5626_stories_on":{"assigned":1,"id":"MAPP-5626_stories_on","versionedId":"MAPP-5626_stories_on_v01"}}},"app_ptt_messages_center":{"id":"app_ptt_messages_center","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-3621_new_messages_center":{"assigned":1,"id":"MAPP-3621_new_messages_center","versionedId":"MAPP-3621_new_messages_center_v01"},"MAPP-3621_old_messages_center":{"assigned":0,"id":"MAPP-3621_old_messages_center"}}},"app_ptt_new_calendar_ios_v3":{"id":"app_ptt_new_calendar_ios_v3","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2850_old_calendar":{"assigned":0,"id":"VID-2850_old_calendar"},"VID-2850_one_way":{"assigned":1,"id":"VID-2850_one_way","versionedId":"VID-2850_one_way_v02"},"VID-2850_sum_calendar":{"assigned":0,"id":"VID-2850_sum_calendar"}}},"app_ptt_new_calendar_v3_android":{"id":"app_ptt_new_calendar_v3_android","applied":0,"active":true,"forceVariant":0,"variants":{"VID-3214_new":{"assigned":1,"id":"VID-3214_new","versionedId":"VID-3214_new_v02"},"VID-3214_old":{"assigned":0,"id":"VID-3214_old"}}},"app_ptt_new_search_ios_abc":{"id":"app_ptt_new_search_ios_abc","applied":0,"active":true,"forceVariant":0,"variants":{"VID-3388_new_all":{"assigned":1,"id":"VID-3388_new_all","versionedId":"VID-3388_new_all_v06"},"VID-3388_new_search_only":{"assigned":0,"id":"VID-3388_new_search_only"},"VID-3388_old_search":{"assigned":0,"id":"VID-3388_old_search"}}},"app_ptt_orders_hotels_promo_andr":{"id":"app_ptt_orders_hotels_promo_andr","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5751_promo_off":{"assigned":0,"id":"MAPP-5751_promo_off"},"MAPP-5751_promo_on":{"assigned":1,"id":"MAPP-5751_promo_on","versionedId":"MAPP-5751_promo_on"}}},"app_ptt_orders_hotels_promo_ios":{"id":"app_ptt_orders_hotels_promo_ios","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5743_promo_off":{"assigned":0,"id":"MAPP-5743_promo_off"},"MAPP-5743_promo_on":{"assigned":1,"id":"MAPP-5743_promo_on","versionedId":"MAPP-5743_promo_on"}}},"app_ptt_orders_indicator_2":{"id":"app_ptt_orders_indicator_2","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-3976_hide_indicator":{"assigned":0,"id":"MAPP-3976_hide_indicator"},"MAPP-3976_show_indicator":{"assigned":1,"id":"MAPP-3976_show_indicator","versionedId":"MAPP-3976_show_indicator"}}},"app_ptt_recommended_avia_ios_v2":{"id":"app_ptt_recommended_avia_ios_v2","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1856_recommendations_v2_off":{"assigned":0,"id":"VID-1856_recommendations_v2_off"},"VID-1856_recommendations_v2_on":{"assigned":1,"id":"VID-1856_recommendations_v2_on","versionedId":"VID-1856_recommendations_v2_on_v01"}}},"app_ptt_search_with_return_ios":{"id":"app_ptt_search_with_return_ios","applied":0,"active":true,"forceVariant":0,"variants":{"VID-3928_without_return_date":{"assigned":0,"id":"VID-3928_without_return_date"},"VID-3928_with_return_date":{"assigned":1,"id":"VID-3928_with_return_date","versionedId":"VID-3928_with_return_date_v01"}}},"app_ptt_show_tours_ab":{"id":"app_ptt_show_tours_ab","applied":0,"active":true,"forceVariant":0,"variants":{"VID-3493_hide_tours":{"assigned":0,"id":"VID-3493_hide_tours"},"VID-3493_show_tours":{"assigned":1,"id":"VID-3493_show_tours","versionedId":"VID-3493_show_tours_v01"}}},"app_ptt_train_add_services_ios":{"id":"app_ptt_train_add_services_ios","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5387_new_design":{"assigned":1,"id":"MAPP-5387_new_design","versionedId":"MAPP-5387_new_design_v01"},"MAPP-5387_old_design":{"assigned":0,"id":"MAPP-5387_old_design"}}},"app_return_ticket_on_success":{"id":"app_return_ticket_on_success","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-3230_without_promocode":{"assigned":1,"id":"MAPP-3230_without_promocode","versionedId":"MAPP-3230_without_promocode_v01"},"MAPP-3230_without_return_ticket":{"assigned":0,"id":"MAPP-3230_without_return_ticket"},"MAPP-3230_with_promocode":{"assigned":0,"id":"MAPP-3230_with_promocode"}}},"app_train_autoselect_ios":{"id":"app_train_autoselect_ios","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-3721-hide-train-autoselect":{"assigned":0,"id":"MAPP-3721-hide-train-autoselect"},"MAPP-3721-show-train-autoselect":{"assigned":1,"id":"MAPP-3721-show-train-autoselect","versionedId":"MAPP-3721-show-train-autoselect_v01"}}},"app_train_car_selection":{"id":"app_train_car_selection","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-2331_new_car_selection_scre":{"assigned":1,"id":"MAPP-2331_new_car_selection_scre","versionedId":"MAPP-2331_new_car_selection_scre_v02"},"MAPP-2331_old_car_selection_scre":{"assigned":0,"id":"MAPP-2331_old_car_selection_scre"}}},"app_train_passengers_autofill":{"id":"app_train_passengers_autofill","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-2237_new_autofill":{"assigned":1,"id":"MAPP-2237_new_autofill","versionedId":"MAPP-2237_new_autofill_v05"},"MAPP-2237_old_autofill":{"assigned":0,"id":"MAPP-2237_old_autofill"}}},"app_train_pricing_strategy":{"id":"app_train_pricing_strategy","applied":0,"active":true,"forceVariant":0,"variants":{"app_train_pricing_strategy_15ai":{"assigned":0,"id":"app_train_pricing_strategy_15ai"},"app_train_pricing_strategy_4438i":{"assigned":0,"id":"app_train_pricing_strategy_4438i"},"app_train_pricing_strategy_5761":{"assigned":0,"id":"app_train_pricing_strategy_5761"},"app_train_pricing_strategy_6011":{"assigned":0,"id":"app_train_pricing_strategy_6011"},"app_train_pricing_strategy_7103":{"assigned":0,"id":"app_train_pricing_strategy_7103"},"app_train_pricing_strategy_7103m":{"assigned":0,"id":"app_train_pricing_strategy_7103m"},"app_train_pricing_strategy_7153":{"assigned":0,"id":"app_train_pricing_strategy_7153"},"app_train_pricing_strategy_ai":{"assigned":0,"id":"app_train_pricing_strategy_ai"},"app_train_pricing_strategy_aic10":{"assigned":0,"id":"app_train_pricing_strategy_aic10"},"app_train_pricing_strategy_aic15":{"assigned":0,"id":"app_train_pricing_strategy_aic15"},"app_train_pricing_strategy_aic5":{"assigned":0,"id":"app_train_pricing_strategy_aic5"},"app_train_pricing_strategy_aii15":{"assigned":0,"id":"app_train_pricing_strategy_aii15"},"app_train_pricing_strategy_aii5":{"assigned":0,"id":"app_train_pricing_strategy_aii5"},"app_train_pricing_strategy_dc005":{"assigned":0,"id":"app_train_pricing_strategy_dc005"},"app_train_pricing_strategy_dc010":{"assigned":0,"id":"app_train_pricing_strategy_dc010"},"app_train_pricing_strategy_defau":{"assigned":0,"id":"app_train_pricing_strategy_defau"},"app_train_pricing_strategy_dwn10":{"assigned":0,"id":"app_train_pricing_strategy_dwn10"},"app_train_pricing_strategy_dwn4":{"assigned":0,"id":"app_train_pricing_strategy_dwn4"},"app_train_pricing_strategy_dwn5":{"assigned":0,"id":"app_train_pricing_strategy_dwn5"},"app_train_pricing_strategy_dwn8":{"assigned":0,"id":"app_train_pricing_strategy_dwn8"},"app_train_pricing_strategy_ic005":{"assigned":0,"id":"app_train_pricing_strategy_ic005"},"app_train_pricing_strategy_ic010":{"assigned":0,"id":"app_train_pricing_strategy_ic010"},"app_train_pricing_strategy_ic025":{"assigned":0,"id":"app_train_pricing_strategy_ic025"},"app_train_pricing_strategy_mlinit":{"assigned":1,"id":"app_train_pricing_strategy_mlinit","versionedId":"app_train_pricing_strategy_mlinit_v31"},"app_train_pricing_strategy_mr":{"assigned":0,"id":"app_train_pricing_strategy_mr"},"app_train_pricing_strategy_new5":{"assigned":0,"id":"app_train_pricing_strategy_new5"},"app_train_pricing_strategy_sup10":{"assigned":0,"id":"app_train_pricing_strategy_sup10"},"app_train_pricing_strategy_sup5":{"assigned":0,"id":"app_train_pricing_strategy_sup5"},"app_train_pricing_strategy_up10":{"assigned":0,"id":"app_train_pricing_strategy_up10"},"app_train_pricing_strategy_up4":{"assigned":0,"id":"app_train_pricing_strategy_up4"},"app_train_pricing_strategy_up5":{"assigned":0,"id":"app_train_pricing_strategy_up5"},"app_train_pricing_strategy_up8":{"assigned":0,"id":"app_train_pricing_strategy_up8"}}},"app_train_pricing_strategy_alfa":{"id":"app_train_pricing_strategy_alfa","applied":0,"active":true,"forceVariant":0,"variants":{"app_train_pricing_strategy_alfa":{"assigned":0,"id":"app_train_pricing_strategy_alfa"},"app_train_pricing_strategy_alfa_mobile_default":{"assigned":1,"id":"app_train_pricing_strategy_alfa_mobile_default","versionedId":"app_train_pricing_strategy_alfa_mobile_default_v01"}}},"app_train_pricing_strategy_alfa_b2b":{"id":"app_train_pricing_strategy_alfa_b2b","applied":0,"active":true,"forceVariant":0,"variants":{"app_train_pricing_strategy_alfa_b2b_mobile":{"assigned":0,"id":"app_train_pricing_strategy_alfa_b2b_mobile"},"app_train_pricing_strategy_alfa_b2b_mobile_default":{"assigned":1,"id":"app_train_pricing_strategy_alfa_b2b_mobile_default","versionedId":"app_train_pricing_strategy_alfa_b2b_mobile_default_v01"}}},"AVIA-16083_booking_price":{"id":"AVIA-16083_booking_price","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-16083_booking_price_199rub":{"assigned":1,"id":"AVIA-16083_booking_price_199rub","versionedId":"AVIA-16083_booking_price_199rub"},"AVIA-16083_booking_price_1rub":{"assigned":0,"id":"AVIA-16083_booking_price_1rub"},"AVIA-16083_booking_price_99rub":{"assigned":0,"id":"AVIA-16083_booking_price_99rub"}}},"AVIA-16128-insurance-description":{"id":"AVIA-16128-insurance-description","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-16128_new_description":{"assigned":0,"id":"AVIA-16128_new_description"},"AVIA-16128_old_description":{"assigned":1,"id":"AVIA-16128_old_description","versionedId":"AVIA-16128_old_description_v02"}}},"AVIA-16187_search_extension":{"id":"AVIA-16187_search_extension","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-16187_without_search_extens":{"assigned":0,"id":"AVIA-16187_without_search_extens"},"AVIA-16187_with_search_extension":{"assigned":1,"id":"AVIA-16187_with_search_extension","versionedId":"AVIA-16187_with_search_extension_v01"}}},"AVIA-16244-show-hotels-on-succes":{"id":"AVIA-16244-show-hotels-on-succes","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-16244_with_cards":{"assigned":0,"id":"AVIA-16244_with_cards"},"AVIA-16244_with_maps":{"assigned":1,"id":"AVIA-16244_with_maps","versionedId":"AVIA-16244_with_maps_v01"}}},"AVIA-16328_gr_double_price":{"id":"AVIA-16328_gr_double_price","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-16328_doubled_price":{"assigned":1,"id":"AVIA-16328_doubled_price","versionedId":"AVIA-16328_doubled_price_v04"},"AVIA-16328_same_price":{"assigned":0,"id":"AVIA-16328_same_price"}}},"AVIA-16336_offers_tariff_design":{"id":"AVIA-16336_offers_tariff_design","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-16336_basic_tariff_view":{"assigned":0,"id":"AVIA-16336_basic_tariff_view"},"AVIA-16336_tariff_cards_view":{"assigned":1,"id":"AVIA-16336_tariff_cards_view","versionedId":"AVIA-16336_tariff_cards_view_v01"}}},"AVIA-16572_feed_checkout":{"id":"AVIA-16572_feed_checkout","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-16572_feed_checkout_new":{"assigned":1,"id":"AVIA-16572_feed_checkout_new","versionedId":"AVIA-16572_feed_checkout_new"},"AVIA-16572_feed_checkout_old":{"assigned":0,"id":"AVIA-16572_feed_checkout_old"}}},"AVIA-16690_feed_checkout":{"id":"AVIA-16690_feed_checkout","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-16690_feed_checkout_new":{"assigned":1,"id":"AVIA-16690_feed_checkout_new","versionedId":"AVIA-16690_feed_checkout_new"},"AVIA-16690_feed_checkout_old":{"assigned":0,"id":"AVIA-16690_feed_checkout_old"}}},"AVIA-16737-offer-details-tariffs":{"id":"AVIA-16737-offer-details-tariffs","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-16737-offer-details-tariffs-expander":{"assigned":0,"id":"AVIA-16737-offer-details-tariffs-expander"},"AVIA-16737-offer-details-tariffs-old":{"assigned":0,"id":"AVIA-16737-offer-details-tariffs-old"},"AVIA-16737-offer-details-tariffs-slider":{"assigned":1,"id":"AVIA-16737-offer-details-tariffs-slider","versionedId":"AVIA-16737-offer-details-tariffs-slider"}}},"AVIA-17048_mono_ios_tariffs_on_details":{"id":"AVIA-17048_mono_ios_tariffs_on_details","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-17048_mono_ios_tariffs_expandable_cards":{"assigned":0,"id":"AVIA-17048_mono_ios_tariffs_expandable_cards"},"AVIA-17048_mono_ios_tariffs_old":{"assigned":0,"id":"AVIA-17048_mono_ios_tariffs_old"},"AVIA-17048_mono_ios_tariffs_scrollable_cards":{"assigned":1,"id":"AVIA-17048_mono_ios_tariffs_scrollable_cards","versionedId":"AVIA-17048_mono_ios_tariffs_scrollable_cards_v02"}}},"avia_8jnf_frjrbir_frgrnfpu":{"id":"avia_8jnf_frjrbir_frgrnfpu","applied":0,"active":true,"forceVariant":0,"variants":{"avia_8jnf_frjrbir_frgrnfpu_above":{"assigned":0,"id":"avia_8jnf_frjrbir_frgrnfpu_above"},"avia_8jnf_frjrbir_frgrnfpu_below":{"assigned":1,"id":"avia_8jnf_frjrbir_frgrnfpu_below","versionedId":"avia_8jnf_frjrbir_frgrnfpu_below_v01"},"avia_8jnf_frjrbir_frgrnfpu_contr":{"assigned":0,"id":"avia_8jnf_frjrbir_frgrnfpu_contr"}}},"avia_flights1_ptt_popup":{"id":"avia_flights1_ptt_popup","applied":0,"active":true,"forceVariant":0,"variants":{"avia_flights1_ptt_popup_off":{"assigned":0,"id":"avia_flights1_ptt_popup_off"},"avia_flights1_ptt_popup_on":{"assigned":1,"id":"avia_flights1_ptt_popup_on","versionedId":"avia_flights1_ptt_popup_on_v02"}}},"avia_form_on_main":{"id":"avia_form_on_main","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-15755_avia_form_on_main_off":{"assigned":0,"id":"AVIA-15755_avia_form_on_main_off"},"AVIA-15755_avia_form_on_main_on":{"assigned":1,"id":"AVIA-15755_avia_form_on_main_on","versionedId":"AVIA-15755_avia_form_on_main_on_v01"}}},"avia_main_ptt_popup":{"id":"avia_main_ptt_popup","applied":0,"active":true,"forceVariant":0,"variants":{"avia_main_ptt_popup_off":{"assigned":0,"id":"avia_main_ptt_popup_off"},"avia_main_ptt_popup_on":{"assigned":1,"id":"avia_main_ptt_popup_on","versionedId":"avia_main_ptt_popup_on_v05"}}},"avia_revenue_on_offers":{"id":"avia_revenue_on_offers","applied":0,"active":true,"forceVariant":0,"variants":{"avia_revenue_on_offers_above":{"assigned":1,"id":"avia_revenue_on_offers_above","versionedId":"avia_revenue_on_offers_above"},"avia_revenue_on_offers_below":{"assigned":0,"id":"avia_revenue_on_offers_below"},"avia_revenue_on_offers_contr":{"assigned":0,"id":"avia_revenue_on_offers_contr"}}},"avia_rough_exchange_calc":{"id":"avia_rough_exchange_calc","applied":0,"active":true,"forceVariant":0,"variants":{"AVIA-15145_rough_calc_off":{"assigned":0,"id":"AVIA-15145_rough_calc_off"},"AVIA-15145_rough_calc_on":{"assigned":1,"id":"AVIA-15145_rough_calc_on","versionedId":"AVIA-15145_rough_calc_on_v01"}}},"avia_wizard_company_payment":{"id":"avia_wizard_company_payment","applied":0,"active":true,"forceVariant":0,"variants":{"avia_wizard_company_payment_off":{"assigned":0,"id":"avia_wizard_company_payment_off"},"avia_wizard_company_payment_on":{"assigned":1,"id":"avia_wizard_company_payment_on","versionedId":"avia_wizard_company_payment_on_v01"}}},"bdui_juicy_offers_score_android":{"id":"bdui_juicy_offers_score_android","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-9777-juicy-offers-android-new":{"assigned":1,"id":"MAPP-9777-juicy-offers-android-new","versionedId":"MAPP-9777-juicy-offers-android-new_v02"},"MAPP-9777-juicy-offers-android-old":{"assigned":0,"id":"MAPP-9777-juicy-offers-android-old"}}},"bdui_juicy_offers_score_ios":{"id":"bdui_juicy_offers_score_ios","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-9777-juicy-offers-ios-new":{"assigned":1,"id":"MAPP-9777-juicy-offers-ios-new","versionedId":"MAPP-9777-juicy-offers-ios-new_v02"},"MAPP-9777-juicy-offers-ios-old":{"assigned":0,"id":"MAPP-9777-juicy-offers-ios-old"}}},"benefits_results_alternative":{"id":"benefits_results_alternative","applied":0,"active":true,"forceVariant":0,"variants":{"benefits_results_alternative_hotel":{"assigned":1,"id":"benefits_results_alternative_hotel","versionedId":"benefits_results_alternative_hotel"},"benefits_results_alternative_tours":{"assigned":0,"id":"benefits_results_alternative_tours"}}},"bus_app_banner":{"id":"bus_app_banner","applied":0,"active":true,"forceVariant":0,"variants":{"bus_app_banner_off":{"assigned":0,"id":"bus_app_banner_off"},"bus_app_banner_on":{"assigned":1,"id":"bus_app_banner_on","versionedId":"bus_app_banner_on_v04"}}},"bus_checkout_app_banner":{"id":"bus_checkout_app_banner","applied":0,"active":true,"forceVariant":0,"variants":{"bus_checkout_app_banner_off":{"assigned":0,"id":"bus_checkout_app_banner_off"},"bus_checkout_app_banner_on":{"assigned":1,"id":"bus_checkout_app_banner_on","versionedId":"bus_checkout_app_banner_on_v01"}}},"bus_checkout_voyager_suggester_3_android":{"id":"bus_checkout_voyager_suggester_3_android","applied":0,"active":true,"forceVariant":0,"variants":{"bus_checkout_voyager_suggester_3_android_off":{"assigned":0,"id":"bus_checkout_voyager_suggester_3_android_off"},"bus_checkout_voyager_suggester_3_android_on":{"assigned":1,"id":"bus_checkout_voyager_suggester_3_android_on","versionedId":"bus_checkout_voyager_suggester_3_android_on_v01"}}},"bus_checkout_voyager_suggester_ios":{"id":"bus_checkout_voyager_suggester_ios","applied":0,"active":true,"forceVariant":0,"variants":{"bus_checkout_voyager_suggester_ios_off":{"assigned":0,"id":"bus_checkout_voyager_suggester_ios_off"},"bus_checkout_voyager_suggester_ios_on":{"assigned":1,"id":"bus_checkout_voyager_suggester_ios_on","versionedId":"bus_checkout_voyager_suggester_ios_on_v01"}}},"bus_foreign_card":{"id":"bus_foreign_card","applied":0,"active":true,"forceVariant":0,"variants":{"bus_foreign_card_off":{"assigned":0,"id":"bus_foreign_card_off"},"bus_foreign_card_on":{"assigned":1,"id":"bus_foreign_card_on","versionedId":"bus_foreign_card_on_v02"}}},"bus_new_station_page":{"id":"bus_new_station_page","applied":0,"active":true,"forceVariant":0,"variants":{"bus_new_station_page_off":{"assigned":0,"id":"bus_new_station_page_off"},"bus_new_station_page_on":{"assigned":1,"id":"bus_new_station_page_on","versionedId":"bus_new_station_page_on_v03"}}},"bus_places_without_details_ios":{"id":"bus_places_without_details_ios","applied":0,"active":true,"forceVariant":0,"variants":{"bus_places_without_details_ios_off":{"assigned":0,"id":"bus_places_without_details_ios_off"},"bus_places_without_details_ios_on":{"assigned":1,"id":"bus_places_without_details_ios_on","versionedId":"bus_places_without_details_ios_on_v03"}}},"bus_refund_form":{"id":"bus_refund_form","applied":0,"active":true,"forceVariant":0,"variants":{"bus_refund_form_off":{"assigned":0,"id":"bus_refund_form_off"},"bus_refund_form_on":{"assigned":1,"id":"bus_refund_form_on","versionedId":"bus_refund_form_on_v08"}}},"bus_schedule_buy_action":{"id":"bus_schedule_buy_action","applied":0,"active":true,"forceVariant":0,"variants":{"bus_schedule_buy_action_date":{"assigned":1,"id":"bus_schedule_buy_action_date","versionedId":"bus_schedule_buy_action_date_v02"},"bus_schedule_buy_action_from":{"assigned":0,"id":"bus_schedule_buy_action_from"},"bus_schedule_buy_action_init":{"assigned":0,"id":"bus_schedule_buy_action_init"}}},"bus_success_app_banner":{"id":"bus_success_app_banner","applied":0,"active":true,"forceVariant":0,"variants":{"bus_success_app_banner_off":{"assigned":0,"id":"bus_success_app_banner_off"},"bus_success_app_banner_on":{"assigned":1,"id":"bus_success_app_banner_on","versionedId":"bus_success_app_banner_on_v01"}}},"bus_supreme_loader":{"id":"bus_supreme_loader","applied":0,"active":true,"forceVariant":0,"variants":{"bus_supreme_loader_off":{"assigned":0,"id":"bus_supreme_loader_off"},"bus_supreme_loader_on":{"assigned":1,"id":"bus_supreme_loader_on","versionedId":"bus_supreme_loader_on_v01"}}},"bus_tickets_buy_action":{"id":"bus_tickets_buy_action","applied":0,"active":true,"forceVariant":0,"variants":{"bus_tickets_buy_action_buy":{"assigned":0,"id":"bus_tickets_buy_action_buy"},"bus_tickets_buy_action_date":{"assigned":1,"id":"bus_tickets_buy_action_date","versionedId":"bus_tickets_buy_action_date_v02"},"bus_tickets_buy_action_init":{"assigned":0,"id":"bus_tickets_buy_action_init"}}},"bus_vid_app_banner":{"id":"bus_vid_app_banner","applied":0,"active":true,"forceVariant":0,"variants":{"bus_vid_app_banner_off":{"assigned":0,"id":"bus_vid_app_banner_off"},"bus_vid_app_banner_on":{"assigned":1,"id":"bus_vid_app_banner_on","versionedId":"bus_vid_app_banner_on_v01"}}},"bus_vid_price_labels":{"id":"bus_vid_price_labels","applied":0,"active":true,"forceVariant":0,"variants":{"bus_vid_price_labels_off":{"assigned":0,"id":"bus_vid_price_labels_off"},"bus_vid_price_labels_on":{"assigned":1,"id":"bus_vid_price_labels_on","versionedId":"bus_vid_price_labels_on_v02"}}},"CA-10_ab_for_avia_android_main":{"id":"CA-10_ab_for_avia_android_main","applied":0,"active":true,"forceVariant":0,"variants":{"CA-10_ab_for_avia_android_main_new":{"assigned":1,"id":"CA-10_ab_for_avia_android_main_new","versionedId":"CA-10_ab_for_avia_android_main_new_v01"},"CA-10_ab_for_avia_android_main_old":{"assigned":0,"id":"CA-10_ab_for_avia_android_main_old"}}},"CA-214-new-main":{"id":"CA-214-new-main","applied":1,"active":true,"forceVariant":0,"variants":{"CA-214-new-main-off":{"assigned":1,"id":"CA-214-new-main-off","versionedId":"CA-214-new-main-off"},"CA-214-new-main-on":{"assigned":0,"id":"CA-214-new-main-on"}}},"CA-240_ptt_android_recent_searches":{"id":"CA-240_ptt_android_recent_searches","applied":0,"active":true,"forceVariant":0,"variants":{"CA-240_without_recent_searches":{"assigned":0,"id":"CA-240_without_recent_searches"},"CA-240_with_recent_searches":{"assigned":1,"id":"CA-240_with_recent_searches","versionedId":"CA-240_with_recent_searches"}}},"CA-241_mono_avia_android_recent_searches":{"id":"CA-241_mono_avia_android_recent_searches","applied":0,"active":true,"forceVariant":0,"variants":{"CA-241_without_recent_searches":{"assigned":0,"id":"CA-241_without_recent_searches"},"CA-241_with_recent_searches":{"assigned":1,"id":"CA-241_with_recent_searches","versionedId":"CA-241_with_recent_searches"}}},"car_mainpage":{"id":"car_mainpage","applied":1,"active":true,"forceVariant":0,"variants":{"car_mainpage_off":{"assigned":0,"id":"car_mainpage_off"},"car_mainpage_on":{"assigned":1,"id":"car_mainpage_on","versionedId":"car_mainpage_on_v01"}}},"cf_test_avia_main":{"id":"cf_test_avia_main","applied":0,"active":true,"forceVariant":0,"variants":{"CF-2358-avia_main_a":{"assigned":0,"id":"CF-2358-avia_main_a"},"CF-2358-avia_main_b":{"assigned":1,"id":"CF-2358-avia_main_b","versionedId":"CF-2358-avia_main_b"}}},"checkout_avia_7_android":{"id":"checkout_avia_7_android","applied":0,"active":true,"forceVariant":0,"variants":{"checkout_avia_7_android_off":{"assigned":0,"id":"checkout_avia_7_android_off"},"checkout_avia_7_android_on":{"assigned":1,"id":"checkout_avia_7_android_on","versionedId":"checkout_avia_7_android_on_v02"}}},"checkout_avia_8_ios":{"id":"checkout_avia_8_ios","applied":0,"active":true,"forceVariant":0,"variants":{"checkout_avia_8_ios_off":{"assigned":0,"id":"checkout_avia_8_ios_off"},"checkout_avia_8_ios_on":{"assigned":1,"id":"checkout_avia_8_ios_on","versionedId":"checkout_avia_8_ios_on_v01"}}},"checkout_avia_9_ios":{"id":"checkout_avia_9_ios","applied":0,"active":true,"forceVariant":0,"variants":{"checkout_avia_9_ios_off":{"assigned":0,"id":"checkout_avia_9_ios_off"},"checkout_avia_9_ios_on":{"assigned":1,"id":"checkout_avia_9_ios_on","versionedId":"checkout_avia_9_ios_on_v01"}}},"checkout_bus_1_android":{"id":"checkout_bus_1_android","applied":0,"active":true,"forceVariant":0,"variants":{"checkout_bus_1_android_off":{"assigned":0,"id":"checkout_bus_1_android_off"},"checkout_bus_1_android_on":{"assigned":1,"id":"checkout_bus_1_android_on","versionedId":"checkout_bus_1_android_on_v02"}}},"checkout_bus_1_ios":{"id":"checkout_bus_1_ios","applied":0,"active":true,"forceVariant":0,"variants":{"checkout_bus_1_ios_off":{"assigned":0,"id":"checkout_bus_1_ios_off"},"checkout_bus_1_ios_on":{"assigned":1,"id":"checkout_bus_1_ios_on","versionedId":"checkout_bus_1_ios_on_v02"}}},"checkout_voyager_suggester_ios":{"id":"checkout_voyager_suggester_ios","applied":0,"active":true,"forceVariant":0,"variants":{"checkout_voyager_suggester_ios_off":{"assigned":0,"id":"checkout_voyager_suggester_ios_off"},"checkout_voyager_suggester_ios_on":{"assigned":1,"id":"checkout_voyager_suggester_ios_on","versionedId":"checkout_voyager_suggester_ios_on_v01"}}},"dt_acceptance_test_alfa":{"id":"dt_acceptance_test_alfa","applied":0,"active":true,"forceVariant":0,"variants":{"dt_acceptance_test_alfa_off":{"assigned":1,"id":"dt_acceptance_test_alfa_off","versionedId":"dt_acceptance_test_alfa_off"},"dt_acceptance_test_alfa_on":{"assigned":0,"id":"dt_acceptance_test_alfa_on"}}},"dt_test_abtesting67edc4d5398d3":{"id":"dt_test_abtesting67edc4d5398d3","applied":0,"active":true,"forceVariant":0,"variants":{"dt_test_abtesting67edc4d5398d3_a":{"assigned":0,"id":"dt_test_abtesting67edc4d5398d3_a"},"dt_test_abtesting67edc4d5398d3_b":{"assigned":1,"id":"dt_test_abtesting67edc4d5398d3_b","versionedId":"dt_test_abtesting67edc4d5398d3_b"}}},"dt_test_abtesting67edc534dab10":{"id":"dt_test_abtesting67edc534dab10","applied":0,"active":true,"forceVariant":0,"variants":{"dt_test_abtesting67edc534dab10_a":{"assigned":1,"id":"dt_test_abtesting67edc534dab10_a","versionedId":"dt_test_abtesting67edc534dab10_a"},"dt_test_abtesting67edc534dab10_b":{"assigned":0,"id":"dt_test_abtesting67edc534dab10_b"}}},"dt_test_abtesting67edc5cbe8477":{"id":"dt_test_abtesting67edc5cbe8477","applied":0,"active":true,"forceVariant":0,"variants":{"dt_test_abtesting67edc5cbe8477_a":{"assigned":0,"id":"dt_test_abtesting67edc5cbe8477_a"},"dt_test_abtesting67edc5cbe8477_b":{"assigned":1,"id":"dt_test_abtesting67edc5cbe8477_b","versionedId":"dt_test_abtesting67edc5cbe8477_b"}}},"dt_test_abtesting67edc5f5bc255":{"id":"dt_test_abtesting67edc5f5bc255","applied":0,"active":true,"forceVariant":0,"variants":{"dt_test_abtesting67edc5f5bc255_a":{"assigned":1,"id":"dt_test_abtesting67edc5f5bc255_a","versionedId":"dt_test_abtesting67edc5f5bc255_a"},"dt_test_abtesting67edc5f5bc255_b":{"assigned":0,"id":"dt_test_abtesting67edc5f5bc255_b"}}},"dt_test_abtesting67edc6da49352":{"id":"dt_test_abtesting67edc6da49352","applied":0,"active":true,"forceVariant":0,"variants":{"dt_test_abtesting67edc6da49352_a":{"assigned":0,"id":"dt_test_abtesting67edc6da49352_a"},"dt_test_abtesting67edc6da49352_b":{"assigned":1,"id":"dt_test_abtesting67edc6da49352_b","versionedId":"dt_test_abtesting67edc6da49352_b"}}},"dt_test_abtesting67edc9cb4d381":{"id":"dt_test_abtesting67edc9cb4d381","applied":0,"active":true,"forceVariant":0,"variants":{"dt_test_abtesting67edc9cb4d381_a":{"assigned":1,"id":"dt_test_abtesting67edc9cb4d381_a","versionedId":"dt_test_abtesting67edc9cb4d381_a"},"dt_test_abtesting67edc9cb4d381_b":{"assigned":0,"id":"dt_test_abtesting67edc9cb4d381_b"}}},"dt_test_abtesting67edcb41f01da":{"id":"dt_test_abtesting67edcb41f01da","applied":0,"active":true,"forceVariant":0,"variants":{"dt_test_abtesting67edcb41f01da_a":{"assigned":0,"id":"dt_test_abtesting67edcb41f01da_a"},"dt_test_abtesting67edcb41f01da_b":{"assigned":1,"id":"dt_test_abtesting67edcb41f01da_b","versionedId":"dt_test_abtesting67edcb41f01da_b"}}},"dt_test_abtesting67ee2c7885203":{"id":"dt_test_abtesting67ee2c7885203","applied":0,"active":true,"forceVariant":0,"variants":{"dt_test_abtesting67ee2c7885203_a":{"assigned":1,"id":"dt_test_abtesting67ee2c7885203_a","versionedId":"dt_test_abtesting67ee2c7885203_a"},"dt_test_abtesting67ee2c7885203_b":{"assigned":0,"id":"dt_test_abtesting67ee2c7885203_b"}}},"dt_test_variative_router":{"id":"dt_test_variative_router","applied":0,"active":true,"forceVariant":0,"variants":{"dt_test_variative_router_a":{"assigned":1,"id":"dt_test_variative_router_a","versionedId":"dt_test_variative_router_a_v02"},"dt_test_variative_router_b":{"assigned":0,"id":"dt_test_variative_router_b"}}},"eco_alfa_custom_miles":{"id":"eco_alfa_custom_miles","applied":0,"active":true,"forceVariant":0,"variants":{"eco_alfa_custom_miles_off":{"assigned":0,"id":"eco_alfa_custom_miles_off"},"eco_alfa_custom_miles_on":{"assigned":1,"id":"eco_alfa_custom_miles_on","versionedId":"eco_alfa_custom_miles_on_v01"}}},"eco_inline_banner_avia_web":{"id":"eco_inline_banner_avia_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_inline_banner_avia_web_off":{"assigned":0,"id":"eco_inline_banner_avia_web_off"},"eco_inline_banner_avia_web_on":{"assigned":1,"id":"eco_inline_banner_avia_web_on","versionedId":"eco_inline_banner_avia_web_on_v03"}}},"eco_inline_banner_bus_web":{"id":"eco_inline_banner_bus_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_inline_banner_bus_web_off":{"assigned":0,"id":"eco_inline_banner_bus_web_off"},"eco_inline_banner_bus_web_on":{"assigned":1,"id":"eco_inline_banner_bus_web_on","versionedId":"eco_inline_banner_bus_web_on_v03"}}},"eco_inline_banner_hotels_web":{"id":"eco_inline_banner_hotels_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_inline_banner_hotels_web_off":{"assigned":0,"id":"eco_inline_banner_hotels_web_off"},"eco_inline_banner_hotels_web_on":{"assigned":1,"id":"eco_inline_banner_hotels_web_on","versionedId":"eco_inline_banner_hotels_web_on_v03"}}},"eco_loan_avia_android":{"id":"eco_loan_avia_android","applied":0,"active":true,"forceVariant":0,"variants":{"eco_loan_avia_android_off":{"assigned":0,"id":"eco_loan_avia_android_off"},"eco_loan_avia_android_on":{"assigned":1,"id":"eco_loan_avia_android_on","versionedId":"eco_loan_avia_android_on_v04"}}},"eco_loan_avia_ios":{"id":"eco_loan_avia_ios","applied":0,"active":true,"forceVariant":0,"variants":{"eco_loan_avia_ios_off":{"assigned":0,"id":"eco_loan_avia_ios_off"},"eco_loan_avia_ios_on":{"assigned":1,"id":"eco_loan_avia_ios_on","versionedId":"eco_loan_avia_ios_on_v04"}}},"eco_loan_avia_web":{"id":"eco_loan_avia_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_loan_avia_web_off":{"assigned":0,"id":"eco_loan_avia_web_off"},"eco_loan_avia_web_on":{"assigned":1,"id":"eco_loan_avia_web_on","versionedId":"eco_loan_avia_web_on_v05"}}},"eco_payments_view_avia_android":{"id":"eco_payments_view_avia_android","applied":0,"active":true,"forceVariant":0,"variants":{"eco_payments_view_avia_android_carousel":{"assigned":0,"id":"eco_payments_view_avia_android_carousel"},"eco_payments_view_avia_android_table":{"assigned":1,"id":"eco_payments_view_avia_android_table","versionedId":"eco_payments_view_avia_android_table_v01"}}},"eco_payments_view_avia_ios":{"id":"eco_payments_view_avia_ios","applied":0,"active":true,"forceVariant":0,"variants":{"eco_payments_view_avia_ios_carousel":{"assigned":0,"id":"eco_payments_view_avia_ios_carousel"},"eco_payments_view_avia_ios_table":{"assigned":1,"id":"eco_payments_view_avia_ios_table","versionedId":"eco_payments_view_avia_ios_table_v01"}}},"eco_payments_view_avia_web":{"id":"eco_payments_view_avia_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_payments_view_avia_web_carousel":{"assigned":0,"id":"eco_payments_view_avia_web_carousel"},"eco_payments_view_avia_web_table":{"assigned":1,"id":"eco_payments_view_avia_web_table","versionedId":"eco_payments_view_avia_web_table_v01"}}},"eco_sso_avia_android":{"id":"eco_sso_avia_android","applied":0,"active":true,"forceVariant":0,"variants":{"eco_sso_avia_android_off":{"assigned":0,"id":"eco_sso_avia_android_off"},"eco_sso_avia_android_on":{"assigned":1,"id":"eco_sso_avia_android_on","versionedId":"eco_sso_avia_android_on_v06"}}},"eco_sso_avia_ios":{"id":"eco_sso_avia_ios","applied":0,"active":true,"forceVariant":0,"variants":{"eco_sso_avia_ios_off":{"assigned":0,"id":"eco_sso_avia_ios_off"},"eco_sso_avia_ios_on":{"assigned":1,"id":"eco_sso_avia_ios_on","versionedId":"eco_sso_avia_ios_on_v05"}}},"eco_sso_avia_web":{"id":"eco_sso_avia_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_sso_avia_web_off":{"assigned":0,"id":"eco_sso_avia_web_off"},"eco_sso_avia_web_on":{"assigned":1,"id":"eco_sso_avia_web_on","versionedId":"eco_sso_avia_web_on_v05"}}},"eco_sso_bus_android":{"id":"eco_sso_bus_android","applied":0,"active":true,"forceVariant":0,"variants":{"eco_sso_bus_android_off":{"assigned":0,"id":"eco_sso_bus_android_off"},"eco_sso_bus_android_on":{"assigned":1,"id":"eco_sso_bus_android_on","versionedId":"eco_sso_bus_android_on_v06"}}},"eco_sso_bus_ios":{"id":"eco_sso_bus_ios","applied":0,"active":true,"forceVariant":0,"variants":{"eco_sso_bus_ios_off":{"assigned":0,"id":"eco_sso_bus_ios_off"},"eco_sso_bus_ios_on":{"assigned":1,"id":"eco_sso_bus_ios_on","versionedId":"eco_sso_bus_ios_on_v10"}}},"eco_sso_bus_web":{"id":"eco_sso_bus_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_sso_bus_web_off":{"assigned":0,"id":"eco_sso_bus_web_off"},"eco_sso_bus_web_on":{"assigned":1,"id":"eco_sso_bus_web_on","versionedId":"eco_sso_bus_web_on_v09"}}},"eco_wallet_avia_android":{"id":"eco_wallet_avia_android","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_avia_android_off":{"assigned":0,"id":"eco_wallet_avia_android_off"},"eco_wallet_avia_android_on":{"assigned":1,"id":"eco_wallet_avia_android_on","versionedId":"eco_wallet_avia_android_on_v01"}}},"eco_wallet_avia_web":{"id":"eco_wallet_avia_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_avia_web_off":{"assigned":0,"id":"eco_wallet_avia_web_off"},"eco_wallet_avia_web_on":{"assigned":1,"id":"eco_wallet_avia_web_on","versionedId":"eco_wallet_avia_web_on_v01"}}},"eco_wallet_bus_android":{"id":"eco_wallet_bus_android","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_bus_android_off":{"assigned":0,"id":"eco_wallet_bus_android_off"},"eco_wallet_bus_android_on":{"assigned":1,"id":"eco_wallet_bus_android_on","versionedId":"eco_wallet_bus_android_on_v02"}}},"eco_wallet_bus_ios":{"id":"eco_wallet_bus_ios","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_bus_ios_off":{"assigned":0,"id":"eco_wallet_bus_ios_off"},"eco_wallet_bus_ios_on":{"assigned":1,"id":"eco_wallet_bus_ios_on","versionedId":"eco_wallet_bus_ios_on_v02"}}},"eco_wallet_bus_web":{"id":"eco_wallet_bus_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_bus_web_off":{"assigned":0,"id":"eco_wallet_bus_web_off"},"eco_wallet_bus_web_on":{"assigned":1,"id":"eco_wallet_bus_web_on","versionedId":"eco_wallet_bus_web_on_v01"}}},"eco_wallet_hotels_android":{"id":"eco_wallet_hotels_android","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_hotels_android_off":{"assigned":0,"id":"eco_wallet_hotels_android_off"},"eco_wallet_hotels_android_on":{"assigned":1,"id":"eco_wallet_hotels_android_on","versionedId":"eco_wallet_hotels_android_on_v01"}}},"eco_wallet_hotels_ios":{"id":"eco_wallet_hotels_ios","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_hotels_ios_off":{"assigned":0,"id":"eco_wallet_hotels_ios_off"},"eco_wallet_hotels_ios_on":{"assigned":1,"id":"eco_wallet_hotels_ios_on","versionedId":"eco_wallet_hotels_ios_on_v01"}}},"eco_wallet_hotels_web":{"id":"eco_wallet_hotels_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_hotels_web_off":{"assigned":0,"id":"eco_wallet_hotels_web_off"},"eco_wallet_hotels_web_on":{"assigned":1,"id":"eco_wallet_hotels_web_on","versionedId":"eco_wallet_hotels_web_on_v01"}}},"eco_wallet_uprid_avia_android":{"id":"eco_wallet_uprid_avia_android","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_uprid_avia_android_off":{"assigned":0,"id":"eco_wallet_uprid_avia_android_off"},"eco_wallet_uprid_avia_android_on":{"assigned":1,"id":"eco_wallet_uprid_avia_android_on","versionedId":"eco_wallet_uprid_avia_android_on_v01"}}},"eco_wallet_uprid_avia_ios":{"id":"eco_wallet_uprid_avia_ios","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_uprid_avia_ios_off":{"assigned":0,"id":"eco_wallet_uprid_avia_ios_off"},"eco_wallet_uprid_avia_ios_on":{"assigned":1,"id":"eco_wallet_uprid_avia_ios_on","versionedId":"eco_wallet_uprid_avia_ios_on_v01"}}},"eco_wallet_uprid_avia_web":{"id":"eco_wallet_uprid_avia_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_uprid_avia_web_off":{"assigned":0,"id":"eco_wallet_uprid_avia_web_off"},"eco_wallet_uprid_avia_web_on":{"assigned":1,"id":"eco_wallet_uprid_avia_web_on","versionedId":"eco_wallet_uprid_avia_web_on_v04"}}},"eco_wallet_uprid_bus_web":{"id":"eco_wallet_uprid_bus_web","applied":0,"active":true,"forceVariant":0,"variants":{"eco_wallet_uprid_bus_web_off":{"assigned":0,"id":"eco_wallet_uprid_bus_web_off"},"eco_wallet_uprid_bus_web_on":{"assigned":1,"id":"eco_wallet_uprid_bus_web_on","versionedId":"eco_wallet_uprid_bus_web_on_v08"}}},"etrain-1689_mobile_filters":{"id":"etrain-1689_mobile_filters","applied":0,"active":true,"forceVariant":0,"variants":{"etrain-1689_mobile_filters_new":{"assigned":1,"id":"etrain-1689_mobile_filters_new","versionedId":"etrain-1689_mobile_filters_new_v02"},"etrain-1689_mobile_filters_old":{"assigned":0,"id":"etrain-1689_mobile_filters_old"}}},"etrain-1737_mrasp_empty_date":{"id":"etrain-1737_mrasp_empty_date","applied":0,"active":true,"forceVariant":0,"variants":{"etrain-1737_mrasp_empty_date_new":{"assigned":1,"id":"etrain-1737_mrasp_empty_date_new","versionedId":"etrain-1737_mrasp_empty_date_new_v03"},"etrain-1737_mrasp_empty_date_old":{"assigned":0,"id":"etrain-1737_mrasp_empty_date_old"}}},"etrain-1895_sidebar":{"id":"etrain-1895_sidebar","applied":0,"active":true,"forceVariant":0,"variants":{"etrain-1895_sidebar_new":{"assigned":1,"id":"etrain-1895_sidebar_new","versionedId":"etrain-1895_sidebar_new"},"etrain-1895_sidebar_old":{"assigned":0,"id":"etrain-1895_sidebar_old"}}},"etrain-1928_mroute":{"id":"etrain-1928_mroute","applied":0,"active":true,"forceVariant":0,"variants":{"etrain-1928_mroute_new":{"assigned":1,"id":"etrain-1928_mroute_new","versionedId":"etrain-1928_mroute_new_v04"},"etrain-1928_mroute_old":{"assigned":0,"id":"etrain-1928_mroute_old"}}},"etrain-2073-occup-abc":{"id":"etrain-2073-occup-abc","applied":0,"active":true,"forceVariant":0,"variants":{"etrain-2073-occup-abc_off":{"assigned":0,"id":"etrain-2073-occup-abc_off"},"etrain-2073-occup-abc_on_link":{"assigned":1,"id":"etrain-2073-occup-abc_on_link","versionedId":"etrain-2073-occup-abc_on_link_v02"},"etrain-2073-occup-abc_on_popup":{"assigned":0,"id":"etrain-2073-occup-abc_on_popup"}}},"etrain-2076-schedule-aa-test":{"id":"etrain-2076-schedule-aa-test","applied":0,"active":true,"forceVariant":0,"variants":{"etrain-2076-schedule-aa-test_a":{"assigned":0,"id":"etrain-2076-schedule-aa-test_a"},"etrain-2076-schedule-aa-test_b":{"assigned":1,"id":"etrain-2076-schedule-aa-test_b","versionedId":"etrain-2076-schedule-aa-test_b_v06"}}},"etrain-2118_mobile_color":{"id":"etrain-2118_mobile_color","applied":0,"active":true,"forceVariant":0,"variants":{"etrain-2118_mobile_color_new":{"assigned":1,"id":"etrain-2118_mobile_color_new","versionedId":"etrain-2118_mobile_color_new_v04"},"etrain-2118_mobile_color_old":{"assigned":0,"id":"etrain-2118_mobile_color_old"}}},"etrain-2118_rasp_color":{"id":"etrain-2118_rasp_color","applied":0,"active":true,"forceVariant":0,"variants":{"etrain-2118_rasp_color_new":{"assigned":1,"id":"etrain-2118_rasp_color_new","versionedId":"etrain-2118_rasp_color_new_v03"},"etrain-2118_rasp_color_old":{"assigned":0,"id":"etrain-2118_rasp_color_old"}}},"etrain-2420_show_adriver":{"id":"etrain-2420_show_adriver","applied":0,"active":true,"forceVariant":0,"variants":{"etrain-2420_show_adriver_off":{"assigned":0,"id":"etrain-2420_show_adriver_off"},"etrain-2420_show_adriver_on":{"assigned":1,"id":"etrain-2420_show_adriver_on","versionedId":"etrain-2420_show_adriver_on_v05"}}},"etrain-3639_adtech_desktop":{"id":"etrain-3639_adtech_desktop","applied":1,"active":true,"forceVariant":0,"variants":{"etrain-3639_adtech_desktop_off":{"assigned":0,"id":"etrain-3639_adtech_desktop_off"},"etrain-3639_adtech_desktop_on":{"assigned":1,"id":"etrain-3639_adtech_desktop_on","versionedId":"etrain-3639_adtech_desktop_on_v08"}}},"etrain-3639_adtech_mobile":{"id":"etrain-3639_adtech_mobile","applied":0,"active":true,"forceVariant":0,"variants":{"etrain-3639_adtech_mobile_off":{"assigned":0,"id":"etrain-3639_adtech_mobile_off"},"etrain-3639_adtech_mobile_on":{"assigned":1,"id":"etrain-3639_adtech_mobile_on","versionedId":"etrain-3639_adtech_mobile_on_v07"}}},"etrain_app_benefits_main":{"id":"etrain_app_benefits_main","applied":0,"active":true,"forceVariant":0,"variants":{"etrain_app_benefits_main_control":{"assigned":1,"id":"etrain_app_benefits_main_control","versionedId":"etrain_app_benefits_main_control"},"etrain_app_benefits_main_enabled":{"assigned":0,"id":"etrain_app_benefits_main_enabled"}}},"etrain_app_benefits_schedule":{"id":"etrain_app_benefits_schedule","applied":0,"active":true,"forceVariant":0,"variants":{"etrain_app_benefits_schedule_control":{"assigned":0,"id":"etrain_app_benefits_schedule_control"},"etrain_app_benefits_schedule_enabled":{"assigned":1,"id":"etrain_app_benefits_schedule_enabled","versionedId":"etrain_app_benefits_schedule_enabled_v02"}}},"etrain_main_page_new":{"id":"etrain_main_page_new","applied":0,"active":true,"forceVariant":0,"variants":{"etrain_main_page_new_disabled":{"assigned":0,"id":"etrain_main_page_new_disabled"},"etrain_main_page_new_enabled":{"assigned":1,"id":"etrain_main_page_new_enabled","versionedId":"etrain_main_page_new_enabled_v03"}}},"etrain_mobile_app_banners":{"id":"etrain_mobile_app_banners","applied":0,"active":true,"forceVariant":0,"variants":{"etrain_mobile_app_banners_app_icon":{"assigned":1,"id":"etrain_mobile_app_banners_app_icon","versionedId":"etrain_mobile_app_banners_app_icon_v02"},"etrain_mobile_app_banners_lady":{"assigned":0,"id":"etrain_mobile_app_banners_lady"},"etrain_mobile_app_banners_train":{"assigned":0,"id":"etrain_mobile_app_banners_train"}}},"etrain_mobile_footer_ads":{"id":"etrain_mobile_footer_ads","applied":0,"active":true,"forceVariant":0,"variants":{"etrain_mobile_footer_ads_first":{"assigned":0,"id":"etrain_mobile_footer_ads_first"},"etrain_mobile_footer_ads_second":{"assigned":1,"id":"etrain_mobile_footer_ads_second","versionedId":"etrain_mobile_footer_ads_second_v01"}}},"etrain_rasp_new_ads_format":{"id":"etrain_rasp_new_ads_format","applied":0,"active":true,"forceVariant":0,"variants":{"etrain_rasp_new_ads_format_off":{"assigned":0,"id":"etrain_rasp_new_ads_format_off"},"etrain_rasp_new_ads_format_on":{"assigned":1,"id":"etrain_rasp_new_ads_format_on","versionedId":"etrain_rasp_new_ads_format_on_v01"}}},"etrain_rasp_show_in_app_button":{"id":"etrain_rasp_show_in_app_button","applied":0,"active":true,"forceVariant":0,"variants":{"etrain_rasp_show_in_app_button_off":{"assigned":0,"id":"etrain_rasp_show_in_app_button_off"},"etrain_rasp_show_in_app_button_on":{"assigned":1,"id":"etrain_rasp_show_in_app_button_on","versionedId":"etrain_rasp_show_in_app_button_on_v03"}}},"etrain_schedule_ads":{"id":"etrain_schedule_ads","applied":0,"active":true,"forceVariant":0,"variants":{"etrain_schedule_ads_off":{"assigned":0,"id":"etrain_schedule_ads_off"},"etrain_schedule_ads_on":{"assigned":1,"id":"etrain_schedule_ads_on","versionedId":"etrain_schedule_ads_on_v03"}}},"etrain_search_aeroexpress_tab":{"id":"etrain_search_aeroexpress_tab","applied":0,"active":true,"forceVariant":0,"variants":{"etrain_search_aeroexpress_tab_disabled":{"assigned":0,"id":"etrain_search_aeroexpress_tab_disabled"},"etrain_search_aeroexpress_tab_enabled":{"assigned":1,"id":"etrain_search_aeroexpress_tab_enabled","versionedId":"etrain_search_aeroexpress_tab_enabled_v04"}}},"ETRAIN_STATION_PAGE_BDUI_BANNERS":{"id":"ETRAIN_STATION_PAGE_BDUI_BANNERS","applied":0,"active":true,"forceVariant":0,"variants":{"ETRAIN_STATION_PAGE_BDUI_BANNERS_DISABLED":{"assigned":0,"id":"ETRAIN_STATION_PAGE_BDUI_BANNERS_DISABLED"},"ETRAIN_STATION_PAGE_BDUI_BANNERS_ENABLED":{"assigned":1,"id":"ETRAIN_STATION_PAGE_BDUI_BANNERS_ENABLED","versionedId":"ETRAIN_STATION_PAGE_BDUI_BANNERS_ENABLED_v01"}}},"feed_hotels_map_selector_andr":{"id":"feed_hotels_map_selector_andr","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1740_hotels_map_slctr_fab":{"assigned":0,"id":"VID-1740_hotels_map_slctr_fab"},"VID-1740_hotels_map_slctr_hor":{"assigned":1,"id":"VID-1740_hotels_map_slctr_hor","versionedId":"VID-1740_hotels_map_slctr_hor_v01"},"VID-1740_hotels_map_slctr_pic":{"assigned":0,"id":"VID-1740_hotels_map_slctr_pic"}}},"geo_article_ads":{"id":"geo_article_ads","applied":1,"active":true,"forceVariant":0,"variants":{"geo_article_ads_adfox":{"assigned":1,"id":"geo_article_ads_adfox","versionedId":"geo_article_ads_adfox_v08"},"geo_article_ads_buzzoola":{"assigned":0,"id":"geo_article_ads_buzzoola"},"geo_article_ads_rys":{"assigned":0,"id":"geo_article_ads_rys"}}},"geo_main_ads":{"id":"geo_main_ads","applied":1,"active":true,"forceVariant":0,"variants":{"geo_main_ads_adfox":{"assigned":0,"id":"geo_main_ads_adfox"},"geo_main_ads_buzzoola":{"assigned":1,"id":"geo_main_ads_buzzoola","versionedId":"geo_main_ads_buzzoola_v06"},"geo_main_ads_rys":{"assigned":0,"id":"geo_main_ads_rys"}}},"hotels_aa_campaign":{"id":"hotels_aa_campaign","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_aa_campaign_a":{"assigned":1,"id":"hotels_aa_campaign_a","versionedId":"hotels_aa_campaign_a"},"hotels_aa_campaign_b":{"assigned":0,"id":"hotels_aa_campaign_b"}}},"hotels_details_shortcuts":{"id":"hotels_details_shortcuts","applied":0,"active":true,"forceVariant":0,"variants":{"HOTELS-4145_shortcuts_off":{"assigned":1,"id":"HOTELS-4145_shortcuts_off","versionedId":"HOTELS-4145_shortcuts_off"},"HOTELS-4145_shortcuts_on":{"assigned":0,"id":"HOTELS-4145_shortcuts_on"}}},"hotels_discount_filter_android":{"id":"hotels_discount_filter_android","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_discount_filter_android_off":{"assigned":0,"id":"hotels_discount_filter_android_off"},"hotels_discount_filter_android_on":{"assigned":1,"id":"hotels_discount_filter_android_on","versionedId":"hotels_discount_filter_android_on"}}},"hotels_discount_filter_ios":{"id":"hotels_discount_filter_ios","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_discount_filter_ios_off":{"assigned":1,"id":"hotels_discount_filter_ios_off","versionedId":"hotels_discount_filter_ios_off_v02"},"hotels_discount_filter_ios_on":{"assigned":0,"id":"hotels_discount_filter_ios_on"}}},"hotels_edit_stories":{"id":"hotels_edit_stories","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_edit_stories_off":{"assigned":0,"id":"hotels_edit_stories_off"},"hotels_edit_stories_on":{"assigned":1,"id":"hotels_edit_stories_on","versionedId":"hotels_edit_stories_on_v01"}}},"hotels_hide_checkin_v3_android":{"id":"hotels_hide_checkin_v3_android","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_hide_checkin_v3_android_off":{"assigned":0,"id":"hotels_hide_checkin_v3_android_off"},"hotels_hide_checkin_v3_android_on":{"assigned":1,"id":"hotels_hide_checkin_v3_android_on","versionedId":"hotels_hide_checkin_v3_android_on_v05"}}},"hotels_hide_checkin_v3_ios":{"id":"hotels_hide_checkin_v3_ios","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_hide_checkin_v3_ios_off":{"assigned":0,"id":"hotels_hide_checkin_v3_ios_off"},"hotels_hide_checkin_v3_ios_on":{"assigned":1,"id":"hotels_hide_checkin_v3_ios_on","versionedId":"hotels_hide_checkin_v3_ios_on_v03"}}},"hotels_hide_checkin_v3_web":{"id":"hotels_hide_checkin_v3_web","applied":1,"active":true,"forceVariant":0,"variants":{"hotels_hide_checkin_v3_web_off":{"assigned":0,"id":"hotels_hide_checkin_v3_web_off"},"hotels_hide_checkin_v3_web_on":{"assigned":1,"id":"hotels_hide_checkin_v3_web_on","versionedId":"hotels_hide_checkin_v3_web_on_v01"}}},"hotels_payment_on_the_spot":{"id":"hotels_payment_on_the_spot","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_payment_on_the_spot_off":{"assigned":0,"id":"hotels_payment_on_the_spot_off"},"hotels_payment_on_the_spot_on":{"assigned":1,"id":"hotels_payment_on_the_spot_on","versionedId":"hotels_payment_on_the_spot_on_v01"}}},"hotels_pay_later_travelline_android":{"id":"hotels_pay_later_travelline_android","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_pay_later_travelline_android_off":{"assigned":0,"id":"hotels_pay_later_travelline_android_off"},"hotels_pay_later_travelline_android_on":{"assigned":1,"id":"hotels_pay_later_travelline_android_on","versionedId":"hotels_pay_later_travelline_android_on_v03"}}},"hotels_pay_later_travelline_ios":{"id":"hotels_pay_later_travelline_ios","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_pay_later_travelline_ios_off":{"assigned":0,"id":"hotels_pay_later_travelline_ios_off"},"hotels_pay_later_travelline_ios_on":{"assigned":1,"id":"hotels_pay_later_travelline_ios_on","versionedId":"hotels_pay_later_travelline_ios_on_v03"}}},"hotels_pay_later_travelline_web":{"id":"hotels_pay_later_travelline_web","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_pay_later_travelline_web_off":{"assigned":0,"id":"hotels_pay_later_travelline_web_off"},"hotels_pay_later_travelline_web_on":{"assigned":1,"id":"hotels_pay_later_travelline_web_on","versionedId":"hotels_pay_later_travelline_web_on_v04"}}},"hotels_pricing_discount":{"id":"hotels_pricing_discount","applied":0,"active":true,"forceVariant":0,"variants":{"HOTELS-3881_without_discount":{"assigned":0,"id":"HOTELS-3881_without_discount"},"HOTELS-3881_with_discount":{"assigned":1,"id":"HOTELS-3881_with_discount","versionedId":"HOTELS-3881_with_discount_v01"}}},"hotels_pricing_ladder":{"id":"hotels_pricing_ladder","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_pricing_ladder_off":{"assigned":0,"id":"hotels_pricing_ladder_off"},"hotels_pricing_ladder_on":{"assigned":1,"id":"hotels_pricing_ladder_on","versionedId":"hotels_pricing_ladder_on_v01"}}},"hotels_ptt_pricing_per_night":{"id":"hotels_ptt_pricing_per_night","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_ptt_pricing_per_night_off":{"assigned":0,"id":"hotels_ptt_pricing_per_night_off"},"hotels_ptt_pricing_per_night_on":{"assigned":1,"id":"hotels_ptt_pricing_per_night_on","versionedId":"hotels_ptt_pricing_per_night_on_v04"}}},"hotels_recommended_two_models":{"id":"hotels_recommended_two_models","applied":0,"active":true,"forceVariant":0,"variants":{"hotels_recommended_two_models_1":{"assigned":1,"id":"hotels_recommended_two_models_1","versionedId":"hotels_recommended_two_models_1_v01"},"hotels_recommended_two_models_2":{"assigned":0,"id":"hotels_recommended_two_models_2"}}},"logo_2023_web":{"id":"logo_2023_web","applied":0,"active":true,"forceVariant":0,"variants":{"logo_2023_web_new":{"assigned":1,"id":"logo_2023_web_new","versionedId":"logo_2023_web_new_v01"},"logo_2023_web_old":{"assigned":0,"id":"logo_2023_web_old"}}},"main_avia_search_extension_stage_2":{"id":"main_avia_search_extension_stage_2","applied":0,"active":true,"forceVariant":0,"variants":{"web_avia_search_extension_stage_2_off":{"assigned":0,"id":"web_avia_search_extension_stage_2_off"},"web_avia_search_extension_stage_2_on":{"assigned":1,"id":"web_avia_search_extension_stage_2_on","versionedId":"web_avia_search_extension_stage_2_on_v01"}}},"main_hope_button":{"id":"main_hope_button","applied":0,"active":true,"forceVariant":0,"variants":{"main_hope_button_hope":{"assigned":1,"id":"main_hope_button_hope","versionedId":"main_hope_button_hope_v01"},"main_hope_button_map":{"assigned":0,"id":"main_hope_button_map"},"main_hope_button_status":{"assigned":0,"id":"main_hope_button_status"}}},"main_page_ae_tab_desktop":{"id":"main_page_ae_tab_desktop","applied":0,"active":true,"forceVariant":0,"variants":{"main_page_ae_tab_desktop_off":{"assigned":0,"id":"main_page_ae_tab_desktop_off"},"main_page_ae_tab_desktop_on":{"assigned":1,"id":"main_page_ae_tab_desktop_on","versionedId":"main_page_ae_tab_desktop_on_v03"}}},"main_page_ae_tab_mobile":{"id":"main_page_ae_tab_mobile","applied":0,"active":true,"forceVariant":0,"variants":{"main_page_ae_tab_mobile_off":{"assigned":0,"id":"main_page_ae_tab_mobile_off"},"main_page_ae_tab_mobile_on":{"assigned":1,"id":"main_page_ae_tab_mobile_on","versionedId":"main_page_ae_tab_mobile_on_v03"}}},"main_page_big_icon":{"id":"main_page_big_icon","applied":0,"active":true,"forceVariant":0,"variants":{"CF-3786_main_page_big_icon_off":{"assigned":0,"id":"CF-3786_main_page_big_icon_off"},"CF-3786_main_page_big_icon_on":{"assigned":1,"id":"CF-3786_main_page_big_icon_on","versionedId":"CF-3786_main_page_big_icon_on_v01"}}},"main_page_corporate_tab":{"id":"main_page_corporate_tab","applied":0,"active":true,"forceVariant":0,"variants":{"main_page_corporate_tab_off":{"assigned":0,"id":"main_page_corporate_tab_off"},"main_page_corporate_tab_on":{"assigned":1,"id":"main_page_corporate_tab_on","versionedId":"main_page_corporate_tab_on_v01"}}},"main_page_mb_hat_auth_simple":{"id":"main_page_mb_hat_auth_simple","applied":0,"active":true,"forceVariant":0,"variants":{"main_page_mb_hat_auth_simple_off":{"assigned":0,"id":"main_page_mb_hat_auth_simple_off"},"main_page_mb_hat_auth_simple_on":{"assigned":1,"id":"main_page_mb_hat_auth_simple_on","versionedId":"main_page_mb_hat_auth_simple_on_v01"}}},"main_ptt_popup_test":{"id":"main_ptt_popup_test","applied":0,"active":true,"forceVariant":0,"variants":{"main_ptt_popup_test_off":{"assigned":0,"id":"main_ptt_popup_test_off"},"main_ptt_popup_test_on":{"assigned":1,"id":"main_ptt_popup_test_on","versionedId":"main_ptt_popup_test_on"}}},"MAPP-5290_recommendation_avia":{"id":"MAPP-5290_recommendation_avia","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5290_rec_avia":{"assigned":0,"id":"MAPP-5290_rec_avia"},"MAPP-5290_rec_nopush_avia":{"assigned":0,"id":"MAPP-5290_rec_nopush_avia"},"MAPP-5290_rec_static_avia":{"assigned":1,"id":"MAPP-5290_rec_static_avia","versionedId":"MAPP-5290_rec_static_avia"}}},"MAPP-5290_recommendation_train":{"id":"MAPP-5290_recommendation_train","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5290_rec_nopush_train":{"assigned":0,"id":"MAPP-5290_rec_nopush_train"},"MAPP-5290_rec_static_train":{"assigned":0,"id":"MAPP-5290_rec_static_train"},"MAPP-5290_rec_train":{"assigned":1,"id":"MAPP-5290_rec_train","versionedId":"MAPP-5290_rec_train"}}},"MAPP-5942_viewed_hotels":{"id":"MAPP-5942_viewed_hotels","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-5942_viewed_hotels":{"assigned":1,"id":"MAPP-5942_viewed_hotels","versionedId":"MAPP-5942_viewed_hotels"},"MAPP-5942_viewed_hotels_nopush":{"assigned":0,"id":"MAPP-5942_viewed_hotels_nopush"}}},"MAPP-7241_tariffs_on_details":{"id":"MAPP-7241_tariffs_on_details","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-7241_tariffs_olds":{"assigned":0,"id":"MAPP-7241_tariffs_olds"},"MAPP-7241_tariff_expandable_cards":{"assigned":0,"id":"MAPP-7241_tariff_expandable_cards"},"MAPP-7241_tariff_scrollable_cards":{"assigned":1,"id":"MAPP-7241_tariff_scrollable_cards","versionedId":"MAPP-7241_tariff_scrollable_cards_v01"}}},"MAPP-7378_ios_tariffs_on_details":{"id":"MAPP-7378_ios_tariffs_on_details","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-7378_ios_tariffs_expandable_cards":{"assigned":0,"id":"MAPP-7378_ios_tariffs_expandable_cards"},"MAPP-7378_ios_tariffs_old":{"assigned":0,"id":"MAPP-7378_ios_tariffs_old"},"MAPP-7378_ios_tariffs_scrollable_cards":{"assigned":1,"id":"MAPP-7378_ios_tariffs_scrollable_cards","versionedId":"MAPP-7378_ios_tariffs_scrollable_cards"}}},"MAPP-logo_2023_android":{"id":"MAPP-logo_2023_android","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-logo_2023_android_new":{"assigned":1,"id":"MAPP-logo_2023_android_new","versionedId":"MAPP-logo_2023_android_new_v01"},"MAPP-logo_2023_android_old":{"assigned":0,"id":"MAPP-logo_2023_android_old"}}},"MAPP-logo_2023_ios":{"id":"MAPP-logo_2023_ios","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-logo_2023_ios_new":{"assigned":1,"id":"MAPP-logo_2023_ios_new","versionedId":"MAPP-logo_2023_ios_new_v01"},"MAPP-logo_2023_ios_old":{"assigned":0,"id":"MAPP-logo_2023_ios_old"}}},"martech_mainpage_geo_block":{"id":"martech_mainpage_geo_block","applied":0,"active":true,"forceVariant":0,"variants":{"MARTECH-24_geo":{"assigned":1,"id":"MARTECH-24_geo","versionedId":"MARTECH-24_geo_v01"},"MARTECH-24_stories":{"assigned":0,"id":"MARTECH-24_stories"}}},"messengers_marketing_chat_name":{"id":"messengers_marketing_chat_name","applied":0,"active":true,"forceVariant":0,"variants":{"messengers_marketing_chat_name_ideas":{"assigned":1,"id":"messengers_marketing_chat_name_ideas","versionedId":"messengers_marketing_chat_name_ideas_v01"},"messengers_marketing_chat_name_offers":{"assigned":0,"id":"messengers_marketing_chat_name_offers"}}},"messengers_single_window_web":{"id":"messengers_single_window_web","applied":0,"active":true,"forceVariant":0,"variants":{"messengers_single_window_web_off":{"assigned":0,"id":"messengers_single_window_web_off"},"messengers_single_window_web_on":{"assigned":1,"id":"messengers_single_window_web_on","versionedId":"messengers_single_window_web_on_v01"}}},"mono_avia_ios_ptt_banner":{"id":"mono_avia_ios_ptt_banner","applied":0,"active":true,"forceVariant":0,"variants":{"MAPP-7932-ios-ptt-hide-banner":{"assigned":0,"id":"MAPP-7932-ios-ptt-hide-banner"},"MAPP-7932-ios-ptt-show-banner":{"assigned":1,"id":"MAPP-7932-ios-ptt-show-banner","versionedId":"MAPP-7932-ios-ptt-show-banner_v02"}}},"ptt_android_bus_places":{"id":"ptt_android_bus_places","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_bus_places_off":{"assigned":0,"id":"ptt_android_bus_places_off"},"ptt_android_bus_places_on":{"assigned":1,"id":"ptt_android_bus_places_on","versionedId":"ptt_android_bus_places_on_v01"}}},"ptt_android_bus_schedule":{"id":"ptt_android_bus_schedule","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_bus_schedule_off":{"assigned":0,"id":"ptt_android_bus_schedule_off"},"ptt_android_bus_schedule_on":{"assigned":1,"id":"ptt_android_bus_schedule_on","versionedId":"ptt_android_bus_schedule_on_v01"}}},"ptt_android_feed_header_info_new_representation_v2":{"id":"ptt_android_feed_header_info_new_representation_v2","applied":0,"active":true,"forceVariant":0,"variants":{"VID-4600_v2_off":{"assigned":0,"id":"VID-4600_v2_off"},"VID-4600_v2_on":{"assigned":1,"id":"VID-4600_v2_on","versionedId":"VID-4600_v2_on_v01"}}},"ptt_android_feed_hotels_details_map_under_offers":{"id":"ptt_android_feed_hotels_details_map_under_offers","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_feed_hotels_details_map_under_offers_off":{"assigned":0,"id":"ptt_android_feed_hotels_details_map_under_offers_off"},"ptt_android_feed_hotels_details_map_under_offers_on":{"assigned":1,"id":"ptt_android_feed_hotels_details_map_under_offers_on","versionedId":"ptt_android_feed_hotels_details_map_under_offers_on"}}},"ptt_android_feed_hotels_family_mode":{"id":"ptt_android_feed_hotels_family_mode","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_feed_hotels_family_mode_off":{"assigned":0,"id":"ptt_android_feed_hotels_family_mode_off"},"ptt_android_feed_hotels_family_mode_on":{"assigned":1,"id":"ptt_android_feed_hotels_family_mode_on","versionedId":"ptt_android_feed_hotels_family_mode_on_v02"}}},"ptt_android_feed_hotels_favourites":{"id":"ptt_android_feed_hotels_favourites","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_feed_hotels_favourites_off":{"assigned":0,"id":"ptt_android_feed_hotels_favourites_off"},"ptt_android_feed_hotels_favourites_on":{"assigned":1,"id":"ptt_android_feed_hotels_favourites_on","versionedId":"ptt_android_feed_hotels_favourites_on_v01"}}},"ptt_android_feed_hotels_map_fab":{"id":"ptt_android_feed_hotels_map_fab","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_feed_hotels_map_fab_off":{"assigned":0,"id":"ptt_android_feed_hotels_map_fab_off"},"ptt_android_feed_hotels_map_fab_on":{"assigned":1,"id":"ptt_android_feed_hotels_map_fab_on","versionedId":"ptt_android_feed_hotels_map_fab_on"}}},"ptt_android_feed_hotels_map_redesign":{"id":"ptt_android_feed_hotels_map_redesign","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_feed_hotels_map_redesign_off":{"assigned":0,"id":"ptt_android_feed_hotels_map_redesign_off"},"ptt_android_feed_hotels_map_redesign_on":{"assigned":1,"id":"ptt_android_feed_hotels_map_redesign_on","versionedId":"ptt_android_feed_hotels_map_redesign_on_v04"}}},"ptt_android_feed_hotels_new_rooms":{"id":"ptt_android_feed_hotels_new_rooms","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_feed_hotels_new_rooms_off":{"assigned":1,"id":"ptt_android_feed_hotels_new_rooms_off","versionedId":"ptt_android_feed_hotels_new_rooms_off_v01"},"ptt_android_feed_hotels_new_rooms_on":{"assigned":0,"id":"ptt_android_feed_hotels_new_rooms_on"}}},"ptt_android_feed_hotels_offers":{"id":"ptt_android_feed_hotels_offers","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_feed_hotels_offers_off":{"assigned":0,"id":"ptt_android_feed_hotels_offers_off"},"ptt_android_feed_hotels_offers_on":{"assigned":1,"id":"ptt_android_feed_hotels_offers_on","versionedId":"ptt_android_feed_hotels_offers_on_v01"}}},"ptt_android_feed_hotels_search_v3":{"id":"ptt_android_feed_hotels_search_v3","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_feed_hotels_search_v3_off":{"assigned":0,"id":"ptt_android_feed_hotels_search_v3_off"},"ptt_android_feed_hotels_search_v3_on":{"assigned":1,"id":"ptt_android_feed_hotels_search_v3_on","versionedId":"ptt_android_feed_hotels_search_v3_on_v02"}}},"ptt_android_feed_hotels_similar_detail":{"id":"ptt_android_feed_hotels_similar_detail","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_feed_hotels_similar_detail_off":{"assigned":0,"id":"ptt_android_feed_hotels_similar_detail_off"},"ptt_android_feed_hotels_similar_detail_on":{"assigned":1,"id":"ptt_android_feed_hotels_similar_detail_on","versionedId":"ptt_android_feed_hotels_similar_detail_on_v02"}}},"ptt_android_feed_hotels_similar_map":{"id":"ptt_android_feed_hotels_similar_map","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_feed_hotels_similar_map_off":{"assigned":1,"id":"ptt_android_feed_hotels_similar_map_off","versionedId":"ptt_android_feed_hotels_similar_map_off_v01"},"ptt_android_feed_hotels_similar_map_on":{"assigned":0,"id":"ptt_android_feed_hotels_similar_map_on"}}},"ptt_android_feed_mtp":{"id":"ptt_android_feed_mtp","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_android_feed_mtp_off":{"assigned":0,"id":"ptt_android_feed_mtp_off"},"ptt_android_feed_mtp_on":{"assigned":1,"id":"ptt_android_feed_mtp_on","versionedId":"ptt_android_feed_mtp_on_v02"}}},"ptt_android_feed_new_avia_card_v5":{"id":"ptt_android_feed_new_avia_card_v5","applied":0,"active":true,"forceVariant":0,"variants":{"VID-5254_off":{"assigned":0,"id":"VID-5254_off"},"VID-5254_on":{"assigned":1,"id":"VID-5254_on","versionedId":"VID-5254_on_v01"}}},"ptt_android_feed_new_train_card_v4":{"id":"ptt_android_feed_new_train_card_v4","applied":0,"active":true,"forceVariant":0,"variants":{"VID-4967_off":{"assigned":0,"id":"VID-4967_off"},"VID-4967_on":{"assigned":1,"id":"VID-4967_on","versionedId":"VID-4967_on_v01"}}},"ptt_android_feed_train_price_calculation_for_child":{"id":"ptt_android_feed_train_price_calculation_for_child","applied":0,"active":true,"forceVariant":0,"variants":{"VID-3165_disable":{"assigned":0,"id":"VID-3165_disable"},"VID-3165_enable":{"assigned":1,"id":"VID-3165_enable","versionedId":"VID-3165_enable_v02"}}},"ptt_android_new_search_form_v3":{"id":"ptt_android_new_search_form_v3","applied":0,"active":true,"forceVariant":0,"variants":{"VID-3636_off":{"assigned":0,"id":"VID-3636_off"},"VID-3636_on":{"assigned":1,"id":"VID-3636_on","versionedId":"VID-3636_on_v01"}}},"ptt_android_new_search_representation":{"id":"ptt_android_new_search_representation","applied":0,"active":true,"forceVariant":0,"variants":{"VID-4259_old":{"assigned":0,"id":"VID-4259_old"},"VID-4259_separated":{"assigned":1,"id":"VID-4259_separated","versionedId":"VID-4259_separated_v01"},"VID-4259_united":{"assigned":0,"id":"VID-4259_united"}}},"ptt_android_search_tours":{"id":"ptt_android_search_tours","applied":0,"active":true,"forceVariant":0,"variants":{"VID-3505_off":{"assigned":0,"id":"VID-3505_off"},"VID-3505_on":{"assigned":1,"id":"VID-3505_on","versionedId":"VID-3505_on_v01"}}},"ptt_feed_android_minimize_summary":{"id":"ptt_feed_android_minimize_summary","applied":0,"active":true,"forceVariant":0,"variants":{"VID-5266_off":{"assigned":0,"id":"VID-5266_off"},"VID-5266_on":{"assigned":1,"id":"VID-5266_on","versionedId":"VID-5266_on_v01"}}},"ptt_feed_android_new_summary_2":{"id":"ptt_feed_android_new_summary_2","applied":0,"active":true,"forceVariant":0,"variants":{"VID-4349_2_new_summary":{"assigned":0,"id":"VID-4349_2_new_summary"},"VID-4349_2_new_with_special_page":{"assigned":1,"id":"VID-4349_2_new_with_special_page","versionedId":"VID-4349_2_new_with_special_page_v02"},"VID-4349_2_old_summary":{"assigned":0,"id":"VID-4349_2_old_summary"}}},"ptt_feed_android_round_trip_nearby_dates":{"id":"ptt_feed_android_round_trip_nearby_dates","applied":0,"active":true,"forceVariant":0,"variants":{"VID-4396_off":{"assigned":0,"id":"VID-4396_off"},"VID-4396_on":{"assigned":1,"id":"VID-4396_on","versionedId":"VID-4396_on_v02"}}},"ptt_feed_android_summary_bundles":{"id":"ptt_feed_android_summary_bundles","applied":0,"active":true,"forceVariant":0,"variants":{"VID-4851_off":{"assigned":1,"id":"VID-4851_off","versionedId":"VID-4851_off"},"VID-4851_on":{"assigned":0,"id":"VID-4851_on"}}},"ptt_feed_cards_spacing_an2":{"id":"ptt_feed_cards_spacing_an2","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1764_cards_spacing_ab2_off":{"assigned":0,"id":"VID-1764_cards_spacing_ab2_off"},"VID-1764_cards_spacing_ab2_on":{"assigned":1,"id":"VID-1764_cards_spacing_ab2_on","versionedId":"VID-1764_cards_spacing_ab2_on_v01"}}},"ptt_feed_htl_fltrs_design_andr":{"id":"ptt_feed_htl_fltrs_design_andr","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1991_off":{"assigned":0,"id":"VID-1991_off"},"VID-1991_on":{"assigned":1,"id":"VID-1991_on","versionedId":"VID-1991_on_v01"}}},"ptt_feed_lazy_hotels_andr2":{"id":"ptt_feed_lazy_hotels_andr2","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1973_off":{"assigned":0,"id":"VID-1973_off"},"VID-1973_on":{"assigned":1,"id":"VID-1973_on","versionedId":"VID-1973_on_v01"}}},"ptt_feed_nearby_dates_andr3":{"id":"ptt_feed_nearby_dates_andr3","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1970_off":{"assigned":0,"id":"VID-1970_off"},"VID-1970_on":{"assigned":1,"id":"VID-1970_on","versionedId":"VID-1970_on_v01"}}},"ptt_feed_nearest_dates_ios_v2":{"id":"ptt_feed_nearest_dates_ios_v2","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2063_dates_off":{"assigned":0,"id":"VID-2063_dates_off"},"VID-2063_dates_on":{"assigned":1,"id":"VID-2063_dates_on","versionedId":"VID-2063_dates_on_v02"}}},"ptt_hotels_avia_success_onboarding_android":{"id":"ptt_hotels_avia_success_onboarding_android","applied":0,"active":true,"forceVariant":0,"variants":{"HOTELS-8465_avia_success_onboarding_off":{"assigned":0,"id":"HOTELS-8465_avia_success_onboarding_off"},"HOTELS-8465_avia_success_onboarding_on":{"assigned":1,"id":"HOTELS-8465_avia_success_onboarding_on","versionedId":"HOTELS-8465_avia_success_onboarding_on_v03"}}},"ptt_hotels_avia_success_onboarding_ios":{"id":"ptt_hotels_avia_success_onboarding_ios","applied":0,"active":true,"forceVariant":0,"variants":{"HOTELS-8330_avia_success_onboarding_off":{"assigned":1,"id":"HOTELS-8330_avia_success_onboarding_off","versionedId":"HOTELS-8330_avia_success_onboarding_off_v06"},"HOTELS-8330_avia_success_onboarding_on":{"assigned":0,"id":"HOTELS-8330_avia_success_onboarding_on"}}},"ptt_hotels_checkout_skip_cart_an":{"id":"ptt_hotels_checkout_skip_cart_an","applied":0,"active":true,"forceVariant":0,"variants":{"HOTELS-3912_keep_cart":{"assigned":0,"id":"HOTELS-3912_keep_cart"},"HOTELS-3912_skip_cart":{"assigned":1,"id":"HOTELS-3912_skip_cart","versionedId":"HOTELS-3912_skip_cart"}}},"ptt_hotels_choose_rooms_an":{"id":"ptt_hotels_choose_rooms_an","applied":0,"active":true,"forceVariant":0,"variants":{"HOTELS-3218_new_choose_rooms":{"assigned":1,"id":"HOTELS-3218_new_choose_rooms","versionedId":"HOTELS-3218_new_choose_rooms"},"HOTELS-3218_old_choose_rooms":{"assigned":0,"id":"HOTELS-3218_old_choose_rooms"}}},"ptt_hotels_choose_rooms_ios":{"id":"ptt_hotels_choose_rooms_ios","applied":0,"active":true,"forceVariant":0,"variants":{"HOTELS-3132_new_choose_rooms":{"assigned":1,"id":"HOTELS-3132_new_choose_rooms","versionedId":"HOTELS-3132_new_choose_rooms"},"HOTELS-3132_old_choose_rooms":{"assigned":0,"id":"HOTELS-3132_old_choose_rooms"}}},"ptt_hotels_train_success_onboarding_android":{"id":"ptt_hotels_train_success_onboarding_android","applied":0,"active":true,"forceVariant":0,"variants":{"HOTELS-8465_train_success_onboarding_off":{"assigned":1,"id":"HOTELS-8465_train_success_onboarding_off","versionedId":"HOTELS-8465_train_success_onboarding_off_v03"},"HOTELS-8465_train_success_onboarding_on":{"assigned":0,"id":"HOTELS-8465_train_success_onboarding_on"}}},"ptt_hotels_train_success_onboarding_ios":{"id":"ptt_hotels_train_success_onboarding_ios","applied":0,"active":true,"forceVariant":0,"variants":{"HOTELS-8330_train_success_onboarding_off":{"assigned":1,"id":"HOTELS-8330_train_success_onboarding_off","versionedId":"HOTELS-8330_train_success_onboarding_off_v03"},"HOTELS-8330_train_success_onboarding_on":{"assigned":0,"id":"HOTELS-8330_train_success_onboarding_on"}}},"ptt_hotel_details_redesign":{"id":"ptt_hotel_details_redesign","applied":0,"active":true,"forceVariant":0,"variants":{"HOTELS-2815_redesign_off":{"assigned":0,"id":"HOTELS-2815_redesign_off"},"HOTELS-2815_redesign_on":{"assigned":1,"id":"HOTELS-2815_redesign_on","versionedId":"HOTELS-2815_redesign_on_v01"}}},"ptt_hotel_details_search_form_v2":{"id":"ptt_hotel_details_search_form_v2","applied":0,"active":true,"forceVariant":0,"variants":{"HOTELS-3154_search_form_off":{"assigned":0,"id":"HOTELS-3154_search_form_off"},"HOTELS-3154_search_form_on":{"assigned":1,"id":"HOTELS-3154_search_form_on","versionedId":"HOTELS-3154_search_form_on_v01"}}},"ptt_hotel_filters_design_ios":{"id":"ptt_hotel_filters_design_ios","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1993_new_design":{"assigned":1,"id":"VID-1993_new_design","versionedId":"VID-1993_new_design_v01"},"VID-1993_old_design":{"assigned":0,"id":"VID-1993_old_design"}}},"ptt_ios_feed_hotels_details_map_under_offers":{"id":"ptt_ios_feed_hotels_details_map_under_offers","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_hotels_details_map_under_offers_off":{"assigned":1,"id":"ptt_ios_feed_hotels_details_map_under_offers_off","versionedId":"ptt_ios_feed_hotels_details_map_under_offers_off"},"ptt_ios_feed_hotels_details_map_under_offers_on":{"assigned":0,"id":"ptt_ios_feed_hotels_details_map_under_offers_on"}}},"ptt_ios_feed_hotels_family_mode":{"id":"ptt_ios_feed_hotels_family_mode","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_hotels_family_mode_off":{"assigned":0,"id":"ptt_ios_feed_hotels_family_mode_off"},"ptt_ios_feed_hotels_family_mode_on":{"assigned":1,"id":"ptt_ios_feed_hotels_family_mode_on","versionedId":"ptt_ios_feed_hotels_family_mode_on_v02"}}},"ptt_ios_feed_hotels_favourites":{"id":"ptt_ios_feed_hotels_favourites","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_hotels_favourites_off":{"assigned":0,"id":"ptt_ios_feed_hotels_favourites_off"},"ptt_ios_feed_hotels_favourites_on":{"assigned":1,"id":"ptt_ios_feed_hotels_favourites_on","versionedId":"ptt_ios_feed_hotels_favourites_on_v01"}}},"ptt_ios_feed_hotels_map_carousel":{"id":"ptt_ios_feed_hotels_map_carousel","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_hotels_map_carousel_off":{"assigned":0,"id":"ptt_ios_feed_hotels_map_carousel_off"},"ptt_ios_feed_hotels_map_carousel_on":{"assigned":1,"id":"ptt_ios_feed_hotels_map_carousel_on","versionedId":"ptt_ios_feed_hotels_map_carousel_on_v02"}}},"ptt_ios_feed_hotels_map_fab":{"id":"ptt_ios_feed_hotels_map_fab","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_hotels_map_fab_off":{"assigned":1,"id":"ptt_ios_feed_hotels_map_fab_off","versionedId":"ptt_ios_feed_hotels_map_fab_off"},"ptt_ios_feed_hotels_map_fab_on":{"assigned":0,"id":"ptt_ios_feed_hotels_map_fab_on"}}},"ptt_ios_feed_hotels_new_rooms":{"id":"ptt_ios_feed_hotels_new_rooms","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_hotels_new_rooms_off":{"assigned":1,"id":"ptt_ios_feed_hotels_new_rooms_off","versionedId":"ptt_ios_feed_hotels_new_rooms_off"},"ptt_ios_feed_hotels_new_rooms_on":{"assigned":0,"id":"ptt_ios_feed_hotels_new_rooms_on"}}},"ptt_ios_feed_hotels_offers":{"id":"ptt_ios_feed_hotels_offers","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_hotels_offers_off":{"assigned":0,"id":"ptt_ios_feed_hotels_offers_off"},"ptt_ios_feed_hotels_offers_on":{"assigned":1,"id":"ptt_ios_feed_hotels_offers_on","versionedId":"ptt_ios_feed_hotels_offers_on_v01"}}},"ptt_ios_feed_hotels_search_v3":{"id":"ptt_ios_feed_hotels_search_v3","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_hotels_search_v3_off":{"assigned":0,"id":"ptt_ios_feed_hotels_search_v3_off"},"ptt_ios_feed_hotels_search_v3_on":{"assigned":1,"id":"ptt_ios_feed_hotels_search_v3_on","versionedId":"ptt_ios_feed_hotels_search_v3_on_v02"}}},"ptt_ios_feed_hotels_similar_on_map":{"id":"ptt_ios_feed_hotels_similar_on_map","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_hotels_similar_on_map_off":{"assigned":1,"id":"ptt_ios_feed_hotels_similar_on_map_off","versionedId":"ptt_ios_feed_hotels_similar_on_map_off_v02"},"ptt_ios_feed_hotels_similar_on_map_on":{"assigned":0,"id":"ptt_ios_feed_hotels_similar_on_map_on"}}},"ptt_ios_feed_new_avia_card_v2":{"id":"ptt_ios_feed_new_avia_card_v2","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_new_avia_card_v2_off":{"assigned":0,"id":"ptt_ios_feed_new_avia_card_v2_off"},"ptt_ios_feed_new_avia_card_v2_on":{"assigned":1,"id":"ptt_ios_feed_new_avia_card_v2_on","versionedId":"ptt_ios_feed_new_avia_card_v2_on_v01"}}},"ptt_ios_feed_new_summary_style":{"id":"ptt_ios_feed_new_summary_style","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_new_summary_style_new":{"assigned":1,"id":"ptt_ios_feed_new_summary_style_new","versionedId":"ptt_ios_feed_new_summary_style_new_v01"},"ptt_ios_feed_new_summary_style_old":{"assigned":0,"id":"ptt_ios_feed_new_summary_style_old"}}},"ptt_ios_feed_new_summary_v2":{"id":"ptt_ios_feed_new_summary_v2","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_new_summary_new_flow_v1":{"assigned":1,"id":"ptt_ios_feed_new_summary_new_flow_v1","versionedId":"ptt_ios_feed_new_summary_new_flow_v1_v04"},"ptt_ios_feed_new_summary_new_v1":{"assigned":0,"id":"ptt_ios_feed_new_summary_new_v1"},"ptt_ios_feed_new_summary_old_v1":{"assigned":0,"id":"ptt_ios_feed_new_summary_old_v1"}}},"ptt_ios_feed_new_train_card_v4":{"id":"ptt_ios_feed_new_train_card_v4","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_new_train_card_v4_new":{"assigned":1,"id":"ptt_ios_feed_new_train_card_v4_new","versionedId":"ptt_ios_feed_new_train_card_v4_new_v01"},"ptt_ios_feed_new_train_card_v4_old":{"assigned":0,"id":"ptt_ios_feed_new_train_card_v4_old"}}},"ptt_ios_feed_search_form":{"id":"ptt_ios_feed_search_form","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_search_form_off":{"assigned":0,"id":"ptt_ios_feed_search_form_off"},"ptt_ios_feed_search_form_on":{"assigned":1,"id":"ptt_ios_feed_search_form_on","versionedId":"ptt_ios_feed_search_form_on_v02"}}},"ptt_ios_feed_summary_hotels_up":{"id":"ptt_ios_feed_summary_hotels_up","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_feed_summary_hotels_up_off":{"assigned":0,"id":"ptt_ios_feed_summary_hotels_up_off"},"ptt_ios_feed_summary_hotels_up_on":{"assigned":1,"id":"ptt_ios_feed_summary_hotels_up_on","versionedId":"ptt_ios_feed_summary_hotels_up_on_v10"}}},"ptt_ios_mtp_feed":{"id":"ptt_ios_mtp_feed","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_ios_mtp_feed_off":{"assigned":0,"id":"ptt_ios_mtp_feed_off"},"ptt_ios_mtp_feed_on":{"assigned":1,"id":"ptt_ios_mtp_feed_on","versionedId":"ptt_ios_mtp_feed_on_v03"}}},"ptt_ios_not_selling_offers_in_filter":{"id":"ptt_ios_not_selling_offers_in_filter","applied":0,"active":true,"forceVariant":0,"variants":{"VID-3414_not_selling_in_filters":{"assigned":1,"id":"VID-3414_not_selling_in_filters","versionedId":"VID-3414_not_selling_in_filters_v01"},"VID-3414_only_selling_in_filters":{"assigned":0,"id":"VID-3414_only_selling_in_filters"}}},"ptt_ios_train_new_prices_for_kids":{"id":"ptt_ios_train_new_prices_for_kids","applied":0,"active":true,"forceVariant":0,"variants":{"VID-3146_prices_new":{"assigned":1,"id":"VID-3146_prices_new","versionedId":"VID-3146_prices_new_v02"},"VID-3146_prices_old":{"assigned":0,"id":"VID-3146_prices_old"}}},"ptt_loyalty_program_android":{"id":"ptt_loyalty_program_android","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_loyalty_program_off":{"assigned":0,"id":"ptt_loyalty_program_off"},"ptt_loyalty_program_on":{"assigned":1,"id":"ptt_loyalty_program_on","versionedId":"ptt_loyalty_program_on_v01"}}},"PTT_LOYALTY_PROGRAM_IOS":{"id":"PTT_LOYALTY_PROGRAM_IOS","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_loyalty_program_ios_off":{"assigned":0,"id":"ptt_loyalty_program_ios_off"},"ptt_loyalty_program_ios_on":{"assigned":1,"id":"ptt_loyalty_program_ios_on","versionedId":"ptt_loyalty_program_ios_on_v04"}}},"ptt_main_hotels_selection":{"id":"ptt_main_hotels_selection","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_main_hotels_selection_off":{"assigned":0,"id":"ptt_main_hotels_selection_off"},"ptt_main_hotels_selection_on":{"assigned":1,"id":"ptt_main_hotels_selection_on","versionedId":"ptt_main_hotels_selection_on_v02"}}},"ptt_map_selector_in_header_an":{"id":"ptt_map_selector_in_header_an","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2255_default":{"assigned":0,"id":"VID-2255_default"},"VID-2255_in_header":{"assigned":1,"id":"VID-2255_in_header","versionedId":"VID-2255_in_header_v01"}}},"ptt_mono_avia_new_flight_details":{"id":"ptt_mono_avia_new_flight_details","applied":0,"active":true,"forceVariant":0,"variants":{"ptt_mono_avia_new_flight_details_off":{"assigned":0,"id":"ptt_mono_avia_new_flight_details_off"},"ptt_mono_avia_new_flight_details_on":{"assigned":1,"id":"ptt_mono_avia_new_flight_details_on","versionedId":"ptt_mono_avia_new_flight_details_on_v02"}}},"ptt_new_avia_offer_item_an":{"id":"ptt_new_avia_offer_item_an","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2717_off":{"assigned":0,"id":"VID-2717_off"},"VID-2717_on":{"assigned":1,"id":"VID-2717_on","versionedId":"VID-2717_on_v01"}}},"ptt_new_bus_offer_item_an":{"id":"ptt_new_bus_offer_item_an","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2591_off":{"assigned":0,"id":"VID-2591_off"},"VID-2591_on":{"assigned":1,"id":"VID-2591_on","versionedId":"VID-2591_on_v01"}}},"ptt_new_hotel_offer_item_an":{"id":"ptt_new_hotel_offer_item_an","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2382_off":{"assigned":0,"id":"VID-2382_off"},"VID-2382_on":{"assigned":1,"id":"VID-2382_on","versionedId":"VID-2382_on_v01"}}},"ptt_new_messengers_android":{"id":"ptt_new_messengers_android","applied":0,"active":true,"forceVariant":0,"variants":{"without_new_messengers_android":{"assigned":0,"id":"without_new_messengers_android"},"with_new_messengers_android":{"assigned":1,"id":"with_new_messengers_android","versionedId":"with_new_messengers_android_v03"}}},"ptt_new_train_offer_item_android2":{"id":"ptt_new_train_offer_item_android2","applied":0,"active":true,"forceVariant":0,"variants":{"VID-2870_new_horizontal2":{"assigned":1,"id":"VID-2870_new_horizontal2","versionedId":"VID-2870_new_horizontal2_v01"},"VID-2870_new_vertical2":{"assigned":0,"id":"VID-2870_new_vertical2"},"VID-2870_old2":{"assigned":0,"id":"VID-2870_old2"}}},"ptt_recomm_avia_offers_andr2":{"id":"ptt_recomm_avia_offers_andr2","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1889_2_off":{"assigned":0,"id":"VID-1889_2_off"},"VID-1889_2_on":{"assigned":1,"id":"VID-1889_2_on","versionedId":"VID-1889_2_on_v01"}}},"SEOTOOLS-309_geocontent_ptt_bann":{"id":"SEOTOOLS-309_geocontent_ptt_bann","applied":0,"active":true,"forceVariant":0,"variants":{"SEOTOOLS-309_without_banner":{"assigned":0,"id":"SEOTOOLS-309_without_banner"},"SEOTOOLS-309_with_banner":{"assigned":1,"id":"SEOTOOLS-309_with_banner","versionedId":"SEOTOOLS-309_with_banner"}}},"SF-1107-new-form-filters":{"id":"SF-1107-new-form-filters","applied":0,"active":true,"forceVariant":0,"variants":{"SF-1107-new-form-filters-off":{"assigned":0,"id":"SF-1107-new-form-filters-off"},"SF-1107-new-form-filters-on":{"assigned":1,"id":"SF-1107-new-form-filters-on","versionedId":"SF-1107-new-form-filters-on_v01"}}},"SF-1162_mono_avia_ios_onboarding":{"id":"SF-1162_mono_avia_ios_onboarding","applied":0,"active":true,"forceVariant":0,"variants":{"SF-1162_mono_avia_ios_onboarding_new":{"assigned":1,"id":"SF-1162_mono_avia_ios_onboarding_new","versionedId":"SF-1162_mono_avia_ios_onboarding_new_v01"},"SF-1162_mono_avia_ios_onboarding_old":{"assigned":0,"id":"SF-1162_mono_avia_ios_onboarding_old"}}},"SF-1260_mono_avia_ios_exchange_refund_options":{"id":"SF-1260_mono_avia_ios_exchange_refund_options","applied":0,"active":true,"forceVariant":0,"variants":{"SF-1260_mono_avia_ios_exchange_refund_options_new":{"assigned":1,"id":"SF-1260_mono_avia_ios_exchange_refund_options_new","versionedId":"SF-1260_mono_avia_ios_exchange_refund_options_new_v01"},"SF-1260_mono_avia_ios_exchange_refund_options_old":{"assigned":0,"id":"SF-1260_mono_avia_ios_exchange_refund_options_old"}}},"SF-1283_mono_avia_android_onboarding":{"id":"SF-1283_mono_avia_android_onboarding","applied":0,"active":true,"forceVariant":0,"variants":{"SF-1283_mono_avia_android_onboarding_new":{"assigned":1,"id":"SF-1283_mono_avia_android_onboarding_new","versionedId":"SF-1283_mono_avia_android_onboarding_new_v04"},"SF-1283_mono_avia_android_onboarding_old":{"assigned":0,"id":"SF-1283_mono_avia_android_onboarding_old"}}},"SF-1293_mono_avia_ios_new_main_screen":{"id":"SF-1293_mono_avia_ios_new_main_screen","applied":0,"active":true,"forceVariant":0,"variants":{"SF-1293_new_main_screen_off":{"assigned":0,"id":"SF-1293_new_main_screen_off"},"SF-1293_new_main_screen_on":{"assigned":1,"id":"SF-1293_new_main_screen_on","versionedId":"SF-1293_new_main_screen_on_v03"}}},"SF-1332-main-filter-offer":{"id":"SF-1332-main-filter-offer","applied":1,"active":true,"forceVariant":0,"variants":{"SF-1332-main-filter-offer-off":{"assigned":1,"id":"SF-1332-main-filter-offer-off","versionedId":"SF-1332-main-filter-offer-off_v01"},"SF-1332-main-filter-offer-on":{"assigned":0,"id":"SF-1332-main-filter-offer-on"}}},"SF-1340-new-form-filters":{"id":"SF-1340-new-form-filters","applied":0,"active":true,"forceVariant":0,"variants":{"SF-1340-new-form-filters-off":{"assigned":0,"id":"SF-1340-new-form-filters-off"},"SF-1340-new-form-filters-on":{"assigned":1,"id":"SF-1340-new-form-filters-on","versionedId":"SF-1340-new-form-filters-on_v01"}}},"SF-1392-international-companies":{"id":"SF-1392-international-companies","applied":0,"active":true,"forceVariant":0,"variants":{"SF-1392-international-companies-off":{"assigned":0,"id":"SF-1392-international-companies-off"},"SF-1392-international-companies-on":{"assigned":1,"id":"SF-1392-international-companies-on","versionedId":"SF-1392-international-companies-on_v01"}}},"SF-1421-avia-calendar-prices":{"id":"SF-1421-avia-calendar-prices","applied":1,"active":true,"forceVariant":0,"variants":{"SF-1421-avia-calendar-prices-as-main-page":{"assigned":0,"id":"SF-1421-avia-calendar-prices-as-main-page"},"SF-1421-avia-calendar-prices-old":{"assigned":0,"id":"SF-1421-avia-calendar-prices-old"},"SF-1421-avia-calendar-prices-old-average":{"assigned":1,"id":"SF-1421-avia-calendar-prices-old-average","versionedId":"SF-1421-avia-calendar-prices-old-average_v01"}}},"SF-1611-pin-flight":{"id":"SF-1611-pin-flight","applied":0,"active":true,"forceVariant":0,"variants":{"SF-1611-pin-flight-off":{"assigned":0,"id":"SF-1611-pin-flight-off"},"SF-1611-pin-flight-on":{"assigned":1,"id":"SF-1611-pin-flight-on","versionedId":"SF-1611-pin-flight-on"}}},"SF-1685_ptt_mono_avia_ios_allow_mix_business_on_detail":{"id":"SF-1685_ptt_mono_avia_ios_allow_mix_business_on_detail","applied":0,"active":true,"forceVariant":0,"variants":{"SF-1685_without_business":{"assigned":0,"id":"SF-1685_without_business"},"SF-1685_with_business":{"assigned":1,"id":"SF-1685_with_business","versionedId":"SF-1685_with_business_v02"}}},"SF-615-details-price-diff":{"id":"SF-615-details-price-diff","applied":0,"active":true,"forceVariant":0,"variants":{"SF-615-details-price-diff-off":{"assigned":0,"id":"SF-615-details-price-diff-off"},"SF-615-details-price-diff-on":{"assigned":1,"id":"SF-615-details-price-diff-on","versionedId":"SF-615-details-price-diff-on_v01"}}},"SF-761-dm-cabin-baggage":{"id":"SF-761-dm-cabin-baggage","applied":0,"active":true,"forceVariant":0,"variants":{"SF-761-dm-cabin-baggage-off":{"assigned":0,"id":"SF-761-dm-cabin-baggage-off"},"SF-761-dm-cabin-baggage-on":{"assigned":1,"id":"SF-761-dm-cabin-baggage-on","versionedId":"SF-761-dm-cabin-baggage-on_v02"}}},"sf_979_hide_unmatched_offer_variants":{"id":"sf_979_hide_unmatched_offer_variants","applied":0,"active":true,"forceVariant":0,"variants":{"sf_979_hide":{"assigned":1,"id":"sf_979_hide","versionedId":"sf_979_hide_v01"},"sf_979_show":{"assigned":0,"id":"sf_979_show"}}},"sf_details_redesign_part_1_android":{"id":"sf_details_redesign_part_1_android","applied":0,"active":true,"forceVariant":0,"variants":{"SF-920_details_redesign_part_1_android_off":{"assigned":0,"id":"SF-920_details_redesign_part_1_android_off"},"SF-920_details_redesign_part_1_android_on":{"assigned":1,"id":"SF-920_details_redesign_part_1_android_on","versionedId":"SF-920_details_redesign_part_1_android_on_v01"}}},"sf_details_redesign_part_2_android":{"id":"sf_details_redesign_part_2_android","applied":0,"active":true,"forceVariant":0,"variants":{"SF-881_details_redesign_part_2_android_off":{"assigned":0,"id":"SF-881_details_redesign_part_2_android_off"},"SF-881_details_redesign_part_2_android_on":{"assigned":1,"id":"SF-881_details_redesign_part_2_android_on","versionedId":"SF-881_details_redesign_part_2_android_on_v01"}}},"sf_details_redesign_part_3_android":{"id":"sf_details_redesign_part_3_android","applied":0,"active":true,"forceVariant":0,"variants":{"SF-921_details_redesign_part_3_android_off":{"assigned":0,"id":"SF-921_details_redesign_part_3_android_off"},"SF-921_details_redesign_part_3_android_on":{"assigned":1,"id":"SF-921_details_redesign_part_3_android_on","versionedId":"SF-921_details_redesign_part_3_android_on_v01"}}},"sf_show_tariff_cabbin_luggage_info":{"id":"sf_show_tariff_cabbin_luggage_info","applied":0,"active":true,"forceVariant":0,"variants":{"sf_show_tariff_cabbin_luggage_info_hide":{"assigned":0,"id":"sf_show_tariff_cabbin_luggage_info_hide"},"sf_show_tariff_cabbin_luggage_info_show":{"assigned":1,"id":"sf_show_tariff_cabbin_luggage_info_show","versionedId":"sf_show_tariff_cabbin_luggage_info_show_v01"}}},"skip_details_bus_android":{"id":"skip_details_bus_android","applied":0,"active":true,"forceVariant":0,"variants":{"skip_details_bus_android_off":{"assigned":0,"id":"skip_details_bus_android_off"},"skip_details_bus_android_on":{"assigned":1,"id":"skip_details_bus_android_on","versionedId":"skip_details_bus_android_on_v02"}}},"SPL-1031_android_collapse_flight_details":{"id":"SPL-1031_android_collapse_flight_details","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-1031_android_collapse_flight_details_off":{"assigned":0,"id":"SPL-1031_android_collapse_flight_details_off"},"SPL-1031_android_collapse_flight_details_on":{"assigned":1,"id":"SPL-1031_android_collapse_flight_details_on","versionedId":"SPL-1031_android_collapse_flight_details_on_v01"}}},"SPL-1084_aeroflot_seats_price":{"id":"SPL-1084_aeroflot_seats_price","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-1084_aeroflot_seats_price_100":{"assigned":1,"id":"SPL-1084_aeroflot_seats_price_100","versionedId":"SPL-1084_aeroflot_seats_price_100_v01"},"SPL-1084_aeroflot_seats_price_75":{"assigned":0,"id":"SPL-1084_aeroflot_seats_price_75"},"SPL-1084_aeroflot_seats_price_default":{"assigned":0,"id":"SPL-1084_aeroflot_seats_price_default"}}},"SPL-1085_pobeda_seats_price":{"id":"SPL-1085_pobeda_seats_price","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-1085_pobeda_seats_price_80":{"assigned":1,"id":"SPL-1085_pobeda_seats_price_80","versionedId":"SPL-1085_pobeda_seats_price_80_v02"},"SPL-1085_pobeda_seats_price_default":{"assigned":0,"id":"SPL-1085_pobeda_seats_price_default"},"SPL-1085_pobeda_seats_price_fix":{"assigned":0,"id":"SPL-1085_pobeda_seats_price_fix"}}},"SPL-1087-s7-seats-price-ab":{"id":"SPL-1087-s7-seats-price-ab","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-1087-s7-seats-price-ab_100":{"assigned":1,"id":"SPL-1087-s7-seats-price-ab_100","versionedId":"SPL-1087-s7-seats-price-ab_100_v01"},"SPL-1087-s7-seats-price-ab_default":{"assigned":0,"id":"SPL-1087-s7-seats-price-ab_default"}}},"SPL-1319-paid-sms-notifications-android":{"id":"SPL-1319-paid-sms-notifications-android","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-1319-paid-sms-notifications-android-off":{"assigned":0,"id":"SPL-1319-paid-sms-notifications-android-off"},"SPL-1319-paid-sms-notifications-android-on":{"assigned":1,"id":"SPL-1319-paid-sms-notifications-android-on","versionedId":"SPL-1319-paid-sms-notifications-android-on_v01"}}},"SPL-1319-paid-sms-notifications-web":{"id":"SPL-1319-paid-sms-notifications-web","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-1319-paid-sms-notifications-web-off":{"assigned":0,"id":"SPL-1319-paid-sms-notifications-web-off"},"SPL-1319-paid-sms-notifications-web-on":{"assigned":1,"id":"SPL-1319-paid-sms-notifications-web-on","versionedId":"SPL-1319-paid-sms-notifications-web-on_v01"}}},"SPL-428-s7_seats_prices":{"id":"SPL-428-s7_seats_prices","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-428-s7_seats_prices-50":{"assigned":1,"id":"SPL-428-s7_seats_prices-50","versionedId":"SPL-428-s7_seats_prices-50_v01"},"SPL-428-s7_seats_prices-70":{"assigned":0,"id":"SPL-428-s7_seats_prices-70"},"SPL-428-s7_seats_prices-old":{"assigned":0,"id":"SPL-428-s7_seats_prices-old"}}},"SPL-430-required_choose_seat_ios":{"id":"SPL-430-required_choose_seat_ios","applied":0,"active":true,"forceVariant":0,"variants":{"spl_430_required_choose_seat_ios_off":{"assigned":0,"id":"spl_430_required_choose_seat_ios_off"},"spl_430_required_choose_seat_ios_on":{"assigned":1,"id":"spl_430_required_choose_seat_ios_on","versionedId":"spl_430_required_choose_seat_ios_on_v04"}}},"SPL-445-upsale_texts_android":{"id":"SPL-445-upsale_texts_android","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-445-upsale_texts_android_new":{"assigned":1,"id":"SPL-445-upsale_texts_android_new","versionedId":"SPL-445-upsale_texts_android_new_v01"},"SPL-445-upsale_texts_android_old":{"assigned":0,"id":"SPL-445-upsale_texts_android_old"}}},"SPL-445-upsale_texts_ios":{"id":"SPL-445-upsale_texts_ios","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-445-upsale_texts_ios_new":{"assigned":1,"id":"SPL-445-upsale_texts_ios_new","versionedId":"SPL-445-upsale_texts_ios_new_v01"},"SPL-445-upsale_texts_ios_old":{"assigned":0,"id":"SPL-445-upsale_texts_ios_old"}}},"SPL-445-upsale_texts_web":{"id":"SPL-445-upsale_texts_web","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-445-upsale_texts_web_new":{"assigned":1,"id":"SPL-445-upsale_texts_web_new","versionedId":"SPL-445-upsale_texts_web_new_v05"},"SPL-445-upsale_texts_web_old":{"assigned":0,"id":"SPL-445-upsale_texts_web_old"}}},"SPL-751-aeroflot_seats_android":{"id":"SPL-751-aeroflot_seats_android","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-751-aeroflot_seats_android_off":{"assigned":0,"id":"SPL-751-aeroflot_seats_android_off"},"SPL-751-aeroflot_seats_android_on":{"assigned":1,"id":"SPL-751-aeroflot_seats_android_on","versionedId":"SPL-751-aeroflot_seats_android_on_v03"}}},"SPL-751-aeroflot_seats_ios":{"id":"SPL-751-aeroflot_seats_ios","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-751-aeroflot_seats_ios_off":{"assigned":0,"id":"SPL-751-aeroflot_seats_ios_off"},"SPL-751-aeroflot_seats_ios_on":{"assigned":1,"id":"SPL-751-aeroflot_seats_ios_on","versionedId":"SPL-751-aeroflot_seats_ios_on_v01"}}},"SPL-751-aeroflot_seats_web":{"id":"SPL-751-aeroflot_seats_web","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-751-aeroflot_seats_web_off":{"assigned":0,"id":"SPL-751-aeroflot_seats_web_off"},"SPL-751-aeroflot_seats_web_on":{"assigned":1,"id":"SPL-751-aeroflot_seats_web_on","versionedId":"SPL-751-aeroflot_seats_web_on_v05"}}},"SPL-751-price_exp_v2_android":{"id":"SPL-751-price_exp_v2_android","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-751-price_exp_v2_android_new":{"assigned":1,"id":"SPL-751-price_exp_v2_android_new","versionedId":"SPL-751-price_exp_v2_android_new_v03"},"SPL-751-price_exp_v2_android_old":{"assigned":0,"id":"SPL-751-price_exp_v2_android_old"}}},"SPL-751-price_exp_v2_ios":{"id":"SPL-751-price_exp_v2_ios","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-751-price_exp_v2_ios_new":{"assigned":1,"id":"SPL-751-price_exp_v2_ios_new","versionedId":"SPL-751-price_exp_v2_ios_new_v03"},"SPL-751-price_exp_v2_ios_old":{"assigned":0,"id":"SPL-751-price_exp_v2_ios_old"}}},"SPL-751-price_exp_v2_web":{"id":"SPL-751-price_exp_v2_web","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-751-price_exp_v2_web_new":{"assigned":1,"id":"SPL-751-price_exp_v2_web_new","versionedId":"SPL-751-price_exp_v2_web_new_v03"},"SPL-751-price_exp_v2_web_old":{"assigned":0,"id":"SPL-751-price_exp_v2_web_old"}}},"spl-761-required_choose_seat_android":{"id":"spl-761-required_choose_seat_android","applied":0,"active":true,"forceVariant":0,"variants":{"spl_761_required_choose_seat_android_off":{"assigned":0,"id":"spl_761_required_choose_seat_android_off"},"spl_761_required_choose_seat_android_on":{"assigned":1,"id":"spl_761_required_choose_seat_android_on","versionedId":"spl_761_required_choose_seat_android_on_v01"}}},"SPL-834-move-upsales-up":{"id":"SPL-834-move-upsales-up","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-834-move-upsales-up-off":{"assigned":0,"id":"SPL-834-move-upsales-up-off"},"SPL-834-move-upsales-up-on":{"assigned":1,"id":"SPL-834-move-upsales-up-on","versionedId":"SPL-834-move-upsales-up-on_v02"}}},"SPL-965-insurance-smart-tariff-v2-android":{"id":"SPL-965-insurance-smart-tariff-v2-android","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-965-insurance-smart-tariff-v2-android-old":{"assigned":0,"id":"SPL-965-insurance-smart-tariff-v2-android-old"},"SPL-965-insurance-smart-tariff-v2-android-smart":{"assigned":1,"id":"SPL-965-insurance-smart-tariff-v2-android-smart","versionedId":"SPL-965-insurance-smart-tariff-v2-android-smart_v01"}}},"SPL-965-insurance-smart-tariff-v2-ios":{"id":"SPL-965-insurance-smart-tariff-v2-ios","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-965-insurance-smart-tariff-v2-ios-old":{"assigned":0,"id":"SPL-965-insurance-smart-tariff-v2-ios-old"},"SPL-965-insurance-smart-tariff-v2-ios-smart":{"assigned":1,"id":"SPL-965-insurance-smart-tariff-v2-ios-smart","versionedId":"SPL-965-insurance-smart-tariff-v2-ios-smart_v01"}}},"SPL-965-insurance-smart-tariff-v2-web":{"id":"SPL-965-insurance-smart-tariff-v2-web","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-965-insurance-smart-tariff-v2-web-old":{"assigned":0,"id":"SPL-965-insurance-smart-tariff-v2-web-old"},"SPL-965-insurance-smart-tariff-v2-web-smart":{"assigned":1,"id":"SPL-965-insurance-smart-tariff-v2-web-smart","versionedId":"SPL-965-insurance-smart-tariff-v2-web-smart_v01"}}},"SPL-979-medicine-date-format-web":{"id":"SPL-979-medicine-date-format-web","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-979-medicine-date-format-web-new":{"assigned":1,"id":"SPL-979-medicine-date-format-web-new","versionedId":"SPL-979-medicine-date-format-web-new_v01"},"SPL-979-medicine-date-format-web-old":{"assigned":0,"id":"SPL-979-medicine-date-format-web-old"}}},"SPL-980_ios_collapse_fligh_details":{"id":"SPL-980_ios_collapse_fligh_details","applied":0,"active":true,"forceVariant":0,"variants":{"SPL-980_ios_collapse_fligh_details_off":{"assigned":0,"id":"SPL-980_ios_collapse_fligh_details_off"},"SPL-980_ios_collapse_fligh_details_on":{"assigned":1,"id":"SPL-980_ios_collapse_fligh_details_on","versionedId":"SPL-980_ios_collapse_fligh_details_on_v01"}}},"test_local_net_filter":{"id":"test_local_net_filter","applied":0,"active":true,"forceVariant":0,"variants":{"test_local_net_filter_off_a":{"assigned":0,"id":"test_local_net_filter_off_a"},"test_local_net_filter_off_b":{"assigned":1,"id":"test_local_net_filter_off_b","versionedId":"test_local_net_filter_off_b"}}},"tours_progressbar_buying":{"id":"tours_progressbar_buying","applied":1,"active":true,"forceVariant":0,"variants":{"tours_progressbar_buying_off":{"assigned":0,"id":"tours_progressbar_buying_off"},"tours_progressbar_buying_on":{"assigned":1,"id":"tours_progressbar_buying_on","versionedId":"tours_progressbar_buying_on_v03"}}},"tours_scenario_recommendation":{"id":"tours_scenario_recommendation","applied":0,"active":true,"forceVariant":0,"variants":{"tours_scenario_recommend_card":{"assigned":0,"id":"tours_scenario_recommend_card"},"tours_scenario_recommend_off":{"assigned":0,"id":"tours_scenario_recommend_off"},"tours_scenario_recommend_stamp":{"assigned":1,"id":"tours_scenario_recommend_stamp","versionedId":"tours_scenario_recommend_stamp_v04"},"tours_scenario_recommend_stat":{"assigned":0,"id":"tours_scenario_recommend_stat"}}},"tours_transfer_icon":{"id":"tours_transfer_icon","applied":0,"active":true,"forceVariant":0,"variants":{"tours_transfer_icon_hide":{"assigned":1,"id":"tours_transfer_icon_hide","versionedId":"tours_transfer_icon_hide_v02"},"tours_transfer_icon_new":{"assigned":0,"id":"tours_transfer_icon_new"},"tours_transfer_icon_old":{"assigned":0,"id":"tours_transfer_icon_old"}}},"tour_search_filter_question":{"id":"tour_search_filter_question","applied":0,"active":true,"forceVariant":0,"variants":{"tour_search_filter_question_off":{"assigned":0,"id":"tour_search_filter_question_off"},"tour_search_filter_question_on":{"assigned":1,"id":"tour_search_filter_question_on","versionedId":"tour_search_filter_question_on_v02"}}},"train_adaptive_main_zd":{"id":"train_adaptive_main_zd","applied":0,"active":true,"forceVariant":0,"variants":{"train_adaptive_main_zd_off":{"assigned":0,"id":"train_adaptive_main_zd_off"},"train_adaptive_main_zd_on":{"assigned":1,"id":"train_adaptive_main_zd_on","versionedId":"train_adaptive_main_zd_on_v05"}}},"train_android_scheme_v3":{"id":"train_android_scheme_v3","applied":0,"active":true,"forceVariant":0,"variants":{"train_android_scheme_v3_off":{"assigned":0,"id":"train_android_scheme_v3_off"},"train_android_scheme_v3_on":{"assigned":1,"id":"train_android_scheme_v3_on","versionedId":"train_android_scheme_v3_on_v02"}}},"train_android_upsale_multiple_tariffs":{"id":"train_android_upsale_multiple_tariffs","applied":0,"active":true,"forceVariant":0,"variants":{"train_android_upsale_multiple_tariffs_off":{"assigned":0,"id":"train_android_upsale_multiple_tariffs_off"},"train_android_upsale_multiple_tariffs_on":{"assigned":1,"id":"train_android_upsale_multiple_tariffs_on","versionedId":"train_android_upsale_multiple_tariffs_on_v03"}}},"train_autochoice4":{"id":"train_autochoice4","applied":0,"active":true,"forceVariant":0,"variants":{"train_autochoice4_filter":{"assigned":0,"id":"train_autochoice4_filter"},"train_autochoice4_off":{"assigned":0,"id":"train_autochoice4_off"},"train_autochoice4_old":{"assigned":0,"id":"train_autochoice4_old"},"train_autochoice4_rm_button":{"assigned":1,"id":"train_autochoice4_rm_button","versionedId":"train_autochoice4_rm_button_v01"},"train_autochoice4_single_button":{"assigned":0,"id":"train_autochoice4_single_button"}}},"train_autoticketing_new_wizard":{"id":"train_autoticketing_new_wizard","applied":0,"active":true,"forceVariant":0,"variants":{"train_autoticketing_new_wizard_off":{"assigned":0,"id":"train_autoticketing_new_wizard_off"},"train_autoticketing_new_wizard_on":{"assigned":1,"id":"train_autoticketing_new_wizard_on","versionedId":"train_autoticketing_new_wizard_on_v03"}}},"train_bu_pricing_adr":{"id":"train_bu_pricing_adr","applied":0,"active":true,"forceVariant":0,"variants":{"train_bu_pricing_adr_20220324":{"assigned":0,"id":"train_bu_pricing_adr_20220324"},"train_bu_pricing_adr_20220607_dn":{"assigned":0,"id":"train_bu_pricing_adr_20220607_dn"},"train_bu_pricing_adr_20220607_up":{"assigned":0,"id":"train_bu_pricing_adr_20220607_up"},"train_bu_pricing_adr_high":{"assigned":0,"id":"train_bu_pricing_adr_high"},"train_bu_pricing_adr_off":{"assigned":0,"id":"train_bu_pricing_adr_off"},"train_bu_pricing_adr_soft":{"assigned":1,"id":"train_bu_pricing_adr_soft","versionedId":"train_bu_pricing_adr_soft_v05"}}},"train_bu_pricing_ios":{"id":"train_bu_pricing_ios","applied":0,"active":true,"forceVariant":0,"variants":{"train_bu_pricing_ios_20220324":{"assigned":1,"id":"train_bu_pricing_ios_20220324","versionedId":"train_bu_pricing_ios_20220324_v05"},"train_bu_pricing_ios_20220607_dn":{"assigned":0,"id":"train_bu_pricing_ios_20220607_dn"},"train_bu_pricing_ios_20220607_up":{"assigned":0,"id":"train_bu_pricing_ios_20220607_up"},"train_bu_pricing_ios_high":{"assigned":0,"id":"train_bu_pricing_ios_high"},"train_bu_pricing_ios_off":{"assigned":0,"id":"train_bu_pricing_ios_off"},"train_bu_pricing_ios_soft":{"assigned":0,"id":"train_bu_pricing_ios_soft"}}},"train_bu_pricing_web":{"id":"train_bu_pricing_web","applied":0,"active":true,"forceVariant":0,"variants":{"train_bu_pricing_web_20220324":{"assigned":0,"id":"train_bu_pricing_web_20220324"},"train_bu_pricing_web_20220607_dn":{"assigned":0,"id":"train_bu_pricing_web_20220607_dn"},"train_bu_pricing_web_20220607_up":{"assigned":0,"id":"train_bu_pricing_web_20220607_up"},"train_bu_pricing_web_anl_9819":{"assigned":0,"id":"train_bu_pricing_web_anl_9819"},"train_bu_pricing_web_high":{"assigned":0,"id":"train_bu_pricing_web_high"},"train_bu_pricing_web_off":{"assigned":0,"id":"train_bu_pricing_web_off"},"train_bu_pricing_web_soft":{"assigned":1,"id":"train_bu_pricing_web_soft","versionedId":"train_bu_pricing_web_soft_v10"}}},"train_form_suggest_history":{"id":"train_form_suggest_history","applied":0,"active":true,"forceVariant":0,"variants":{"train_form_suggest_history_off":{"assigned":0,"id":"train_form_suggest_history_off"},"train_form_suggest_history_on":{"assigned":1,"id":"train_form_suggest_history_on","versionedId":"train_form_suggest_history_on_v01"}}},"train_full_return_ml_pricing":{"id":"train_full_return_ml_pricing","applied":0,"active":true,"forceVariant":0,"variants":{"train_full_return_ml_pricing_off":{"assigned":1,"id":"train_full_return_ml_pricing_off","versionedId":"train_full_return_ml_pricing_off_v02"},"train_full_return_ml_pricing_on":{"assigned":0,"id":"train_full_return_ml_pricing_on"}}},"train_insurance_description":{"id":"train_insurance_description","applied":0,"active":true,"forceVariant":0,"variants":{"train_insurance_desc_all":{"assigned":0,"id":"train_insurance_desc_all"},"train_insurance_desc_off":{"assigned":0,"id":"train_insurance_desc_off"},"train_insurance_desc_soft":{"assigned":1,"id":"train_insurance_desc_soft","versionedId":"train_insurance_desc_soft_v02"}}},"train_insurance_price":{"id":"train_insurance_price","applied":0,"active":true,"forceVariant":0,"variants":{"train_insurance_price_b":{"assigned":0,"id":"train_insurance_price_b"},"train_insurance_price_c":{"assigned":0,"id":"train_insurance_price_c"},"train_insurance_price_default":{"assigned":1,"id":"train_insurance_price_default","versionedId":"train_insurance_price_default_v02"}}},"train_ios_scheme_v3":{"id":"train_ios_scheme_v3","applied":0,"active":true,"forceVariant":0,"variants":{"train_ios_scheme_v3_off":{"assigned":0,"id":"train_ios_scheme_v3_off"},"train_ios_scheme_v3_on":{"assigned":1,"id":"train_ios_scheme_v3_on","versionedId":"train_ios_scheme_v3_on_v01"}}},"train_ios_upsale_multiple_tariffs":{"id":"train_ios_upsale_multiple_tariffs","applied":0,"active":true,"forceVariant":0,"variants":{"train_ios_upsale_multiple_tariffs_off":{"assigned":0,"id":"train_ios_upsale_multiple_tariffs_off"},"train_ios_upsale_multiple_tariffs_on":{"assigned":1,"id":"train_ios_upsale_multiple_tariffs_on","versionedId":"train_ios_upsale_multiple_tariffs_on_v03"}}},"train_main_ptt_banner":{"id":"train_main_ptt_banner","applied":0,"active":true,"forceVariant":0,"variants":{"train_main_ptt_banner_autochoose":{"assigned":0,"id":"train_main_ptt_banner_autochoose"},"train_main_ptt_banner_base":{"assigned":1,"id":"train_main_ptt_banner_base","versionedId":"train_main_ptt_banner_base_v01"},"train_main_ptt_banner_calendar":{"assigned":0,"id":"train_main_ptt_banner_calendar"},"train_main_ptt_banner_disabled":{"assigned":0,"id":"train_main_ptt_banner_disabled"},"train_main_ptt_banner_info_service":{"assigned":0,"id":"train_main_ptt_banner_info_service"},"train_main_ptt_banner_offline":{"assigned":0,"id":"train_main_ptt_banner_offline"},"train_main_ptt_banner_refund":{"assigned":0,"id":"train_main_ptt_banner_refund"}}},"train_mini_form_scroll":{"id":"train_mini_form_scroll","applied":0,"active":true,"forceVariant":0,"variants":{"train_mini_form_scroll_off":{"assigned":0,"id":"train_mini_form_scroll_off"},"train_mini_form_scroll_on":{"assigned":1,"id":"train_mini_form_scroll_on","versionedId":"train_mini_form_scroll_on_v01"}}},"train_mono_android_sales_closed_description":{"id":"train_mono_android_sales_closed_description","applied":0,"active":true,"forceVariant":0,"variants":{"train_mono_android_sales_closed_description_off":{"assigned":0,"id":"train_mono_android_sales_closed_description_off"},"train_mono_android_sales_closed_description_on":{"assigned":1,"id":"train_mono_android_sales_closed_description_on","versionedId":"train_mono_android_sales_closed_description_on_v01"}}},"train_mono_ios_sales_closed_description":{"id":"train_mono_ios_sales_closed_description","applied":0,"active":true,"forceVariant":0,"variants":{"train_mono_ios_sales_closed_description_off":{"assigned":0,"id":"train_mono_ios_sales_closed_description_off"},"train_mono_ios_sales_closed_description_on":{"assigned":1,"id":"train_mono_ios_sales_closed_description_on","versionedId":"train_mono_ios_sales_closed_description_on_v02"}}},"train_mono_new_schedule_android":{"id":"train_mono_new_schedule_android","applied":0,"active":true,"forceVariant":0,"variants":{"train_mono_new_schedule_android_off":{"assigned":0,"id":"train_mono_new_schedule_android_off"},"train_mono_new_schedule_android_on":{"assigned":1,"id":"train_mono_new_schedule_android_on","versionedId":"train_mono_new_schedule_android_on_v05"}}},"train_mono_new_schedule_ios":{"id":"train_mono_new_schedule_ios","applied":0,"active":true,"forceVariant":0,"variants":{"train_mono_new_schedule_ios_off":{"assigned":0,"id":"train_mono_new_schedule_ios_off"},"train_mono_new_schedule_ios_on":{"assigned":1,"id":"train_mono_new_schedule_ios_on","versionedId":"train_mono_new_schedule_ios_on_v06"}}},"train_mono_onboarding_android":{"id":"train_mono_onboarding_android","applied":0,"active":true,"forceVariant":0,"variants":{"train_mono_onboarding_android_off":{"assigned":1,"id":"train_mono_onboarding_android_off","versionedId":"train_mono_onboarding_android_off"},"train_mono_onboarding_android_on":{"assigned":0,"id":"train_mono_onboarding_android_on"}}},"train_mono_onboarding_ios":{"id":"train_mono_onboarding_ios","applied":0,"active":true,"forceVariant":0,"variants":{"train_mono_onboarding_ios_off":{"assigned":1,"id":"train_mono_onboarding_ios_off","versionedId":"train_mono_onboarding_ios_off"},"train_mono_onboarding_ios_on":{"assigned":0,"id":"train_mono_onboarding_ios_on"}}},"train_new_alfa_insurance_api":{"id":"train_new_alfa_insurance_api","applied":0,"active":true,"forceVariant":0,"variants":{"train_new_alfa_insurance_api_off":{"assigned":0,"id":"train_new_alfa_insurance_api_off"},"train_new_alfa_insurance_api_on":{"assigned":1,"id":"train_new_alfa_insurance_api_on","versionedId":"train_new_alfa_insurance_api_on_v02"}}},"train_new_insurance_price_v2":{"id":"train_new_insurance_price_v2","applied":0,"active":true,"forceVariant":0,"variants":{"train_new_insurance_price_v2_off":{"assigned":0,"id":"train_new_insurance_price_v2_off"},"train_new_insurance_price_v2_on":{"assigned":1,"id":"train_new_insurance_price_v2_on","versionedId":"train_new_insurance_price_v2_on_v03"}}},"train_passengers_rzd_bonus":{"id":"train_passengers_rzd_bonus","applied":0,"active":true,"forceVariant":0,"variants":{"train_passengers_rzd_bonus_off":{"assigned":0,"id":"train_passengers_rzd_bonus_off"},"train_passengers_rzd_bonus_on":{"assigned":1,"id":"train_passengers_rzd_bonus_on","versionedId":"train_passengers_rzd_bonus_on_v01"}}},"train_pricing_strategy":{"id":"train_pricing_strategy","applied":0,"active":true,"forceVariant":0,"variants":{"train_pricing_strategy_4438aid5":{"assigned":0,"id":"train_pricing_strategy_4438aid5"},"train_pricing_strategy_4438aii10":{"assigned":0,"id":"train_pricing_strategy_4438aii10"},"train_pricing_strategy_4438aii5":{"assigned":0,"id":"train_pricing_strategy_4438aii5"},"train_pricing_strategy_4438dc20":{"assigned":0,"id":"train_pricing_strategy_4438dc20"},"train_pricing_strategy_4438dc23":{"assigned":0,"id":"train_pricing_strategy_4438dc23"},"train_pricing_strategy_4438dd5":{"assigned":0,"id":"train_pricing_strategy_4438dd5"},"train_pricing_strategy_4438depth":{"assigned":0,"id":"train_pricing_strategy_4438depth"},"train_pricing_strategy_4438di10":{"assigned":0,"id":"train_pricing_strategy_4438di10"},"train_pricing_strategy_4438di5":{"assigned":0,"id":"train_pricing_strategy_4438di5"},"train_pricing_strategy_4438dwn10":{"assigned":0,"id":"train_pricing_strategy_4438dwn10"},"train_pricing_strategy_4438dwn4":{"assigned":0,"id":"train_pricing_strategy_4438dwn4"},"train_pricing_strategy_4438dwn5":{"assigned":0,"id":"train_pricing_strategy_4438dwn5"},"train_pricing_strategy_4438dwn8":{"assigned":0,"id":"train_pricing_strategy_4438dwn8"},"train_pricing_strategy_4438mr":{"assigned":1,"id":"train_pricing_strategy_4438mr","versionedId":"train_pricing_strategy_4438mr_v53"},"train_pricing_strategy_4438n5":{"assigned":0,"id":"train_pricing_strategy_4438n5"},"train_pricing_strategy_4438up10":{"assigned":0,"id":"train_pricing_strategy_4438up10"},"train_pricing_strategy_4438up4":{"assigned":0,"id":"train_pricing_strategy_4438up4"},"train_pricing_strategy_4438up5":{"assigned":0,"id":"train_pricing_strategy_4438up5"},"train_pricing_strategy_4438up8":{"assigned":0,"id":"train_pricing_strategy_4438up8"},"train_pricing_strategy_dc010":{"assigned":0,"id":"train_pricing_strategy_dc010"},"train_pricing_strategy_dc020":{"assigned":0,"id":"train_pricing_strategy_dc020"},"train_pricing_strategy_depth99":{"assigned":0,"id":"train_pricing_strategy_depth99"},"train_pricing_strategy_dep_1":{"assigned":0,"id":"train_pricing_strategy_dep_1"},"train_pricing_strategy_dep_2":{"assigned":0,"id":"train_pricing_strategy_dep_2"},"train_pricing_strategy_dm1000":{"assigned":0,"id":"train_pricing_strategy_dm1000"},"train_pricing_strategy_dm1433":{"assigned":0,"id":"train_pricing_strategy_dm1433"},"train_pricing_strategy_dm2421":{"assigned":0,"id":"train_pricing_strategy_dm2421"},"train_pricing_strategy_dm2701":{"assigned":0,"id":"train_pricing_strategy_dm2701"},"train_pricing_strategy_dm2805":{"assigned":0,"id":"train_pricing_strategy_dm2805"},"train_pricing_strategy_dm4014":{"assigned":0,"id":"train_pricing_strategy_dm4014"},"train_pricing_strategy_dm4304":{"assigned":0,"id":"train_pricing_strategy_dm4304"},"train_pricing_strategy_dm4438":{"assigned":0,"id":"train_pricing_strategy_dm4438"},"train_pricing_strategy_dm4438a":{"assigned":0,"id":"train_pricing_strategy_dm4438a"},"train_pricing_strategy_dm4438ai":{"assigned":0,"id":"train_pricing_strategy_dm4438ai"},"train_pricing_strategy_dm4804":{"assigned":0,"id":"train_pricing_strategy_dm4804"},"train_pricing_strategy_dm5129":{"assigned":0,"id":"train_pricing_strategy_dm5129"},"train_pricing_strategy_dm5399":{"assigned":0,"id":"train_pricing_strategy_dm5399"},"train_pricing_strategy_dm5643":{"assigned":0,"id":"train_pricing_strategy_dm5643"},"train_pricing_strategy_dm5761":{"assigned":0,"id":"train_pricing_strategy_dm5761"},"train_pricing_strategy_dm836":{"assigned":0,"id":"train_pricing_strategy_dm836"},"train_pricing_strategy_dm914":{"assigned":0,"id":"train_pricing_strategy_dm914"},"train_pricing_strategy_dmai02":{"assigned":0,"id":"train_pricing_strategy_dmai02"},"train_pricing_strategy_dmai04":{"assigned":0,"id":"train_pricing_strategy_dmai04"},"train_pricing_strategy_dp_min10":{"assigned":0,"id":"train_pricing_strategy_dp_min10"},"train_pricing_strategy_ic010":{"assigned":0,"id":"train_pricing_strategy_ic010"},"train_pricing_strategy_ic020":{"assigned":0,"id":"train_pricing_strategy_ic020"},"train_pricing_strategy_ic035":{"assigned":0,"id":"train_pricing_strategy_ic035"},"train_pricing_strategy_mlinit":{"assigned":0,"id":"train_pricing_strategy_mlinit"},"train_pricing_strategy_mnl99":{"assigned":0,"id":"train_pricing_strategy_mnl99"},"train_pricing_strategy_mr10":{"assigned":0,"id":"train_pricing_strategy_mr10"},"train_pricing_strategy_mr5":{"assigned":0,"id":"train_pricing_strategy_mr5"},"train_pricing_strategy_pelican":{"assigned":0,"id":"train_pricing_strategy_pelican"},"train_pricing_strategy_wide99":{"assigned":0,"id":"train_pricing_strategy_wide99"},"train_pricing_strategy_yaml":{"assigned":0,"id":"train_pricing_strategy_yaml"}}},"train_pricing_strategy_alfa":{"id":"train_pricing_strategy_alfa","applied":0,"active":true,"forceVariant":0,"variants":{"train_pricing_strategy_alfa":{"assigned":0,"id":"train_pricing_strategy_alfa"},"train_pricing_strategy_alfa_min250":{"assigned":0,"id":"train_pricing_strategy_alfa_min250"},"train_pricing_strategy_alfa_new":{"assigned":1,"id":"train_pricing_strategy_alfa_new","versionedId":"train_pricing_strategy_alfa_new_v08"},"train_pricing_strategy_alfa_rules_base_up39":{"assigned":0,"id":"train_pricing_strategy_alfa_rules_base_up39"},"train_pricing_strategy_alfa_web_default":{"assigned":0,"id":"train_pricing_strategy_alfa_web_default"}}},"train_pricing_strategy_alfa_b2b":{"id":"train_pricing_strategy_alfa_b2b","applied":0,"active":true,"forceVariant":0,"variants":{"train_pricing_strategy_alfa_b2b_web":{"assigned":0,"id":"train_pricing_strategy_alfa_b2b_web"},"train_pricing_strategy_alfa_b2b_web_default":{"assigned":1,"id":"train_pricing_strategy_alfa_b2b_web_default","versionedId":"train_pricing_strategy_alfa_b2b_web_default_v01"}}},"train_ptt_android_sales_closed_description":{"id":"train_ptt_android_sales_closed_description","applied":0,"active":true,"forceVariant":0,"variants":{"train_ptt_android_sales_closed_description_off":{"assigned":0,"id":"train_ptt_android_sales_closed_description_off"},"train_ptt_android_sales_closed_description_on":{"assigned":1,"id":"train_ptt_android_sales_closed_description_on","versionedId":"train_ptt_android_sales_closed_description_on_v03"}}},"train_ptt_autoticketing_android_v3":{"id":"train_ptt_autoticketing_android_v3","applied":0,"active":true,"forceVariant":0,"variants":{"train_ptt_autoticketing_android_v3_off":{"assigned":0,"id":"train_ptt_autoticketing_android_v3_off"},"train_ptt_autoticketing_android_v3_on":{"assigned":1,"id":"train_ptt_autoticketing_android_v3_on","versionedId":"train_ptt_autoticketing_android_v3_on_v02"}}},"train_ptt_autoticketing_ios_v3":{"id":"train_ptt_autoticketing_ios_v3","applied":0,"active":true,"forceVariant":0,"variants":{"train_ptt_autoticketing_ios_v3_off":{"assigned":0,"id":"train_ptt_autoticketing_ios_v3_off"},"train_ptt_autoticketing_ios_v3_on":{"assigned":1,"id":"train_ptt_autoticketing_ios_v3_on","versionedId":"train_ptt_autoticketing_ios_v3_on_v02"}}},"train_ptt_ios_sales_closed_description":{"id":"train_ptt_ios_sales_closed_description","applied":0,"active":true,"forceVariant":0,"variants":{"train_ptt_ios_sales_closed_description_off":{"assigned":0,"id":"train_ptt_ios_sales_closed_description_off"},"train_ptt_ios_sales_closed_description_on":{"assigned":1,"id":"train_ptt_ios_sales_closed_description_on","versionedId":"train_ptt_ios_sales_closed_description_on_v02"}}},"train_schedule_without_date_ptt_banner":{"id":"train_schedule_without_date_ptt_banner","applied":0,"active":true,"forceVariant":0,"variants":{"train_schedule_without_date_ptt_banner_autochoose":{"assigned":0,"id":"train_schedule_without_date_ptt_banner_autochoose"},"train_schedule_without_date_ptt_banner_booking_upsale":{"assigned":0,"id":"train_schedule_without_date_ptt_banner_booking_upsale"},"train_schedule_without_date_ptt_banner_calendar":{"assigned":1,"id":"train_schedule_without_date_ptt_banner_calendar","versionedId":"train_schedule_without_date_ptt_banner_calendar_v04"},"train_schedule_without_date_ptt_banner_disabled":{"assigned":0,"id":"train_schedule_without_date_ptt_banner_disabled"},"train_schedule_without_date_ptt_banner_info_service":{"assigned":0,"id":"train_schedule_without_date_ptt_banner_info_service"},"train_schedule_without_date_ptt_banner_offline":{"assigned":0,"id":"train_schedule_without_date_ptt_banner_offline"},"train_schedule_without_date_ptt_banner_promocode":{"assigned":0,"id":"train_schedule_without_date_ptt_banner_promocode"},"train_schedule_without_date_ptt_banner_refund":{"assigned":0,"id":"train_schedule_without_date_ptt_banner_refund"}}},"train_seo_pages_ptt_banner":{"id":"train_seo_pages_ptt_banner","applied":0,"active":true,"forceVariant":0,"variants":{"train_seo_pages_ptt_banner_off":{"assigned":0,"id":"train_seo_pages_ptt_banner_off"},"train_seo_pages_ptt_banner_on":{"assigned":1,"id":"train_seo_pages_ptt_banner_on","versionedId":"train_seo_pages_ptt_banner_on_v02"}}},"train_success_ptt_banner":{"id":"train_success_ptt_banner","applied":0,"active":true,"forceVariant":0,"variants":{"train_success_ptt_banner_calendar":{"assigned":0,"id":"train_success_ptt_banner_calendar"},"train_success_ptt_banner_disabled":{"assigned":0,"id":"train_success_ptt_banner_disabled"},"train_success_ptt_banner_info_service":{"assigned":0,"id":"train_success_ptt_banner_info_service"},"train_success_ptt_banner_offline":{"assigned":1,"id":"train_success_ptt_banner_offline","versionedId":"train_success_ptt_banner_offline_v02"},"train_success_ptt_banner_refund":{"assigned":0,"id":"train_success_ptt_banner_refund"}}},"train_swod_tag_desc":{"id":"train_swod_tag_desc","applied":0,"active":true,"forceVariant":0,"variants":{"train_swod_tag_desc_off":{"assigned":0,"id":"train_swod_tag_desc_off"},"train_swod_tag_desc_on":{"assigned":1,"id":"train_swod_tag_desc_on","versionedId":"train_swod_tag_desc_on_v01"}}},"train_vid_sales_closed_description":{"id":"train_vid_sales_closed_description","applied":0,"active":true,"forceVariant":0,"variants":{"train_vid_sales_closed_description_off":{"assigned":0,"id":"train_vid_sales_closed_description_off"},"train_vid_sales_closed_description_on":{"assigned":1,"id":"train_vid_sales_closed_description_on","versionedId":"train_vid_sales_closed_description_on_v01"}}},"train_web_booking_upsale_tariffs":{"id":"train_web_booking_upsale_tariffs","applied":0,"active":true,"forceVariant":0,"variants":{"train_web_booking_upsale_tariffs_off":{"assigned":0,"id":"train_web_booking_upsale_tariffs_off"},"train_web_booking_upsale_tariffs_on":{"assigned":1,"id":"train_web_booking_upsale_tariffs_on","versionedId":"train_web_booking_upsale_tariffs_on_v02"}}},"train_wizard_b2b":{"id":"train_wizard_b2b","applied":0,"active":true,"forceVariant":0,"variants":{"train_wizard_b2b_hide":{"assigned":1,"id":"train_wizard_b2b_hide","versionedId":"train_wizard_b2b_hide"},"train_wizard_b2b_show":{"assigned":0,"id":"train_wizard_b2b_show"}}},"train_wizard_company_payment":{"id":"train_wizard_company_payment","applied":0,"active":true,"forceVariant":0,"variants":{"train_wizard_company_payment_off":{"assigned":0,"id":"train_wizard_company_payment_off"},"train_wizard_company_payment_on":{"assigned":1,"id":"train_wizard_company_payment_on","versionedId":"train_wizard_company_payment_on_v01"}}},"train_wizard_google_pay":{"id":"train_wizard_google_pay","applied":0,"active":true,"forceVariant":0,"variants":{"train_wizard_google_pay_off":{"assigned":0,"id":"train_wizard_google_pay_off"},"train_wizard_google_pay_on":{"assigned":1,"id":"train_wizard_google_pay_on","versionedId":"train_wizard_google_pay_on_v01"}}},"train_wizard_redesign2":{"id":"train_wizard_redesign2","applied":0,"active":true,"forceVariant":0,"variants":{"train_wizard_redesign2_hide_sf":{"assigned":0,"id":"train_wizard_redesign2_hide_sf"},"train_wizard_redesign2_nocb":{"assigned":1,"id":"train_wizard_redesign2_nocb","versionedId":"train_wizard_redesign2_nocb_v02"},"train_wizard_redesign2_off":{"assigned":0,"id":"train_wizard_redesign2_off"},"train_wizard_redesign2_on":{"assigned":0,"id":"train_wizard_redesign2_on"}}},"USA-3847-checkout":{"id":"USA-3847-checkout","applied":0,"active":true,"forceVariant":0,"variants":{"USA-3847-new-checkout":{"assigned":1,"id":"USA-3847-new-checkout","versionedId":"USA-3847-new-checkout_v07"},"USA-3847-old-wizard":{"assigned":0,"id":"USA-3847-old-wizard"}}},"USA-4245-booking-upsales":{"id":"USA-4245-booking-upsales","applied":0,"active":true,"forceVariant":0,"variants":{"USA-4245-booking-upsale":{"assigned":0,"id":"USA-4245-booking-upsale"},"USA-4245-paylater":{"assigned":1,"id":"USA-4245-paylater","versionedId":"USA-4245-paylater_v03"}}},"VID-1807_remove_hotel_loading":{"id":"VID-1807_remove_hotel_loading","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1807_hotels_unload_off":{"assigned":0,"id":"VID-1807_hotels_unload_off"},"VID-1807_hotels_unload_on":{"assigned":1,"id":"VID-1807_hotels_unload_on","versionedId":"VID-1807_hotels_unload_on_v01"}}},"VID-1945_bronevik":{"id":"VID-1945_bronevik","applied":0,"active":true,"forceVariant":0,"variants":{"VID-1945_bronevik_off":{"assigned":0,"id":"VID-1945_bronevik_off"},"VID-1945_bronevik_on":{"assigned":1,"id":"VID-1945_bronevik_on","versionedId":"VID-1945_bronevik_on_v03"}}},"vid_avia_card_v2":{"id":"vid_avia_card_v2","applied":0,"active":true,"forceVariant":0,"variants":{"vid_avia_card_v2_off":{"assigned":0,"id":"vid_avia_card_v2_off"},"vid_avia_card_v2_on":{"assigned":1,"id":"vid_avia_card_v2_on","versionedId":"vid_avia_card_v2_on_v01"}}},"vid_avia_form_separate_date":{"id":"vid_avia_form_separate_date","applied":0,"active":true,"forceVariant":0,"variants":{"vid_avia_form_separate_date_off":{"assigned":0,"id":"vid_avia_form_separate_date_off"},"vid_avia_form_separate_date_on":{"assigned":1,"id":"vid_avia_form_separate_date_on","versionedId":"vid_avia_form_separate_date_on_v03"}}},"vid_avia_modal_bfr_wizard":{"id":"vid_avia_modal_bfr_wizard","applied":0,"active":true,"forceVariant":0,"variants":{"vid_avia_modal_bfr_wizard_off":{"assigned":0,"id":"vid_avia_modal_bfr_wizard_off"},"vid_avia_modal_bfr_wizard_on":{"assigned":1,"id":"vid_avia_modal_bfr_wizard_on","versionedId":"vid_avia_modal_bfr_wizard_on_v02"}}},"vid_avia_offers_new_card":{"id":"vid_avia_offers_new_card","applied":0,"active":true,"forceVariant":0,"variants":{"vid_avia_offers_new_card_off":{"assigned":0,"id":"vid_avia_offers_new_card_off"},"vid_avia_offers_new_card_on":{"assigned":1,"id":"vid_avia_offers_new_card_on","versionedId":"vid_avia_offers_new_card_on_v02"}}},"vid_hide_departed_trains":{"id":"vid_hide_departed_trains","applied":0,"active":true,"forceVariant":0,"variants":{"vid_hide_departed_trains_off":{"assigned":0,"id":"vid_hide_departed_trains_off"},"vid_hide_departed_trains_on":{"assigned":1,"id":"vid_hide_departed_trains_on","versionedId":"vid_hide_departed_trains_on_v01"}}},"vid_hotels_bronevik_offers":{"id":"vid_hotels_bronevik_offers","applied":0,"active":true,"forceVariant":0,"variants":{"vid_hotels_bronevik_offers_off":{"assigned":0,"id":"vid_hotels_bronevik_offers_off"},"vid_hotels_bronevik_offers_on":{"assigned":1,"id":"vid_hotels_bronevik_offers_on","versionedId":"vid_hotels_bronevik_offers_on_v06"}}},"vid_hotels_card_v2":{"id":"vid_hotels_card_v2","applied":0,"active":true,"forceVariant":0,"variants":{"vid_hotels_card_v2_off":{"assigned":0,"id":"vid_hotels_card_v2_off"},"vid_hotels_card_v2_on":{"assigned":1,"id":"vid_hotels_card_v2_on","versionedId":"vid_hotels_card_v2_on_v01"}}},"vid_hotels_open_unified_details":{"id":"vid_hotels_open_unified_details","applied":0,"active":true,"forceVariant":0,"variants":{"vid_hotels_open_unified_details_off":{"assigned":1,"id":"vid_hotels_open_unified_details_off","versionedId":"vid_hotels_open_unified_details_off_v08"},"vid_hotels_open_unified_details_on":{"assigned":0,"id":"vid_hotels_open_unified_details_on"}}},"vid_hotels_sutochno":{"id":"vid_hotels_sutochno","applied":0,"active":true,"forceVariant":0,"variants":{"vid_hotels_sutochno_off":{"assigned":0,"id":"vid_hotels_sutochno_off"},"vid_hotels_sutochno_on":{"assigned":1,"id":"vid_hotels_sutochno_on","versionedId":"vid_hotels_sutochno_on_v03"}}},"vid_hotel_map_switch_visible":{"id":"vid_hotel_map_switch_visible","applied":0,"active":true,"forceVariant":0,"variants":{"vid_hotel_map_switch_visible_off":{"assigned":0,"id":"vid_hotel_map_switch_visible_off"},"vid_hotel_map_switch_visible_on":{"assigned":1,"id":"vid_hotel_map_switch_visible_on","versionedId":"vid_hotel_map_switch_visible_on_v01"}}},"vid_impr_unified_search":{"id":"vid_impr_unified_search","applied":0,"active":true,"forceVariant":0,"variants":{"vid_impr_unified_search_check":{"assigned":1,"id":"vid_impr_unified_search_check","versionedId":"vid_impr_unified_search_check_v03"},"vid_impr_unified_search_off":{"assigned":0,"id":"vid_impr_unified_search_off"},"vid_impr_unified_search_on":{"assigned":0,"id":"vid_impr_unified_search_on"}}},"vid_informers":{"id":"vid_informers","applied":0,"active":true,"forceVariant":0,"variants":{"vid_informers_off":{"assigned":0,"id":"vid_informers_off"},"vid_informers_on":{"assigned":1,"id":"vid_informers_on","versionedId":"vid_informers_on"}}},"vid_mtp_offers_with_other_transports_web":{"id":"vid_mtp_offers_with_other_transports_web","applied":0,"active":true,"forceVariant":0,"variants":{"vid_mtp_offers_with_other_transports_web_off":{"assigned":0,"id":"vid_mtp_offers_with_other_transports_web_off"},"vid_mtp_offers_with_other_transports_web_on":{"assigned":1,"id":"vid_mtp_offers_with_other_transports_web_on","versionedId":"vid_mtp_offers_with_other_transports_web_on_v01"}}},"vid_new_header_offers":{"id":"vid_new_header_offers","applied":0,"active":true,"forceVariant":0,"variants":{"vid_new_header_offers_off":{"assigned":0,"id":"vid_new_header_offers_off"},"vid_new_header_offers_on":{"assigned":1,"id":"vid_new_header_offers_on","versionedId":"vid_new_header_offers_on_v02"}}},"vid_other_dates_round_trip_avia":{"id":"vid_other_dates_round_trip_avia","applied":0,"active":true,"forceVariant":0,"variants":{"vid_other_dates_round_trip_avia_off":{"assigned":0,"id":"vid_other_dates_round_trip_avia_off"},"vid_other_dates_round_trip_avia_on":{"assigned":1,"id":"vid_other_dates_round_trip_avia_on","versionedId":"vid_other_dates_round_trip_avia_on_v02"}}},"vid_ptt_ad_train":{"id":"vid_ptt_ad_train","applied":0,"active":true,"forceVariant":0,"variants":{"vid_ptt_ad_train_off":{"assigned":0,"id":"vid_ptt_ad_train_off"},"vid_ptt_ad_train_on":{"assigned":1,"id":"vid_ptt_ad_train_on","versionedId":"vid_ptt_ad_train_on_v02"}}},"vid_simple_unified_search":{"id":"vid_simple_unified_search","applied":0,"active":true,"forceVariant":0,"variants":{"vid_simple_unified_search_off":{"assigned":0,"id":"vid_simple_unified_search_off"},"vid_simple_unified_search_on":{"assigned":1,"id":"vid_simple_unified_search_on","versionedId":"vid_simple_unified_search_on_v02"}}},"vid_sutochno_android":{"id":"vid_sutochno_android","applied":0,"active":true,"forceVariant":0,"variants":{"vid_sutochno_android_off":{"assigned":1,"id":"vid_sutochno_android_off","versionedId":"vid_sutochno_android_off"},"vid_sutochno_android_on":{"assigned":0,"id":"vid_sutochno_android_on"}}},"vid_sutochno_ios":{"id":"vid_sutochno_ios","applied":0,"active":true,"forceVariant":0,"variants":{"vid_sutochno_ios_off":{"assigned":1,"id":"vid_sutochno_ios_off","versionedId":"vid_sutochno_ios_off"},"vid_sutochno_ios_on":{"assigned":0,"id":"vid_sutochno_ios_on"}}},"vid_tours_promotion":{"id":"vid_tours_promotion","applied":0,"active":true,"forceVariant":0,"variants":{"vid_tours_promotion_off":{"assigned":1,"id":"vid_tours_promotion_off","versionedId":"vid_tours_promotion_off_v01"},"vid_tours_promotion_on":{"assigned":0,"id":"vid_tours_promotion_on"}}},"vid_train_bdui_banner":{"id":"vid_train_bdui_banner","applied":0,"active":true,"forceVariant":0,"variants":{"vid_train_bdui_banner_off":{"assigned":0,"id":"vid_train_bdui_banner_off"},"vid_train_bdui_banner_on":{"assigned":1,"id":"vid_train_bdui_banner_on","versionedId":"vid_train_bdui_banner_on_v01"}}},"vid_train_card_kite_web":{"id":"vid_train_card_kite_web","applied":0,"active":true,"forceVariant":0,"variants":{"vid_train_card_kite_web_detail_modal_on":{"assigned":1,"id":"vid_train_card_kite_web_detail_modal_on","versionedId":"vid_train_card_kite_web_detail_modal_on_v04"},"vid_train_card_kite_web_off":{"assigned":0,"id":"vid_train_card_kite_web_off"},"vid_train_card_kite_web_on":{"assigned":0,"id":"vid_train_card_kite_web_on"}}},"vid_train_offers":{"id":"vid_train_offers","applied":0,"active":true,"forceVariant":0,"variants":{"vid_train_offers_new_feature":{"assigned":1,"id":"vid_train_offers_new_feature","versionedId":"vid_train_offers_new_feature_v07"},"vid_train_offers_off":{"assigned":0,"id":"vid_train_offers_off"},"vid_train_offers_on":{"assigned":0,"id":"vid_train_offers_on"}}},"vid_train_offers_sorting":{"id":"vid_train_offers_sorting","applied":0,"active":true,"forceVariant":0,"variants":{"vid_train_offers_sorting_off":{"assigned":0,"id":"vid_train_offers_sorting_off"},"vid_train_offers_sorting_on":{"assigned":1,"id":"vid_train_offers_sorting_on","versionedId":"vid_train_offers_sorting_on_v01"}}},"vid_train_othertransport":{"id":"vid_train_othertransport","applied":0,"active":true,"forceVariant":0,"variants":{"vid_train_othertransport_off":{"assigned":0,"id":"vid_train_othertransport_off"},"vid_train_othertransport_on":{"assigned":1,"id":"vid_train_othertransport_on","versionedId":"vid_train_othertransport_on_v03"},"vid_train_othertransport_without":{"assigned":0,"id":"vid_train_othertransport_without"}}},"vid_train_passengers":{"id":"vid_train_passengers","applied":0,"active":true,"forceVariant":0,"variants":{"vid_train_passengers_off":{"assigned":0,"id":"vid_train_passengers_off"},"vid_train_passengers_on":{"assigned":1,"id":"vid_train_passengers_on","versionedId":"vid_train_passengers_on_v02"}}},"vid_unified_one_page_search":{"id":"vid_unified_one_page_search","applied":0,"active":true,"forceVariant":0,"variants":{"vid_unified_one_page_search_off":{"assigned":0,"id":"vid_unified_one_page_search_off"},"vid_unified_one_page_search_on":{"assigned":1,"id":"vid_unified_one_page_search_on","versionedId":"vid_unified_one_page_search_on_v02"}}},"web_hotels_new_search_routing_test":{"id":"web_hotels_new_search_routing_test","applied":0,"active":true,"forceVariant":0,"variants":{"new_offers_page":{"assigned":1,"id":"new_offers_page","versionedId":"new_offers_page_v07"},"old_offers_page":{"assigned":0,"id":"old_offers_page"}}},"web_main_search_form_jarvel":{"id":"web_main_search_form_jarvel","applied":1,"active":true,"forceVariant":0,"variants":{"web_main_search_form_jarvel_off":{"assigned":0,"id":"web_main_search_form_jarvel_off"},"web_main_search_form_jarvel_on":{"assigned":1,"id":"web_main_search_form_jarvel_on","versionedId":"web_main_search_form_jarvel_on_v01"}}},"web_main_top_bdui_banner":{"id":"web_main_top_bdui_banner","applied":0,"active":true,"forceVariant":0,"variants":{"web_main_top_bdui_banner_off":{"assigned":0,"id":"web_main_top_bdui_banner_off"},"web_main_top_bdui_banner_on":{"assigned":1,"id":"web_main_top_bdui_banner_on","versionedId":"web_main_top_bdui_banner_on_v01"}}},"web_main_tours_jarvel_badge":{"id":"web_main_tours_jarvel_badge","applied":1,"active":true,"forceVariant":0,"variants":{"web_main_tours_jarvel_badge_off":{"assigned":0,"id":"web_main_tours_jarvel_badge_off"},"web_main_tours_jarvel_badge_on":{"assigned":1,"id":"web_main_tours_jarvel_badge_on","versionedId":"web_main_tours_jarvel_badge_on"}}},"web_tours_multi_search":{"id":"web_tours_multi_search","applied":1,"active":true,"forceVariant":0,"variants":{"web_tours_multi_search_off":{"assigned":1,"id":"web_tours_multi_search_off","versionedId":"web_tours_multi_search_off"},"web_tours_multi_search_on":{"assigned":0,"id":"web_tours_multi_search_on"}}}},"sessionId":"73141125-1bb0-4279-8a28-030ffc751b78"};
+var RM = RM || {}; RM.StaticData = RM.StaticData || {}; RM.StaticData.isProduction = "1";
+var RM = RM || {}; RM.StaticData = RM.StaticData || {}; RM.StaticData["session"] = [];
+var RM = RM || {}; RM.StaticData = RM.StaticData || {}; RM.StaticData["cookiePropagatorConf"] = "need_propagation";RM.StaticData["cookiePropagatorHash"] = "09b0cd4f453f0e2e0e57eac914187d83";
+var RM = RM || {}; RM.StaticData = RM.StaticData || {}; RM.StaticData["urlCdnConfig"] = {"cdn_images_enabled":1,"cdn_static_enabled":1,"cdn_images_host":"cdn2.tu-tu.ru","cdn_static_host":"cdn1.tu-tu.ru"};</script>
+<script type="text/javascript" src="https://cdn1.tu-tu.ru/scripts/build/url.js.2374d8891ec81c34731000857054dfd111.js"></script>
+<script type="text/javascript" src="https://cdn1.tu-tu.ru/scripts/build/tutu.rus.js.bb05926f711cd81212a1d95d1858dba01.js"></script>
+						
+			<script src="https://ux.tutu.ru/preloader.js?page_name=etrain_scheme" async=""></script>	
+		<!--[if lte IE 7]>
+	<link href="https://cdn1.tu-tu.ru/css2/style_ie7.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+
+
+		
+	<script type="text/javascript">
+		window.headerBlock = new RM_Tutu_HeaderBlock();
+		window.headerBlock.onStart();
+	</script>
+				<script>
+
+    (function () {
+        'use strict';
+
+        // ========================================
+        // КОНФИГУРАЦИЯ
+        // ========================================
+
+        const CONFIG = {
+            // Основные настройки
+            ownerId: 331143,
+            timeout: 500,
+            maxTries: 100,
+            checkInterval: 100,
+
+            // Настройки Header Bidding
+            headerBidding: {
+                scriptUrl: 'https://yastatic.net/pcode/adfox/header-bidding.js',
+                biddersMap: {
+                    'otm': '3335668',
+                    'myTarget': '3337433'
+                },
+                adUnits: [
+                    {
+                        code: 'adfox_16464316698999676', // billboard
+                        codeType: 'combo',
+                        sizes: [[728, 90], [970, 90]],
+                        bids: [
+                            {
+                                bidder: 'myTarget',
+                                params: { placementId: '1819802' }
+                            },
+                            {
+                                bidder: 'otm',
+                                params: { placementId: '5091' }
+                            }
+                        ]
+                    },
+                    {
+                        code: 'adfox_164643181943925106', // small_sidebar
+                        codeType: 'combo',
+                        sizes: [[300, 300], [300, 250]],
+                        bids: [
+                            {
+                                bidder: 'otm',
+                                params: { placementId: '101702' }
+                            },
+                            {
+                                bidder: 'myTarget',
+                                params: { placementId: '1819808' }
+                            }
+                        ]
+                    },
+                    {
+                        code: 'adfox_164643179874468702', // sidebar
+                        codeType: 'combo',
+                        sizes: [[300, 600], [240, 400]],
+                        bids: [
+                            {
+                                bidder: 'otm',
+                                params: { placementId: '5093' }
+                            },
+                            {
+                                bidder: 'myTarget',
+                                params: { placementId: '1819806' }
+                            }
+                        ]
+                    },
+                    {
+                        code: 'adfox_164643175813887148', // desktop_inread
+                        codeType: 'combo',
+                        sizes: [[728, 90], [970, 90]],
+                        bids: [
+                            {
+                                bidder: 'otm',
+                                params: { placementId: '5092' }
+                            },
+                            {
+                                bidder: 'myTarget',
+                                params: { placementId: '1819812' }
+                            }
+                        ]
+                    },
+                    {
+                        code: 'adfox_164643184152151422', // desktop_footer
+                        codeType: 'combo',
+                        sizes: [[728, 90], [970, 90], [970, 250]],
+                        bids: [
+                            {
+                                bidder: 'otm',
+                                params: { placementId: '5094' }
+                            },
+                            {
+                                bidder: 'myTarget',
+                                params: { placementId: '1819814' }
+                            }
+                        ]
+                    }
+                ]
+            },
+
+            // Конфигурация рекламных блоков
+            adBlocks: {
+                billboard: {
+                    containerId: 'adfox_16464316698999676',
+                    placement: '#wrapper',
+                    insertMethod: 'insertBefore',
+                    params: {
+                        pp: 'g',
+                        ps: 'dycm',
+                        p2: 'hnjf'
+                    },
+                    containerStyles: {
+                        height: '180px',
+                        transition: 'height 1s ease',
+                        position: 'relative',
+                        textAlign: 'center',
+                        maxHeight: '180px',
+                        overflow: 'hidden',
+                        maxWidth: '1440px',
+                        margin: '0 auto'
+                    },
+                    elementStyles: {
+                        textAlign: 'center'
+                    },
+                    hasOnRender: true
+                },
+                smallSidebar: {
+                    containerId: 'adfox_164643181943925106',
+                    placement: '.l-etrain__all_prices_block',
+                    insertMethod: 'after',
+                    params: {
+                        pp: 'h',
+                        ps: 'dycm',
+                        p2: 'hnjj'
+                    },
+                    containerStyles: {
+                        textAlign: 'center',
+                        width: '100%',
+                        padding: '10px 0'
+                    }
+                },
+                sidebar: {
+                    containerId: 'adfox_164643179874468702',
+                    placement: '.l-etrain__all_prices_block',
+                    insertMethod: 'after',
+                    params: {
+                        pp: 'h',
+                        ps: 'dycm',
+                        p2: 'hnji'
+                    },
+                    containerStyles: {
+                        textAlign: 'center',
+                        width: '100%',
+                        padding: '10px 0'
+                    }
+                },
+                inread: {
+                    containerId: 'adfox_164643175813887148',
+                    placement: '#timetable',
+                    insertMethod: 'appendChild',
+                    delay: 0,
+                    params: {
+                        pp: 'h',
+                        ps: 'dycm',
+                        p2: 'hnjg'
+                    },
+                    containerStyles: {
+                        textAlign: 'center',
+                        width: '100%',
+                        position: 'sticky',
+                        bottom: '0',
+                        maxHeight: '100px'
+                    }
+                },
+                footer: {
+                    containerId: 'adfox_164643184152151422',
+                    placement: '#wrapper',
+                    insertMethod: 'after',
+                    params: {
+                        pp: 'i',
+                        ps: 'dycm',
+                        p2: 'hnjk'
+                    },
+                    containerStyles: {
+                        position: 'relative',
+                        textAlign: 'center',
+                        overflow: 'hidden',
+                        margin: '0 auto',
+                        paddingTop: '20px',
+                        maxWidth: '1440px',
+                        maxHeight: '300px'
+                    }
+                },
+                feed: {
+                    containerId: 'adfox_176166292449679550',
+                    placement: '.l-etrain__schedule_extras',
+                    insertMethod: 'after',
+                    params: {
+                        p1: 'dkvis',
+                        p2: 'jpfu'
+                    },
+                    containerStyles: {
+                        textAlign: 'center',
+                        width: '100%',
+                        marginTop: '10px'
+                    }
+                }
+            }
+        };
+
+        // ========================================
+        // ГЛОБАЛЬНЫЕ ПЕРЕМЕННЫЕ
+        // ========================================
+
+        let urlParams = {};
+        let keySt1, keySt2;
+        let codeLoaded = false;
+
+        // ========================================
+        // УТИЛИТЫ
+        // ========================================
+
+        /**
+         * Загружает внешний скрипт
+         * @param {string} src - URL скрипта
+         * @param {boolean} async - асинхронная загрузка
+         * @returns {HTMLScriptElement}
+         */
+        function loadScript(src, async = false) {
+            const script = document.createElement('script');
+            const firstScript = document.getElementsByTagName('script')[0];
+
+            script.type = 'text/javascript';
+            script.src = src;
+            if (async) script.async = true;
+
+            firstScript.parentNode.insertBefore(script, firstScript);
+            return script;
+        }
+
+        /**
+         * Применяет стили к элементу
+         * @param {HTMLElement} element - элемент
+         * @param {Object} styles - объект стилей
+         */
+        function applyStyles(element, styles) {
+            if (!element || !styles) return;
+
+            Object.keys(styles).forEach(property => {
+                element.style[property] = styles[property];
+            });
+        }
+
+        /**
+         * Парсит URL параметры
+         */
+        function parseUrlParams() {
+            const match = /([^&=]+)=?([^&]*)/g;
+            const decode = s => decodeURIComponent(s.replace(/\+/g, ' '));
+            const query = window.location.search.substring(1);
+
+            urlParams = {};
+            let result;
+            while ((result = match.exec(query))) {
+                urlParams[decode(result[1])] = decode(result[2]);
+            }
+
+            keySt1 = urlParams['st1'];
+            keySt2 = urlParams['st2'];
+        }
+
+        // ========================================
+        // HEADER BIDDING
+        // ========================================
+
+        /**
+         * Инициализирует Yandex Header Bidding
+         */
+        function initializeHeaderBidding() {
+            try {
+                // Загружаем скрипт Header Bidding
+                loadScript(CONFIG.headerBidding.scriptUrl);
+
+                // Настраиваем Header Bidding
+                window.YaHeaderBiddingSettings = {
+                    biddersMap: CONFIG.headerBidding.biddersMap,
+                    adUnits: CONFIG.headerBidding.adUnits,
+                    timeout: CONFIG.timeout
+                };
+
+                console.log('Header Bidding инициализирован');
+            } catch (error) {
+                console.error('Ошибка инициализации Header Bidding:', error);
+            }
+        }
+
+        /**
+         * Инициализирует Yandex контекстную рекламу
+         */
+        function initializeYandexAds() {
+            try {
+                window.yaContextCb = window.yaContextCb || [];
+                loadScript('https://yandex.ru/ads/system/context.js', true);
+                console.log('Yandex Ads инициализирован');
+            } catch (error) {
+                console.error('Ошибка инициализации Yandex Ads:', error);
+            }
+        }
+
+        // ========================================
+        // СОЗДАНИЕ РЕКЛАМНЫХ БЛОКОВ
+        // ========================================
+
+        /**
+         * Создает рекламный блок
+         * @param {string} blockName - название блока
+         * @param {Object} config - конфигурация блока
+         */
+        function createAdBlock(blockName, config) {
+            try {
+                const placementElement = document.querySelector(config.placement);
+                if (!placementElement) {
+                    console.warn(`Элемент для размещения ${blockName} не найден: ${config.placement}`);
+                    return false;
+                }
+
+                // Создаем элементы
+                const container = document.createElement('div');
+                const adElement = document.createElement('div');
+
+                // Устанавливаем ID
+                adElement.id = config.containerId;
+
+                // Специальная обработка для billboard
+                if (blockName === 'billboard') {
+                    container.id = 'DBdesktopBillboard';
+                }
+
+                // Применяем стили
+                if (config.containerStyles) {
+                    applyStyles(container, config.containerStyles);
+                }
+                if (config.elementStyles) {
+                    applyStyles(adElement, config.elementStyles);
+                }
+
+                // Вставляем в DOM
+                switch (config.insertMethod) {
+                    case 'insertBefore':
+                        document.body.insertBefore(container, placementElement);
+                        break;
+                    case 'appendChild':
+                        placementElement.appendChild(container);
+                        break;
+                    case 'after':
+                    default:
+                        placementElement.after(container);
+                        break;
+                }
+
+                container.appendChild(adElement);
+
+                // Создаем рекламный код
+                createAdCode(config);
+
+                console.log(`Блок ${blockName} создан успешно`);
+                return true;
+            } catch (error) {
+                console.error(`Ошибка создания блока ${blockName}:`, error);
+                return false;
+            }
+        }
+
+        /**
+         * Создает код рекламы через AdFox
+         * @param {Object} config - конфигурация блока
+         */
+        function createAdCode(config) {
+            if (!window.yaContextCb) {
+                console.error('yaContextCb не доступен');
+                return;
+            }
+
+            const adParams = {
+                ...config.params,
+                puid1: keySt1,
+                puid2: keySt2
+            };
+
+            const adOptions = {
+                ownerId: CONFIG.ownerId,
+                containerId: config.containerId,
+                params: adParams
+            };
+
+            // Добавляем onRender для billboard
+            if (config.hasOnRender) {
+                adOptions.onRender = function () {
+                    try {
+                        const adElement = document.getElementById(config.containerId);
+                        const containerElement = document.getElementById('DBdesktopBillboard');
+                        if (adElement && containerElement) {
+                            const newHeight = adElement.offsetHeight;
+                            containerElement.style.height = newHeight + 'px';
+                        }
+                    } catch (error) {
+                        console.error('Ошибка в onRender callback:', error);
+                    }
+                };
+            }
+
+            window.yaContextCb.push(() => {
+                try {
+                    window.Ya.adfoxCode.create(adOptions);
+                } catch (error) {
+                    console.error(`Ошибка создания AdFox кода для ${config.containerId}:`, error);
+                }
+            });
+        }
+
+        // ========================================
+        // ОСНОВНЫЕ ФУНКЦИИ БЛОКОВ
+        // ========================================
+
+        function createDesktopBillboard() {
+            return createAdBlock('billboard', CONFIG.adBlocks.billboard);
+        }
+
+        function createDesktopSmallSidebar() {
+            return createAdBlock('smallSidebar', CONFIG.adBlocks.smallSidebar);
+        }
+
+        function createDesktopSidebar() {
+            return createAdBlock('sidebar', CONFIG.adBlocks.sidebar);
+        }
+
+        function createDesktopInread() {
+            const config = CONFIG.adBlocks.inread;
+
+            function createInreadBlock() {
+                createAdBlock('inread', config);
+            }
+
+            if (config.delay) {
+                setTimeout(createInreadBlock, config.delay);
+            } else {
+                createInreadBlock();
+            }
+        }
+
+        function createDesktopFooter() {
+            return createAdBlock('footer', CONFIG.adBlocks.footer);
+        }
+
+        function createDesktopFeed() {
+            if (window.abInstance && window.abInstance.checkAndSaveVariant("etrain_rasp_new_ads_format_on")) {
+                return createAdBlock('feed', CONFIG.adBlocks.feed);
+            }
+        }
+
+        // ========================================
+        // ДОПОЛНИТЕЛЬНЫЕ ФУНКЦИИ
+        // ========================================
+
+        /**
+         * Настраивает фиксированный сайдбар
+         */
+        function setupFixedSidebar() {
+            try {
+                const windowWidth = window.innerWidth;
+                if (windowWidth < 994) return;
+
+                const mainWrapper = document.getElementById('wrapper');
+                const mainSidebar = document.querySelector('.l-sidebar');
+                const priceBlock = document.querySelector('.l-etrain__all_prices_block');
+                const footerWrapper = document.querySelector('.b-etrain__products_banner');
+
+                if (mainWrapper) {
+                    applyStyles(mainWrapper, {
+                        overflow: 'unset',
+                        boxShadow: '0px 0px 10px rgb(0 0 0 / 50%)',
+                        background: '#fff',
+                        paddingTop: '5px'
+                    });
+                }
+
+                if (mainSidebar) {
+                    applyStyles(mainSidebar, {
+                        position: 'sticky',
+                        top: '0'
+                    });
+                }
+
+                if (priceBlock) {
+                    priceBlock.style.width = '100%';
+                }
+
+                if (document.body) {
+                    document.body.style.background = 'rgba(0,0,0,0.05)';
+                }
+
+                if (footerWrapper) {
+                    footerWrapper.remove();
+                }
+
+                console.log('Фиксированный сайдбар настроен');
+            } catch (error) {
+                console.error('Ошибка настройки фиксированного сайдбара:', error);
+            }
+        }
+
+        /**
+         * Выполняет действия в зависимости от страницы
+         */
+        function executePageSpecificLogic() {
+            try {
+                const pathname = window.location.pathname;
+
+                if (pathname.indexOf('rasp.php') !== -1) {
+                    setupFixedSidebar();
+                    createDesktopInread();
+                    createDesktopSidebar();
+                    createDesktopSmallSidebar();
+                    setTimeout(createDesktopFeed, 0)
+                } else if (pathname.indexOf('prigorod') !== -1) {
+                    console.log('ready for ads - prigorod');
+                } else if (pathname.indexOf('station.php') !== -1) {
+                    console.log('ready for ads - station');
+                    const wrapper = document.getElementById('wrapper');
+                    if (wrapper) {
+                        wrapper.style.overflow = 'hidden';
+                    }
+                } else {
+                    // Общая логика для других страниц
+                    const blockWrapper = document.querySelector('.blockWrapper');
+                    const rightBlock = document.querySelector('.right_block');
+
+                    if (blockWrapper) {
+                        applyStyles(blockWrapper, {
+                            position: 'relative',
+                            display: 'contents'
+                        });
+                    }
+
+                    if (rightBlock) {
+                        rightBlock.remove();
+                    }
+                }
+
+                // Создаем billboard и footer на всех страницах
+                createDesktopBillboard();
+                createDesktopFooter();
+
+            } catch (error) {
+                console.error('Ошибка выполнения логики для страницы:', error);
+            }
+        }
+
+        /**
+         * Основная функция запуска рекламного скрипта
+         */
+        function runAdScript() {
+            if (codeLoaded) return;
+
+            try {
+                codeLoaded = true;
+
+                if (document.readyState !== 'loading') {
+                    executePageSpecificLogic();
+                } else {
+                    document.addEventListener('DOMContentLoaded', executePageSpecificLogic);
+                }
+
+                console.log('Рекламный скрипт запущен успешно');
+            } catch (error) {
+                console.error('Ошибка запуска рекламного скрипта:', error);
+            }
+        }
+
+        /**
+         * Ожидает загрузки yaContextCb и запускает скрипт
+         */
+        function waitForYaContextCb() {
+            let tries = 0;
+
+            const checkInterval = setInterval(() => {
+                tries++;
+
+                if (tries > CONFIG.maxTries) {
+                    clearInterval(checkInterval);
+                    console.error('yaContextCb не загрузился в течение установленного времени');
+                    return;
+                }
+
+                if (typeof window.yaContextCb !== 'undefined') {
+                    clearInterval(checkInterval);
+                    console.log('yaContextCb загружен, запуск рекламного скрипта...');
+                    runAdScript();
+                }
+            }, CONFIG.checkInterval);
+        }
+
+        // ========================================
+        // ИНИЦИАЛИЗАЦИЯ
+        // ========================================
+
+        /**
+         * Главная функция инициализации
+         */
+        function init() {
+            try {
+                // Парсим URL параметры
+                parseUrlParams();
+
+                // Устанавливаем обработчик изменения URL
+                window.onpopstate = parseUrlParams;
+
+                // Инициализируем Header Bidding
+                initializeHeaderBidding();
+
+                // Инициализируем Yandex Ads
+                initializeYandexAds();
+
+                // Ожидаем загрузки yaContextCb
+                waitForYaContextCb();
+
+                console.log('Инициализация завершена');
+            } catch (error) {
+                console.error('Ошибка инициализации:', error);
+            }
+        }
+
+        // ========================================
+        // ЭКСПОРТ ФУНКЦИЙ (для обратной совместимости)
+        // ========================================
+
+        window.desktopSmallSidebar = createDesktopSmallSidebar;
+        window.desktopSidebar = createDesktopSidebar; // Исправлено название
+        window.desktopInread = createDesktopInread;
+        window.desktopFooter = createDesktopFooter;
+        window.desktopBillboard = createDesktopBillboard;
+        window.fixedSidebarContainer = setupFixedSidebar;
+        window.runAMscript = runAdScript;
+
+        // Запускаем инициализацию
+        init();
+
+    })(); 
+</script>    <link rel="preconnect" href="https://yastatic.net"><link rel="preconnect" href="https://avatars.mds.yandex.net"><link rel="preconnect" href="https://mc.yandex.ru"><link rel="preconnect" href="https://ads.adfox.ru"><link rel="preload" href="https://yastatic.net/s3/home/fonts/ys/3/text-variable-full.woff2" type="font/woff2" as="font" crossorigin="anonymous"><style id="ysTextCssRule">@font-face {
+        font-family: "YS Text Variable";
+        src: url("https://yastatic.net/s3/home/fonts/ys/3/text-variable-full.woff2") format("woff2");
+        font-weight: 400 700;
+        font-display: optional;
+    }</style><script async="" crossorigin="anonymous" src="https://yastatic.net/safeframe-bundles/0.83/host.js"></script><script type="text/javascript" async="" src="https://vk.com/js/api/openapi.js?169"></script><script type="text/javascript" async="" src="//st.hybrid.ai/txsp.js"></script><style type="text/css">.UZznxc{width:100%;height:inherit;min-height:inherit;max-height:inherit}</style><script src="https://www.artfut.com/static/tracking.min.js?campaign_code=d49ad802c2" defer="defer" onerror="ADMITAD.onError.call(this, &quot;3&quot;)"></script><script src="https://www.artfut.com/static/crossdevice.min.js?campaign_code=d49ad802c2" defer="defer" onerror="ADMITAD.onError.call(this, &quot;4&quot;)"></script><script src="https://fp.hybrid.ai/bobid.js" async=""></script><script type="text/javascript">(function () {window.MindboxScripts = window.MindboxScripts || {};window.MindboxEndpointSettings = {"viewProductOperationSystemName":null,"viewCategoryOperationSystemName":null,"setCartOperationSystemName":null,"isSessionAllowed":true,"features":{"isNewWebPushDeliveryTrackingEnabled":false,"isNewWebPushClickTrackingEnabled":true,"isNewServiceWorkerRegistrationEnabled":true,"isNewWebPushCustomerActionEnabled":true,"useFirebaseJsSdkV10":true,"useWebpushErrorLogging":false,"useWebpushFirebaseInitializationLogging":true,"useClientScriptsErrorLogging":false}};window.MindboxActualEndpointId = "TutuWebsite";})();
+
+
+(function () {(function(){window.PopMechanic=window.PopMechanic||{customs:{}};window.PopMechanic.client=35602;window.PopMechanic.initializedByMindbox=!!1;window.PopMechanic.accountHasPerDomainForms=!!0;!function(){"use strict";var n="https://personalization-web.g.mindbox.ru/js",t="MindboxScripts";const e=document;var i="30000",o="MindboxEndpointSettings";function a(){const n=Boolean(window[o]),t=Boolean(window.PopMechanic&&window.PopMechanic.isSlaTrackingOn);return n&&t}const c=()=>{if(!a())return;const n=window.PopMechanic.tabVisibility;n.duration=0,n.lastVisibilityStart="visible"===document.visibilityState?Date.now():null,n.start=Date.now()},r=()=>{if(!a())return 0;if("hidden"===document.visibilityState)return window.PopMechanic.tabVisibility.duration;const n=Date.now()-window.PopMechanic.tabVisibility.lastVisibilityStart;return window.PopMechanic.tabVisibility.duration+n},s=()=>{if(!a())return 0;const n=Date.now()-window.PopMechanic.tabVisibility.start-r();return n<5?0:n},d=window.navigator.userAgent.toLowerCase();function l(n){return-1!==d.indexOf(n)}const u=l("windows"),w=!u&&l("android"),h=w&&l("mobile"),p=!u&&l("iphone"),m=l("ipod"),f=u&&l("phone"),g=l("blackberry")||l("bb10")||l("rim"),b=g&&!l("tablet"),P=(l("(mobile;")||l("(tablet;"))&&l("; rv:"),M=P&&l("mobile"),v=l("meego"),y=h||p||m||f||b||M||v,I=l("ipad")||navigator.maxTouchPoints&&navigator.maxTouchPoints>2&&/MacIntel/.test(navigator.platform),S=w&&!l("mobile"),D=g&&l("tablet"),_=u&&l("touch")&&!f,T=P&&l("tablet"),x=!y&&(I||S||D||_||T),O=!x&&!y;function E(){return y?"mobile":x?"tablet":O?"desktop":"unknown"}const $=parseInt(i,10),U=(n,t,e=[],i=0,o="")=>{if(window.PopMechanic.sampleSent)return;let a="failure";const c=r(),d=c-i,l=s(),u=window.PopMechanic.tabVisibility&&window.PopMechanic.tabVisibility.startedInvisible,w=window.PopMechanic.tabVisibility&&window.PopMechanic.tabVisibility.lastVisibilityStart?window.PopMechanic.tabVisibility.lastVisibilityStart-window.PopMechanic.initAt:"never";"script-error"===n&&o&&(a="debug"),"timeout"===n&&c<.9*$&&(a="debug"),window.PopMechanic.sampleSent=!0;const h=window.PopMechanic.initReadyTs,p=window.PopMechanic.targetingReadyTs,m=navigator&&navigator.connection&&navigator.connection.downlink,f=E(),g=navigator&&navigator.webdriver;(new Image).src="https://personalization-speedtest.g.mindbox.ru/check-reco?result="+a+(n?"&reason="+n:"")+"&t="+d+"&t1="+h+"&t2="+p+"&tl="+c+"&ti="+l+"&ts="+i+"&si="+(u?"1":"0")+"&lvs="+w+"&dl="+("number"==typeof m?m:"unknown")+"&dt="+f+"&wd="+(g?"1":"0")+"&c="+window.PopMechanic.client+"&url="+encodeURIComponent(location.pathname)+(t?"&fid="+t:"")+"&pfids="+e.join("-")+(o?"&se="+o:"")+"&_="+ +Date.now()},V={},C=(n,t=void 0,e=10,i=2e3,o=15)=>{let a=null;if(void 0===t&&V[n])return V[n];const c=new Promise(function(c){const r=(e,s)=>{if(void 0!==window[n]&&(void 0===t||window[n]===t))return a=window[n],void c(a);s>=o?c(null):setTimeout(function(){const n=2*e;r(n>i?i:n,s+1)},e)};r(e,0)});return void 0===t&&(V[n]=c),c},R=(n=[],t=2e3)=>{const e=new Promise(n=>{setTimeout(n,t)});return Promise.race([Promise.all(n),e])};var F="mindbox";const L=C("mindboxInitialized",!0),k=C("mindboxBatchedModulesInitialized",!0),H=()=>{const n=C(F,void 0,150,1e3,3);return R([n,L,k],1300)};function A(...n){return!!window[F]&&(window[F].apply(window[F],n),!0)}function N(){return!!window[F]}var B="https://personalization-web.g.mindbox.ru",j="https://personalization-web.g.mindbox.ru",z=j+"/web/forms/";function G({method:n="GET",url:t,options:e}){return new Promise((i,o)=>{const a=e&&e.withCredentials||!1;let c=e&&e.retryLimit||3;const r=()=>{const e=new XMLHttpRequest;e.responseType="json",e.withCredentials=a,e.open(n,t,!0),e.send(),e.onload=()=>{200===e.status&&i(e.response),o(e)},e.onerror=()=>{if((0===e.status||e.status>=500)&&c>0)return c--,void r();o(e)}};r()})}function W(n){const t=Date.now(),e=new URLSearchParams(window.location.search),i=Math.floor("true"===e.get("mindbox_nocache")?t/1e3:t/3e5);return G({...n,url:n.url+"?_="+i})}const q=n=>{const t=(n=>n.split(".").length>2?n.replace(/(^www\.)/gi,""):n)(n),e=t.split("."),i=[];i.push(t);for(let n=0;n<e.length-1;n++){const t="*"+e.slice(n,e.length).join(".");i.push(t)}return i};function Z(n,t,e,i,o){return i?o?function(n,t,e,i){const o=q(n),a=o.map(n=>function(n,t,e,i){return`${n}/init/${t}/domain_and_endpoint/${e}:${i}`}(t,e,i,n));return a.push(`${t}/init/${e}/endpoint/${i}`),{urls:a,fallbackUrl:`${t}/init/${e}/no_endpoint`}}(n,t,e,i):function(n,t,e){return{urls:[`${n}/init/${t}/endpoint/${e}`],fallbackUrl:`${n}/init/${t}/no_endpoint`}}(t,e,i):o?function(n,t,e){const i=q(n),o=i.map(n=>function(n,t,e){return`${n}/init/${t}/domain/${e}`}(t,e,n));return{urls:o,fallbackUrl:`${t}/init/${e}/no_domain`}}(n,t,e):function(n,t){return{urls:[],fallbackUrl:`${n}/init/${t}/no_domain`}}(t,e)}class J{constructor({s3Server:n,clientId:t,endpointId:e,hostname:i,s3Fetch:o=W,accountHasPerDomainForms:a}){this._s3Fetch=o;const{urls:c,fallbackUrl:r}=Z(i,n,t,e?e.toLowerCase():void 0,a);this.urls=c,this.fallbackUrl=r}async fetch(){let n=this.urls[0];try{n=await async function(n,t=W){if(1===n.length)return n[0];{let e;for(const i of n)try{return await t({url:i,method:"HEAD"}),i}catch(n){e=n}throw e}}(this.urls,this._s3Fetch)}catch(t){n=this.fallbackUrl}try{return await this._requestGet(n)}catch(n){return null}}_requestGet(n){return this._s3Fetch({url:n,method:"GET"})}}const X="Personalization",K=["no data from mindbox"],Q=n=>`${X}: ${n}`,Y=({error:n,cause:t,context:e})=>{if(!N())return;const i="string"==typeof n?((n,t)=>{const e=Q(n);let i=e;const o=new Error(i);return t&&(i=`${e}\nCaused by: ${t.message}`,o.message=i,Object.defineProperty(o,"cause",{value:t,writable:!1,enumerable:!1,configurable:!0})),o})(n,t):((n,t)=>{const e=Q(n.message);return t?(n.message=`${e}\nCaused by: ${t.message}`,Object.defineProperty(n,"cause",{value:t,writable:!1,enumerable:!1,configurable:!0}),n):(n.message=e,n)})(n,t);(n=>{const t=n.toLowerCase();return K.some(n=>t.includes(n.toLowerCase()))})(i.message)||A("logError",i,e)},nn=function(...n){console.log(`[${X}]`,...n)},tn=function(...n){console.error(`[${X}]`,...n)};let en=!1;function on(){try{return!!en||(!!window.PopMechanic.isTesting||(-1!==location.toString().indexOf("pm-test-form")||(-1!==location.hash.indexOf("pm-debug")||!!localStorage["pm-debug"])))}catch(n){return!1}}window.addEventListener("message",function(n){n.source===window&&n.data&&"popmechanic-extension"===n.data.source&&(en=!0)});var an={isDebugging:on,log:function(...n){on()&&nn(...n)},error:function({error:n,cause:t,context:e}){var i;const o=null===(i=window.PopMechanic)||void 0===i?void 0:i.client;Y({error:n,cause:t,context:Object.assign({},e,{clientId:o})}),on()&&(t?tn(n,t):tn(n))}};function cn(){const n=Date.now(),t=new URLSearchParams(window.location.search);return Math.floor("true"==t.get("mindbox_nocache")?n/1e3:n/3e5)}async function rn({endpointId:n,formHash:t,clientId:e,accountHasPerDomainForms:i}){if(window.__POPMECHANIC_INIT)return window.__POPMECHANIC_INIT;if(t)return function({endpointId:n,clientId:t,formHash:e}){const i=new URLSearchParams({c:t.toString(),domain:encodeURIComponent(location.host)});n&&i.append("endpointId",encodeURIComponent(n));const o=new URL(z+e+"/");return o.search=i.toString(),G({method:"GET",url:o.toString(),options:{withCredentials:!0}})}({endpointId:n,formHash:t,clientId:e});if(!!window.__PRELOADED_PERSONALIZATION_CONFIG){const t=window.__PRELOADED_PERSONALIZATION_CONFIG,o=cn();return void 0===t.cacheBustingValue?(window.__PRELOADED_PERSONALIZATION_CONFIG={...t,cacheBustingValue:o},t):(t.cacheBustingValue===o||(async()=>{try{const t=await new J({s3Server:B,clientId:e,endpointId:n,hostname:location.hostname,accountHasPerDomainForms:i}).fetch();t&&(window.__PRELOADED_PERSONALIZATION_CONFIG={...t,cacheBustingValue:cn()})}catch(n){console.warn("Failed to update config in background")}})().catch(n=>{("string"==typeof n||n instanceof Error)&&an.error({error:n})}),t)}return await new J({s3Server:B,clientId:e,endpointId:n,hostname:location.hostname,accountHasPerDomainForms:i}).fetch()}let sn=null;async function dn(n=!0){if(n&&sn)return sn;const{endpointId:t,deviceUUID:e}=await async function(){if(await H(),!N())return{endpointId:null,deviceUUID:null};const n=new Promise(n=>{A("helpers.getDeviceUUID",t=>{n(t||null)})}),t=new Promise(n=>{A("helpers.getEndpointId",t=>{n(t||null)})}),[e,i]=await Promise.all([t,n]);return{endpointId:e,deviceUUID:i}}(),i=void 0===window.PopMechanic.accountHasPerDomainForms||window.PopMechanic.accountHasPerDomainForms;try{const n=await rn({endpointId:t,clientId:window.PopMechanic.client,formHash:window.PopMechanic.formHash,accountHasPerDomainForms:i});sn={config:n,deviceUUID:e}}catch(n){"object"==typeof n&&"status"in n&&"number"==typeof n.status&&n.status>=400&&(U("init-error",void 0),an.error({error:`Failed to get settings: ${n.status}`,cause:n})),sn={deviceUUID:e,config:null}}return sn}const ln=()=>{const n=window.PopMechanic.tabVisibility;if("visible"===document.visibilityState)return n.lastVisibilityStart=Date.now(),void window.PopMechanic.resumeWatchdog(n.duration);window.PopMechanic.pauseWatchdog(),n.lastVisibilityStart&&(n.duration+=Date.now()-n.lastVisibilityStart)};function un(){window[o]&&window.PopMechanic&&window.PopMechanic.restartWatchdog&&!window.PopMechanic.isSlaTrackingOn&&(window.PopMechanic.isSlaTrackingOn=!0,window.PopMechanic.restartWatchdog(),window.PopMechanic.tabVisibility={duration:0,lastVisibilityStart:null,start:Date.now(),startedInvisible:"visible"!==document.visibilityState},ln(),document.addEventListener("visibilitychange",ln))}const wn=parseInt(i,10);let hn=[],pn=0;(()=>{if(window.PopMechanicMutex)return void un();window.PopMechanicMutex=!0;const i=+Date.now(),o=((n,t=e)=>{let i=t.getElementById("popmechanic-script");if(!i){const e=n.replace(/^https?:\/\//,""),o=t.getElementsByTagName("script");for(let n=0;n<o.length;n++){const t=o[n];t&&t.src&&"string"==typeof t.src&&t.src.indexOf(e)>-1&&t.src.indexOf("?c=")>-1&&(i=t)}}return i?i.src.split("?c=")[1].split("&")[0]:null})(n);if(!o&&!window.PopMechanic)return void console.error("Incorrect setup of Personalization tracker");const d=(n=>{const t=new RegExp("(?:[?&])pm-test-form=([0-9a-z]+)","i"),e=n?n.match(t):null;return e?e[1]:""})(document.location.toString());window.PopMechanic=(({formHash:n,clientId:t,loadedTs:e,initialPopMechanic:i})=>{const o=i||{loaded:!1,onLoad:!1,customs:{},Promise:Promise};return o.client||(o.client=t),o.formHash=n,o.isTesting=!!n,o.dummyIsRequired=location.href.indexOf("pm-dummy")>-1,void 0===o.debugMode&&(o.debugMode="1"===sessionStorage["popmechanic-debug"]),o.loadedTimestamp=e,o.globalUtils={getIntegrationPromise:C,waitPromisesOrDelay:R,getMindboxIsReadyPromise:H,reportFailure:U,getSettings:dn,getTabVisibilityDuration:r,getTabInvisibilityDuration:s,resetTabVisibilityDuration:c,getDeviceType:E},o})({formHash:d,clientId:o,loadedTs:i,initialPopMechanic:window.PopMechanic}),window.PopMechanic.initStartedAt=Date.now(),function(){window.PopMechanic.watchdogPaused=!1;const n=()=>{window.PopMechanic.slaRequired&&(window.PopMechanic.sampleSent&&window.PopMechanic.loaded||U("timeout",void 0,hn,pn))},t=(t=0)=>{const e=wn-t+pn;return e>0?setTimeout(n,e):(n(),null)};window.PopMechanic.restartWatchdog=()=>{a()&&(window.PopMechanic.slaRequired=!1,window.PopMechanic.sampleSent=!1,clearTimeout(window.PopMechanic.watchdog),window.PopMechanic.watchdog=t())},window.PopMechanic.pauseWatchdog=()=>{a()&&!window.PopMechanic.watchdogPaused&&(clearTimeout(window.PopMechanic.watchdog),window.PopMechanic.watchdog=null)},window.PopMechanic.resumeWatchdog=n=>{a()&&!window.PopMechanic.watchdogPaused&&(window.PopMechanic.watchdog&&clearTimeout(window.PopMechanic.watchdog),window.PopMechanic.watchdog=t(n))},window.PopMechanic._saveWatchdogInfo=(n,t)=>{hn=n,pn=t},window.PopMechanic._saveWatchdogFirstRecoSearchBlockTime=n=>{pn=n}}(),un(),dn().then(({config:e})=>{e&&e.forms.length&&(({version:n,host:e})=>{if(window[t]&&window[t].executeFormsJs)window[t].executeFormsJs();else{const t=document.createElement("script");t.async=!0,t.defer=!0,t.charset="utf-8",t.src=e+"/service/v2/forms.js?v="+n,document.head.appendChild(t)}if(window[t]&&window[t].executeStylesCss)window[t].executeStylesCss();else{const t=document.createElement("link");t.rel="stylesheet",t.href=e+"/service/styles.css?v="+n,document.head.appendChild(t)}})({version:"4.73.9",host:n})})})()}();
+;}())})();
+
+
+(function () {var i=(n=>(n.Mindbox="mindbox",n.Maestra="maestra",n))(i||{}),s=(n=>(n.Mindbox="mindbox",n.Maestra="maestra",n))(s||{});i.Maestra+"",s.Maestra,i.Mindbox+"",s.Mindbox;const _="qz",E=`${_}_wizard`,M=()=>{(function(n,a,r,c,d,e){const o=n[e]=n[e]||function(...I){(o.q=o.q||[]).push(I)},t=a.createElement(r);t.src=`${c}?v=${d}`,t.type="module",t.async=!0,a.head.appendChild(t)})(window,document,"script","https://web-static.mindbox.ru/quizzes/stable/quizzes.js","1602","mqzzs"),mqzzs("init",{apiEndpoint:"https://quizzes.g.mindbox.ru"})};window.location.search.includes(E)&&M();
+})();</script><style type="text/css">.ya-share2,.ya-share2 *{line-height:normal}.ya-share2 :link:hover,.ya-share2 :visited:hover{color:#000 !important}.ya-share2 input{color:inherit;font:inherit;margin:0;line-height:normal}.ya-share2__messenger-frame{display:none}.ya-share2__container.ya-share2__container_color-scheme_blackwhite .ya-share2__badge,.ya-share2__container.ya-share2__container_color-scheme_blackwhite .ya-share2__mobile-popup-badge{background-color:#000}.ya-share2__container.ya-share2__container_color-scheme_whiteblack .ya-share2__badge,.ya-share2__container.ya-share2__container_color-scheme_whiteblack .ya-share2__mobile-popup-badge{background-color:#fff}.ya-share2__container.ya-share2__container_color-scheme_whiteblack .ya-share2__popup-body .ya-share2__mobile-popup-badge{background-color:#f2f2f2}.ya-share2__container_shape_round .ya-share2__badge{border-radius:50px}.ya-share2__container_shape_round .ya-share2__icon{background-position:center}.ya-share2__container_size_l{font-size:20px}.ya-share2__container_size_l .ya-share2__badge .ya-share2__icon{height:48px;width:48px;background-size:48px 48px}.ya-share2__container_shape_round.ya-share2__container_size_l .ya-share2__badge .ya-share2__icon:not(.ya-share2__icon_messenger-contact):not(.ya-share2__icon_more):not(.ya-share2__icon_copy){background-size:40px 40px}.ya-share2__container_size_l .ya-share2__item_copy .ya-share2__icon_copy,.ya-share2__container_size_l .ya-share2__item_more .ya-share2__icon_more{background-size:32px 32px}.ya-share2__container_size_l .ya-share2__title{line-height:48px}.ya-share2__container_size_l .ya-share2__badge + .ya-share2__title{margin-left:16px}.ya-share2__container_size_l .ya-share2__popup:not(.ya-share2__popup_mobile){border-radius:16px;box-shadow:0 16px 48px rgba(0,0,0,0.18),0 0 8px rgba(0,0,0,0.1)}.ya-share2__container_size_l .ya-share2__popup:not(.ya-share2__popup_mobile) .ya-share2__item,.ya-share2__container_size_l.ya-share2__container_as-popup .ya-share2__item{padding:2px 16px}.ya-share2__container_size_l .ya-share2__popup:not(.ya-share2__popup_mobile) > :first-child:not(:empty),.ya-share2__container_size_l.ya-share2__container_as-popup > :first-child:not(:empty),.ya-share2__container_size_l .ya-share2__popup:not(.ya-share2__popup_mobile) > :first-child:empty + :last-child:not(:empty):not(.ya-share2__copied-tooltip),.ya-share2__container_size_l.ya-share2__container_as-popup > :first-child:empty + :last-child:not(:empty):not(.ya-share2__copied-tooltip){padding-top:8px}.ya-share2__container_size_l .ya-share2__popup:not(.ya-share2__popup_mobile) > :last-child:not(:empty):not(.ya-share2__copied-tooltip),.ya-share2__container_size_l.ya-share2__container_as-popup > :last-child:not(:empty):not(.ya-share2__copied-tooltip){padding-bottom:8px}.ya-share2__container_size_l .ya-share2__popup_direction_bottom{top:56px}.ya-share2__container_size_l .ya-share2__popup_direction_top{bottom:56px}.ya-share2__container_size_l.ya-share2__container_alone .ya-share2__popup_direction_bottom,.ya-share2__container_size_l .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__popup_direction_bottom{top:72px}.ya-share2__container_size_l.ya-share2__container_alone .ya-share2__popup_direction_top,.ya-share2__container_size_l .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__popup_direction_top{bottom:72px}.ya-share2__container_size_l .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more{padding:8px 32px 8px 16px;font-size:22px}.ya-share2__container_size_l .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more.ya-share2__link_more-button-type_short{padding:8px;border:none;background:rgba(0,0,0,0.07)}.ya-share2__container_size_l .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more .ya-share2__title{margin-left:6px}.ya-share2__container_size_l .ya-share2__messenger-contacts{margin-bottom:12px}.ya-share2__container_size_l .ya-share2__messenger-contacts::before{width:16px;height:16px;bottom:-7px;left:32px}.ya-share2__container_size_m{font-size:13px}.ya-share2__container_size_m .ya-share2__badge .ya-share2__icon{height:24px;width:24px;background-size:24px 24px}.ya-share2__container_shape_round.ya-share2__container_size_m .ya-share2__badge .ya-share2__icon:not(.ya-share2__icon_messenger-contact):not(.ya-share2__icon_more):not(.ya-share2__icon_copy){background-size:20px 20px}.ya-share2__container_size_m .ya-share2__item_copy .ya-share2__icon_copy,.ya-share2__container_size_m .ya-share2__item_more .ya-share2__icon_more{background-size:16px 16px}.ya-share2__container_size_m .ya-share2__title{line-height:24px}.ya-share2__container_size_m .ya-share2__badge + .ya-share2__title{margin-left:10px}.ya-share2__container_size_m .ya-share2__popup:not(.ya-share2__popup_mobile){border-radius:8px;box-shadow:0 8px 24px rgba(0,0,0,0.18),0 0 4px rgba(0,0,0,0.1)}.ya-share2__container_size_m .ya-share2__popup:not(.ya-share2__popup_mobile) .ya-share2__item,.ya-share2__container_size_m.ya-share2__container_as-popup .ya-share2__item{padding:2px 8px}.ya-share2__container_size_m .ya-share2__popup:not(.ya-share2__popup_mobile) > :first-child:not(:empty),.ya-share2__container_size_m.ya-share2__container_as-popup > :first-child:not(:empty),.ya-share2__container_size_m .ya-share2__popup:not(.ya-share2__popup_mobile) > :first-child:empty + :last-child:not(:empty):not(.ya-share2__copied-tooltip),.ya-share2__container_size_m.ya-share2__container_as-popup > :first-child:empty + :last-child:not(:empty):not(.ya-share2__copied-tooltip){padding-top:8px}.ya-share2__container_size_m .ya-share2__popup:not(.ya-share2__popup_mobile) > :last-child:not(:empty):not(.ya-share2__copied-tooltip),.ya-share2__container_size_m.ya-share2__container_as-popup > :last-child:not(:empty):not(.ya-share2__copied-tooltip){padding-bottom:8px}.ya-share2__container_size_m .ya-share2__popup_direction_bottom{top:28px}.ya-share2__container_size_m .ya-share2__popup_direction_top{bottom:28px}.ya-share2__container_size_m.ya-share2__container_alone .ya-share2__popup_direction_bottom,.ya-share2__container_size_m .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__popup_direction_bottom{top:36px}.ya-share2__container_size_m.ya-share2__container_alone .ya-share2__popup_direction_top,.ya-share2__container_size_m .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__popup_direction_top{bottom:36px}.ya-share2__container_size_m .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more{padding:4px 16px 4px 8px;font-size:15px}.ya-share2__container_size_m .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more.ya-share2__link_more-button-type_short{padding:4px;border:none;background:rgba(0,0,0,0.07)}.ya-share2__container_size_m .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more .ya-share2__title{margin-left:2px}.ya-share2__container_size_m .ya-share2__messenger-contacts{margin-bottom:6px}.ya-share2__container_size_m .ya-share2__messenger-contacts::before{width:10px;height:10px;bottom:-4px;left:15px}.ya-share2__container_size_s{font-size:12px}.ya-share2__container_size_s .ya-share2__badge .ya-share2__icon{height:18px;width:18px;background-size:18px 18px}.ya-share2__container_shape_round.ya-share2__container_size_s .ya-share2__badge .ya-share2__icon:not(.ya-share2__icon_messenger-contact):not(.ya-share2__icon_more):not(.ya-share2__icon_copy){background-size:16px 16px}.ya-share2__container_size_s .ya-share2__item_copy .ya-share2__icon_copy,.ya-share2__container_size_s .ya-share2__item_more .ya-share2__icon_more{background-size:12px 12px}.ya-share2__container_size_s .ya-share2__title{line-height:18px}.ya-share2__container_size_s .ya-share2__badge + .ya-share2__title{margin-left:6px}.ya-share2__container_size_s .ya-share2__popup:not(.ya-share2__popup_mobile){border-radius:6px;box-shadow:0 6px 18px rgba(0,0,0,0.18),0 0 3px rgba(0,0,0,0.1)}.ya-share2__container_size_s .ya-share2__popup:not(.ya-share2__popup_mobile) .ya-share2__item,.ya-share2__container_size_s.ya-share2__container_as-popup .ya-share2__item{padding:2px 6px}.ya-share2__container_size_s .ya-share2__popup:not(.ya-share2__popup_mobile) > :first-child:not(:empty),.ya-share2__container_size_s.ya-share2__container_as-popup > :first-child:not(:empty),.ya-share2__container_size_s .ya-share2__popup:not(.ya-share2__popup_mobile) > :first-child:empty + :last-child:not(:empty):not(.ya-share2__copied-tooltip),.ya-share2__container_size_s.ya-share2__container_as-popup > :first-child:empty + :last-child:not(:empty):not(.ya-share2__copied-tooltip){padding-top:6px}.ya-share2__container_size_s .ya-share2__popup:not(.ya-share2__popup_mobile) > :last-child:not(:empty):not(.ya-share2__copied-tooltip),.ya-share2__container_size_s.ya-share2__container_as-popup > :last-child:not(:empty):not(.ya-share2__copied-tooltip){padding-bottom:6px}.ya-share2__container_size_s .ya-share2__popup_direction_bottom{top:21px}.ya-share2__container_size_s .ya-share2__popup_direction_top{bottom:21px}.ya-share2__container_size_s.ya-share2__container_alone .ya-share2__popup_direction_bottom,.ya-share2__container_size_s .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__popup_direction_bottom{top:27px}.ya-share2__container_size_s.ya-share2__container_alone .ya-share2__popup_direction_top,.ya-share2__container_size_s .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__popup_direction_top{bottom:27px}.ya-share2__container_size_s .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more{padding:3px 12px 3px 6px;font-size:14px}.ya-share2__container_size_s .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more.ya-share2__link_more-button-type_short{padding:3px;border:none;background:rgba(0,0,0,0.07)}.ya-share2__container_size_s .ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more .ya-share2__title{margin-left:1px}.ya-share2__container_size_s .ya-share2__messenger-contacts{margin-bottom:4.5px}.ya-share2__container_size_s .ya-share2__messenger-contacts::before{width:8px;height:8px;bottom:-3px;left:11px}.ya-share2__container_mobile .ya-share2__icon{background-position:center;background-repeat:no-repeat}.ya-share2__container_mobile.ya-share2__container_size_l .ya-share2__icon{height:56px;width:56px}.ya-share2__container_mobile.ya-share2__container_size_l .ya-share2__title{line-height:56px}.ya-share2__container_mobile.ya-share2__container_size_m .ya-share2__icon{height:32px;width:32px}.ya-share2__container_mobile.ya-share2__container_size_m .ya-share2__title{line-height:32px}.ya-share2__container_mobile.ya-share2__container_size_s .ya-share2__icon{height:24px;width:24px}.ya-share2__container_mobile.ya-share2__container_size_s .ya-share2__title{line-height:24px}.ya-share2__list.ya-share2__list_direction_horizontal{margin-top:-2px}.ya-share2__list.ya-share2__list_direction_horizontal > .ya-share2__item{display:inline-block;vertical-align:top;padding:0;margin:2px 4px 0 0}.ya-share2__list.ya-share2__list_direction_horizontal > .ya-share2__item:last-child{margin-right:0}.ya-share2__list.ya-share2__list_direction_horizontal > .ya-share2__item > .ya-share2__link > .ya-share2__title{display:none}.ya-share2__list.ya-share2__list_direction_vertical > .ya-share2__item{display:block;margin:4px 0}.ya-share2__list.ya-share2__list_direction_vertical > .ya-share2__item:first-child{margin-top:0}.ya-share2__list.ya-share2__list_direction_vertical > .ya-share2__item:last-child{margin-bottom:0}.ya-share2__popup{position:absolute;display:none;z-index:9999;background-color:#fff}.ya-share2__popup_visible{display:block}.ya-share2__popup_direction_auto{visibility:hidden}.ya-share2__popup_direction_bottom,.ya-share2__popup_direction_top{visibility:visible}.ya-share2__popup_list-direction_horizontal{right:0}.ya-share2__popup_list-direction_vertical{left:0}.ya-share2__popup_x-direction_left{right:0;left:auto}.ya-share2__popup_x-direction_right{left:0;right:auto}.ya-share2__popup,.ya-share2__container_as-popup{text-align:left}.ya-share2__popup .ya-share2__list .ya-share2__item,.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item,.ya-share2__container_as-popup .ya-share2__list .ya-share2__item,.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item{margin:0}.ya-share2__popup .ya-share2__list .ya-share2__item:hover,.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:hover,.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:hover,.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:hover,.ya-share2__popup .ya-share2__list .ya-share2__item:focus,.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:focus,.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:focus,.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:focus{background:rgba(0,0,0,0.03)}.ya-share2__popup .ya-share2__list .ya-share2__item:active,.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:active,.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:active,.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:active{background:rgba(0,0,0,0.05)}.ya-share2__popup .ya-share2__list .ya-share2__item:hover,.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:hover,.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:hover,.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:hover,.ya-share2__popup .ya-share2__list .ya-share2__item:focus,.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:focus,.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:focus,.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:focus,.ya-share2__popup .ya-share2__list .ya-share2__item:active,.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:active,.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:active,.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:active{opacity:1}.ya-share2__container_color-scheme_whiteblack.ya-share2__popup .ya-share2__list .ya-share2__item:hover .ya-share2__badge,.ya-share2__container_color-scheme_whiteblack.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:hover .ya-share2__badge,.ya-share2__container_color-scheme_whiteblack.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:hover .ya-share2__badge,.ya-share2__container_color-scheme_whiteblack.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:hover .ya-share2__badge,.ya-share2__container_color-scheme_whiteblack.ya-share2__popup .ya-share2__list .ya-share2__item:focus .ya-share2__badge,.ya-share2__container_color-scheme_whiteblack.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:focus .ya-share2__badge,.ya-share2__container_color-scheme_whiteblack.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:focus .ya-share2__badge,.ya-share2__container_color-scheme_whiteblack.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:focus .ya-share2__badge,.ya-share2__container_color-scheme_whiteblack.ya-share2__popup .ya-share2__list .ya-share2__item:active .ya-share2__badge,.ya-share2__container_color-scheme_whiteblack.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:active .ya-share2__badge,.ya-share2__container_color-scheme_whiteblack.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:active .ya-share2__badge,.ya-share2__container_color-scheme_whiteblack.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:active .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__popup .ya-share2__list .ya-share2__item:hover.ya-share2__item_copy .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:hover.ya-share2__item_copy .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:hover.ya-share2__item_copy .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:hover.ya-share2__item_copy .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__popup .ya-share2__list .ya-share2__item:focus.ya-share2__item_copy .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:focus.ya-share2__item_copy .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:focus.ya-share2__item_copy .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:focus.ya-share2__item_copy .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__popup .ya-share2__list .ya-share2__item:active.ya-share2__item_copy .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:active.ya-share2__item_copy .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__container_as-popup .ya-share2__list .ya-share2__item:active.ya-share2__item_copy .ya-share2__badge,.ya-share2__container_color-scheme_normal.ya-share2__container_as-popup .ya-share2__messenger-contacts-list_desktop .ya-share2__item:active.ya-share2__item_copy .ya-share2__badge{background:transparent}.ya-share2__container .ya-share2__messenger-contacts_desktop{background-color:#f5f5f5;position:relative}.ya-share2__container .ya-share2__messenger-contacts_desktop:empty{display:none}.ya-share2__container .ya-share2__messenger-contacts_desktop::before{content:'';transform:rotate(45deg);position:absolute;background-color:#f5f5f5}.ya-share2__container .ya-share2__messenger-contacts_desktop .ya-share2__messenger-contacts-list{margin:0;padding-left:0}.ya-share2__container .ya-share2__messenger-contacts_desktop .ya-share2__item{display:block}.ya-share2__container .ya-share2__messenger-contacts_desktop .ya-share2__badge{background:none}.ya-share2__container .ya-share2__messenger-contacts_desktop .ya-share2__icon{border-radius:50px}.ya-share2__container .ya-share2__messenger-contacts_desktop + .ya-share2__list{display:block}.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider{height:97px;overflow:hidden;padding-bottom:16px}.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider .ya-share2__messenger-contacts_mobile{overflow-x:scroll}.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider .ya-share2__messenger-contacts_mobile:empty{display:none}.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider .ya-share2__messenger-contacts_mobile .ya-share2__messenger-contacts-list{white-space:nowrap;height:97px}.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider + .ya-share2__header{border-top:1px solid rgba(0,0,0,0.1)}.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider ~ .ya-share2__scroll-hider .ya-share2__popup-tile-wrapper{overflow-x:scroll}.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider ~ .ya-share2__scroll-hider .ya-share2__popup-tile-wrapper .ya-share2__popup-tile{white-space:nowrap;height:97px}.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider .ya-share2__mobile-popup-badge{width:56px;height:56px;border-radius:28px}.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider .ya-share2__messenger-contacts-list .ya-share2__mobile-popup-badge{background:none}.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider .ya-share2__item{width:23%}@media (min-width:460px){.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider .ya-share2__item{width:18.6%}}@media (min-width:600px){.ya-share2__container.ya-share2__container_mobile .ya-share2__scroll-hider .ya-share2__item{width:15.6%}}.ya-share2__popup.ya-share2__popup_mobile.ya-share2__popup_visible{position:fixed;top:0;right:0;bottom:0;left:0;margin:0;padding:0;border:0;background:transparent;color:rgba(0,0,0,0.8)}.ya-share2__popup.ya-share2__popup_mobile.ya-share2__popup_visible .ya-share2__popup-overlay{position:absolute;z-index:1;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,0.3);animation:overlayAppearance .2s cubic-bezier(.42,0,1,1) forwards}.ya-share2__popup.ya-share2__popup_mobile.ya-share2__popup_visible .ya-share2__popup-content{display:flex;position:absolute;padding:0;z-index:2;bottom:0;box-sizing:border-box;flex-direction:column;width:100%;max-height:70%;animation:popupAppearance .2s forwards}.ya-share2__popup-content .ya-share2__popup-header{display:flex;align-items:center;min-height:40px;padding:14px 12px 14px 16px;border-bottom:1px solid rgba(0,0,0,0.1);border-radius:16px 16px 0 0;background-color:#fff}.ya-share2__popup-content .ya-share2__popup-header .ya-share2__og-image,.ya-share2__popup-content .ya-share2__popup-header .ya-share2__icon_og-image-stub,.ya-share2__popup-content .ya-share2__popup-header .ya-share2__icon_closing-cross{flex-shrink:0}.ya-share2__popup-content .ya-share2__popup-header .ya-share2__popup-description{flex:1;hyphens:auto;align-self:center;display:-webkit-box;max-height:34px;margin:0 8px 0 14px;overflow:hidden;font-size:15px;line-height:17px;text-overflow:ellipsis;word-break:break-word;-webkit-line-clamp:2;-webkit-box-orient:vertical}.ya-share2__popup-content .ya-share2__popup-body{overflow:auto;background-color:#fff}.ya-share2__popup-content .ya-share2__popup-body .ya-share2__header{font-weight:500;font-size:18px;line-height:20px;padding:18px 16px 0;margin:0}.ya-share2__popup-content .ya-share2__messenger-contacts-list,.ya-share2__popup-content .ya-share2__popup-tile{padding:20px 12px 0;margin:0}.ya-share2__popup-content .ya-share2__messenger-contacts-list .ya-share2__item,.ya-share2__popup-content .ya-share2__popup-tile .ya-share2__item{width:25%;padding:0;margin:0 0 20px}@media (min-width:460px){.ya-share2__popup-content .ya-share2__messenger-contacts-list .ya-share2__item,.ya-share2__popup-content .ya-share2__popup-tile .ya-share2__item{width:20%}}@media (min-width:600px){.ya-share2__popup-content .ya-share2__messenger-contacts-list .ya-share2__item,.ya-share2__popup-content .ya-share2__popup-tile .ya-share2__item{width:16.66%}}.ya-share2__popup-content .ya-share2__messenger-contacts-list .ya-share2__item .ya-share2__link,.ya-share2__popup-content .ya-share2__popup-tile .ya-share2__item .ya-share2__link{width:100%;height:100%;color:rgba(0,0,0,0.8)}.ya-share2__popup-content .ya-share2__messenger-contacts-list .ya-share2__item .ya-share2__native-share-fake-link,.ya-share2__popup-content .ya-share2__popup-tile .ya-share2__item .ya-share2__native-share-fake-link{display:inline-block;width:100%;height:100%}.ya-share2__popup-content .ya-share2__messenger-contacts-list .ya-share2__mobile-popup-badge,.ya-share2__popup-content .ya-share2__popup-tile .ya-share2__mobile-popup-badge{display:block;width:52px;height:52px;margin:0 auto;border-radius:26px}.ya-share2__popup-content .ya-share2__messenger-contacts-list .ya-share2__mobile-popup-badge .ya-share2__icon,.ya-share2__popup-content .ya-share2__popup-tile .ya-share2__mobile-popup-badge .ya-share2__icon{width:100%;height:100%;background-size:32px;background-clip:content-box}.ya-share2__popup-content .ya-share2__messenger-contacts-list .ya-share2__mobile-popup-badge .ya-share2__icon_messenger-contact,.ya-share2__popup-content .ya-share2__popup-tile .ya-share2__mobile-popup-badge .ya-share2__icon_messenger-contact{background-size:56px;border-radius:50%}.ya-share2__popup-content .ya-share2__messenger-contacts-list .ya-share2__mobile-popup-service-title,.ya-share2__popup-content .ya-share2__popup-tile .ya-share2__mobile-popup-service-title{max-height:15px;margin-top:10px;padding:0 4px;overflow:hidden;font-size:13px;line-height:15px;text-align:center;text-overflow:ellipsis}.ya-share2__popup-content .ya-share2__icon{background-size:auto}.ya-share2__popup-content .ya-share2__icon.ya-share2__og-image,.ya-share2__popup-content .ya-share2__icon.ya-share2__icon_og-image-stub{box-sizing:border-box;width:36px;height:36px;border-radius:6px}.ya-share2__popup-content .ya-share2__icon.ya-share2__og-image{background-position:center;background-size:cover}.ya-share2__popup-content .ya-share2__icon.ya-share2__icon_og-image-stub{padding:6px;background-color:rgba(0,0,0,0.05);background-image:url("data:image/svg+xml,%3Csvg%20width=%2724%27%20height=%2725%27%20fill=%27none%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath%20fill-rule=%27evenodd%27%20clip-rule=%27evenodd%27%20d=%27M10.94%208.838a3%203%200%20000%204.242%201%201%200%2001-1.414%201.415%205%205%200%20010-7.071l3.535-3.536a5%205%200%20017.071%207.071l-1.092%201.093a1%201%200%2001-1.415-1.415l1.093-1.092a3%203%200%2010-4.243-4.243L10.94%208.838zm2.12%206.363a3%203%200%20000-4.243%201%201%200%20111.415-1.414%205%205%200%20010%207.07l-3.5%203.501a5%205%200%2001-7.071-7.071l1.025-1.025a1%201%200%20011.414%201.414l-1.025%201.025a3%203%200%20004.243%204.243l3.5-3.5z%27%20fill=%27%23000%27%20fill-opacity=%27.3%27/%3E%3C/svg%3E")}.ya-share2__popup-content .ya-share2__icon.ya-share2__icon_closing-cross{box-sizing:border-box;cursor:pointer;width:40px;height:40px;padding:10px;background-image:url("data:image/svg+xml,%3Csvg%20width=%2720%27%20height=%2720%27%20fill=%27none%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath%20fill-rule=%27evenodd%27%20clip-rule=%27evenodd%27%20d=%27M10%2020c5.523%200%2010-4.477%2010-10S15.523%200%2010%200%200%204.477%200%2010s4.477%2010%2010%2010zM5.403%205.403a1%201%200%20011.414%200L10%208.586l3.183-3.183a1%201%200%20111.414%201.414L11.414%2010l3.183%203.183a1%201%200%2001-1.414%201.414L10%2011.414l-3.183%203.183a1%201%200%2001-1.414-1.414L8.586%2010%205.403%206.817a1%201%200%20010-1.414z%27%20fill=%27%23000%27%20fill-opacity=%27.2%27/%3E%3C/svg%3E")}.ya-share2__popup-content .ya-share2__icon.ya-share2__icon_closing-cross:hover{opacity:.8}.ya-share2__popup-content .ya-share2__icon.ya-share2__icon_closing-cross:active{opacity:.6}.ya-share2__popup-content .ya-share2__item.ya-share2__item_copy.ya-share2__item_copy-link-button .ya-share2__icon_copy-icon{width:15px;height:14px;opacity:1;background-image:url("data:image/svg+xml,%3Csvg%20width=%2715%27%20height=%2714%27%20fill=%27none%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath%20fill-rule=%27evenodd%27%20clip-rule=%27evenodd%27%20d=%27M3.758%201a1%201%200%20001%201h7.5a.5.5%200%2001.5.5v7.497a1%201%200%20002%200V2.5a2.5%202.5%200%2000-2.5-2.5h-7.5a1%201%200%2000-1%201zm-1.5%202h8a1.5%201.5%200%20011.5%201.5v8a1.5%201.5%200%2001-1.5%201.5h-8a1.5%201.5%200%2001-1.5-1.5v-8a1.5%201.5%200%20011.5-1.5zm.5%202v7h7V5h-7z%27%20fill=%27%23000%27%20fill-opacity=%27.3%27/%3E%3C/svg%3E")}.ya-share2__popup-content .ya-share2__mobile-popup-badge.ya-share2__mobile-popup-badge_native-share{border:1px solid rgba(0,0,0,0.15);background:#fff;box-sizing:border-box}.ya-share2__popup-content .ya-share2__mobile-popup-badge.ya-share2__mobile-popup-badge_native-share .ya-share2__icon{background-image:url("data:image/svg+xml,%3Csvg%20width=%2722%27%20height=%2722%27%20fill=%27none%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath%20fill-rule=%27evenodd%27%20clip-rule=%27evenodd%27%20d=%27M4.583%2012.604a1.604%201.604%200%20100-3.208%201.604%201.604%200%20000%203.208zm12.834%200a1.604%201.604%200%20100-3.208%201.604%201.604%200%20000%203.208zM12.604%2011a1.604%201.604%200%2011-3.208%200%201.604%201.604%200%20013.208%200z%27%20fill=%27%23000%27%20fill-opacity=%27.3%27/%3E%3C/svg%3E")}.ya-share2__popup-content .ya-share2__mobile-popup-copy-link .ya-share2__item.ya-share2__item_copy.ya-share2__item_copy-link-button{display:flex;align-items:center;margin:8px auto 32px;padding:12px 20px;border:1px solid rgba(0,0,0,0.15);border-radius:12px;background-color:#fff;font-size:15px;line-height:20px;color:#000}.ya-share2__popup-content .ya-share2__mobile-popup-copy-link .ya-share2__item.ya-share2__item_copy.ya-share2__item_copy-link-button .ya-share2__link-title{padding-left:8px}.ya-share2__copied-tooltip{display:none;z-index:9999;position:fixed;bottom:6px;left:50%;padding:12px 20px;transform:translateX(-50%);border-radius:22px;background:#fff;box-shadow:0 4px 12px rgba(0,0,0,0.15),0 0 2px rgba(0,0,0,0.05);color:rgba(0,0,0,0.8);font-size:15px;line-height:20px;white-space:nowrap}.ya-share2__copied-tooltip_shown{display:block;animation:tooltipAppearance 2s ease-out forwards}@media (min-width:721px){.ya-share2__popup.ya-share2__popup_mobile.ya-share2__popup_visible{display:flex;justify-content:center;align-items:center}.ya-share2__popup.ya-share2__popup_mobile.ya-share2__popup_visible .ya-share2__popup-content{width:720px;min-height:310px;padding:20px 0;bottom:auto}.ya-share2__popup.ya-share2__popup_mobile.ya-share2__popup_visible .ya-share2__popup-content .ya-share2__popup-body{border-radius:0 0 16px 16px}}@-moz-keyframes tooltipAppearance{0%{transform:translate(-50%,0);opacity:0}8%{transform:translate(-50%,-10px);opacity:1}92%{transform:translate(-50%,-10px);opacity:1}100%{transform:translate(-50%,0);opacity:0}}@-webkit-keyframes tooltipAppearance{0%{transform:translate(-50%,0);opacity:0}8%{transform:translate(-50%,-10px);opacity:1}92%{transform:translate(-50%,-10px);opacity:1}100%{transform:translate(-50%,0);opacity:0}}@-o-keyframes tooltipAppearance{0%{transform:translate(-50%,0);opacity:0}8%{transform:translate(-50%,-10px);opacity:1}92%{transform:translate(-50%,-10px);opacity:1}100%{transform:translate(-50%,0);opacity:0}}@keyframes tooltipAppearance{0%{transform:translate(-50%,0);opacity:0}8%{transform:translate(-50%,-10px);opacity:1}92%{transform:translate(-50%,-10px);opacity:1}100%{transform:translate(-50%,0);opacity:0}}@-moz-keyframes overlayAppearance{from{opacity:0}to{opacity:1}}@-webkit-keyframes overlayAppearance{from{opacity:0}to{opacity:1}}@-o-keyframes overlayAppearance{from{opacity:0}to{opacity:1}}@keyframes overlayAppearance{from{opacity:0}to{opacity:1}}@-moz-keyframes popupAppearance{from{transform:translateY(100%)}to{transform:translateY(0)}}@-webkit-keyframes popupAppearance{from{transform:translateY(100%)}to{transform:translateY(0)}}@-o-keyframes popupAppearance{from{transform:translateY(100%)}to{transform:translateY(0)}}@keyframes popupAppearance{from{transform:translateY(100%)}to{transform:translateY(0)}}.ya-share2__container,.ya-share2__container .ya-share2__item{font-family:'YS Text',Arial,sans-serif}.ya-share2__list,.ya-share2__badge,.ya-share2__icon{display:inline-block;vertical-align:top}.ya-share2__title{display:inline-block;vertical-align:bottom}.ya-share2__list{padding:0;margin:0;list-style-type:none}.ya-share2__link{display:block}.ya-share2__item{display:inline-block;font-family:'YS Text',Arial,sans-serif}.ya-share2__item:not(.ya-share2__item_more):hover,.ya-share2__item.ya-share2__item_more > .ya-share2__link:hover,.ya-share2__item:not(.ya-share2__item_more):focus,.ya-share2__item.ya-share2__item_more > .ya-share2__link:focus{cursor:pointer;opacity:.85}.ya-share2__item:not(.ya-share2__item_more):active,.ya-share2__item.ya-share2__item_more > .ya-share2__link:active{opacity:.7}.ya-share2__link{text-decoration:none;white-space:nowrap}.ya-share2__badge{border-radius:4px;color:#fff;overflow:hidden;position:relative}.ya-share2__container_mobile .ya-share2__badge{border-radius:50%}.ya-share2__title{color:#000}.ya-share2__item_more{position:relative}.ya-share2__item_more .ya-share2__link_more .ya-share2__title{display:none}.ya-share2__item_more .ya-share2__icon_more{background-image:url("data:image/svg+xml,%3Csvg%20width=%2716%27%20height=%2716%27%20fill=%27none%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath%20fill-rule=%27evenodd%27%20clip-rule=%27evenodd%27%20d=%27M1%208a1.5%201.5%200%20113%200%201.5%201.5%200%2001-3%200zm5.5%200a1.5%201.5%200%20113%200%201.5%201.5%200%2001-3%200zm7-1.5a1.5%201.5%200%20100%203%201.5%201.5%200%20000-3z%27%20fill=%27%23999%27/%3E%3C/svg%3E")}.ya-share2__container_color-scheme_blackwhite .ya-share2__item_more .ya-share2__icon_more{background-image:url("data:image/svg+xml,%3Csvg%20width=%2716%27%20height=%2716%27%20fill=%27none%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath%20fill-rule=%27evenodd%27%20clip-rule=%27evenodd%27%20d=%27M1%208a1.5%201.5%200%20113%200%201.5%201.5%200%2001-3%200zm5.5%200a1.5%201.5%200%20113%200%201.5%201.5%200%2001-3%200zm7-1.5a1.5%201.5%200%20100%203%201.5%201.5%200%20000-3z%27%20fill=%27%23fff%27/%3E%3C/svg%3E")}.ya-share2__container_color-scheme_whiteblack .ya-share2__item_more .ya-share2__icon_more{background-image:url("data:image/svg+xml,%3Csvg%20width=%2716%27%20height=%2716%27%20fill=%27none%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath%20fill-rule=%27evenodd%27%20clip-rule=%27evenodd%27%20d=%27M1%208a1.5%201.5%200%20113%200%201.5%201.5%200%2001-3%200zm5.5%200a1.5%201.5%200%20113%200%201.5%201.5%200%2001-3%200zm7-1.5a1.5%201.5%200%20100%203%201.5%201.5%200%20000-3z%27%20fill=%27%23000%27/%3E%3C/svg%3E")}.ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__icon_more{background-image:url("data:image/svg+xml,%3Csvg%20width=%2716%27%20height=%2716%27%20fill=%27none%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath%20d=%27M14.6%202.9a2.7%202.7%200%2001-4.554%201.963L5.303%207.28a2.702%202.702%200%20010%201.44l4.743%202.417a2.7%202.7%200%2011-.834%201.708l-5.05-2.575a2.7%202.7%200%20110-4.54l5.05-2.575A2.7%202.7%200%201114.6%202.9z%27%20fill=%27%23000%27/%3E%3C/svg%3E")}.ya-share2__item_more .ya-share2__badge,.ya-share2__item_copy .ya-share2__badge{background:rgba(0,0,0,0.03)}.ya-share2__item_more .ya-share2__icon,.ya-share2__item_copy .ya-share2__icon{background-position:center;background-repeat:no-repeat}.ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more{background:rgba(0,0,0,0.03);border:1px solid rgba(0,0,0,0.15);border-radius:50px}.ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more:not(.ya-share2__link_more-button-type_short):hover,.ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more:not(.ya-share2__link_more-button-type_short):focus{border-color:rgba(0,0,0,0.25);opacity:1}.ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more:not(.ya-share2__link_more-button-type_short):active{border-color:rgba(0,0,0,0.4);opacity:1}.ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__link_more:not(.ya-share2__link_more-button-type_short) .ya-share2__title{display:inline-block}.ya-share2__item_more.ya-share2__item_has-pretty-view .ya-share2__badge_more{background:transparent}.ya-share2__item_copy .ya-share2__icon{background-image:url("data:image/svg+xml,%3Csvg%20width=%2716%27%20height=%2716%27%20fill=%27none%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath%20fill-rule=%27evenodd%27%20clip-rule=%27evenodd%27%20d=%27M4%202a1%201%200%20001%201h7.5a.5.5%200%2001.5.5v7.497a1%201%200%20002%200V3.5A2.5%202.5%200%200012.5%201H5a1%201%200%2000-1%201zM2.5%204h8A1.5%201.5%200%200112%205.5v8a1.5%201.5%200%2001-1.5%201.5h-8A1.5%201.5%200%20011%2013.5v-8A1.5%201.5%200%20012.5%204zM3%206v7h7V6H3z%27%20fill=%27%23999%27/%3E%3C/svg%3E")}.ya-share2__container_color-scheme_blackwhite .ya-share2__item_copy .ya-share2__icon{background-image:url("data:image/svg+xml,%3Csvg%20width=%2716%27%20height=%2716%27%20fill=%27none%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath%20fill-rule=%27evenodd%27%20clip-rule=%27evenodd%27%20d=%27M4%202a1%201%200%20001%201h7.5a.5.5%200%2001.5.5v7.497a1%201%200%20002%200V3.5A2.5%202.5%200%200012.5%201H5a1%201%200%2000-1%201zM2.5%204h8A1.5%201.5%200%200112%205.5v8a1.5%201.5%200%2001-1.5%201.5h-8A1.5%201.5%200%20011%2013.5v-8A1.5%201.5%200%20012.5%204zM3%206v7h7V6H3z%27%20fill=%27%23fff%27/%3E%3C/svg%3E")}.ya-share2__container_color-scheme_whiteblack .ya-share2__item_copy .ya-share2__icon{background-image:url("data:image/svg+xml,%3Csvg%20width=%2716%27%20height=%2716%27%20fill=%27none%27%20xmlns=%27http://www.w3.org/2000/svg%27%3E%3Cpath%20fill-rule=%27evenodd%27%20clip-rule=%27evenodd%27%20d=%27M4%202a1%201%200%20001%201h7.5a.5.5%200%2001.5.5v7.497a1%201%200%20002%200V3.5A2.5%202.5%200%200012.5%201H5a1%201%200%2000-1%201zM2.5%204h8A1.5%201.5%200%200112%205.5v8a1.5%201.5%200%2001-1.5%201.5h-8A1.5%201.5%200%20011%2013.5v-8A1.5%201.5%200%20012.5%204zM3%206v7h7V6H3z%27%20fill=%27%23000%27/%3E%3C/svg%3E")}.ya-share2__item_copy .ya-share2__input_copy{display:none}.ya-share2__item_copy .ya-share2__link_copy{display:inline-block}
+.ya-share2__item_service_blogger .ya-share2__badge,
+.ya-share2__item_service_blogger .ya-share2__mobile-popup-badge
+{
+    background-color: #fb8f3d;
+}
+
+.ya-share2__item_service_blogger .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M19.896 14.833A5.167 5.167 0 0114.729 20H9.166A5.167 5.167 0 014 14.833V9.167A5.166 5.166 0 019.166 4h2.608a5.167 5.167 0 015.167 5.167l.002.011c.037.536.484.96 1.03.96l.018-.002h.872c.57 0 1.034.463 1.034 1.034l-.001 3.663zM9.038 10.176h2.926a.993.993 0 000-1.987H9.038a.994.994 0 000 1.987zm5.867 3.83H9.032a.94.94 0 000 1.879h5.873a.94.94 0 100-1.88z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_blogger .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M19.896 14.833A5.167 5.167 0 0114.729 20H9.166A5.167 5.167 0 014 14.833V9.167A5.166 5.166 0 019.166 4h2.608a5.167 5.167 0 015.167 5.167l.002.011c.037.536.484.96 1.03.96l.018-.002h.872c.57 0 1.034.463 1.034 1.034l-.001 3.663zM9.038 10.176h2.926a.993.993 0 000-1.987H9.038a.994.994 0 000 1.987zm5.867 3.83H9.032a.94.94 0 000 1.879h5.873a.94.94 0 100-1.88z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_delicious .ya-share2__badge,
+.ya-share2__item_service_delicious .ya-share2__mobile-popup-badge
+{
+    background-color: #31a9ff;
+}
+
+.ya-share2__item_service_delicious .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M4 12h8v8H4zm8-8h8v8h-7.984z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_delicious .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M4 12h8v8H4zm8-8h8v8h-7.984z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_digg .ya-share2__badge,
+.ya-share2__item_service_digg .ya-share2__mobile-popup-badge
+{
+    background-color: #000;
+}
+
+.ya-share2__item_service_digg .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M5.555 10.814V14.1h.96s.18.005.18-.222v-3.287h-.96s-.18-.006-.18.222zm8.032 3.065v-3.287h-.96s-.18-.006-.18.222V14.1h.96s.18.006.18-.222zm-5.306 1.32c0 .227-.18.222-.18.222H4V9.497c0-.227.18-.222.18-.222h2.514V7.222c0-.227.18-.222.18-.222h1.408l-.001 8.199zm2.065 0c0 .227-.18.221-.18.221H8.761V9.496c0-.226.18-.221.18-.221h1.406v5.924zm0-7.103c0 .227-.18.222-.18.222H8.76V7.222c0-.227.18-.222.18-.222h1.408l-.001 1.096zm4.827 9.21c0 .228-.18.223-.18.223h-4.1v-1.096c0-.227.18-.222.18-.222h2.513v-.79h-2.694V9.497c0-.227.18-.222.18-.222l4.102.003v8.029zm4.826 0c0 .228-.18.223-.18.223h-4.1v-1.096c0-.227.18-.222.18-.222h2.514v-.79h-2.695V9.497c0-.227.18-.222.18-.222L20 9.279v8.028zm-1.585-3.427v-3.287h-.96s-.18-.006-.18.222V14.1h.96s.18.006.18-.222z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_digg .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M5.555 10.814V14.1h.96s.18.005.18-.222v-3.287h-.96s-.18-.006-.18.222zm8.032 3.065v-3.287h-.96s-.18-.006-.18.222V14.1h.96s.18.006.18-.222zm-5.306 1.32c0 .227-.18.222-.18.222H4V9.497c0-.227.18-.222.18-.222h2.514V7.222c0-.227.18-.222.18-.222h1.408l-.001 8.199zm2.065 0c0 .227-.18.221-.18.221H8.761V9.496c0-.226.18-.221.18-.221h1.406v5.924zm0-7.103c0 .227-.18.222-.18.222H8.76V7.222c0-.227.18-.222.18-.222h1.408l-.001 1.096zm4.827 9.21c0 .228-.18.223-.18.223h-4.1v-1.096c0-.227.18-.222.18-.222h2.513v-.79h-2.694V9.497c0-.227.18-.222.18-.222l4.102.003v8.029zm4.826 0c0 .228-.18.223-.18.223h-4.1v-1.096c0-.227.18-.222.18-.222h2.514v-.79h-2.695V9.497c0-.227.18-.222.18-.222L20 9.279v8.028zm-1.585-3.427v-3.287h-.96s-.18-.006-.18.222V14.1h.96s.18.006.18-.222z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_evernote .ya-share2__badge,
+.ya-share2__item_service_evernote .ya-share2__mobile-popup-badge
+{
+    background-color: #24d666;
+}
+
+.ya-share2__item_service_evernote .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M6.277 7.109h1.517c.08 0 .16-.08.16-.16V5.313c0-.28.08-.559.159-.758l.04-.12L5.2 7.348l.16-.08c.239-.12.558-.16.917-.16zm11.654-.28c-.12-.638-.479-.917-.838-1.037-.36-.12-.718-.28-1.676-.4-.759-.08-1.557-.12-2.116-.12-.16-.438-.399-.917-1.317-1.156-.638-.16-1.796-.12-2.155-.08-.559.08-.758.319-.918.479-.16.16-.28.598-.28.878v1.556c0 .48-.318.838-.877.838H6.397c-.32 0-.559.04-.758.12-.16.12-.32.28-.4.4-.2.279-.239.598-.239.957 0 0 0 .28.08.798.04.4.479 3.033.878 3.911.16.36.28.48.599.639.718.32 2.354.639 3.152.758.759.08 1.278.32 1.557-.279 0 0 .04-.16.12-.36a6.3 6.3 0 00.28-1.915c0-.04.079-.04.079 0 0 .36-.08 1.557.838 1.876.36.12 1.118.24 1.876.32.678.079 1.197.358 1.197 2.114 0 1.078-.24 1.238-1.397 1.238-.958 0-1.317.04-1.317-.759 0-.598.599-.558 1.078-.558.2 0 .04-.16.04-.52 0-.398.24-.598 0-.598-1.557-.04-2.475 0-2.475 1.956 0 1.796.679 2.115 2.914 2.115 1.756 0 2.354-.04 3.073-2.275.16-.439.479-1.796.678-4.03.16-1.478-.12-5.788-.319-6.866zm-3.033 4.75c-.2 0-.32 0-.519.04h-.08s-.04 0-.04-.04v-.04c.08-.4.28-.878.878-.878.639.04.799.599.799 1.038v.04c0 .04-.04.04-.04.04-.04 0-.04 0-.04-.04-.28-.08-.599-.12-.958-.16z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_evernote .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M6.277 7.109h1.517c.08 0 .16-.08.16-.16V5.313c0-.28.08-.559.159-.758l.04-.12L5.2 7.348l.16-.08c.239-.12.558-.16.917-.16zm11.654-.28c-.12-.638-.479-.917-.838-1.037-.36-.12-.718-.28-1.676-.4-.759-.08-1.557-.12-2.116-.12-.16-.438-.399-.917-1.317-1.156-.638-.16-1.796-.12-2.155-.08-.559.08-.758.319-.918.479-.16.16-.28.598-.28.878v1.556c0 .48-.318.838-.877.838H6.397c-.32 0-.559.04-.758.12-.16.12-.32.28-.4.4-.2.279-.239.598-.239.957 0 0 0 .28.08.798.04.4.479 3.033.878 3.911.16.36.28.48.599.639.718.32 2.354.639 3.152.758.759.08 1.278.32 1.557-.279 0 0 .04-.16.12-.36a6.3 6.3 0 00.28-1.915c0-.04.079-.04.079 0 0 .36-.08 1.557.838 1.876.36.12 1.118.24 1.876.32.678.079 1.197.358 1.197 2.114 0 1.078-.24 1.238-1.397 1.238-.958 0-1.317.04-1.317-.759 0-.598.599-.558 1.078-.558.2 0 .04-.16.04-.52 0-.398.24-.598 0-.598-1.557-.04-2.475 0-2.475 1.956 0 1.796.679 2.115 2.914 2.115 1.756 0 2.354-.04 3.073-2.275.16-.439.479-1.796.678-4.03.16-1.478-.12-5.788-.319-6.866zm-3.033 4.75c-.2 0-.32 0-.519.04h-.08s-.04 0-.04-.04v-.04c.08-.4.28-.878.878-.878.639.04.799.599.799 1.038v.04c0 .04-.04.04-.04.04-.04 0-.04 0-.04-.04-.28-.08-.599-.12-.958-.16z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_linkedin .ya-share2__badge,
+.ya-share2__item_service_linkedin .ya-share2__mobile-popup-badge
+{
+    background-color: #0083be;
+}
+
+.ya-share2__item_service_linkedin .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M4.246 8.954h3.41v10.281h-3.41zm1.725-4.935c-1.167 0-1.929.769-1.929 1.776 0 .987.74 1.777 1.884 1.777h.022c1.19 0 1.93-.79 1.93-1.777-.023-1.007-.74-1.776-1.907-1.776zm10.052 4.715c-1.81 0-2.62.997-3.073 1.698V8.976H9.54c.045.965 0 10.281 0 10.281h3.41v-5.742c0-.307.022-.614.112-.834.246-.613.807-1.25 1.75-1.25 1.233 0 1.727.944 1.727 2.325v5.501h3.41v-5.896c0-3.158-1.683-4.627-3.926-4.627z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_linkedin .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M4.246 8.954h3.41v10.281h-3.41zm1.725-4.935c-1.167 0-1.929.769-1.929 1.776 0 .987.74 1.777 1.884 1.777h.022c1.19 0 1.93-.79 1.93-1.777-.023-1.007-.74-1.776-1.907-1.776zm10.052 4.715c-1.81 0-2.62.997-3.073 1.698V8.976H9.54c.045.965 0 10.281 0 10.281h3.41v-5.742c0-.307.022-.614.112-.834.246-.613.807-1.25 1.75-1.25 1.233 0 1.727.944 1.727 2.325v5.501h3.41v-5.896c0-3.158-1.683-4.627-3.926-4.627z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_lj .ya-share2__badge,
+.ya-share2__item_service_lj .ya-share2__mobile-popup-badge
+{
+    background-color: #0d425a;
+}
+
+.ya-share2__item_service_lj .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath fill-rule='evenodd' clip-rule='evenodd' d='M17.815 13.3c.223 1.074.443 2.146.663 3.218.214 1.039.427 2.078.643 3.118.037.178-.148.385-.334.311-1.544-.565-3.063-1.135-4.585-1.706l-1.425-.534a.625.625 0 01-.318-.23l-7.39-8.903c-.067-.082-.082-.215-.06-.32.312-1.23.72-2.143 1.752-3.019C7.799 4.36 8.779 4.1 10.047 4.004c.156-.015.223.014.312.133l1.351 1.625v.001c1.968 2.367 3.935 4.733 5.897 7.099.109.124.18.275.208.438zM6.175 8.462c.69-1.795 2.3-3.004 3.835-3.301l-.185-.223a4.242 4.242 0 00-3.85 3.272l.2.252zm.504.601c.727-1.758 2.107-2.945 3.851-3.271l.89 1.06c-1.536.305-3.049 1.522-3.836 3.302l-.905-1.091zM9.364 8.9l3.926 4.719h-.002c.564.682-.014 2.656-.303 3.041l-4.89-5.89A6.12 6.12 0 019.364 8.9zm4.23 4.481L9.647 8.633c.69-.601 1.484-1.009 2.277-1.165l4.756 5.72c-.63.52-2.641.735-3.086.193zm3.36.298l.001-.001h-.001zm-2.93.526c1.03.208 2.32-.067 2.93-.526l.43 2.091.35 1.692c-.371.156-.69.386-.913.764l-1.528-.564-1.885-.712c.52-.853.69-1.922.616-2.745z' fill='%23FFF'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_lj .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath fill-rule='evenodd' clip-rule='evenodd' d='M17.815 13.3c.223 1.074.443 2.146.663 3.218.214 1.039.427 2.078.643 3.118.037.178-.148.385-.334.311-1.544-.565-3.063-1.135-4.585-1.706l-1.425-.534a.625.625 0 01-.318-.23l-7.39-8.903c-.067-.082-.082-.215-.06-.32.312-1.23.72-2.143 1.752-3.019C7.799 4.36 8.779 4.1 10.047 4.004c.156-.015.223.014.312.133l1.351 1.625v.001c1.968 2.367 3.935 4.733 5.897 7.099.109.124.18.275.208.438zM6.175 8.462c.69-1.795 2.3-3.004 3.835-3.301l-.185-.223a4.242 4.242 0 00-3.85 3.272l.2.252zm.504.601c.727-1.758 2.107-2.945 3.851-3.271l.89 1.06c-1.536.305-3.049 1.522-3.836 3.302l-.905-1.091zM9.364 8.9l3.926 4.719h-.002c.564.682-.014 2.656-.303 3.041l-4.89-5.89A6.12 6.12 0 019.364 8.9zm4.23 4.481L9.647 8.633c.69-.601 1.484-1.009 2.277-1.165l4.756 5.72c-.63.52-2.641.735-3.086.193zm3.36.298l.001-.001h-.001zm-2.93.526c1.03.208 2.32-.067 2.93-.526l.43 2.091.35 1.692c-.371.156-.69.386-.913.764l-1.528-.564-1.885-.712c.52-.853.69-1.922.616-2.745z' fill='%23000'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_messenger .ya-share2__badge,
+.ya-share2__item_service_messenger .ya-share2__mobile-popup-badge
+{
+    background-color: #03CECE;
+}
+
+.ya-share2__item_service_messenger .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M19.643 11.415L7.723 4.636a.703.703 0 00-1.048.62v1.826s3.961 1.542 4.284 1.662a.457.457 0 01.343.54c-.058.144-.18.128-.533.042-.352-.085-5.505-1.368-5.505-1.368a.62.62 0 00-.715.847l1.077 2.563s6.949.29 7.199.305c.247.015.393.134.397.327-.004.194-.15.312-.397.327-.25.014-7.199.305-7.199.305L4.55 15.196a.62.62 0 00.715.846s5.153-1.283 5.505-1.368c.353-.086.475-.102.533.042a.457.457 0 01-.343.54c-.323.12-4.284 1.663-4.284 1.663v1.825a.703.703 0 001.048.62l11.92-6.78a.658.658 0 000-1.169z' fill='%23FFF'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_messenger .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M19.643 11.415L7.723 4.636a.703.703 0 00-1.048.62v1.826s3.961 1.542 4.284 1.662a.457.457 0 01.343.54c-.058.144-.18.128-.533.042-.352-.085-5.505-1.368-5.505-1.368a.62.62 0 00-.715.847l1.077 2.563s6.949.29 7.199.305c.247.015.393.134.397.327-.004.194-.15.312-.397.327-.25.014-7.199.305-7.199.305L4.55 15.196a.62.62 0 00.715.846s5.153-1.283 5.505-1.368c.353-.086.475-.102.533.042a.457.457 0 01-.343.54c-.323.12-4.284 1.663-4.284 1.663v1.825a.703.703 0 001.048.62l11.92-6.78a.658.658 0 000-1.169z' fill='%23000'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_moimir .ya-share2__badge,
+.ya-share2__item_service_moimir .ya-share2__mobile-popup-badge
+{
+    background-color: #168de2;
+}
+
+.ya-share2__item_service_moimir .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M8.889 9.667a1.333 1.333 0 100-2.667 1.333 1.333 0 000 2.667zm6.222 0a1.333 1.333 0 100-2.667 1.333 1.333 0 000 2.667zm4.77 6.108l-1.802-3.028a.879.879 0 00-1.188-.307.843.843 0 00-.313 1.166l.214.36a6.71 6.71 0 01-4.795 1.996 6.711 6.711 0 01-4.792-1.992l.217-.364a.844.844 0 00-.313-1.166.878.878 0 00-1.189.307l-1.8 3.028a.844.844 0 00.312 1.166.88.88 0 001.189-.307l.683-1.147a8.466 8.466 0 005.694 2.18 8.463 8.463 0 005.698-2.184l.685 1.151a.873.873 0 001.189.307.844.844 0 00.312-1.166z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_moimir .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M8.889 9.667a1.333 1.333 0 100-2.667 1.333 1.333 0 000 2.667zm6.222 0a1.333 1.333 0 100-2.667 1.333 1.333 0 000 2.667zm4.77 6.108l-1.802-3.028a.879.879 0 00-1.188-.307.843.843 0 00-.313 1.166l.214.36a6.71 6.71 0 01-4.795 1.996 6.711 6.711 0 01-4.792-1.992l.217-.364a.844.844 0 00-.313-1.166.878.878 0 00-1.189.307l-1.8 3.028a.844.844 0 00.312 1.166.88.88 0 001.189-.307l.683-1.147a8.466 8.466 0 005.694 2.18 8.463 8.463 0 005.698-2.184l.685 1.151a.873.873 0 001.189.307.844.844 0 00.312-1.166z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_odnoklassniki .ya-share2__badge,
+.ya-share2__item_service_odnoklassniki .ya-share2__mobile-popup-badge
+{
+    background-color: #f70;
+}
+
+.ya-share2__item_service_odnoklassniki .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M14.83 10.77a3.951 3.951 0 0 1-5.604 0 3.951 3.951 0 0 1 0-5.604 3.95 3.95 0 0 1 5.604 0 3.951 3.951 0 0 1 0 5.604Zm-2.802-4.615c-.494 0-.942.2-1.271.53a1.79 1.79 0 0 0 0 2.542 1.789 1.789 0 0 0 2.543 0 1.789 1.789 0 0 0 0-2.543 1.839 1.839 0 0 0-1.272-.53Zm4.168 5.792 1.166 1.59c.059.082.047.188-.036.247-.977.8-2.119 1.33-3.308 1.613l2.249 4.332c.059.13-.024.271-.165.271H13.7a.206.206 0 0 1-.176-.118l-1.496-3.579-1.507 3.567a.181.181 0 0 1-.176.118H7.943c-.141 0-.224-.153-.165-.27l2.249-4.321a8.262 8.262 0 0 1-3.308-1.613c-.071-.06-.095-.177-.036-.248l1.166-1.589c.07-.094.188-.106.27-.035 1.096.93 2.45 1.542 3.898 1.542s2.79-.6 3.897-1.542c.094-.07.223-.06.282.035Z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_odnoklassniki .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M14.83 10.77a3.951 3.951 0 0 1-5.604 0 3.951 3.951 0 0 1 0-5.604 3.95 3.95 0 0 1 5.604 0 3.951 3.951 0 0 1 0 5.604Zm-2.802-4.615c-.494 0-.942.2-1.271.53a1.79 1.79 0 0 0 0 2.542 1.789 1.789 0 0 0 2.543 0 1.789 1.789 0 0 0 0-2.543 1.839 1.839 0 0 0-1.272-.53Zm4.168 5.792 1.166 1.59c.059.082.047.188-.036.247-.977.8-2.119 1.33-3.308 1.613l2.249 4.332c.059.13-.024.271-.165.271H13.7a.206.206 0 0 1-.176-.118l-1.496-3.579-1.507 3.567a.181.181 0 0 1-.176.118H7.943c-.141 0-.224-.153-.165-.27l2.249-4.321a8.262 8.262 0 0 1-3.308-1.613c-.071-.06-.095-.177-.036-.248l1.166-1.589c.07-.094.188-.106.27-.035 1.096.93 2.45 1.542 3.898 1.542s2.79-.6 3.897-1.542c.094-.07.223-.06.282.035Z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_pinterest .ya-share2__badge,
+.ya-share2__item_service_pinterest .ya-share2__mobile-popup-badge
+{
+    background-color: #c20724;
+}
+
+.ya-share2__item_service_pinterest .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M6 9.742c0 1.58.599 2.986 1.884 3.51.21.087.4.003.46-.23.043-.16.144-.568.189-.738.06-.23.037-.31-.133-.512-.37-.436-.608-1.001-.608-1.802 0-2.322 1.74-4.402 4.53-4.402 2.471 0 3.829 1.508 3.829 3.522 0 2.65-1.174 4.887-2.917 4.887-.963 0-1.683-.795-1.452-1.77.276-1.165.812-2.421.812-3.262 0-.752-.405-1.38-1.24-1.38-.985 0-1.775 1.017-1.775 2.38 0 .867.293 1.454.293 1.454L8.69 16.406c-.352 1.487-.053 3.309-.028 3.492.015.11.155.136.22.054.09-.119 1.262-1.564 1.66-3.008.113-.409.647-2.526.647-2.526.32.61 1.254 1.145 2.248 1.145 2.957 0 4.964-2.693 4.964-6.298C18.4 6.539 16.089 4 12.576 4 8.204 4 6 7.13 6 9.742z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_pinterest .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M6 9.742c0 1.58.599 2.986 1.884 3.51.21.087.4.003.46-.23.043-.16.144-.568.189-.738.06-.23.037-.31-.133-.512-.37-.436-.608-1.001-.608-1.802 0-2.322 1.74-4.402 4.53-4.402 2.471 0 3.829 1.508 3.829 3.522 0 2.65-1.174 4.887-2.917 4.887-.963 0-1.683-.795-1.452-1.77.276-1.165.812-2.421.812-3.262 0-.752-.405-1.38-1.24-1.38-.985 0-1.775 1.017-1.775 2.38 0 .867.293 1.454.293 1.454L8.69 16.406c-.352 1.487-.053 3.309-.028 3.492.015.11.155.136.22.054.09-.119 1.262-1.564 1.66-3.008.113-.409.647-2.526.647-2.526.32.61 1.254 1.145 2.248 1.145 2.957 0 4.964-2.693 4.964-6.298C18.4 6.539 16.089 4 12.576 4 8.204 4 6 7.13 6 9.742z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_pocket .ya-share2__badge,
+.ya-share2__item_service_pocket .ya-share2__mobile-popup-badge
+{
+    background-color: #ee4056;
+}
+
+.ya-share2__item_service_pocket .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M17.9 5c1.159 0 2.1.948 2.1 2.117v5.862c0 .108-.008.215-.024.32.016.156.024.314.024.473 0 3.36-3.582 6.085-8 6.085s-8-2.724-8-6.085c0-.159.008-.317.024-.473a2.148 2.148 0 01-.024-.32V7.117C4 5.948 4.94 5 6.1 5h11.8zM8.596 9.392L12 12.795l3.404-3.403a1.063 1.063 0 011.502 1.502l-4.132 4.131c-.21.21-.486.314-.76.311a1.062 1.062 0 01-.788-.31l-4.132-4.132a1.063 1.063 0 011.502-1.502z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_pocket .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M17.9 5c1.159 0 2.1.948 2.1 2.117v5.862c0 .108-.008.215-.024.32.016.156.024.314.024.473 0 3.36-3.582 6.085-8 6.085s-8-2.724-8-6.085c0-.159.008-.317.024-.473a2.148 2.148 0 01-.024-.32V7.117C4 5.948 4.94 5 6.1 5h11.8zM8.596 9.392L12 12.795l3.404-3.403a1.063 1.063 0 011.502 1.502l-4.132 4.131c-.21.21-.486.314-.76.311a1.062 1.062 0 01-.788-.31l-4.132-4.132a1.063 1.063 0 011.502-1.502z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_qzone .ya-share2__badge,
+.ya-share2__item_service_qzone .ya-share2__mobile-popup-badge
+{
+    background-color: #f5b53c;
+}
+
+.ya-share2__item_service_qzone .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M17.367 14.463s-.105.148-.457.299l-.553.222.597 3.273c.062.282.25.983-.082 1.062-.17.04-.307-.067-.395-.121l-.769-.445-2.675-1.545c-.204-.122-.78-.546-1.093-.489-.205.038-.336.127-.483.216l-.77.445-2.39 1.386-.883.508c-.123.06-.301.058-.394-.025-.07-.063-.09-.253-.063-.388l.19-1.004.572-3.02c.047-.2.237-.975.166-1.137-.048-.107-.173-.196-.261-.267l-.61-.565-2.13-1.983c-.189-.153-.345-.345-.533-.496l-.235-.216c-.062-.078-.165-.235-.09-.369.142-.248.974-.218 1.335-.28l2.682-.31.82-.09c.146-.024.299-.004.413-.063.239-.123.51-.809.636-1.087l1.31-2.714c.151-.297.286-.603.431-.896.075-.15.133-.308.305-.356.162-.045.257.105.312.178.177.235.325.685.451.973l1.29 2.853c.104.238.363.964.54 1.074.266.166.858.108 1.227.172l2.841.292c.355.062 1.245.01 1.36.267.076.17-.072.314-.152.394l-.864.814-1.983 1.868c-.185.164-.77.637-.833.858-.04.14.02.414.088.722a95.62 95.62 0 01-1.182-.029c-.63-.007-2.616-.17-2.713-.178l-.84-.076c-.14-.023-.326.012-.4-.076v-.02c1.727-1.168 3.407-2.416 5.142-3.578l-.006-.044c-.146-.072-.359-.059-.54-.095-.385-.077-.79-.078-1.208-.147-.75-.124-1.59-.114-2.434-.114-1.172 0-2.329.03-3.35.21-.45.079-.894.095-1.309.197-.172.042-.358.03-.49.108l.007.012c.1.027.253.02.381.02l.928.019.808.025.813.032.591.032c.486.075 1.007.036 1.475.114.404.068.804.065 1.182.14.113.022.245.015.33.064v.006c-.039.094-.336.255-.432.318l-1.055.743-2.256 1.62-1.417.992c.003.048.024.035.045.061 1.15.167 2.52.258 3.77.262 1.298.005 2.465-.094 3.118-.193.561-.086 1.082-.147 1.653-.287.325-.08.521-.148.521-.148z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_qzone .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M17.367 14.463s-.105.148-.457.299l-.553.222.597 3.273c.062.282.25.983-.082 1.062-.17.04-.307-.067-.395-.121l-.769-.445-2.675-1.545c-.204-.122-.78-.546-1.093-.489-.205.038-.336.127-.483.216l-.77.445-2.39 1.386-.883.508c-.123.06-.301.058-.394-.025-.07-.063-.09-.253-.063-.388l.19-1.004.572-3.02c.047-.2.237-.975.166-1.137-.048-.107-.173-.196-.261-.267l-.61-.565-2.13-1.983c-.189-.153-.345-.345-.533-.496l-.235-.216c-.062-.078-.165-.235-.09-.369.142-.248.974-.218 1.335-.28l2.682-.31.82-.09c.146-.024.299-.004.413-.063.239-.123.51-.809.636-1.087l1.31-2.714c.151-.297.286-.603.431-.896.075-.15.133-.308.305-.356.162-.045.257.105.312.178.177.235.325.685.451.973l1.29 2.853c.104.238.363.964.54 1.074.266.166.858.108 1.227.172l2.841.292c.355.062 1.245.01 1.36.267.076.17-.072.314-.152.394l-.864.814-1.983 1.868c-.185.164-.77.637-.833.858-.04.14.02.414.088.722a95.62 95.62 0 01-1.182-.029c-.63-.007-2.616-.17-2.713-.178l-.84-.076c-.14-.023-.326.012-.4-.076v-.02c1.727-1.168 3.407-2.416 5.142-3.578l-.006-.044c-.146-.072-.359-.059-.54-.095-.385-.077-.79-.078-1.208-.147-.75-.124-1.59-.114-2.434-.114-1.172 0-2.329.03-3.35.21-.45.079-.894.095-1.309.197-.172.042-.358.03-.49.108l.007.012c.1.027.253.02.381.02l.928.019.808.025.813.032.591.032c.486.075 1.007.036 1.475.114.404.068.804.065 1.182.14.113.022.245.015.33.064v.006c-.039.094-.336.255-.432.318l-1.055.743-2.256 1.62-1.417.992c.003.048.024.035.045.061 1.15.167 2.52.258 3.77.262 1.298.005 2.465-.094 3.118-.193.561-.086 1.082-.147 1.653-.287.325-.08.521-.148.521-.148z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_reddit .ya-share2__badge,
+.ya-share2__item_service_reddit .ya-share2__mobile-popup-badge
+{
+    background-color: #ff4500;
+}
+
+.ya-share2__item_service_reddit .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M16.542 10.63c-1.105-.636-2.494-1.033-4.025-1.118l.808-2.393 2.182.637c0 .963.78 1.742 1.743 1.742.964 0 1.758-.779 1.758-1.742C19.008 6.78 18.214 6 17.25 6c-.609 0-1.148.326-1.459.793l-2.65-.764a.482.482 0 00-.61.311l-1.063 3.172c-1.516.085-2.905.482-4.01 1.119a1.987 1.987 0 00-1.46-.623A1.995 1.995 0 004 12.004c0 .75.425 1.403 1.035 1.742-.029.17-.043.34-.043.51 0 2.62 3.146 4.744 7.015 4.744 3.855 0 7-2.124 7-4.744 0-.17-.013-.34-.042-.51A1.974 1.974 0 0020 12.004a1.995 1.995 0 00-1.998-1.996 2.01 2.01 0 00-1.46.623zM9.499 12.5a1.01 1.01 0 011.006 1.006.998.998 0 01-1.006.991.986.986 0 01-.992-.991.997.997 0 01.992-1.006zm5.002 0a.998.998 0 00-.992 1.006c0 .552.44.991.992.991a.998.998 0 001.006-.991 1.01 1.01 0 00-1.006-1.006zm-5.3 3.597a.484.484 0 01-.085-.694c.156-.226.482-.255.694-.085.567.44 1.474.68 2.197.68.709 0 1.616-.24 2.197-.68a.484.484 0 01.694.085.496.496 0 01-.085.694c-.737.58-1.885.907-2.806.907-.935 0-2.07-.326-2.806-.907zm8.05-7.59a.757.757 0 01-.752-.75c0-.426.34-.752.751-.752s.752.326.752.751c0 .41-.34.75-.752.75z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_reddit .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M16.542 10.63c-1.105-.636-2.494-1.033-4.025-1.118l.808-2.393 2.182.637c0 .963.78 1.742 1.743 1.742.964 0 1.758-.779 1.758-1.742C19.008 6.78 18.214 6 17.25 6c-.609 0-1.148.326-1.459.793l-2.65-.764a.482.482 0 00-.61.311l-1.063 3.172c-1.516.085-2.905.482-4.01 1.119a1.987 1.987 0 00-1.46-.623A1.995 1.995 0 004 12.004c0 .75.425 1.403 1.035 1.742-.029.17-.043.34-.043.51 0 2.62 3.146 4.744 7.015 4.744 3.855 0 7-2.124 7-4.744 0-.17-.013-.34-.042-.51A1.974 1.974 0 0020 12.004a1.995 1.995 0 00-1.998-1.996 2.01 2.01 0 00-1.46.623zM9.499 12.5a1.01 1.01 0 011.006 1.006.998.998 0 01-1.006.991.986.986 0 01-.992-.991.997.997 0 01.992-1.006zm5.002 0a.998.998 0 00-.992 1.006c0 .552.44.991.992.991a.998.998 0 001.006-.991 1.01 1.01 0 00-1.006-1.006zm-5.3 3.597a.484.484 0 01-.085-.694c.156-.226.482-.255.694-.085.567.44 1.474.68 2.197.68.709 0 1.616-.24 2.197-.68a.484.484 0 01.694.085.496.496 0 01-.085.694c-.737.58-1.885.907-2.806.907-.935 0-2.07-.326-2.806-.907zm8.05-7.59a.757.757 0 01-.752-.75c0-.426.34-.752.751-.752s.752.326.752.751c0 .41-.34.75-.752.75z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_renren .ya-share2__badge,
+.ya-share2__item_service_renren .ya-share2__mobile-popup-badge
+{
+    background-color: #1760a7;
+}
+
+.ya-share2__item_service_renren .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M12.019 15.562l-.001-.003-.018.002a.055.055 0 00.019.001zM7.71 12.398l.146-.68c.048-.205.03-.452.03-.692V9.812L7.88 8c-.139 0-.278.043-.393.076-.358.102-.666.201-.962.352-1.158.59-2.022 1.565-2.387 2.944-.343 1.297-.007 2.652.522 3.507.118.19.269.48.44.61.135-.02.272-.15.375-.217a6.06 6.06 0 00.622-.452l.24-.229c.63-.506 1.075-1.346 1.373-2.193zm4.276 3.164h.02a.382.382 0 00-.019-.003v.003zm-3.01-.888l-.258-.575-.088-.264h-.01l-.264.498c-.176.288-.358.574-.557.839a6.5 6.5 0 01-.85.944l-.517.422.012.024.287.14c.206.091.43.173.657.235.788.217 1.811.177 2.545-.053.178-.055.643-.194.739-.305v-.017c-.177-.092-.324-.254-.47-.381a5.573 5.573 0 01-1.225-1.507zm10.884-3.302c-.365-1.379-1.23-2.354-2.387-2.944a5.277 5.277 0 00-.962-.352c-.115-.033-.254-.077-.393-.076l-.005 1.812v1.214c0 .24-.019.487.029.692l.147.68c.297.847.741 1.687 1.372 2.193l.24.23c.196.164.402.309.622.45.103.067.24.198.375.218.171-.13.322-.42.44-.61.529-.855.865-2.21.522-3.507zm-3.66 3.8c-.2-.265-.381-.55-.557-.839l-.264-.498h-.011l-.088.264-.258.575a5.576 5.576 0 01-1.226 1.507c-.145.127-.292.29-.469.38v.018c.096.111.561.25.739.305.734.23 1.757.27 2.545.053a4.85 4.85 0 00.657-.234l.287-.141a1.31 1.31 0 00.012-.024l-.516-.422a6.5 6.5 0 01-.85-.944zm-1.653-2.727c.068-.192.097-.402.146-.61.05-.21.024-.484.024-.727V9.753l-.006-1.741c-.015-.008-.02-.01-.047-.012-.197.047-.326.05-.592.14-.357.102-.685.275-.985.44-.289.16-.53.388-.78.587-.097.077-.199.19-.308.312l.01.01a1.19 1.19 0 00-.01.012l.36.47c.232.359.445.763.581 1.213.326 1.079.182 2.411-.235 3.273a4.9 4.9 0 01-.445.75l-.258.323a.018.018 0 01-.003.007c.004.007.01.016.012.022h.008c.395-.215.686-.574 1.027-.844.189-.15.354-.35.504-.54.404-.514.755-1.046.997-1.73zm-2.55 3.085l-.259-.323a4.903 4.903 0 01-.445-.75c-.417-.862-.561-2.194-.235-3.273.136-.45.35-.854.58-1.214L12 9.501l-.01-.011.01-.01a2.791 2.791 0 00-.308-.313c-.25-.2-.491-.427-.78-.586-.3-.166-.628-.339-.985-.44-.266-.09-.395-.094-.592-.141a.083.083 0 00-.047.012l-.006 1.741v1.355c0 .243-.026.517.024.727.049.208.078.418.146.61.242.684.593 1.216.997 1.73.15.19.315.39.505.54.34.27.63.629 1.026.844h.008c.001-.006.008-.015.012-.022a.019.019 0 01-.003-.007z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_renren .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M12.019 15.562l-.001-.003-.018.002a.055.055 0 00.019.001zM7.71 12.398l.146-.68c.048-.205.03-.452.03-.692V9.812L7.88 8c-.139 0-.278.043-.393.076-.358.102-.666.201-.962.352-1.158.59-2.022 1.565-2.387 2.944-.343 1.297-.007 2.652.522 3.507.118.19.269.48.44.61.135-.02.272-.15.375-.217a6.06 6.06 0 00.622-.452l.24-.229c.63-.506 1.075-1.346 1.373-2.193zm4.276 3.164h.02a.382.382 0 00-.019-.003v.003zm-3.01-.888l-.258-.575-.088-.264h-.01l-.264.498c-.176.288-.358.574-.557.839a6.5 6.5 0 01-.85.944l-.517.422.012.024.287.14c.206.091.43.173.657.235.788.217 1.811.177 2.545-.053.178-.055.643-.194.739-.305v-.017c-.177-.092-.324-.254-.47-.381a5.573 5.573 0 01-1.225-1.507zm10.884-3.302c-.365-1.379-1.23-2.354-2.387-2.944a5.277 5.277 0 00-.962-.352c-.115-.033-.254-.077-.393-.076l-.005 1.812v1.214c0 .24-.019.487.029.692l.147.68c.297.847.741 1.687 1.372 2.193l.24.23c.196.164.402.309.622.45.103.067.24.198.375.218.171-.13.322-.42.44-.61.529-.855.865-2.21.522-3.507zm-3.66 3.8c-.2-.265-.381-.55-.557-.839l-.264-.498h-.011l-.088.264-.258.575a5.576 5.576 0 01-1.226 1.507c-.145.127-.292.29-.469.38v.018c.096.111.561.25.739.305.734.23 1.757.27 2.545.053a4.85 4.85 0 00.657-.234l.287-.141a1.31 1.31 0 00.012-.024l-.516-.422a6.5 6.5 0 01-.85-.944zm-1.653-2.727c.068-.192.097-.402.146-.61.05-.21.024-.484.024-.727V9.753l-.006-1.741c-.015-.008-.02-.01-.047-.012-.197.047-.326.05-.592.14-.357.102-.685.275-.985.44-.289.16-.53.388-.78.587-.097.077-.199.19-.308.312l.01.01a1.19 1.19 0 00-.01.012l.36.47c.232.359.445.763.581 1.213.326 1.079.182 2.411-.235 3.273a4.9 4.9 0 01-.445.75l-.258.323a.018.018 0 01-.003.007c.004.007.01.016.012.022h.008c.395-.215.686-.574 1.027-.844.189-.15.354-.35.504-.54.404-.514.755-1.046.997-1.73zm-2.55 3.085l-.259-.323a4.903 4.903 0 01-.445-.75c-.417-.862-.561-2.194-.235-3.273.136-.45.35-.854.58-1.214L12 9.501l-.01-.011.01-.01a2.791 2.791 0 00-.308-.313c-.25-.2-.491-.427-.78-.586-.3-.166-.628-.339-.985-.44-.266-.09-.395-.094-.592-.141a.083.083 0 00-.047.012l-.006 1.741v1.355c0 .243-.026.517.024.727.049.208.078.418.146.61.242.684.593 1.216.997 1.73.15.19.315.39.505.54.34.27.63.629 1.026.844h.008c.001-.006.008-.015.012-.022a.019.019 0 01-.003-.007z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_sinaWeibo .ya-share2__badge,
+.ya-share2__item_service_sinaWeibo .ya-share2__mobile-popup-badge
+{
+    background-color: #c53220;
+}
+
+.ya-share2__item_service_sinaWeibo .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M10.266 14.696c-.103.421.55.447.64.063.037-.191-.103-.332-.282-.332-.167 0-.333.128-.358.269zm-.128.945c.102-.498-.307-.869-.793-.843-.46.038-.843.358-.92.754-.115.511.307.882.793.844.46-.026.843-.345.92-.755zm3.797-3.157c-1.586-.997-3.707-1.01-5.42-.447-.857.28-1.764.818-2.301 1.495-.627.793-.882 1.815-.23 2.8.958 1.431 3.413 2.033 5.675 1.508 1.33-.307 2.749-1.048 3.35-2.326.562-1.177-.052-2.378-1.074-3.03zm-3.17.498c.945.167 1.7.755 1.827 1.739.243 1.854-2.173 3.336-4.026 2.327a1.933 1.933 0 01-.742-2.723c.435-.767 1.266-1.266 2.148-1.355a2.75 2.75 0 01.793.012zm6.11-.37c-.268-.18-.538-.281-.856-.383-.308-.103-.359-.154-.243-.46.076-.218.14-.41.166-.666.14-1.15-.793-1.495-1.854-1.406-.498.039-.92.167-1.355.307-.281.09-.806.384-.92.205-.064-.09.013-.23.038-.32.166-.626.23-1.496-.384-1.88-.447-.28-1.227-.204-1.7-.038-2.556.87-6.455 4.552-5.663 7.479.18.664.55 1.163.908 1.521 1.061 1.061 2.71 1.65 4.231 1.866 1.112.154 2.263.14 3.375-.064 1.815-.332 3.554-1.15 4.679-2.607.754-.972.997-2.352 0-3.235a3.334 3.334 0 00-.422-.319zm1.623-3.682c.652 1.483-.064 2.148.166 2.66.192.421.767.46 1.023.14.191-.243.294-.959.307-1.278a4.193 4.193 0 00-1.125-3.12c-.984-1.073-2.276-1.444-3.694-1.303-.256.025-.46.064-.601.217-.332.358-.166.882.294.959.384.063 1.342-.23 2.416.396.498.307.971.792 1.214 1.33zm-3.45-.562c-.282.345-.078.87.408.856.294-.012.358-.05.677.051.307.103.626.448.64.857.025.268-.282.895.32 1.061a.523.523 0 00.536-.166c.115-.128.166-.371.192-.575.089-.857-.333-1.598-1.01-2.02-.384-.23-1.445-.46-1.764-.064z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_sinaWeibo .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M10.266 14.696c-.103.421.55.447.64.063.037-.191-.103-.332-.282-.332-.167 0-.333.128-.358.269zm-.128.945c.102-.498-.307-.869-.793-.843-.46.038-.843.358-.92.754-.115.511.307.882.793.844.46-.026.843-.345.92-.755zm3.797-3.157c-1.586-.997-3.707-1.01-5.42-.447-.857.28-1.764.818-2.301 1.495-.627.793-.882 1.815-.23 2.8.958 1.431 3.413 2.033 5.675 1.508 1.33-.307 2.749-1.048 3.35-2.326.562-1.177-.052-2.378-1.074-3.03zm-3.17.498c.945.167 1.7.755 1.827 1.739.243 1.854-2.173 3.336-4.026 2.327a1.933 1.933 0 01-.742-2.723c.435-.767 1.266-1.266 2.148-1.355a2.75 2.75 0 01.793.012zm6.11-.37c-.268-.18-.538-.281-.856-.383-.308-.103-.359-.154-.243-.46.076-.218.14-.41.166-.666.14-1.15-.793-1.495-1.854-1.406-.498.039-.92.167-1.355.307-.281.09-.806.384-.92.205-.064-.09.013-.23.038-.32.166-.626.23-1.496-.384-1.88-.447-.28-1.227-.204-1.7-.038-2.556.87-6.455 4.552-5.663 7.479.18.664.55 1.163.908 1.521 1.061 1.061 2.71 1.65 4.231 1.866 1.112.154 2.263.14 3.375-.064 1.815-.332 3.554-1.15 4.679-2.607.754-.972.997-2.352 0-3.235a3.334 3.334 0 00-.422-.319zm1.623-3.682c.652 1.483-.064 2.148.166 2.66.192.421.767.46 1.023.14.191-.243.294-.959.307-1.278a4.193 4.193 0 00-1.125-3.12c-.984-1.073-2.276-1.444-3.694-1.303-.256.025-.46.064-.601.217-.332.358-.166.882.294.959.384.063 1.342-.23 2.416.396.498.307.971.792 1.214 1.33zm-3.45-.562c-.282.345-.078.87.408.856.294-.012.358-.05.677.051.307.103.626.448.64.857.025.268-.282.895.32 1.061a.523.523 0 00.536-.166c.115-.128.166-.371.192-.575.089-.857-.333-1.598-1.01-2.02-.384-.23-1.445-.46-1.764-.064z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_skype .ya-share2__badge,
+.ya-share2__item_service_skype .ya-share2__mobile-popup-badge
+{
+    background-color: #00aff0;
+}
+
+.ya-share2__item_service_skype .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M19.537 13.698c.115-.52.176-1.06.176-1.614 0-4.155-3.415-7.524-7.63-7.524-.444 0-.88.038-1.304.11A4.444 4.444 0 008.425 4C5.981 4 4 5.954 4 8.364c0 .805.222 1.56.608 2.207a7.428 7.428 0 00-.155 1.513c0 4.156 3.416 7.4 7.63 7.4.477 0 .944-.044 1.397-.126.623.33 1.335.642 2.092.642 2.444 0 4.425-1.953 4.425-4.364a4.3 4.3 0 00-.46-1.938zm-3.974 1.457c-.294.418-.725.747-1.293.984-.567.238-1.239.356-2.016.356-.933 0-1.702-.162-2.308-.486a2.986 2.986 0 01-1.047-.934c-.268-.39-.403-.768-.403-1.137 0-.213.08-.395.242-.547a.855.855 0 01.615-.229.76.76 0 01.512.178c.14.119.26.294.358.527.12.278.25.51.39.695.139.185.336.34.589.46.254.12.587.18 1 .18.566 0 1.027-.12 1.382-.364.354-.243.532-.547.532-.91a.919.919 0 00-.287-.702 1.88 1.88 0 00-.741-.412 13.21 13.21 0 00-1.216-.303c-.678-.146-1.247-.318-1.703-.513-.458-.196-.822-.463-1.09-.8-.269-.34-.403-.759-.403-1.26 0-.48.142-.904.426-1.275.283-.372.693-.658 1.23-.858.537-.2 1.17-.299 1.895-.299.58 0 1.082.066 1.505.198.423.133.774.309 1.053.528.28.22.484.45.612.691.13.24.194.477.194.705 0 .21-.08.4-.241.567a.8.8 0 01-.603.252c-.22 0-.386-.05-.5-.151-.114-.101-.237-.266-.37-.495a2.27 2.27 0 00-.618-.768c-.241-.184-.627-.276-1.16-.276-.494 0-.893.1-1.196.3-.303.199-.455.44-.455.72 0 .173.053.324.155.45.103.128.245.235.426.326.18.091.363.162.547.214.185.052.49.126.916.225a15.47 15.47 0 011.446.38c.432.138.8.307 1.103.503.302.198.54.45.709.752.17.302.255.673.255 1.111 0 .525-.148.998-.442 1.417z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_skype .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M19.537 13.698c.115-.52.176-1.06.176-1.614 0-4.155-3.415-7.524-7.63-7.524-.444 0-.88.038-1.304.11A4.444 4.444 0 008.425 4C5.981 4 4 5.954 4 8.364c0 .805.222 1.56.608 2.207a7.428 7.428 0 00-.155 1.513c0 4.156 3.416 7.4 7.63 7.4.477 0 .944-.044 1.397-.126.623.33 1.335.642 2.092.642 2.444 0 4.425-1.953 4.425-4.364a4.3 4.3 0 00-.46-1.938zm-3.974 1.457c-.294.418-.725.747-1.293.984-.567.238-1.239.356-2.016.356-.933 0-1.702-.162-2.308-.486a2.986 2.986 0 01-1.047-.934c-.268-.39-.403-.768-.403-1.137 0-.213.08-.395.242-.547a.855.855 0 01.615-.229.76.76 0 01.512.178c.14.119.26.294.358.527.12.278.25.51.39.695.139.185.336.34.589.46.254.12.587.18 1 .18.566 0 1.027-.12 1.382-.364.354-.243.532-.547.532-.91a.919.919 0 00-.287-.702 1.88 1.88 0 00-.741-.412 13.21 13.21 0 00-1.216-.303c-.678-.146-1.247-.318-1.703-.513-.458-.196-.822-.463-1.09-.8-.269-.34-.403-.759-.403-1.26 0-.48.142-.904.426-1.275.283-.372.693-.658 1.23-.858.537-.2 1.17-.299 1.895-.299.58 0 1.082.066 1.505.198.423.133.774.309 1.053.528.28.22.484.45.612.691.13.24.194.477.194.705 0 .21-.08.4-.241.567a.8.8 0 01-.603.252c-.22 0-.386-.05-.5-.151-.114-.101-.237-.266-.37-.495a2.27 2.27 0 00-.618-.768c-.241-.184-.627-.276-1.16-.276-.494 0-.893.1-1.196.3-.303.199-.455.44-.455.72 0 .173.053.324.155.45.103.128.245.235.426.326.18.091.363.162.547.214.185.052.49.126.916.225a15.47 15.47 0 011.446.38c.432.138.8.307 1.103.503.302.198.54.45.709.752.17.302.255.673.255 1.111 0 .525-.148.998-.442 1.417z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_surfingbird .ya-share2__badge,
+.ya-share2__item_service_surfingbird .ya-share2__mobile-popup-badge
+{
+    background-color: #30baff;
+}
+
+.ya-share2__item_service_surfingbird .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M17.315 8.49l-.214 1.987-3.436 3.382h-1.826l-.698 1.826v2.523l-2.47-.698 2.846-5.1L4 8.167l5.638.752L6.899 5l7.463 4.027 2.202-2.47h1.02L20 7.631z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_surfingbird .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M17.315 8.49l-.214 1.987-3.436 3.382h-1.826l-.698 1.826v2.523l-2.47-.698 2.846-5.1L4 8.167l5.638.752L6.899 5l7.463 4.027 2.202-2.47h1.02L20 7.631z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_telegram .ya-share2__badge,
+.ya-share2__item_service_telegram .ya-share2__mobile-popup-badge
+{
+    background-color: #64a9dc;
+}
+
+.ya-share2__item_service_telegram .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M18.92 6.089L4.747 11.555c-.967.388-.962.928-.176 1.168l3.534 1.104 1.353 4.146c.164.454.083.634.56.634.368 0 .53-.168.736-.368.13-.127.903-.88 1.767-1.719l3.677 2.717c.676.373 1.165.18 1.333-.628l2.414-11.374c.247-.99-.378-1.44-1.025-1.146zM8.66 13.573l7.967-5.026c.398-.242.763-.112.463.154l-6.822 6.155-.265 2.833-1.343-4.116z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_telegram .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M18.92 6.089L4.747 11.555c-.967.388-.962.928-.176 1.168l3.534 1.104 1.353 4.146c.164.454.083.634.56.634.368 0 .53-.168.736-.368.13-.127.903-.88 1.767-1.719l3.677 2.717c.676.373 1.165.18 1.333-.628l2.414-11.374c.247-.99-.378-1.44-1.025-1.146zM8.66 13.573l7.967-5.026c.398-.242.763-.112.463.154l-6.822 6.155-.265 2.833-1.343-4.116z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_tencentWeibo .ya-share2__badge,
+.ya-share2__item_service_tencentWeibo .ya-share2__mobile-popup-badge
+{
+    background-color: #53a9d7;
+}
+
+.ya-share2__item_service_tencentWeibo .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M8.813 6.01a4.397 4.397 0 00-4.326 6.121c.087.199.312.29.511.2a.382.382 0 00.206-.51 3.566 3.566 0 01-.286-1.668A3.616 3.616 0 018.76 6.79a3.615 3.615 0 013.366 3.84 3.615 3.615 0 01-4.65 3.218.39.39 0 00-.486.263.394.394 0 00.262.485c.315.093.647.152.977.174a4.397 4.397 0 004.677-4.087A4.398 4.398 0 008.813 6.01zm-1.348 5.658a1.67 1.67 0 10-.46-.655c-.274.27-.565.59-.854.966-1.022 1.315-2.224 3.694-2.148 7.007.006.204.157.484.355.497l.04.002c.213.015.394-.301.391-.516-.064-2.458.6-4.662 1.955-6.423.242-.316.488-.626.72-.878zm12.388 4.106c-1.307-.48-2.302-1.27-2.95-2.352a4.873 4.873 0 01-.354-.71.819.819 0 00.337-.36.829.829 0 00-.395-1.098.822.822 0 00-1.098.392.822.822 0 00.724 1.177c.091.237.218.516.39.81.483.812 1.431 1.912 3.196 2.558a.226.226 0 00.278-.113c0-.006.005-.01.007-.022a.224.224 0 00-.135-.282zm-3.767-1.676a2.04 2.04 0 01-1.707-3.042 2.039 2.039 0 012.784-.787 2.04 2.04 0 01.786 2.783 1.92 1.92 0 01-.268.378.223.223 0 00.014.314c.09.082.234.074.313-.016a2.489 2.489 0 10-4.017-2.89 2.493 2.493 0 002.08 3.708.224.224 0 00.015-.448z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_tencentWeibo .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M8.813 6.01a4.397 4.397 0 00-4.326 6.121c.087.199.312.29.511.2a.382.382 0 00.206-.51 3.566 3.566 0 01-.286-1.668A3.616 3.616 0 018.76 6.79a3.615 3.615 0 013.366 3.84 3.615 3.615 0 01-4.65 3.218.39.39 0 00-.486.263.394.394 0 00.262.485c.315.093.647.152.977.174a4.397 4.397 0 004.677-4.087A4.398 4.398 0 008.813 6.01zm-1.348 5.658a1.67 1.67 0 10-.46-.655c-.274.27-.565.59-.854.966-1.022 1.315-2.224 3.694-2.148 7.007.006.204.157.484.355.497l.04.002c.213.015.394-.301.391-.516-.064-2.458.6-4.662 1.955-6.423.242-.316.488-.626.72-.878zm12.388 4.106c-1.307-.48-2.302-1.27-2.95-2.352a4.873 4.873 0 01-.354-.71.819.819 0 00.337-.36.829.829 0 00-.395-1.098.822.822 0 00-1.098.392.822.822 0 00.724 1.177c.091.237.218.516.39.81.483.812 1.431 1.912 3.196 2.558a.226.226 0 00.278-.113c0-.006.005-.01.007-.022a.224.224 0 00-.135-.282zm-3.767-1.676a2.04 2.04 0 01-1.707-3.042 2.039 2.039 0 012.784-.787 2.04 2.04 0 01.786 2.783 1.92 1.92 0 01-.268.378.223.223 0 00.014.314c.09.082.234.074.313-.016a2.489 2.489 0 10-4.017-2.89 2.493 2.493 0 002.08 3.708.224.224 0 00.015-.448z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_tumblr .ya-share2__badge,
+.ya-share2__item_service_tumblr .ya-share2__mobile-popup-badge
+{
+    background-color: #547093;
+}
+
+.ya-share2__item_service_tumblr .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M12.72 7.7h3.699v2.857h-3.7v4.102c0 .928-.01 1.463.087 1.726.098.262.343.534.61.69.355.213.758.32 1.214.32.81 0 1.616-.264 2.417-.79v2.522c-.683.322-1.302.55-1.857.678a7.94 7.94 0 01-1.798.195 4.905 4.905 0 01-1.724-.276 4.215 4.215 0 01-1.438-.79c-.399-.343-.673-.706-.826-1.09-.154-.386-.23-.945-.23-1.676v-5.611H7V8.29c.628-.203 1.357-.496 1.804-.877.45-.382.809-.84 1.08-1.374.272-.534.459-1.214.56-2.039h2.276v3.7z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_tumblr .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M12.72 7.7h3.699v2.857h-3.7v4.102c0 .928-.01 1.463.087 1.726.098.262.343.534.61.69.355.213.758.32 1.214.32.81 0 1.616-.264 2.417-.79v2.522c-.683.322-1.302.55-1.857.678a7.94 7.94 0 01-1.798.195 4.905 4.905 0 01-1.724-.276 4.215 4.215 0 01-1.438-.79c-.399-.343-.673-.706-.826-1.09-.154-.386-.23-.945-.23-1.676v-5.611H7V8.29c.628-.203 1.357-.496 1.804-.877.45-.382.809-.84 1.08-1.374.272-.534.459-1.214.56-2.039h2.276v3.7z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_twitter .ya-share2__badge,
+.ya-share2__item_service_twitter .ya-share2__mobile-popup-badge
+{
+    background-color: #0f1419;
+}
+
+.ya-share2__item_service_twitter .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e %3cpath d='M13.5222 10.7749L19.4785 4H18.0671L12.8952 9.88256L8.76437 4H4L10.2466 12.8955L4 20H5.41155L10.8732 13.7878L15.2356 20H20L13.5222 10.7749ZM11.5889 12.9738L10.956 12.0881L5.92015 5.03974H8.0882L12.1522 10.728L12.7851 11.6137L18.0677 19.0075H15.8997L11.5889 12.9738Z' fill='%23fff'/%3e %3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_twitter .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e %3cpath d='M13.5222 10.7749L19.4785 4H18.0671L12.8952 9.88256L8.76437 4H4L10.2466 12.8955L4 20H5.41155L10.8732 13.7878L15.2356 20H20L13.5222 10.7749ZM11.5889 12.9738L10.956 12.0881L5.92015 5.03974H8.0882L12.1522 10.728L12.7851 11.6137L18.0677 19.0075H15.8997L11.5889 12.9738Z' fill='%23000'/%3e %3c/svg%3e");
+}
+
+.ya-share2__item_service_viber .ya-share2__badge,
+.ya-share2__item_service_viber .ya-share2__mobile-popup-badge
+{
+    background-color: #7b519d;
+}
+
+.ya-share2__item_service_viber .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cg fill='%23FFF' fill-rule='evenodd'%3e%3cpath d='M18.434 15.574c-.484-.391-1.002-.743-1.511-1.102-1.016-.718-1.945-.773-2.703.38-.426.648-1.021.677-1.644.392-1.718-.782-3.044-1.989-3.821-3.743-.344-.777-.34-1.473.465-2.022.425-.29.854-.634.82-1.268-.045-.828-2.043-3.593-2.832-3.885a1.429 1.429 0 00-.984 0C4.373 4.95 3.606 6.48 4.34 8.292c2.19 5.405 6.043 9.167 11.349 11.463.302.13.638.183.808.23 1.208.012 2.623-1.158 3.032-2.318.393-1.117-.438-1.56-1.096-2.093zM12.485 4.88c3.879.6 5.668 2.454 6.162 6.38.045.363-.09.909.426.919.538.01.408-.528.413-.89.045-3.699-3.163-7.127-6.888-7.253-.281.04-.863-.195-.9.438-.024.427.466.357.787.406z'/%3e%3cpath d='M13.244 5.957c-.373-.045-.865-.222-.953.299-.09.546.458.49.811.57 2.395.538 3.23 1.414 3.624 3.802.057.349-.057.89.532.8.436-.066.278-.53.315-.802.02-2.293-1.936-4.38-4.329-4.669z'/%3e%3cpath d='M13.464 7.832c-.249.006-.493.033-.585.3-.137.4.152.496.446.544.983.158 1.5.74 1.598 1.725.027.268.195.484.452.454.356-.043.389-.361.378-.664.017-1.106-1.227-2.385-2.289-2.359z'/%3e%3c/g%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_viber .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cg fill='%23000' fill-rule='evenodd'%3e%3cpath d='M18.434 15.574c-.484-.391-1.002-.743-1.511-1.102-1.016-.718-1.945-.773-2.703.38-.426.648-1.021.677-1.644.392-1.718-.782-3.044-1.989-3.821-3.743-.344-.777-.34-1.473.465-2.022.425-.29.854-.634.82-1.268-.045-.828-2.043-3.593-2.832-3.885a1.429 1.429 0 00-.984 0C4.373 4.95 3.606 6.48 4.34 8.292c2.19 5.405 6.043 9.167 11.349 11.463.302.13.638.183.808.23 1.208.012 2.623-1.158 3.032-2.318.393-1.117-.438-1.56-1.096-2.093zM12.485 4.88c3.879.6 5.668 2.454 6.162 6.38.045.363-.09.909.426.919.538.01.408-.528.413-.89.045-3.699-3.163-7.127-6.888-7.253-.281.04-.863-.195-.9.438-.024.427.466.357.787.406z'/%3e%3cpath d='M13.244 5.957c-.373-.045-.865-.222-.953.299-.09.546.458.49.811.57 2.395.538 3.23 1.414 3.624 3.802.057.349-.057.89.532.8.436-.066.278-.53.315-.802.02-2.293-1.936-4.38-4.329-4.669z'/%3e%3cpath d='M13.464 7.832c-.249.006-.493.033-.585.3-.137.4.152.496.446.544.983.158 1.5.74 1.598 1.725.027.268.195.484.452.454.356-.043.389-.361.378-.664.017-1.106-1.227-2.385-2.289-2.359z'/%3e%3c/g%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_vkontakte .ya-share2__badge,
+.ya-share2__item_service_vkontakte .ya-share2__mobile-popup-badge
+{
+    background-color: #07f;
+}
+
+.ya-share2__item_service_vkontakte .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M12.878 17.304c-5.411 0-8.695-3.755-8.823-9.994h2.74c.086 4.583 2.171 6.528 3.77 6.925V7.31h2.627v3.954c1.542-.17 3.155-1.97 3.698-3.954h2.584c-.414 2.441-2.17 4.24-3.412 4.983 1.242.6 3.24 2.17 4.011 5.01h-2.84c-.6-1.898-2.07-3.369-4.04-3.569v3.57h-.315Z' fill='%23fff'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_vkontakte .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M12.878 17.304c-5.411 0-8.695-3.755-8.823-9.994h2.74c.086 4.583 2.171 6.528 3.77 6.925V7.31h2.627v3.954c1.542-.17 3.155-1.97 3.698-3.954h2.584c-.414 2.441-2.17 4.24-3.412 4.983 1.242.6 3.24 2.17 4.011 5.01h-2.84c-.6-1.898-2.07-3.369-4.04-3.569v3.57h-.315Z' fill='%23000'/%3e%3c/svg%3e");
+}
+
+.ya-share2__item_service_whatsapp .ya-share2__badge,
+.ya-share2__item_service_whatsapp .ya-share2__mobile-popup-badge
+{
+    background-color: #65bc54;
+}
+
+.ya-share2__item_service_whatsapp .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M20 11.794c0 4.304-3.517 7.794-7.855 7.794a7.87 7.87 0 01-3.796-.97L4 20l1.418-4.182a7.714 7.714 0 01-1.127-4.024C4.29 7.489 7.807 4 12.145 4S20 7.49 20 11.794zm-7.855-6.553c-3.641 0-6.603 2.94-6.603 6.553A6.48 6.48 0 006.8 15.636l-.825 2.433 2.537-.806a6.6 6.6 0 003.633 1.084c3.642 0 6.604-2.94 6.604-6.553s-2.962-6.553-6.604-6.553zm3.967 8.348c-.049-.08-.177-.128-.37-.223-.192-.095-1.139-.558-1.315-.621-.177-.064-.305-.096-.434.095a10.92 10.92 0 01-.61.749c-.112.128-.224.143-.416.048-.193-.096-.813-.297-1.549-.948a5.76 5.76 0 01-1.07-1.323c-.113-.191-.013-.295.084-.39.086-.086.192-.223.289-.334.096-.112.128-.191.192-.319s.032-.239-.016-.335c-.048-.095-.433-1.035-.594-1.418-.16-.382-.32-.318-.433-.318-.112 0-.24-.016-.369-.016a.71.71 0 00-.513.239c-.177.19-.674.653-.674 1.593s.69 1.848.786 1.976c.096.127 1.332 2.119 3.289 2.884 1.958.764 1.958.51 2.31.477.353-.031 1.14-.461 1.3-.908.16-.446.16-.829.113-.908z' fill='%23FFF' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+
+.ya-share2__container_color-scheme_whiteblack .ya-share2__item_service_whatsapp .ya-share2__icon
+{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M20 11.794c0 4.304-3.517 7.794-7.855 7.794a7.87 7.87 0 01-3.796-.97L4 20l1.418-4.182a7.714 7.714 0 01-1.127-4.024C4.29 7.489 7.807 4 12.145 4S20 7.49 20 11.794zm-7.855-6.553c-3.641 0-6.603 2.94-6.603 6.553A6.48 6.48 0 006.8 15.636l-.825 2.433 2.537-.806a6.6 6.6 0 003.633 1.084c3.642 0 6.604-2.94 6.604-6.553s-2.962-6.553-6.604-6.553zm3.967 8.348c-.049-.08-.177-.128-.37-.223-.192-.095-1.139-.558-1.315-.621-.177-.064-.305-.096-.434.095a10.92 10.92 0 01-.61.749c-.112.128-.224.143-.416.048-.193-.096-.813-.297-1.549-.948a5.76 5.76 0 01-1.07-1.323c-.113-.191-.013-.295.084-.39.086-.086.192-.223.289-.334.096-.112.128-.191.192-.319s.032-.239-.016-.335c-.048-.095-.433-1.035-.594-1.418-.16-.382-.32-.318-.433-.318-.112 0-.24-.016-.369-.016a.71.71 0 00-.513.239c-.177.19-.674.653-.674 1.593s.69 1.848.786 1.976c.096.127 1.332 2.119 3.289 2.884 1.958.764 1.958.51 2.31.477.353-.031 1.14-.461 1.3-.908.16-.446.16-.829.113-.908z' fill='%23000' fill-rule='evenodd'/%3e%3c/svg%3e");
+}
+</style><script type="text/javascript" src="https://dss.hybrid.ai/Pixel/GetSubstitute?pid=670689887bc72f062c8bd3f9&amp;url=https%3A%2F%2Fwww.tutu.ru%2F01.php&amp;rf="></script><script type="text/javascript" async="" src="https://dss.hybrid.ai/Pixel/TrackTp?pid=670689887bc72f062c8bd3f9&amp;url=https%3A%2F%2Fwww.tutu.ru%2F01.php&amp;rf=&amp;foadh=&amp;gapl=&amp;cs=&amp;pcs=&amp;vcs="></script><script type="text/javascript" async="" src="https://emd.hybrid.ai/plgt.js?exl=&amp;foadh=&amp;gapl=&amp;cs=&amp;pcs=&amp;vcs="></script></head>
+<body onunload="if (RM.Browser.isOpera()) window.headerBlock.onOpera();">
+<noscript>
+	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-PFRF35" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+	(function (w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({
+			'gtm.start': new Date().getTime(), event: 'gtm.js'
+		});
+		var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+		j.async = true;
+		j.src =
+			'//www.googletagmanager.com/gtm.js?id=' + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(window, document, 'script', 'dataLayer', 'GTM-PFRF35');
+</script>
+
+    <div id="ad-tech-adv-top-block">
+	<div id="style='text-align:" center;'="">
+	</div>
+	<script>
+		
+	</script>
+</div>
+<noindex><script type="text/javascript" src="https://cdn1.tu-tu.ru/js2/plugin/popup_comp.js.9fdd34466f40a10c32c6ae4d4e09cd6e1.js"></script><script type="text/javascript" src="https://cdn1.tu-tu.ru/js2/plugin/message_comp.js.5a5d5343f72badd9b86ca70493ded34a1.js"></script><!--noindex-->
+	<div id="msg" class="newShadow m-box-new dNone" onkeypress="$(this).css( 'display', 'none' )">
+		<table class="morePopup">
+		<tbody><tr>
+		    <td class="newShadow_lt"><div>&nbsp;</div></td>
+		    <td class="newShadow_t"><div>&nbsp;</div></td>
+		    <td class="newShadow_t newShadow_topArrow"><div><div>&nbsp;</div></div></td>
+		    <td class="newShadow_t"><div>&nbsp;</div></td>
+		    <td class="newShadow_rt"><div>&nbsp;</div></td>
+		</tr>
+		<tr>
+		    <td class="newShadow_l"><div>&nbsp;</div></td>
+		    <td class="newShadow_c" rowspan="3" colspan="3">
+		    	<!--div class="close"><a href="#" onclick="document.getElementById('msg').style.display='none'; return false;"><img src="https://cdn1.tu-tu.ru/images2/main/ico/close.gif" alt="" /></a></div-->
+				<div class="text">
+					<!--p class="header"><img src="https://cdn1.tu-tu.ru/images2/main/ico/warning.gif" align="absmiddle" alt="" /> Tutu.ru</p-->
+					<p class="message coo_color">
+										</p>
+					<div class="closeText"><a class="red" href="/01.php" onclick="document.getElementById('msg').style.display='none'; return false;">Закрыть</a></div>
+				</div>
+		    </td>
+		    <td class="newShadow_r"><div>&nbsp;</div></td>
+		</tr>
+		<tr>
+			<td class="newShadow_l newShadow_leftArrow"><div><div>&nbsp;</div></div></td>
+			<td class="newShadow_r newShadow_rightArrow"><div><div>&nbsp;</div></div></td>
+		</tr>
+		<tr>
+			<td class="newShadow_l"><div>&nbsp;</div></td>
+			<td class="newShadow_r"><div>&nbsp;</div></td>
+		</tr>
+		<tr>
+		    <td class="newShadow_lb"><div>&nbsp;</div></td>
+		    <td class="newShadow_b"><div>&nbsp;</div></td>
+		    <td class="newShadow_b newShadow_bottomArrow"><div><div>&nbsp;</div></div></td>
+		    <td class="newShadow_b"><div>&nbsp;</div></td>
+		    <td class="newShadow_rb"><div>&nbsp;</div></td>
+		</tr>
+		</tbody></table>
+	</div>
+	<!--/noindex-->
+
+</noindex>
+<table id="loader" cellspacing="0" cellpadding="0" align="center" class="loader" style="position: absolute; z-index: 1000; display: none; border: 1px solid #dddddd;">
+<tbody><tr>
+	<td style="background-color: #f4faff;">
+		<table cellspacing="0" cellpadding="0" style="margin: 10px 20px 10px 20px;">
+		<tbody><tr>
+			<td><img src="https://cdn1.tu-tu.ru/images2/tutu_loader.gif"></td>
+			<td><div style="width: 5px;"><!-- --></div></td>
+			<td class="common">Идет загрузка...</td>
+		</tr>
+		</tbody></table>
+	</td>
+</tr>
+</tbody></table>	<div class="l-badge_new_wrapper"><script type="text/javascript" src="https://cdn1.tu-tu.ru/js2/plugin/jquery/jquery.inputtitle_comp.js.195a0b97b5e0425600841e4b89f0749a1.js"></script><!--noindex-->
+<div class="b-user-login_new m-mrn b-user-login dNone" id="uBadgeBlock">
+		
+			
+
+	<a class="orders_link _bonuses " href="https://bonus.tutu.ru" onclick="var d = document, w = window, i = d.createElement('img'), l = (w || w.__INITIAL_PROPS || {}).logdata || {}, sv = l.site_version, p = l.page, pid = l.page_id, src = 'https://www.tutu.ru/ajax/userway_action/hat_bonuses_click/?params=uri%253D%252F01.php%26site_version=' + (sv || 'full') + '%26page=' + p + '%26page_id=' + pid;i.setAttribute('src', src);d.body.appendChild(i);">Бонусы и скидки</a>
+
+
+		<a href="/user/profile/my_orders/" class="orders_link">Личные заказы</a>
+	
+					<a href="/user/profile/my_orders/" id="uName" class="stable_link_gray simple">
+						</a>		<a href="https://id.tutu.ru/logout/?back_url=https%3A%2F%2Fwww.tutu.ru%2F01.php" class="logout-link logout_link_picture" id="uLogoutLink" title="Выход"></a>
+
+    </div>
+<!--/noindex-->
+<!--/uBadgeBlock -->
+
+<!--uFormBlock -->
+
+<div class="b-user-login_new b-user-login" id="uFormBlock">
+	<!-- login&registration links -->
+	<!--noindex-->
+
+    		
+
+	<a class="orders_link _bonuses " href="https://bonus.tutu.ru" onclick="var d = document, w = window, i = d.createElement('img'), l = (w || w.__INITIAL_PROPS || {}).logdata || {}, sv = l.site_version, p = l.page, pid = l.page_id, src = 'https://www.tutu.ru/ajax/userway_action/hat_bonuses_click/?params=uri%253D%252F01.php%26site_version=' + (sv || 'full') + '%26page=' + p + '%26page_id=' + pid;i.setAttribute('src', src);d.body.appendChild(i);">Бонусы и скидки</a>
+
+	
+	<a data-url="https://id.tutu.ru/login/?back_url=https%3A%2F%2Fwww.tutu.ru%2F01.php" class="stable_link_gray uFormLink j-link_open_auth" id="uLoginLink" rel="authForm" href="https://id.tutu.ru/login/?back_url=https%3A%2F%2Fwww.tutu.ru%2F01.php">Войти</a>
+	или	<a data-url="https://id.tutu.ru/registration/?back_url=https%3A%2F%2Fwww.tutu.ru%2F01.php" class="stable_link_gray uFormLink j-link_open_reg" id="uRegLink" rel="regForm" href="https://id.tutu.ru/registration/?back_url=https%3A%2F%2Fwww.tutu.ru%2F01.php">зарегистрироваться</a>
+	<!--/noindex-->
+	<!--/login&registration links -->
+</div>
+<!--/uFormBlock -->
+
+<!--noindex-->
+	<div class="l-search_history_link">
+		<span class="g-link _pseudo_dark search_history_link rm-infosearch_link j-search_history_show" style="display: none">
+            История поисков        </span>
+	</div>
+<!--/noindex-->
+	</div>
+<div id="DBdesktopBillboard" style="height: 180px; transition: height 1s; position: relative; text-align: center; max-height: 180px; overflow: hidden; max-width: 1440px; margin: 0px auto;"><div id="adfox_16464316698999676" style="text-align: center;"></div></div><div id="wrapper" class="l-wrapper b-stable_wrapper">
+
+
+<div id="header" class="header_stable_short">
+		
+			
+<script>
+$(document).ready(function(){
+	obMenu = $('#otherMenu_n');
+	$('#otherMenuLink').click(function()
+	{
+		obMenu.data('display') ? hideOtherMenu() : showOtherMenu();
+		return false;
+	});
+
+	function showOtherMenu()
+	{
+		obMenu.fadeIn(function(){obMenu.data('display', 1);});
+	}
+
+
+	function hideOtherMenu()
+	{
+		obMenu.fadeOut(function(){obMenu.data('display', 0);});
+	}
+
+	$('.moreShadow').click(function (e) {
+		e.stopPropagation();
+	});
+
+	$(document).click(function () {
+		if (obMenu.data('display'))
+			hideOtherMenu();
+	});
+});
+</script>
+
+<div class="b-main_menu_stable
+				 etrain_menu
+				 m-tours">
+	<ul class="main_menu_stable_links">
+		<li class="logo logo_2018">
+			<a href="/" class="logo">
+				<img src="https://cdn1.tu-tu.ru/images2/bemp/svg/logo/2023/logo_tutu_final.svg" height="60" width="156" alt="Tutu.ru">
+			</a>
+		</li>
+							<li class="more moremargin">
+				<!--noindex-->
+				<a href="/" id="otherMenuLink" class="link_gray">а ещё<span class="link_gray_tip"></span></a>
+				<div class="newShadow_n" id="otherMenu_n">
+					<table class="morePopup" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+						<td class="newShadow_lt"><div>&nbsp;</div></td>
+						<td class="newShadow_t"><div>&nbsp;</div></td>
+						<td class="newShadow_rt"><div>&nbsp;</div></td>
+					</tr>
+					<tr>
+						<td class="newShadow_l"><div>&nbsp;</div></td>
+						<td class="newShadow_c">
+							<ul class="moreOther">
+																	<li><a href="/aeroexpress/schedule/">Аэроэкспресс</a></li>
+																	<li><a href="/metro/">Метро</a></li>
+																	<li><a href="/opros/">Опросы</a></li>
+																	<li><a href="/2read/suburban_faq/">Справочная</a></li>
+															</ul>
+						</td>
+						<td class="newShadow_r"><div>&nbsp;</div></td>
+					</tr>
+					<tr>
+						<td class="newShadow_lb"><div>&nbsp;</div></td>
+						<td class="newShadow_b"><div>&nbsp;</div></td>
+						<td class="newShadow_rb"><div>&nbsp;</div></td>
+					</tr>
+					</tbody></table>
+				</div>
+				<!--/noindex-->
+			</li>
+		
+															<li class="tours_item link">
+						<a href="https://tours.tutu.ru/"><span class="tours_icon"></span>Туры</a>
+					</li>
+																
+				<li class="etrain  subpage">
+															<a href="/prigorod/"><span class="i-menu_etrain"></span>Электрички</a>				</li>
+												
+				<li class="hotels link">
+															<a href="https://hotel.tutu.ru/"><span class="i-menu_hotel"></span>Отели</a>				</li>
+												
+				<li class="bus link">
+															<a href="https://bus.tutu.ru/"><span class="i-menu_bus"></span>Автобусы</a>				</li>
+												
+				<li class="dtrain m-dtrain_2018 link">
+															<a href="/poezda/"><span class="i-menu_train"></span>Ж/д билеты</a>				</li>
+												
+				<li class="avia link">
+															<a href="https://avia.tutu.ru/"><span class="i-menu_plane"></span>Авиабилеты</a>				</li>
+						
+</ul>
+</div>
+		
+		<div class="auth">
+				</div>
+	</div><script type="text/javascript" src="https://cdn1.tu-tu.ru/js2/plugin/jquery/jquery.tooltip_comp.js.52c7b73c2d574a4694e9b85e844262921.js"></script><script type="text/javascript" src="https://cdn1.tu-tu.ru/js2/rm.form_comp.js.b7a2c8be2bfa14f86ad6b14e5fbab1081.js"></script><script type="text/javascript" src="https://cdn1.tu-tu.ru/js2/tutu_total.js.52ebf875d8f3044d5979aa1efc8ddde41.js"></script><script type="text/javascript" src="https://cdn1.tu-tu.ru/js2/plugin/jquery/jquery.timers_comp.js.69d3b2f49a392ff5d0e474fdc8bbf35a1.js"></script><script type="text/javascript">
+	var obScheme = new RM_Scheme('msk', '1');
+
+	/**
+	 * Временно отключаем выделение флажками.
+	 */
+	//obScheme.disable();
+</script>
+
+<div class="b-modern_index_form stable_etrain">
+	<noindex>
+	<form id="searchByStations" action="/prigorod/search.php" onsubmit="">
+	<div class="fullsearch">
+	<table class="search_wrapper ie-search" cellspacing="0">
+		<tbody><tr>
+			<td class="modern_input_wrap stable_input_wrap">
+				<div class="input inputSmall">
+					<input autocomplete="off" size="15" type="text" default="Откуда" value="" tabindex="1" name="st1" id="searchDepartureStationName" class="rm-departure_input grey ui-autocomplete-input" state="false" role="textbox" aria-autocomplete="list" aria-haspopup="true"><input type="hidden" name="st1_num" id="searchDepartureStationId" value="">
+					<span class="flag etrain-status-icon select_station_departure" id="for_searchDepartureStationName" style="background: url(&quot;https://cdn1.tu-tu.ru/images2/sprites/icons_main_v1.png&quot;) 0px -246px no-repeat;"></span>
+				</div>
+					
+				<div class="mistify_form">
+					<div class="example rm-departure_example"><span>Например: </span><a href="javascript:void(0)" class="pseudoBlue" data-value="20000-msk">Москва</a></div>
+				</div>
+			</td>
+			<td class="inputArrow">
+				<div class="input-arrow-td">
+					<a id="swap_etrain" class="arrow-input rm-swap_etrain" href="javascript:void(0)"></a>
+				</div>
+			</td>
+			<td class="modern_input_wrap stable_input_wrap">
+				<div class="input inputSmall">
+					<input autocomplete="off" default="Куда" size="15" type="text" value="" tabindex="2" name="st2" id="searchArrivalStationName" class="rm-arrival_input grey ui-autocomplete-input" state="false" role="textbox" aria-autocomplete="list" aria-haspopup="true"><input type="hidden" name="st2_num" id="searchArrivalStationId" value="">
+					<span class="flag etrain-status-icon select_station_arrival" id="for_searchArrivalStationName" style="background: url(&quot;https://cdn1.tu-tu.ru/images2/sprites/icons_main_v1.png&quot;) 0px -246px no-repeat;"></span>
+				</div>
+				<div class="mistify_form">
+					<div class="example rm-arrival_example"><span>Например: </span><a href="javascript:void(0)" class="pseudoBlue" data-value="55008-msk">Петушки</a></div>
+				</div>
+			</td>
+			<td class="inputArrow empty_separator"></td>
+			<td class="date_input_new modern_input_new_wrap stable_input_new_wrap">
+				<div class="input inputSmall">
+					<input autocomplete="off" type="text" class="rm-date_input hasDatepicker" name="date" tabindex="3" value="сегодня" id="searchDate"><img class="ui-datepicker-trigger" src="https://cdn1.tu-tu.ru/images2/blank.gif" alt="" title="">
+				</div>
+				<div class="mistify_form example" id="searchDateExample" data-example-date="2025-11-14"><a href="javascript:void(0)" class="pseudoBlue">14 ноября</a></div>
+			</td>
+			<td class="inputArrow empty_separator"></td>
+			<td class="greenbutton_cell">
+				<div class="rm-form_submit_button b-decor_button_navy_next b-decor_button_navy_next"><button type="button" class="decor_button_button"><span class="decor_button_text">Показать расписание</span><span class="decor_button_indicator">00</span><span class="decor_button_corner"></span></button></div>
+			</td>
+		</tr>
+	</tbody></table>
+		<div class="clear"></div>
+		<div class="etrain_highlight"></div>
+	</div>
+	</form>
+	</noindex>
+</div>
+
+<script>
+$(function () {
+	new RM_Tutu_Etrain_Forms_Main($('#searchByStations'), {"suggestUrl":"\/station\/suggest.php?region=msk","regionPrefix":"msk","departure":{"data":null,"value":null},"arrival":{"data":null,"value":null},"departureSelectStationList":[],"arrivalSelectStationList":[]});
+});
+</script><div class="blockWrapper etrain" style="position: relative; display: contents;">
+		<div class="b-stable_breadcrumbs">
+			<div class="breadcrumbs_top">
+	<a href="/prigorod/">Расписание электричек</a><span class="breadcrumbs_arrowtip"></span><a href="/msk/">Москва</a><span class="breadcrumbs_arrowtip"></span><span class="my_selectbox">
+	<ul>
+		<li class="first">
+			<div>
+				<noindex>
+					<a href="/01.php" rel="nofollow" onclick="return false;">
+						<span>Горьковское направление</span><img src="https://cdn1.tu-tu.ru/images2/main/form/filters/arrow_bottom_black.gif" alt="">
+					</a>
+				</noindex>
+			</div>
+		</li>
+													<li class="">
+								<div class="hover"><noindex><a href="/01.php" rel="nofollow">Горьковское направление</a></noindex></div>
+							</li>
+											<li class="">
+								<div class="hover"><noindex><a href="/02.php" rel="nofollow">Казанское направление</a></noindex></div>
+							</li>
+											<li class="">
+								<div class="hover"><noindex><a href="/03.php" rel="nofollow">Павелецкое направление</a></noindex></div>
+							</li>
+											<li class="">
+								<div class="hover"><noindex><a href="/04.php" rel="nofollow">Курское направление</a></noindex></div>
+							</li>
+											<li class="">
+								<div class="hover"><noindex><a href="/05.php" rel="nofollow">Киевское направление</a></noindex></div>
+							</li>
+											<li class="">
+								<div class="hover"><noindex><a href="/06.php" rel="nofollow">Белорусское направление</a></noindex></div>
+							</li>
+											<li class="">
+								<div class="hover"><noindex><a href="/07.php" rel="nofollow">Рижское направление</a></noindex></div>
+							</li>
+											<li class="">
+								<div class="hover"><noindex><a href="/08.php" rel="nofollow">Ленинградское направление</a></noindex></div>
+							</li>
+											<li class="">
+								<div class="hover"><noindex><a href="/09.php" rel="nofollow">Савеловское направление</a></noindex></div>
+							</li>
+											<li class="">
+								<div class="hover"><noindex><a href="/10.php" rel="nofollow">Ярославское направление</a></noindex></div>
+							</li>
+											<li class="">
+								<div class="hover"><noindex><a href="/11.php" rel="nofollow">Кольцевое направление (БМО)</a></noindex></div>
+							</li>
+											<li class="last">
+				<div>				<div class="hover"><noindex><a href="/12.php" rel="nofollow">Московское центральное кольцо (МЦК)</a></noindex></div>
+				</div>			</li>
+			</ul>
+</span>
+</div>
+<script type="text/javascript">
+$('span.my_selectbox>ul').hover(function(){}, function(){
+	$(this).removeClass('active').removeClass('isDisplayed');
+});
+$('span.my_selectbox>ul').unbind('click.display').bind('click.display', function(){
+	if ($(this).hasClass('isDisplayed'))
+		$(this).removeClass('active').removeClass('isDisplayed');
+	else
+		$(this).addClass('active').addClass('isDisplayed');
+});
+</script>
+
+
+		</div>
+	<div class="title_block" style="margin-bottom:13px;">
+		<h1><b>Курский вокзал, расписание электричек</b> <br>Горьковское направление</h1>
+	</div>
+
+	
+		<div class="center_block date_block">
+			Станции на схеме движения электричек Горьковского направления разбиты на <span class="emphasis">зоны,</span> обозначенные числами слева. Для просмотра расписания электричек Курского вокзала, выберите станцию отправления и&nbsp;прибытия в форме сверху.		</div>
+
+
+		
+		<div id="scheme_table">
+
+
+<div class="center_elastic_block scheme_block">
+				<div class="zone"><p class="zoneNumber">0</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="56008" class="col path stationB metro" style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=56008">
+									Москва Курская								</a>
+								<a href="/metro/moscow/" class="my_metro" title="Пересадка на ст. м. Курская, Чкаловская" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber">1</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="56108" class="col path station metro" style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=56108">
+									Серп и Молот								</a>
+								<a href="/metro/moscow/" class="my_metro" title="Пересадка на ст. м. Площадь Ильича, Римская" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber">2</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="56308" class="col path station metro_mkzd" style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=56308">
+									Нижегородская (бывш. Карачарово)								</a>
+								<a href="/12.php" class="my_metro" title="Пересадка на ст. м.Нижегородская
+Пешком до ст. Нижегородская (5 минут быстрым шагом)" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="56408" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=56408">
+									Чухлинка								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="56508" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=56508">
+									Кусково								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="56608" class="col path station metro" style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=56608">
+									Новогиреево								</a>
+								<a href="/metro/moscow/" class="my_metro" title="Пересадка на ст. м. Новогиреево (1,1 км пешком)" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber">3</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div class="col path vertical"><div>&nbsp;</div></div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="56708" class="col path stationTRB metro" style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=56708">
+									Реутов								</a>
+								<a href="/metro/moscow/" class="my_metro" title="Пересадка на ст. м. Новокосино (1 км пешком)" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																										<div class="col path roundTR"><div>&nbsp;</div></div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="57108" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=57108">
+									Никольское								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div class="col path vertical"><div>&nbsp;</div></div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="57208" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=57208">
+									Салтыковская								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div class="col path vertical"><div>&nbsp;</div></div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="57308" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=57308">
+									Кучино								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div class="col path vertical"><div>&nbsp;</div></div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="54908" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=54908">
+									Ольгино								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="56808" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=56808">
+									Стройка								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="57408" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=57408">
+									Железнодорожная								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="56908" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=56908">
+									Горенки								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber">4</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="57508" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=57508">
+									Чёрное								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="57008" class="col path stationT " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=57008">
+									Балашиха								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="57608" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=57608">
+									Заря								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="57708" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=57708">
+									Купавна								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="57808" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=57808">
+									Пл. 33 км								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber">5</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="57908" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=57908">
+									Электроугли								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="58008" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=58008">
+									Пл. 43 км								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber">6</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="58108" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=58108">
+									Храпуново								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="58208" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=58208">
+									Есино								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div class="col path vertical"><div>&nbsp;</div></div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div class="col path pathT"><p>на Монино...</p></div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div class="col path vertical"><div>&nbsp;</div></div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div class="col path vertical"><div>&nbsp;</div></div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="58308" class="col path stationTRB " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=58308">
+									Фрязево								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																										<div class="col path pathTBL"><div>&nbsp;</div></div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber">7</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div class="col path vertical"><div>&nbsp;</div></div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="58408" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=58408">
+									Металлург								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="58908" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=58908">
+									Казанское								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="58508" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=58508">
+									Электросталь								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div class="col path vertical"><div>&nbsp;</div></div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="58608" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=58608">
+									Машиностроитель								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber">8</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="59008" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=59008">
+									Вохна								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="58708" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=58708">
+									Ногинск								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div class="col path vertical"><div>&nbsp;</div></div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="58808" class="col path stationT " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=58808">
+									Захарово								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div class="col path vertical"><div>&nbsp;</div></div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="59108" class="col path stationTRB " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=59108">
+									Павловский Посад								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																										<div class="col path roundTR"><div>&nbsp;</div></div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div class="col path vertical"><div>&nbsp;</div></div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="59208" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=59208">
+									Ленская								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="59608" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=59608">
+									Назарьево								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="59308" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=59308">
+									Ковригино								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber">9</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="59708" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=59708">
+									Дрезна								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="59408" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=59408">
+									Пл. 14 км								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="59808" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=59808">
+									Кабаново								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="59508" class="col path stationT " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=59508">
+									Электрогорск								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber">10</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="59908" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=59908">
+									Пл. 87 км								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div class="col path vertical"><div>&nbsp;</div></div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+																	<div class="col path pathL"><p>на Куровскую...</p></div>
+				
+																					<div id="60008" class="col path stationTRBL " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=60008">
+									Орехово-Зуево								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																				<div class="col path horizontal "><div>&nbsp;</div></div>
+																										<div class="col path roundTR"><div>&nbsp;</div></div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="60108" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=60108">
+									Крутое								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div class="col path vertical"><div>&nbsp;</div></div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="60208" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=60208">
+									Войново								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div class="col path vertical"><div>&nbsp;</div></div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber">11</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="60308" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=60308">
+									Усад								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="62509" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=62509">
+									Пл. 185 км								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div class="col path vertical"><div>&nbsp;</div></div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="62409" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=62409">
+									Поточино								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber">12</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="60408" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=60408">
+									Глубоково								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="62309" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=62309">
+									Пл. 178 км								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="60508" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=60508">
+									Покров								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="62209" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=62209">
+									Пл. 173 км								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="60608" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=60608">
+									Новое Перепечино (113 км)								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="62109" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=62109">
+									Ветчи								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber">13</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="60708" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=60708">
+									Омутище								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="62009" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=62009">
+									Красный Луч (168 км)								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="60808" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=60808">
+									Леоново								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="61909" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=61909">
+									Санино								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber">14</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="55008" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=55008">
+									Петушки								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="61809" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=61809">
+									Янтарная (158 км (157 км))								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="55108" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=55108">
+									Костерёво								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="61709" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=61709">
+									Илейкино								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber">15</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="55208" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=55208">
+									Болдино								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div id="61609" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=61609">
+									Киржач								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber">16</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="55308" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=55308">
+									Сушнево								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																										<div class="col path pathB"><p>в Александров...</p></div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber">17</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="55508" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=55508">
+									Ундол (Лакинск)								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber">18</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="55608" class="col path station " style="" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=55608">
+									Угор (170 км)								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="55708" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=55708">
+									Колокша								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zoneOdd"><p class="zoneNumber">19</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="55808" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=55808">
+									Юрьевец								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber">20</p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div id="55908" class="col path station " style="font-weight: bold;" onmouseover="obScheme.onMouseOver(this)" onmouseout="obScheme.onMouseOut(this)" onclick="obScheme.onClick(this, '', '');">
+						<div class="">
+							<p class="msk">
+								<a class="station-name" href="/station.php?nnst=55908">
+									Владимир								</a>
+								<a href="" class="my_metro" title="" target="_blank"></a>
+								<span></span>
+							</p>
+						</div>
+					</div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+				<div class="zone"><p class="zoneNumber"></p>
+		<div class="row">
+												<div class="col">&nbsp;</div>
+				
+																					<div class="col path pathB"><p>в Камешково...</p></div>
+				
+															<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																				<div class="col">&nbsp;</div>
+																					<div class="col">&nbsp;</div>
+				
+									</div>
+		</div>
+			</div>
+
+
+<script type="text/javascript">
+/**
+ * Всплывающие подсказки
+ */
+$(document).ready(function(){
+	$('span.my_metro').tooltip({
+		track			: true,
+		delay			: 0,
+		fade			: 250,
+		extraClass		: 'pretty'
+	});
+});
+</script></div>
+
+	
+
+	
+<div class="center_block feed_back_block">
+	<div class="block_title">
+		Обратная связь
+	</div>
+	<p>
+		Если Вы&nbsp;заметите неточности или несоответствия в&nbsp;расписании электричек Курского вокзала или ошибки в&nbsp;сопутствующей информации по&nbsp;электропоездам, просьба сообщить эти неточности нам через <a href="/feedback_site.php">форму обратной связи</a>.
+	</p>
+			<p>
+			<a href="/poezda/Kurskiy_vokzal/">Расписание поездов дальнего следования Курского вокзала</a>
+		</p>
+		</div></div>
+
+
+</div><div style="position: relative; text-align: center; overflow: hidden; margin: 0px auto; padding-top: 20px; max-width: 1440px; max-height: 300px;"><div id="adfox_164643184152151422"></div></div>
+
+<div class="b-mp_foot_spacer">
+	            <div id="ad-tech-adv-bottom-block">
+	<div id="">
+	</div>
+	<script>
+		
+	</script>
+</div>
+    </div>
+
+<div id="footer" class="b-mp_footer">
+	<div class="content">
+
+		<div class="breadcrumbs">
+	<a href="/prigorod/">Расписание электричек</a><span class="breadcrumbs_arrowtip"></span><a href="/msk/">Москва</a><span class="breadcrumbs_arrowtip"></span><span style="font-weight: bold; color: #CC0000;">Горьковское направление</span></div>
+<script type="text/javascript">
+$('span.my_selectbox>ul').hover(function(){}, function(){
+	$(this).removeClass('active').removeClass('isDisplayed');
+});
+$('span.my_selectbox>ul').unbind('click.display').bind('click.display', function(){
+	if ($(this).hasClass('isDisplayed'))
+		$(this).removeClass('active').removeClass('isDisplayed');
+	else
+		$(this).addClass('active').addClass('isDisplayed');
+});
+</script>
+
+
+
+<div class="linkWrapper">
+	<div class="left_block">
+		<ul class=""><li><a class="" data-url="/feedback.php" href="/feedback.php">Обратная связь</a></li><li><a class="" data-url="/2read/suburban_faq/" href="/2read/suburban_faq/">Справочная</a></li></ul>	</div>
+
+	<div class="center_block">
+		<ul class="cols3"><li><a class="" data-url="https://company.tutu.ru/" href="https://company.tutu.ru/">О компании</a></li><li><a class="" data-url="https://company.tutu.ru/vacancy/" href="https://company.tutu.ru/vacancy/">Наши вакансии</a></li><li><a class="" data-url="https://avia.tutu.ru/2read/avia/avia_cost/" href="https://avia.tutu.ru/2read/avia/avia_cost/">10 способов покупать авиабилеты выгоднее</a></li></ul>		<ul class="cols4"><li><a class="" data-url="/2read/advert/advert/" href="/2read/advert/advert/">Реклама на Туту.ру</a></li><li><a class="" data-url="/surprise.php" href="/surprise.php">Информер Туту.ру</a></li><li><a class="" data-url="https://company.tutu.ru/contacts/" href="https://company.tutu.ru/contacts/">Контакты</a></li></ul><ul class="cols4"><li>
+<style>
+.b-social__sharebuttons__block {
+	display: none;
+}
+
+.b-social__sharebuttons__block .share_text {
+	display: inline-block;
+}
+.b-social__sharebuttons__block .share_text.s-hidden {
+	display: none;
+}
+
+.b-social__sharebuttons__block .share_block {
+	display: inline-block;
+}
+
+.b-social__sharebuttons__block .icons_new_line {
+	display: block;
+}
+
+.b-social__sharebuttons__block.column {
+	width: 100px;
+}
+
+.b-social__sharebuttons__block.column .share_block {
+	margin-left: -5px;
+}
+</style>
+
+<style>
+	.b-social__sharebuttons__block .share_block {
+		display: inline-block;
+		padding: 1px 3px 1px 4px!important;
+		vertical-align: middle;
+	}
+</style>
+
+<div class="b-social__sharebuttons__block j-yandex_share_buttons" style="display: block;">
+	<span class="t-txt-s share_text">Поделиться:</span><!--
+	--><span id="yandex_share_block" class="share_block ya-share2 ya-share2_inited"><div class="ya-share2__container ya-share2__container_size_s ya-share2__container_color-scheme_normal ya-share2__container_shape_normal"><ul class="ya-share2__list ya-share2__list_direction_horizontal"><li class="ya-share2__item ya-share2__item_service_vkontakte"><a class="ya-share2__link" href="https://vk.com/share.php?url=https%3A%2F%2Fwww.tutu.ru%2F01.php&amp;title=%D0%A2%D0%BE%D1%87%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D0%BE%D0%B5%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D0%BA%20%D0%BD%D0%B0%20%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.&amp;description=%D0%A0%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D1%85%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D0%BA%2C%20%D0%BE%D1%82%D0%BC%D0%B5%D0%BD%D1%8B%20%D0%B8%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%2C%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D0%BE%D0%B2.&amp;image=https%3A%2F%2Fcdn1.tu-tu.ru%2Fimages2%2Flogo%2F100x56.gif&amp;utm_source=share2" rel="nofollow noopener" target="_blank" title="ВКонтакте"><span class="ya-share2__badge"><span class="ya-share2__icon"></span></span><span class="ya-share2__title">ВКонтакте</span></a></li><li class="ya-share2__item ya-share2__item_service_twitter"><a class="ya-share2__link" href="https://twitter.com/intent/tweet?text=%D0%A2%D0%BE%D1%87%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D0%BE%D0%B5%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D0%BA%20%D0%BD%D0%B0%20%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.%20%40tutu_ru&amp;url=https%3A%2F%2Fwww.tutu.ru%2F01.php&amp;utm_source=share2" rel="nofollow noopener" target="_blank" title="Twitter"><span class="ya-share2__badge"><span class="ya-share2__icon"></span></span><span class="ya-share2__title">Twitter</span></a></li><li class="ya-share2__item ya-share2__item_service_telegram"><a class="ya-share2__link" href="https://t.me/share/url?url=https%3A%2F%2Fwww.tutu.ru%2F01.php&amp;text=%D0%A2%D0%BE%D1%87%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D0%BE%D0%B5%20%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D0%BA%20%D0%BD%D0%B0%20%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C.&amp;utm_source=share2" rel="nofollow noopener" target="_blank" title="Telegram"><span class="ya-share2__badge"><span class="ya-share2__icon"></span></span><span class="ya-share2__title">Telegram</span></a></li></ul></div></span>
+</div>
+</li></ul>	</div>
+	<div class="right_block counters">
+		<noindex>
+	<a href="//www.yandex.ru/cy?base=0&amp;host=tutu.ru" target="_blank">
+		<img src="//www.yandex.ru/cycounter?www.tutu.ru" width="88" height="31" alt="Яндекс цитирования">
+	</a>
+</noindex>	</div>
+</div>
+		<div class="b-mp_about">
+			<div class="border"><!-- --></div>
+			<div class="left_block">
+				                                        <p></p>
+							</div>
+			<div class="center_block">
+				<div>
+					Данные, используемые на&nbsp;сайте Туту.ру, включая стоимость электронных авиа- и&nbsp;ж/д билетов, электронных билетов на&nbsp;автобусы и&nbsp;туристского продукта, а&nbsp;также расписание самолетов, поездов, электропоездов и&nbsp;автобусов взяты из&nbsp;официальных источников. Туристский продукт, электронные авиа- и&nbsp;ж/д билеты, электронные билеты на&nbsp;автобусы предоставляются партнерами Туту.ру и&nbsp;их&nbsp;стоимость указана с&nbsp;учетом сервисного сбора Туту.ру. Окончательную сумму можно увидеть на&nbsp;шаге подтверждения заказа.					<!--noindex-->
+					<a rel="nofollow" href="/2read/poezda/legal_personal/">
+						Политика ООО «НТТ» в отношении обработки персональных данных					</a>
+					<!--/noindex-->
+				</div>
+			</div>
+			<div class="right_block">
+				При использовании материалов ссылка на&nbsp;сайт <a href="https://www.tutu.ru">Туту.ру</a> обязательна.			</div>
+			<div class="g-clear"><!--  --></div>
+		</div>
+
+	</div>
+</div>
+
+	<script>window.logdata = {"page_id": "6gU-2VFPVyI", "site_version": "full"};</script>
+<script>
+	window.etrainPageName = "etrain_scheme";
+</script>
+<script src="https://cdn1.tu-tu.ru/js4/bld/app/etrain/phtmlTemplatesEntries/allPageDisclaimer.bundle.js.6cc5a97a0686c042b773fb768d0a5db81.js"></script>
+
+	
+
+
+
+
+
+
+	<script>
+		(function () {
+			function shareScript(params) {
+	var wrapper, element, getTitle, onPluginReady, onScriptLoad;
+
+	function getScript(source, callback) {
+		var script = document.createElement('script');
+		var prior = document.getElementsByTagName('script')[0];
+		script.async = 1;
+
+		script.onload = script.onreadystatechange = function( _, isAbort ) {
+			if(isAbort || !script.readyState || /loaded|complete/.test(script.readyState) ) {
+				script.onload = script.onreadystatechange = null;
+				script = undefined;
+
+				if(!isAbort) { if(callback) callback(); }
+			}
+		};
+
+		script.src = source;
+		prior.parentNode.insertBefore(script, prior);
+	}
+
+	// Ищем элемент
+	element = document.querySelector(params.buttonsSelector);
+	wrapper = document.querySelector(params.wrapperSelector);
+
+	// Если не нашли то уходим
+	if (!wrapper || !element) { return; }
+
+	// Функция возвращающая заголовок
+	getTitle = function () {
+		var title = params.title || '';
+		if (title === 'H1') {
+			title = $('h1').first().text();
+		}
+		return title;
+	};
+
+	// Обработчик, срабатываемый при инициализации блока
+	onPluginReady = function () {
+		wrapper.style.display = 'block'; // show wrapper
+	};
+
+	// Обработчик, срабатываемый при загрузке скрипта
+	onScriptLoad = function () {
+		var yaShareParams = {
+			content: {
+				title: getTitle(),
+				image: params.image,
+				description: params.description
+			},
+			contentByService: {
+				twitter: params.twitterParams
+			},
+			theme: params.themeParams,
+			hooks: {
+				onready: onPluginReady,
+				onshare: function (name) {
+					var handler = params.handler;
+					if (!handler || !handler.enable) {
+						return;
+					}
+
+					handler.data.networkName = name;
+
+					var request = new XMLHttpRequest(),
+						async = true;
+					request.open('POST', handler.url, async);
+					request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded; charset=UTF-8');
+					request.send(handler.data);
+				}
+			}
+		};
+
+		Ya.share2(element, yaShareParams);
+	};
+
+	getScript('//yastatic.net/share2/share.js', onScriptLoad);
+}
+
+
+			function shareScriptInit() {
+				shareScript({"buttonsSelector":"#yandex_share_block","wrapperSelector":".j-yandex_share_buttons","title":"\u0422\u043e\u0447\u043d\u043e\u0435 \u0438 \u0443\u0434\u043e\u0431\u043d\u043e\u0435 \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u043a \u043d\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0434\u0435\u043d\u044c.","themeParams":{"services":"vkontakte,twitter,telegram,gplus","size":"s","counter":false},"twitterParams":{"title":"\u0422\u043e\u0447\u043d\u043e\u0435 \u0438 \u0443\u0434\u043e\u0431\u043d\u043e\u0435 \u0440\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u043a \u043d\u0430 \u043a\u0430\u0436\u0434\u044b\u0439 \u0434\u0435\u043d\u044c. @tutu_ru"},"image":"https:\/\/cdn1.tu-tu.ru\/images2\/logo\/100x56.gif","description":"\u0420\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043f\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u043d\u044b\u0445 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u043a, \u043e\u0442\u043c\u0435\u043d\u044b \u0438 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f, \u0441\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u0431\u0438\u043b\u0435\u0442\u043e\u0432.","handler":[]});
+			}
+
+							if (typeof $ === "undefined") {
+					window.addEventListener("load", shareScriptInit, false);
+				} else {
+					$(window).load(shareScriptInit);
+				}
+					}());
+	</script>
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PD5PQQD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PD5PQQD');</script>
+<script>
+	window.advcake_push_data = window.advcake_push_data || function(advcake_data_array){};
+	window.advcake_data = {"pageType":0};
+	window.advcake_push_data(window.advcake_data);
+</script>
+
+<script type="text/javascript" id="advcakeAsync">
+	(function ( a ) {
+		var b = a.createElement("script");
+		b.async = 1;
+		b.src = "//28yw0a.ru/";
+		a=a.getElementsByTagName("script")[0]; a.parentNode.insertBefore(b,a)
+	})(document);
+</script>
+
+
+<div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" id="searchDepartureStationName_suggest" style="z-index: 51; top: 0px; left: 0px; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" id="searchArrivalStationName_suggest" style="z-index: 51; top: 0px; left: 0px; display: none;"></ul><div id="tooltip" style="display: none;"><h3></h3><div class="body"></div><div class="url"></div></div><div style="display: none; visibility: hidden;">
+<script type="text/javascript">(function(a,e,f,g,b,c,d){a[b]=a[b]||function(){(a[b].a=a[b].a||[]).push(arguments)};a[b].l=1*new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");ym(7294060,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,ecommerce:"dataLayer"});</script>
+<noscript></noscript>
+</div><script type="text/javascript" id="" charset="">(function(d,b,a){(b[a]=b[a]||[]).push(function(){try{b.yaCounter48909521=new Ya.Metrika({id:48909521,clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0})}catch(f){}});var e=d.getElementsByTagName("script")[0],c=d.createElement("script");a=function(){e.parentNode.insertBefore(c,e)};c.type="text/javascript";c.async=!0;c.src="https://mc.yandex.ru/metrika/watch.js";"[object Opera]"==b.opera?d.addEventListener("DOMContentLoaded",a,!1):a()})(document,window,"yandex_metrika_callbacks");</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/48909521" style="position:absolute; left:-9999px;" alt=""></div></noscript><script type="text/javascript" id="" charset="">mindbox=window.mindbox||function(){mindbox.queue.push(arguments)};mindbox.queue=mindbox.queue||[];mindbox("create");</script>
+<script id="" text="" charset="" type="text/javascript" src="https://api.mindbox.ru/scripts/v1/tracker.js"></script><script type="text/javascript" id="" charset="">!function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://vk.com/js/api/openapi.js?169";a.onload=function(){VK.Retargeting.Init("VK-RTRG-1619990-2zW7z");VK.Retargeting.Hit()};document.head.appendChild(a)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-1619990-2zW7z" style="position:fixed; left:-999px;" alt=""></noscript>
+<script type="text/javascript" id="" charset="">var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"3275697",type:"pageView",start:(new Date).getTime()});(function(c,e,a){if(!c.getElementById(a)){var b=c.createElement("script");b.type="text/javascript";b.async=!0;b.id=a;b.src="https://top-fwz1.mail.ru/js/code.js";a=function(){var d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)};"[object Opera]"==e.opera?c.addEventListener("DOMContentLoaded",a,!1):a()}})(document,window,"tmr-code");</script>
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3275697;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru"></div></noscript>
+
+<div style="display: none; visibility: hidden;">
+<script type="text/javascript">(function(e,f,g,a,b,d,c){e[b]=e[b]||function(){(e[b].a=e[b].a||[]).push(arguments)};e[b].l=1*new Date;d=f.createElement(g);c=f.getElementsByTagName(g)[0];d.async=1;d.src=a;c.parentNode.insertBefore(d,c)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js","ym");
+(function(){function e(){var a={},b=f();b&&(a.UserID=b);return a}function f(){var a=document.cookie.match(/SESSIONID=(.+?);/);a||(a=document.cookie.match(/SESSIONID=(.+?)$/));return a?a[1]:null}function g(a,b){var d=[],c;for(c in b){var h=a?a+"["+c+"]":c;"object"==typeof b[c]?d.push(g(h,b[c])):d.push(h+"\x3d"+b[c])}return d.join("\x26")}ym(7294060,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0,userParams:e()});ym(7294060,"getClientID",function(a){a={data:{0:{title:"client_id_join",
+type:"special",_type:"event",_eventTimeMs:+new Date,page_id:"undefined",yandex_id:a}},session_id:f(),sendTimeMs:+new Date};a=g(null,a);a=encodeURI("https://api-an.tutu.ru/userway/sendEvent/?"+a);var b=document.createElement("img");b.setAttribute("src",a);b.setAttribute("style","display:none");document.body.appendChild(b)})})();</script>
+<noscript></noscript>
+ </div>
+<script type="text/javascript" id="" charset="">var _tmr=window._tmr||(window._tmr=[]);_tmr.push({id:"3378214",type:"pageView",start:(new Date).getTime()});(function(c,e,a){if(!c.getElementById(a)){var b=c.createElement("script");b.type="text/javascript";b.async=!0;b.id=a;b.src="https://top-fwz1.mail.ru/js/code.js";a=function(){var d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)};"[object Opera]"==e.opera?c.addEventListener("DOMContentLoaded",a,!1):a()}})(document,window,"tmr-code");</script>
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3378214;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru"></div></noscript>
+
+<script id="" text="" charset="" type="text/javascript" src="https://spx.otm-r.com/js/10001581.js"></script><img src="//dss.hybrid.ai/Pixel/JsAction2?TagId=6474d9bd7bc72fd6ccfb9bab&amp;ActionId=125363740226" width="0" height="0" alt="" style="display: none;">
+<script type="text/javascript" id="" charset="">(function(b,a,c,f,e){b[c]=b[c]||function(){(b[c].q=b[c].q||[]).push(arguments)};var d=a.createElement(e);a=a.getElementsByTagName(e)[0];d.async=!0;d.src=f;a.parentNode.insertBefore(d,a)})(window,document,"DSPCounter","https://tags.soloway.ru/DSPCounter.js","script");</script>
+<script type="text/javascript" id="" charset="">DSPCounter("send",{sid:"228733",user_id:""});</script>
+<img src="https://wcm.weborama-tech.ru/fcgi-bin/dispatch.fcgi?a.A=co&amp;a.si=9401&amp;a.cp=46&amp;a.ct=d&amp;a.cid=1763133969809331283&amp;a.opt=N1%3A73141125-1bb0-4279-8a28-030ffc751b78" alt="" style="display: none;">
+<script type="text/javascript" id="" charset="">(function(){function e(a){return(a=document.cookie.match(new RegExp("(^|;)\\s*"+a+"\\s*\x3d\\s*([^;]+)")))?decodeURIComponent(a.pop()):null}function k(a,b,d){a={sessionId:a||"",marketingIds:{MindboxID:b}};fetch(l+"/api/v1/add_marketing_ids",{method:"POST",headers:{"Content-Type":"application/json"},credentials:"include",body:JSON.stringify(a)}).then(function(c){c.ok?(console.log("Marketing ID posted successfully."),d&&d()):console.log("Failed to post marketing ID")})["catch"](function(c){console.log("Network error while posting marketing ID: ",
+c)})}function g(){var a=e(h);if(!a){a=e("SESSIONID");var b=e("mindboxDeviceUUID");b?k(a,b,function(){var d=h,c=b,f=m;f=(new Date(Date.now()+f*24*60*60*1E3)).toUTCString();document.cookie=d+"\x3d"+encodeURIComponent(c)+"; expires\x3d"+f+"; path\x3d/"}):console.warn("mindboxDeviceUUID cookie not found.")}}var l="https://store-controller.tutu.ru",h="cachedMarketingId",m=14;document.readyState==="loading"?document.addEventListener("DOMContentLoaded",g):g()})();</script><script type="text/javascript" id="advcakeAsync" charset="">(function(a){var b=a.createElement("script");b.async=1;b.src="//28yw0a.ru/";a=a.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})(document);</script><script id="" text="" charset="" type="text/javascript" src="https://statad.ru/tracker.js?d=tutu.ru"></script><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><script id="" text="" charset="" type="text/javascript" src="https://www.artfut.com/static/tagtag.min.js?campaign_code=d49ad802c2"></script><script type="text/javascript" id="" charset="">window._txq=window._txq||[];var s=document.createElement("script");s.type="text/javascript";s.async=!0;s.src="//st.hybrid.ai/txsp.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(s);_txq.push(["createPixel","670689887bc72f062c8bd3f9"]);_txq.push(["track","PageView"]);</script><script type="text/javascript" id="advcakeAsync" charset="">(function(a){var b=a.createElement("script");b.async=1;b.src="//28yw0a.ru/";a=a.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})(document);</script><img src="https://api-an.tutu.ru/userway/sendEvent/?data%5B0%5D%5Btitle%5D=client_id_join&amp;data%5B0%5D%5Btype%5D=special&amp;data%5B0%5D%5B_type%5D=event&amp;data%5B0%5D%5B_eventTimeMs%5D=1763134590142&amp;data%5B0%5D%5Bpage_id%5D=undefined&amp;data%5B0%5D%5Byandex_id%5D=1763133969809331283&amp;session_id=73141125-1bb0-4279-8a28-030ffc751b78&amp;sendTimeMs=1763134590142" style="display:none"><script type="text/javascript" async="" src="https://top-fwz1.mail.ru/js/dyn-goal-config.js?ids=3275697,3378214"></script>
+<script type="text/javascript" id="" charset="">var cookie_name="deduplication_cookie",days_to_store=90,deduplication_cookie_value="admitad",channel_name="utm_source";getSourceParamFromUri=function(){var a=channel_name+"\x3d([^\x26]+)";a=new RegExp(a);return(a.exec(document.location.search)||[])[1]||""};getSourceCookie=function(){var a=document.cookie.match(new RegExp("(?:^|; )"+cookie_name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g,"\\$1")+"\x3d([^;]*)"));return a?decodeURIComponent(a[1]):void 0};
+setSourceCookie=function(){var a=getSourceParamFromUri(),b=(new URL(document.location)).searchParams;if(!b.get(channel_name)&&b.get("gclid"))a="advAutoMarkup";else if(!b.get(channel_name)&&b.get("fbclid"))a="facebook";else if(!a)return;b=864E5*days_to_store;b=new Date(b+ +new Date);a=cookie_name+"\x3d"+a+"; path\x3d/; expires\x3d"+b.toGMTString();document.cookie=a;document.cookie=a+"; domain\x3d."+location.host};setSourceCookie();</script><iframe src="https://content.adriver.ru/banners/0002186/0002186173/0/s.html?0&amp;0&amp;0&amp;0&amp;658428&amp;0&amp;2295718686434&amp;331&amp;94.230.228.187&amp;javascript&amp;1" style="height: 10px; width: 10px; position: absolute; left: -10000px; top: -10000px;"></iframe></body></html>

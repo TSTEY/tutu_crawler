@@ -1,0 +1,712 @@
+<!DOCTYPE html><!-- Last Published: Thu Nov 13 2025 08:52:09 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="c.tutu.ru" data-wf-page="6900a9fe4fb13cf7a57b8937" data-wf-site="64edb1a184b086360fc066ca" lang="ru"><head><meta charset="utf-8"/><title>Календарь поездов</title><meta content="Узнайте, когда начнётся продажа билетов на поезд" name="description"/><meta content="Календарь поездов" property="og:title"/><meta content="Узнайте, когда начнётся продажа билетов на поезд" property="og:description"/><meta content="https://cdn4.tu-tu.ru/static/webflow/tutu-share.625401604ea9d5a50772cbe9832181edff767c93.png" property="og:image"/><meta content="Календарь поездов" property="twitter:title"/><meta content="Узнайте, когда начнётся продажа билетов на поезд" property="twitter:description"/><meta content="https://cdn4.tu-tu.ru/static/webflow/tutu-share.625401604ea9d5a50772cbe9832181edff767c93.png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/css/tutu-test.shared.8f0b7ad34.min.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/67ff77049a868bec96c4be11_favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/680a268866355c8737aa4720_favicon256.png" rel="apple-touch-icon"/><style>
+  html, body {
+    -webkit-font-smoothing: antialiased;
+  }
+  .t-btn:before {
+    content: '';
+    position: absolute;
+    left: -110%;
+    top: -100%;
+    bottom: -100%;
+    margin: auto;
+    height: 200%;
+    width: 110%;
+    border-radius: 0 500px 500px 0;
+    background-color: #5F53D4;
+    transition: transform ease .4s;
+  }
+  .t-btn_stroke:before {
+  	background: rgba(255, 255, 255, 0.20);
+  }
+  .t-btn:hover:before {
+    transform: translateX(100%);
+  }
+
+  .t-hide-btn-up .t-btn-up {
+  	display: none;
+  }
+  
+
+</style>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PFRF35');</script>
+<!-- End Google Tag Manager -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+<script src="https://npmcdn.com/flatpickr/dist/l10n/ru.js"></script></head><body class="t-body"><div class="t-google-tag w-embed w-iframe"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PFRF35"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div><div class="tutu-custom-static w-embed"><style>
+@font-face {
+    font-family: 'Cooper_local';
+    src: url('https://cdn4.tu-tu.ru/static/webflow/cooper_light.ce8115cec7a10de6baaaae7012a63165fe852ce7.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Cooper_local';
+    src: url('https://cdn4.tu-tu.ru/static/webflow/cooper_light-italic.150a8e9f6e0057f268e2be1806434009cb7fdb74.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Tutu-sans_local';
+    src: url('https://cdn4.tu-tu.ru/static/webflow/tutu_sans_regular.861d15625c80f4282a2abc72232d9236ffb5918b.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Tutu-sans_local';
+    src: url('https://cdn4.tu-tu.ru/static/webflow/tutu_sans_medium.d65f368255a9d1b448bc3803c7d90224f3c53786.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Tutu-sans_local';
+    src: url('https://cdn4.tu-tu.ru/static/webflow/tutu_sans_demibold.d5b630e54247e68c49d133d7ca07fbdea2b62417.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+* {
+	font-family: inherit !important;
+}
+.t-body, .t-basic-font {
+	font-family: 'Tutu-sans_local', sans-serif !important;
+  /*letter-spacing: -0.03rem;*/
+}
+.t-accent-font {
+	font-family: 'Cooper_local', serif !important;
+}
+
+
+.t-cta-wide_tours {
+	background: center / cover no-repeat url('https://cdn4.tu-tu.ru/static/webflow/tours-cta-bg-dark-2x.73db32aecb9f29d5ff5749552987e8fe4e2d6dfd.jpg'); 
+}
+
+.t-button {
+    background-image: url('https://cdn4.tu-tu.ru/static/webflow/hover-bg-dark.281163a0ac0812b035641285d02a0d46183e6559.svg');
+}
+.t-button.t-button_compact, 
+[data-wf--button--variant="light"], 
+[data-wf--button--variant="stroke-dark"], 
+[data-wf--button--variant="stroke-light"]
+[data-wf--button--variant="compact-light"], 
+[data-wf--button--variant="compact-stroke-dark"],
+[data-wf--button--variant="compact-stroke-light"]
+{
+    background-image: url('https://cdn4.tu-tu.ru/static/webflow/hover-bg-darkest.2a52aed3278e8c937f8b64b79e3141c28986fd39.svg');
+}
+[data-wf--button--variant="orange"]
+{
+    background-image: none;
+}
+@media screen and (max-width: 991px) {
+  .t-header_white .t-button.t-button_compact.t-button__compact-light, [data-wf--header--variant="on-dark"] .t-button {
+      border-color: var(--deep-blue);
+      color: var(--deep-blue);
+  }
+}
+.wf-active .t-header__logo-img + .t-header__logo-svg {
+	display: none;
+}
+.t-header__logo-svg svg {
+    max-width: 100%;
+}
+.t-header__btn-wrap {
+    flex-basis: 120px;
+    white-space: nowrap;
+}
+.t-text-center {
+	text-align: center;
+}
+  .t-color-accent {
+  	color: var(--purple);
+  }
+.t-max-w-900 {
+	max-width: 900px;
+}
+.t-max-w-800 {
+	max-width: 800px;
+}
+.t-max-w-700 {
+	max-width: 700px;
+}
+.t-max-w-450 {
+	max-width: 450px;
+}
+.t-max-w-250 {
+	max-width: 250px;
+}
+.t-color-light {
+	color: var(--light-blue);
+}
+.t-mb-xl {
+	margin-bottom: var(--xl-space)
+}
+.t-mb-l {
+	margin-bottom: var(--l-space)
+}
+.t-mb-xs {
+	margin-bottom: var(--xs-space)
+}
+.t-mt-0 {
+	margin-top: 0;
+}
+@media (min-width: 769px) {
+  .t-hide-desktop {
+  	display: none;
+  }
+}
+@media (max-width: 768px) {
+  .t-mb-xl {
+    margin-bottom: var(--m-space)
+  }
+  .t-mb-l {
+    margin-bottom: var(--s-space)
+  }
+  .t-hide-mobile {
+  	display: none;
+  }
+}
+
+  .t-form_success .t-form__success-text {
+    display: block;
+	}
+  .t-form_success .t-form__form {
+  	display: none;
+  }
+  .--t-error .t-field__error {
+    display: block;
+	}
+  
+  .t-ptt-links_m .t-ptt-links__app-icon, .t-ptt-links_m .t-ptt-links__qr {
+  	width: 68px;
+    height: 68px;
+  }
+  
+  .t-switch__help {
+    transition: background-color ease .35s;
+  }
+  .t-switch__help:before {
+  	content:'';
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    display: block;
+    width: 18px;
+    height: 18px;
+    background-color: #fff;
+    border: 1px solid var(--purple);
+    border-radius: 20px;
+    transform: translateX(-20px);
+    transition: transform ease .35s;
+  }
+  .t-switch__input:checked + .t-switch__help:before {
+    transform: translateX(0px);
+  }
+  .t-switch__input:checked + .t-switch__help {
+    background-color: var(--purple);
+  }
+  .t-switch__input:checked + .t-switch__help:hover {
+    background-color: #473db0;
+  }
+  .t-overflow-hidden {
+  	overflow: hidden;
+  }
+  
+  
+  [data-slider] {
+    display: flex;
+  }
+
+  [data-slider] > * {
+    flex-shrink: 0;
+    user-select: none;
+  }
+</style></div><div class="w-embed"><style>
+.t-card-ver {
+	border-radius: 16px;
+  min-height: 368px;
+  min-width: 286px;
+}
+.t-card-ver__title {
+	font-size: 20px;
+}
+.t-steps__list {
+	gap: 8px;
+}
+.t-card-ver__content {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+.t-dark-wrap .t-button {
+	width: 286px;
+}
+</style></div><header id="header" data-wf--header-multicms--variant="base" class="t-header"><div class="t-header__float"><div class="w-layout-blockcontainer t-container t-container_header-footer w-container"><div class="t-header__inner"><a href="https://www.tutu.ru/" target="_blank" class="t-header__logo-link w-inline-block"><div class="t-header__logo-svg w-embed"><svg style="display: block;" xmlns="http://www.w3.org/2000/svg" width="152" height="41" viewBox="0 0 152 41" >
+<path d="M36.6669 21.1138H24.7285C24.2415 21.1138 23.9162 21.3147 23.9162 21.8378V24.0495C23.9162 25.8992 22.8197 26.9454 21.0335 26.9454C19.2472 26.9454 18.1096 25.9002 18.1096 24.0495V18.1781C18.1096 17.8559 18.3536 17.6152 18.7593 17.6152H33.5804C34.1086 17.6152 34.3927 17.4143 34.3927 16.8912V7.80172C34.3927 7.27865 34.1086 7.07775 33.5804 7.07775H18.7593C18.3536 7.07775 18.1096 6.91666 18.1096 6.51486V0.763792C18.1096 0.200903 17.8254 0 17.2973 0H5.4009C4.9139 0 4.58862 0.200903 4.58862 0.723974V6.51486C4.58862 6.91666 4.34466 7.07775 3.93898 7.07775H0.812283C0.325278 7.07775 0 7.27865 0 7.80172V16.8912C0 17.4143 0.325278 17.6152 0.812283 17.6152H3.93898C4.34466 17.6152 4.58862 17.7763 4.58862 18.1781V24.0495C4.58862 33.2992 11.5319 40.0964 21.0344 40.0964C30.5369 40.0964 37.4801 33.2992 37.4801 24.0495V21.8776C37.4801 21.3147 37.196 21.1138 36.6678 21.1138H36.6669Z" fill="currentColor"/>
+<path d="M71.7909 7.07886H59.8936C59.4066 7.07886 59.0813 7.27976 59.0813 7.80283V24.0506C59.0813 25.8198 57.9446 26.9465 56.1574 26.9465C54.3702 26.9465 53.2336 25.8207 53.2336 24.0506V7.84265C53.2336 7.27976 52.9494 7.07886 52.4213 7.07886H40.524C40.0369 7.07886 39.7117 7.27976 39.7117 7.80283V24.0506C39.7117 33.3003 46.6549 40.0975 56.1574 40.0975C65.6599 40.0975 72.6032 33.3003 72.6032 24.0506V7.84265C72.6032 7.27976 72.319 7.07886 71.7909 7.07886Z" fill="currentColor"/>
+<path d="M151.176 6.99512H138.995C138.385 6.99512 138.142 7.1562 137.98 7.71909L133.067 24.2085C132.498 26.0582 130.996 26.9433 129.331 26.9433C127.829 26.9433 126.529 25.9777 127.098 24.0881L132.011 7.9209C132.213 7.27747 131.929 6.99602 131.28 6.99602H118.854C118.326 6.99602 118.002 7.19692 117.839 7.71999L113.494 22.5605C110.205 33.7414 117.88 40.0952 127.3 40.0952C137.777 40.0952 144.03 34.9876 147.116 24.4501L151.948 7.9209C152.11 7.35801 151.907 6.99602 151.176 6.99602V6.99512Z" fill="#7D71FF"/>
+<path d="M111.377 7.07774H96.9619C96.4749 7.07774 96.272 6.87684 96.4337 6.3945L98.22 0.64343C98.3416 0.281443 98.2602 0 97.8144 0H85.7142C85.1047 0 84.8617 0.120359 84.699 0.683249L82.7903 6.51485C82.6277 6.95738 82.465 7.07774 81.978 7.07774H78.6887C78.1204 7.07774 77.8362 7.23883 77.6736 7.76099L75.075 16.569C74.8722 17.293 74.9535 17.6143 75.6433 17.6143H78.8102C79.257 17.6143 79.4197 17.8559 79.3383 18.2577L78.4045 21.9979C75.4405 33.862 82.6277 40.0955 91.5198 40.0955C100.412 40.0955 107.519 35.1082 110.117 26.1798L111.295 22.1581C111.498 21.5147 111.335 21.2332 110.605 21.2332H98.951C98.4229 21.2332 97.9761 21.3943 97.8144 21.9572L97.1245 24.1689C96.5151 26.1798 95.054 27.0241 93.4697 27.0241C91.8853 27.0241 90.7898 26.1391 91.3581 24.1282L93.1042 18.1355C93.2257 17.7735 93.3884 17.6125 93.9567 17.6125H108.331C109.143 17.6125 109.428 17.4514 109.63 16.7274L112.148 7.9999C112.35 7.35647 112.148 7.07503 111.376 7.07503L111.377 7.07774Z" fill="#7D71FF"/>
+</svg></div></a><div class="t-header__trigger w-embed"><style>
+.t-header__trigger-icon {
+	position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+.t-header__trigger_active {
+	background-color: #fff;
+}
+.t-header__trigger-cross, .t-header__trigger_active .t-header__trigger-burger {
+	opacity: 0;
+}
+.t-header__trigger_active .t-header__trigger-cross {
+	opacity: 1;
+}
+
+</style>
+
+<svg class="t-header__trigger-icon t-header__trigger-burger" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="currentColor">
+<path d="M4 7H24V9H4V7Z"/>
+<path d="M4 13H24V15H4V13Z" />
+<path d="M4 19H24V21H4V19Z" />
+</svg>
+<svg class="t-header__trigger-icon t-header__trigger-cross" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="var(--deep-blue)">
+<path d="M12.5859 14.0001L5.79297 7.20718L7.20718 5.79297L14.0001 12.5859L20.793 5.79297L22.2072 7.20718L15.4143 14.0001L22.2072 20.793L20.793 22.2072L14.0001 15.4143L7.20718 22.2072L5.79297 20.793L12.5859 14.0001Z" />
+</svg></div><div class="w-layout-hflex t-header__content"><div data-wf--header-menu--variant="base" class="t-header__menu-cms"><nav class="t-cms-menu t-cms-menu_base w-dyn-list"><div role="list" class="t-header__menu w-dyn-items"><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://avia.tutu.ru/" class="t-header__link">Авиабилеты</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://www.tutu.ru/poezda/" class="t-header__link">Ж/д билеты</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://bus.tutu.ru/" class="t-header__link">Автобусы</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://hotel.tutu.ru/" class="t-header__link">Отели</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://www.tutu.ru/prigorod/" class="t-header__link">Электрички</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://tours.tutu.ru/" class="t-header__link">Туры</a></div></div></nav><nav class="t-cms-menu t-cms-menu_hr w-dyn-list"><div role="list" class="t-header__menu w-dyn-items"><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://c.tutu.ru/company" class="t-header__link">О компании</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://c.tutu.ru/hr" class="t-header__link">Карьера в Туту</a></div></div></nav><nav class="t-cms-menu t-cms-menu_support w-dyn-list"><div role="list" class="t-header__menu w-dyn-items"><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://c.tutu.ru/company" class="t-header__link">О компании</a></div></div></nav></div><div class="t-header__btn-wrap"><a data-wf--button--variant="compact-stroke-dark" href="https://id.tutu.ru/login" target="_blank" class="t-button w-variant-08184a5c-fed2-70b3-95b0-ed34dc3295cd w-inline-block"><div class="t-button__text">Войти</div></a></div></div></div><div class="html-embed-3 w-embed w-script"><script>
+const menuTrigger = document.querySelector('.t-header__trigger');
+const menu = document.querySelector('.t-header__content');
+menuTrigger.addEventListener('click', function(e) {
+	e.preventDefault();
+	menuTrigger.classList.toggle('t-header__trigger_active');
+	menu.classList.toggle('t-header__content_active');
+});
+</script></div></div></div></header><section data-w-id="ddb0a387-df02-c52d-68b8-0fce39a2c712" class="t-section"><div class="w-layout-blockcontainer t-container w-container"><div class="w-embed w-script"><style>
+            .tt-field__date-input::-webkit-calendar-picker-indicator {
+                opacity: 0;
+                font-size: 80px
+            }
+            .tt-field__date-input::-webkit-date-and-time-value {
+                text-align: left;
+            }
+            .tt-field {
+                position: relative;
+            }
+            .tt-field__date-input {
+                width: 100%;
+                min-width: 360px;
+                height: 60px;
+                padding: 32px 0 8px 24px;
+                font-size: inherit;
+                font-family: inherit;
+                text-align: left;
+                color: #fff;
+                border: 1px solid rgba(125, 113, 255, .5);
+                border-radius: 16px;
+                box-shadow: none;
+                background-color: #fff;
+                background-image: url("data:image/svg+xml,%3Csvg width='58' height='60' viewBox='0 0 58 60' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M19.4094 18.3182C17.2588 18.3182 15.5154 20.0616 15.5154 22.2121V27.4041H41.4751V22.2121C41.4751 20.0616 39.7317 18.3182 37.5811 18.3182C37.3683 19.8312 34.9852 20.9141 34.9852 20.9141V17.0202H33.0382V18.3182H23.9523C23.9517 19.7534 21.3564 20.9141 21.3564 20.9141V17.0202H19.4094V18.3182Z' fill='%237D71FF'/%3E%3Cpath d='M38.8791 35.192L34.3362 35.8409C35.3681 38.4879 34.9852 40.3839 32.3892 40.3839H19.4094C18.6925 40.3839 18.1114 39.8028 18.1114 39.0859V28.702H15.5154V39.0859C15.5154 41.2365 17.2588 42.9799 19.4094 42.9799H37.5811C39.7317 42.9799 41.4751 41.2365 41.4751 39.0859V28.702H38.8791V35.192Z' fill='%237D71FF'/%3E%3C/svg%3E%0A");
+                background-repeat: no-repeat;
+                background-position: right;
+                background-size: 58px 60px;
+                box-sizing: border-box;
+                -webkit-text-fill-color: #fff;
+            }
+            .tt-field__date-input:focus, .--tt-focus .tt-field__date-input {
+                color: #0D0B68;
+                border-color: rgba(125, 113, 255, 1);
+                -webkit-text-fill-color: #0D0B68;
+            }
+            .tt-field__date-input::selection  {
+                background-color: #edefff;
+            }
+            .tt-calc-form__button {
+                padding: 0 32px;
+                height: 60px;
+                font-size: inherit;
+                border-radius: 16px;
+                border: none;
+                background-color: #7D71FF;
+                color: #fff;
+                cursor: pointer;
+            }
+            .tt-calc-form__button.--tt-disabled {
+                opacity: 0.5;
+                pointer-events: none;
+                cursor: default;
+            }
+            .tt-calc-form {
+                display: flex;
+                justify-content: center;
+                gap: 8px;
+                color: #0D0B68;
+                font-size: 16px;
+                font-family: 'Tutu sans', sans-serif;
+            }
+            .tt-field__label{
+                pointer-events: none;
+                transform-origin: 0%;
+                color: rgba(13, 11, 104, 0.3);
+                white-space: nowrap;
+                word-break: keep-all;
+                font-size: 16px;
+                line-height: 125%;
+                transition: transform .3s, top .3s;
+                display: flex;
+                position: absolute;
+                top: 18px;
+                left: 25px;
+            }
+            .tt-field__date-input:focus + .tt-field__label, .--tt-focus .tt-field__label {
+                transform-origin: left top;
+                top: 8px;
+                transform: scale(.7);
+            }
+            .tt-field__error {
+                margin-left: 8px;
+                color: var(--error);
+                display: none;
+            }
+            .tt-field__error {
+                margin-left: 8px;
+                color: #ff872e;
+                display: none;
+            }
+            .--tt-error .tt-field__error {
+                display: inline;
+            }
+            .tt-checkbox {
+                margin-top: 16px;
+                padding-left: 32px;
+                text-align: left;
+                flex-flow: wrap;
+                flex: none;
+                justify-content: flex-start;
+                align-items: flex-start;
+                width: 100%;
+                display: flex;
+                position: relative;
+                cursor: pointer;
+            }
+            .tt-checkbox__box {
+                border: 1px solid rgba(125, 113, 255, .5);
+                background-color: #fff;
+                border-radius: 4px;
+                width: 20px;
+                height: 20px;
+                position: absolute;
+                inset: -2px auto auto 0;
+            }
+            .tt-checkbox__input:checked + .tt-checkbox__box {
+                background-color: #fff;
+                background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20' fill='none'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M3.5 9.29231L8.82029 16C8.82029 16 10.9952 12.3385 13.4667 9.10769C15.9381 5.87692 17.5 4.07692 17.5 4.07692L16.5114 3C16.5114 3 14.0294 5.23846 11.9533 7.5C9.87731 9.76154 8.42366 11.5846 8.42366 11.5846L4.38973 8L3.5 9.29231Z' fill='%237D71FF'/%3E%3C/svg%3E");                background-position: 50%;
+                background-size: auto;
+            }
+            .tt-checkbox__input {
+                opacity: 0;
+                position: absolute;
+                z-index: -1;
+            }
+            .tt-calc {
+                max-width: 745px;
+                margin:  80px auto;
+            }
+            .tt-calc__heading {
+                position: relative;
+                padding-top: 120px;
+                margin-bottom: 32px;
+                text-align: center;
+                font-size: 65px;
+                line-height: 105%;
+                color: #0D0B68;
+                font-family: 'Tutu sans', sans-serif;
+            }
+            .tt-calc__heading:before, .tt-calc__heading:after {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                display: block;
+                width: 96px;
+                height: 96px;
+                margin: auto;
+                background-position: center;
+                background-repeat: none;
+            }
+            .tt-calc__heading:before {
+                background-image: url("data:image/svg+xml,%3Csvg width='96' height='96' viewBox='0 0 96 96' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='48' cy='48' r='48' fill='%2300C95E'/%3E%3Cmask id='mask0_1046_2034' style='mask-type:alpha' maskUnits='userSpaceOnUse' x='0' y='0' width='96' height='96'%3E%3Ccircle cx='48' cy='48' r='48' fill='%23D9D9D9'/%3E%3C/mask%3E%3Cg mask='url(%23mask0_1046_2034)'%3E%3Cpath d='M40.2175 26.3739H-12.562C-13.9192 26.3739 -15.0195 27.4742 -15.0195 28.8314V31.3478C-15.0195 32.705 -13.9192 33.8052 -12.562 33.8052H40.2175C41.5747 33.8052 42.675 32.705 42.675 31.3478V28.8314C42.675 27.4742 41.5747 26.3739 40.2175 26.3739Z' fill='%23D8D5F8'/%3E%3Cpath d='M40.9247 70.0432C42.2733 66.5353 41.0084 62.7849 38.0994 61.6665C35.1904 60.5481 31.7389 62.4852 30.3902 65.9931C29.0415 69.501 30.3065 73.2514 33.2155 74.3698C36.1245 75.4882 39.576 73.5511 40.9247 70.0432Z' fill='%23D8D5F8'/%3E%3Cpath d='M51.3719 70.0491C52.7206 66.5412 51.4557 62.7908 48.5467 61.6724C45.6377 60.554 42.1862 62.491 40.8375 65.999C39.4888 69.5069 40.7537 73.2572 43.6627 74.3756C46.5717 75.4941 50.0233 73.557 51.3719 70.0491Z' fill='%23D8D5F8'/%3E%3Cpath d='M61.6512 70.0422C62.9999 66.5343 61.735 62.784 58.826 61.6656C55.917 60.5471 52.4655 62.4842 51.1168 65.9921C49.7681 69.5 51.033 73.2504 53.942 74.3688C56.851 75.4872 60.3026 73.5502 61.6512 70.0422Z' fill='%23D8D5F8'/%3E%3Cpath d='M87.0436 60.104C86.1495 64.4515 82.3429 68.0118 77.353 68.0118H-68.4841C-70.9523 68.0118 -72.6495 65.549 -71.7607 63.2522L-59.8053 32.1081C-59.286 30.7535 -57.9849 29.8594 -56.5286 29.8594H71.6991C73.4338 29.8594 75.0024 30.8392 75.7627 32.3972L86.2351 53.781C86.2726 53.8613 86.3101 53.9362 86.3422 54.0165C87.2738 56.035 87.4558 58.1498 87.0436 60.104Z' fill='%237E71FC'/%3E%3Cpath d='M7.53258 38.3289L2.88536 50.4182C2.67656 50.9589 2.16255 51.3123 1.58432 51.3123H-14.7024C-15.6822 51.3123 -16.3568 50.3272 -16.0035 49.417L-11.3562 37.3277C-11.1474 36.787 -10.6335 36.4336 -10.0552 36.4336H6.22624C7.20602 36.4336 7.88058 37.4134 7.52722 38.3289H7.53258Z' fill='%230D0C68'/%3E%3Cpath d='M56.9704 37.9275L51.9697 50.9484C51.7448 51.5266 51.1881 51.9121 50.567 51.9121H33.0274C31.9727 51.9121 31.2445 50.852 31.6246 49.8669L36.6306 36.846C36.8555 36.2678 37.4122 35.8823 38.0333 35.8823H55.5676C56.6223 35.8823 57.3505 36.9424 56.9704 37.9222V37.9275Z' fill='%230D0C68'/%3E%3Cpath d='M31.1747 41.9222L21.136 68.0175H1.79199L12.2162 40.9157C12.425 40.3749 12.9443 40.0216 13.5225 40.0216H29.8682C30.8534 40.0216 31.5333 41.0067 31.1799 41.9222H31.1747Z' fill='%23D8D5F8'/%3E%3Cpath d='M20.4299 18.0001H2.39771L21.399 27.5516' stroke='%23D8D5F8' stroke-width='1.71327' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M78.9008 48.7265L73.3701 37.4403C72.6633 36.3428 71.4426 35.6735 70.1362 35.6735H61.752C61.2005 35.6735 60.7025 36.0162 60.5098 36.5355L55.5039 49.9151C55.1827 50.7824 55.8197 51.7033 56.7459 51.7033H77.2785C78.8044 51.7033 79.7306 50.0168 78.9008 48.7319V48.7265Z' fill='%230D0C68'/%3E%3C/g%3E%3C/svg%3E%0A");
+            }
+            .tt-calc__heading:after{
+                opacity: 0;
+                background-image: url("data:image/svg+xml,%3Csvg width='96' height='96' viewBox='0 0 96 96' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='48' cy='48' r='48' fill='%2300C95E'/%3E%3Cmask id='mask0_1046_2054' style='mask-type:alpha' maskUnits='userSpaceOnUse' x='0' y='0' width='96' height='96'%3E%3Ccircle cx='48' cy='48' r='48' fill='%23D9D9D9'/%3E%3C/mask%3E%3Cg mask='url(%23mask0_1046_2054)'%3E%3Cpath d='M93.6354 26.6329L66.5949 35.7868C66.071 35.965 65.666 36.3863 65.5093 36.9155L62.8415 46.0208L52.3536 81.8157C51.9702 83.128 53.2015 84.3323 54.503 83.9165L78.7083 76.1775C79.2159 76.0101 79.621 75.6159 79.7992 75.1082L93.7434 34.7391L95.7956 28.7985C96.2601 27.4646 94.9855 26.1792 93.6408 26.6329H93.6354Z' fill='%23D8D5F8'/%3E%3Cpath d='M11.1739 29.7382L42.285 75.4653C43.2145 76.8315 45.0755 77.1855 46.4417 76.256L69.2405 60.7445C70.6066 59.815 70.9606 57.954 70.0311 56.5878L38.92 10.8607C37.9906 9.49456 36.1295 9.14056 34.7634 10.07L11.9646 25.5815C10.5984 26.511 10.2444 28.372 11.1739 29.7382Z' fill='%23F0F0F5'/%3E%3Cpath d='M43.9396 64.993L2.6416 76.6474L6.68121 44.7464L49.4212 33.9075C50.8253 33.551 52.1106 34.8148 51.7758 36.2243L45.2897 63.5781C45.1277 64.2585 44.6093 64.804 43.9342 64.993H43.9396Z' fill='%237D71FF'/%3E%3Cpath d='M44.8046 27.152L36.0449 14.3203' stroke='%237E71FC' stroke-width='1.47078' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M39.2955 24.7803L33.7383 16.6363' stroke='%237E71FC' stroke-width='1.47078' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M93.636 26.6329L66.5954 35.7868C66.0716 35.965 65.6665 36.3863 65.5099 36.9155L62.842 46.0208L93.5388 35.3278L95.7908 28.7985C96.2552 27.4646 94.9807 26.1792 93.636 26.6329Z' fill='%237E71FC'/%3E%3Cpath d='M7.41585 44.5579L3.36004 75.7029C3.27363 76.351 2.67957 76.81 2.03151 76.7236C1.45365 76.648 1.027 76.1674 1 75.6057C1 75.5355 0.999998 75.4653 1.0108 75.3951L4.9424 45.1844L7.41585 44.5579Z' fill='%23D8D5F8'/%3E%3C/g%3E%3C/svg%3E%0A");
+            }
+            .tt-calc-result {
+                position: absolute;
+                top: 120px;
+            }
+            .tt-calc-result, .--tt-done .tt-calc-title {
+                opacity: 0;
+                transform: translateY(50px);
+                transition: opacity ease .6s, transform ease .6s;
+                transition-delay: .6s;
+            }
+            .tt-calc-title {
+                opacity: 1;
+                transform: translateY(0);
+                transition: opacity ease .6s;
+            }
+            .--tt-done .tt-calc-result {
+                opacity: 1;
+                transform: translateY(0);
+            }
+            .--tt-done-again .tt-calc-result {
+                -webkit-animation: done-again 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+                animation: done-again 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+            }
+            .tt-calc-result__accent {
+                font-family: 'Cooper', serif;
+                font-weight: 200;
+                color: #7D71FF;
+                white-space: nowrap;
+            }
+            .--tt-done .tt-calc__heading:before {
+                -webkit-animation: rotate-out-center 0.6s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+                animation: rotate-out-center 0.6s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+            }
+            .--tt-done .tt-calc__heading:after {
+                -webkit-animation: rotate-in-center 0.6s cubic-bezier(0.550, 0.085, 0.680, 0.530) 0.3s both;
+                animation: rotate-in-center 0.6s cubic-bezier(0.550, 0.085, 0.680, 0.530) 0.3s both;
+            }
+            @-webkit-keyframes rotate-out-center {
+            0% {
+                -webkit-transform: rotate(0);
+                        transform: rotate(0);
+                opacity: 1;
+            }
+            100% {
+                -webkit-transform: rotate(360deg);
+                        transform: rotate(360deg);
+                opacity: 0;
+            }
+            }
+            @keyframes rotate-out-center {
+            0% {
+                -webkit-transform: rotate(0);
+                        transform: rotate(0);
+                opacity: 1;
+            }
+            100% {
+                -webkit-transform: rotate(360deg);
+                        transform: rotate(360deg);
+                opacity: 0;
+            }   
+            }
+            @-webkit-keyframes rotate-in-center {
+            0% {
+                -webkit-transform: rotate(-360deg);
+                        transform: rotate(-360deg);
+                opacity: 0;
+            }
+            100% {
+                -webkit-transform: rotate(0);
+                        transform: rotate(0);
+                opacity: 1;
+            }
+            }
+            @keyframes rotate-in-center {
+            0% {
+                -webkit-transform: rotate(-360deg);
+                        transform: rotate(-360deg);
+                opacity: 0;
+            }
+            100% {
+                -webkit-transform: rotate(0);
+                        transform: rotate(0);
+                opacity: 1;
+            }
+            }
+            @-webkit-keyframes done-again {
+            0% {
+                -webkit-transform: translateY(0px);
+                        transform: translateY(0px);
+                opacity: 1;
+            }
+            50% {
+                -webkit-transform: translateY(50px);
+                        transform: translateY(50px);
+                opacity: 0;
+            }
+            100% {
+                -webkit-transform: translateY(0px);
+                        transform: translateY(0px);
+                opacity: 1;
+            }
+            }
+            @keyframes done-again {
+            0% {
+                -webkit-transform: translateY(0px);
+                        transform: translateY(0px);
+                opacity: 1;
+            }
+            50% {
+                -webkit-transform: translateY(50px);
+                        transform: translateY(50px);
+                opacity: 0;
+            }
+            100% {
+                -webkit-transform: translateY(0px);
+                        transform: translateY(0px);
+                opacity: 1;
+            }
+            }
+            @media screen and (max-width: 639px) {
+                .tt-calc__heading {
+                    font-size: 34px;
+                }
+                .tt-calc-form {
+                    flex-direction: column;
+                    gap: 16px;
+                }
+                .tt-field__date-input {
+                    min-width: auto;
+                }
+                .tt-calc {
+                  margin: 40px auto;
+                }
+            }
+        </style>
+        <style>
+            .flatpickr-calendar {
+                font-family: 'Tutu sans', sans-serif;
+            }
+            .flatpickr-current-month {
+                display: flex;
+                justify-content: space-between;
+                align-items: baseline;
+            }
+            .flatpickr-day.selected, .flatpickr-day.startRange, .flatpickr-day.endRange, .flatpickr-day.selected.inRange, .flatpickr-day.startRange.inRange, .flatpickr-day.endRange.inRange, .flatpickr-day.selected:focus, .flatpickr-day.startRange:focus, .flatpickr-day.endRange:focus, .flatpickr-day.selected:hover, .flatpickr-day.startRange:hover, .flatpickr-day.endRange:hover, .flatpickr-day.selected.prevMonthDay, .flatpickr-day.startRange.prevMonthDay, .flatpickr-day.endRange.prevMonthDay, .flatpickr-day.selected.nextMonthDay, .flatpickr-day.startRange.nextMonthDay, .flatpickr-day.endRange.nextMonthDay {
+                background: #7d71ff;
+                border-color: #7d71ff;
+            }
+            .flatpickr-months .flatpickr-prev-month:hover svg, .flatpickr-months .flatpickr-next-month:hover svg {
+                fill: #7d71ff;
+            }
+            .flatpickr-months .flatpickr-month {
+                height: 40px;
+            }
+            .flatpickr-day {
+                border-radius: 12px;
+            }
+            .flatpickr-current-month .flatpickr-monthDropdown-months, .flatpickr-current-month input.cur-year  {
+                font-weight: 400;
+                appearance: menulist-text;
+                -webkit-appearance: menulist-textfield;
+                -moz-appearance: menulist-text;
+            }
+        </style>
+        <div class="tt-calc">
+            <div class="tt-calc__heading">
+                <div class="tt-calc-title">Когда начнётся продажа билетов <span class="tt-calc-result__accent">на&nbsp;поезд?</span></div>
+                <div class="tt-calc-result">Билеты появятся в&nbsp;продаже <span class="tt-calc-result__accent tt-calc-result__date"></span></div>
+            </div>
+            <form class="tt-calc-form">
+                <div class="tt-calc-form__fieldset">
+                    <div class="tt-field">
+                        <input type="date" class="tt-field__date-input" />
+                        <div class="tt-field__label"><div class="tt-field__label-name">Выберите дату отправления</div><div class="tt-field__error">Заполните поле</div></div>
+                        
+                    </div>
+                </div>
+                <button type="submit" class="tt-calc-form__button --tt-disabled">Узнать</button>
+            </form>
+        </div>
+        <script>
+            const dateInput = document.querySelector('.tt-field__date-input');
+            const dateLabel = document.querySelector('.tt-field__label');
+            const dateField = document.querySelector('.tt-field');
+            const dateError = document.querySelector('.tt-field__error');
+            const dateSubmit = document.querySelector('.tt-calc-form__button');
+            const dateForm = document.querySelector('.tt-calc-form');
+            const dateResult = document.querySelector('.tt-calc-result__date');
+            const dateFormWrap = document.querySelector('.tt-calc');
+
+            function checkOnChange () {
+                console.log(dateInput.value);
+                if (dateInput.value.length == 0) {
+                    dateSubmit.classList.add('--tt-disabled');
+                } else {
+                    const currentDate = new Date();
+                    const inputValueDate = new Date(dateInput.value);
+                    if (inputValueDate >= currentDate) {
+                        dateSubmit.classList.remove('--tt-disabled');
+                        dateField.classList.remove('--tt-error');
+                    } else {
+                        dateError.textContent = 'Введите дату в будущем';
+                        dateSubmit.classList.add('--tt-disabled');
+                        dateField.classList.add('--tt-error');
+                    }
+                }
+            }
+            function getFormattedDate(date) {
+                return date.toLocaleString('ru', {
+                    day: 'numeric',
+                    month: 'long',
+                });
+            }
+
+            flatpickr('.tt-field__date-input', {
+                "locale": "ru",
+                minDate: "today",
+                onChange: function(selectedDates, dateStr, instance) {
+                    dateField.classList.add('--tt-focus');
+                },
+                onValueUpdate: function(selectedDates, dateStr, instance) {
+                    dateField.classList.add('--tt-focus');
+                },
+            });
+            dateInput.addEventListener('change', checkOnChange);
+            dateInput.addEventListener('focusout', checkOnChange);
+            dateInput.addEventListener('focusin', function() {
+                dateField.classList.add('--tt-focus');
+                dateField.classList.remove('--tt-error');
+            });
+            dateForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                const userDate = new Date(dateInput.value);
+                const calcDate = new Date(userDate - (89*24*60*60*1000));
+                dateField.classList.remove('--tt-error');
+                if (dateFormWrap.classList.contains('--tt-done')) {
+                    dateFormWrap.classList.remove('--tt-done-again');
+                    setTimeout(function() {
+                        dateFormWrap.classList.add('--tt-done-again');
+                        setTimeout(function() {
+                            dateResult.innerHTML = getFormattedDate(calcDate); 
+                        }, 500);
+                    }, 300);
+                } else {
+                    dateResult.innerHTML = getFormattedDate(calcDate);
+                    dateFormWrap.classList.add('--tt-done');
+                }
+            });
+        </script></div></div></section><section class="t-section t-section_last"><div class="t-dark-wrap"><div class="w-layout-blockcontainer t-container w-container"><div data-wf--block-heading--variant="no-line" class="t-heading w-variant-300ba99c-6f01-973b-e102-bc16f9859ed9"><h2 class="t-heading__text w-variant-300ba99c-6f01-973b-e102-bc16f9859ed9">Закажите уведомление, чтобы не пропустить начало продаж</h2></div></div><div class="t-steps"><div class="w-layout-blockcontainer t-container w-container"><div class="t-steps__list"><div class="w-layout-vflex t-card-ver"><div class="t-card-ver__content"><div class="t-card-ver__title">Выберите маршрут <br/>и дату отправления</div></div><picture class="t-card-ver__img"><img loading="lazy" src="https://cdn4.tu-tu.ru/static/webflow/traincalc-mob-1.67a32bb271db6c46fb4006d3e621d4d4c39ced63.png"/></picture></div><div class="w-layout-vflex t-card-ver"><div class="t-card-ver__content"><div class="t-card-ver__title">Закажите уведомление  для нужного поезда</div></div><picture class="t-card-ver__img"><img loading="lazy" src="https://cdn4.tu-tu.ru/static/webflow/traincalc-mob-2.a76d2dc12c22a17848549368d281c4054ab44956.png"/></picture></div><div class="w-layout-vflex t-card-ver"><div class="t-card-ver__content"><div class="t-card-ver__title">Укажите предпочтения, оставьте почту  и нажмите «Подписаться»</div></div><picture class="t-card-ver__img"><img loading="lazy" src="https://cdn4.tu-tu.ru/static/webflow/traincalc-mob-3.be9fdfe4c97644a3340438736d7c31e43b71d152.png"/></picture></div><div class="w-layout-vflex t-card-ver"><div class="t-card-ver__content"><div class="t-card-ver__title">Готово, мы пришлём письмо, когда начнутся продажи билетов!</div></div><picture class="t-card-ver__img"><img loading="lazy" src="https://cdn4.tu-tu.ru/static/webflow/traincalc-mob-4.3930c5a1223e0ca4cdd349191877516c95eda31c.png"/></picture></div></div></div></div><div class="w-layout-blockcontainer t-container w-container"><div class="t-buttons-list"><a data-wf--button--variant="base" href="https://www.tutu.ru/poezda/" target="_blank" class="t-button w-inline-block"><div class="t-button__text">Найти билет</div></a></div></div></div></section><section class="t-footer"><div class="t-footer__wrap"><div class="w-layout-blockcontainer t-container t-container_header-footer w-container"><div class="t-footer__logo-wrapper"><img src="https://cdn4.tu-tu.ru/static/webflow/tutu-logo-dark-n-berry.8598c2f9851a72ef7705c3494418d924d33621d0.svg" alt="Туту"/></div><div class="w-layout-grid t-footer__content"><div id="w-node-ec339f58-d933-582d-25a4-4b84550857bc-550857b6" class="t-footer__menu-holder"><ul role="list" class="t-footer__menu w-list-unstyled"><li class="t-footer__menu-header">Сервисы</li><li class="t-footer__menu-item"><a href="https://avia.tutu.ru/" class="t-footer__menu-link">Авиабилеты</a></li><li class="t-footer__menu-item"><a href="https://www.tutu.ru/poezda/" class="t-footer__menu-link">Ж/д билеты</a></li><li class="t-footer__menu-item"><a href="https://bus.tutu.ru/" class="t-footer__menu-link">Автобусы</a></li><li class="t-footer__menu-item"><a href="https://hotel.tutu.ru/" class="t-footer__menu-link">Отели</a></li><li class="t-footer__menu-item"><a href="https://www.tutu.ru/prigorod/" class="t-footer__menu-link">Электрички</a></li><li class="t-footer__menu-item"><a href="https://tours.tutu.ru/" class="t-footer__menu-link">Туры</a></li></ul><ul role="list" class="t-footer__menu w-list-unstyled"><li class="t-footer__menu-header">Компания</li><li class="t-footer__menu-item"><a href="/company" class="t-footer__menu-link">О нас</a></li><li class="t-footer__menu-item"><a href="/hr" class="t-footer__menu-link">Вакансии</a></li><li class="t-footer__menu-item"><a href="/customer-support" class="t-footer__menu-link">Вакансии контакт-центра</a></li><li class="t-footer__menu-item"><a href="/adv" class="t-footer__menu-link">Реклама на Туту</a></li><li class="t-footer__menu-item"><a href="/partners" class="t-footer__menu-link">Стать партнёром</a></li><li class="t-footer__menu-item"><a href="https://c.tutu.ru/company#company-contacts" class="t-footer__menu-link">Контакты</a></li></ul><ul role="list" class="t-footer__menu w-list-unstyled"><li class="t-footer__menu-header">Путешественникам</li><li class="t-footer__menu-item"><a href="https://www.tutu.ru/user/profile/" target="_blank" class="t-footer__menu-link">Личный кабинет</a></li><li class="t-footer__menu-item"><a href="https://www.tutu.ru/2read/" class="t-footer__menu-link">Справочная</a></li><li class="t-footer__menu-item"><a href="https://www.tutu.ru/geo/" class="t-footer__menu-link">Путеводитель</a></li><li class="t-footer__menu-item"><a href="/certificates" class="t-footer__menu-link">Подарочные сертификаты</a></li></ul></div><div id="w-node-ec339f58-d933-582d-25a4-4b84550857f9-550857b6" class="w-layout-vflex t-footer__other"><div class="w-layout-hflex t-footer__apps"><a id="w-node-ec339f58-d933-582d-25a4-4b84550857fd-550857b6" href="https://play.google.com/store/apps/details?id=ru.tutu.tutu_emp" target="_blank" class="t-app-btn w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/dark-googleplay.97da7c55e7a3afc32d3825ae27fe4713af654fc6.svg" alt="Приложение Туту в Google Play"/></a><a id="w-node-ec339f58-d933-582d-25a4-4b84550857fb-550857b6" href="https://apps.apple.com/ru/app/%D0%B6%D0%B4-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B-%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B/id1296791829" target="_blank" class="t-app-btn w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/dark-appstore.d78e150f9911fe421ad7a29b4d315761a3b995de.svg" alt="Приложение Туту в AppStore"/></a><a id="w-node-ec339f58-d933-582d-25a4-4b84550857ff-550857b6" href="https://appgallery.huawei.com/app/C100925545" target="_blank" class="t-app-btn w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/dark-appgallery.231c5cf8476ab43e624a0c50601f93d9d9be2e0d.svg" alt="Приложение Туту в AppGallery"/></a><a id="w-node-ec339f58-d933-582d-25a4-4b8455085801-550857b6" href="https://apps.rustore.ru/app/ru.tutu.tutu_emp" target="_blank" class="t-app-btn w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/dark-rustore.b858bfe627f8ed977d166f95d12fd0bfa639f54c.svg" alt="Приложение Туту в RuStore"/></a></div><div class="w-layout-hflex t-footer__social"><a href="https://vk.com/tu_tu_ru" target="_blank" class="t-social-item is-footer w-inline-block"><div class="t-social-item__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 40 40">
+  <path fill="currentColor" d="M20.9 26.6C14 26.6 10.2 21.9 10 14h3.4c.1 5.8 2.7 8.2 4.7 8.7V14h3.2v5c2-.2 4-2.5 4.7-5h3.3c-.6 3-2.8 5.3-4.4 6.3a10 10 0 0 1 5.1 6.3h-3.5a6.2 6.2 0 0 0-5.2-4.5v4.5h-.4Z"/>
+</svg></div></a><a href="https://ok.ru/tuturu" target="_blank" class="t-social-item is-footer w-inline-block"><div class="t-social-item__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 40 40">
+  <path fill="currentColor" d="M21.3 24.5A9.4 9.4 0 0 0 25 23c.6-.5.7-1.3.2-2-.5-.6-1.5-.7-2.1-.2 0 0-1.5 1-3.8 1a7 7 0 0 1-3.8-1c-.7-.5-1.6-.4-2.2.2-.5.7-.4 1.5.3 2 0 0 1.4 1 3.7 1.5l-3.2 3.1c-.6.6-.5 1.5 0 2 .4.3.7.4 1.1.4.4 0 .8-.1 1.1-.4l3-3 3.2 3c.6.5 1.6.5 2.2 0 .6-.6.6-1.5 0-2l-3.4-3.1Z"/>
+  <path fill="currentColor" d="M19.4 10c-3.1 0-5.6 2.3-5.6 5.2 0 2.8 2.5 5.2 5.6 5.2 3 0 5.5-2.4 5.5-5.2 0-2.9-2.5-5.2-5.5-5.2Zm0 7.3c-1.3 0-2.4-1-2.4-2.1 0-1.2 1-2.2 2.4-2.2 1.2 0 2.3 1 2.3 2.2 0 1.2-1 2.1-2.3 2.1Z"/>
+</svg></div></a><a href="https://t.me/tutu_travel" target="_blank" class="t-social-item is-footer w-inline-block"><div class="t-social-item__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 40 40">
+  <path fill="currentColor" fill-rule="evenodd" d="M10.3 19.3 21 14.6c5.2-2.2 6.2-2.6 7-2.6 0 0 .4 0 .6.2l.3.5v.8A227 227 0 0 1 27 27c-.3 1.4-.8 1.9-1.3 2-1 0-2-.8-3-1.5l-4-2.8c-1.9-1.2-.7-2 .3-3 .3-.3 5-4.7 5.1-5v-.4c-.2-.1-.3 0-.4 0a91 91 0 0 0-7.8 5.2c-.7.5-1.4.8-2 .8-.7 0-2-.4-2.9-.7-1.1-.4-2-.6-2-1.3 0-.3.5-.7 1.4-1Z" clip-rule="evenodd"/>
+</svg></div></a><a href="https://www.youtube.com/@tutu_ru" target="_blank" class="t-social-item is-footer w-inline-block"><div class="t-social-item__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 40 40">
+  <path fill="currentColor" fill-rule="evenodd" d="M15 13.2c3.3-.3 6.6-.3 9.9 0l2.2.2c1.2 0 2.2 1 2.4 2.2.6 3 .6 6 0 9.1a2.7 2.7 0 0 1-2.4 2.2l-2.2.2c-3.3.2-6.6.2-10 0l-2.1-.2c-1.3 0-2.3-1-2.5-2.2-.5-3-.5-6.1 0-9.1a2.7 2.7 0 0 1 2.5-2.2l2.2-.2Zm3 9.4v-4.9c0-.2.2-.3.4-.2l4 2.4c.3.1.3.4 0 .5l-4 2.4c-.2.1-.4 0-.4-.2Z" clip-rule="evenodd"/>
+</svg></div></a></div><div class="w-layout-vflex t-footer__info"><a href="https://www.tutu.ru/2read/legal_information/legal_personal/" target="_blank" class="t-footer__policy">Политика обработки персональных данных</a><div class="t-footer__text">При использовании материалов ссылка на сайт Туту обязательна</div></div></div></div></div></div></section><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=64edb1a184b086360fc066ca" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/js/tutu-test.schunk.36b8fb49256177c8.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/js/tutu-test.schunk.ae693a5d397372c2.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/js/tutu-test.53ea61d5.ee9be4cace572d76.js" type="text/javascript"></script></body></html>

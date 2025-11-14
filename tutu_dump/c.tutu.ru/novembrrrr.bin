@@ -1,0 +1,948 @@
+<!DOCTYPE html><!-- Last Published: Thu Nov 13 2025 08:52:09 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="c.tutu.ru" data-wf-page="69022482c26c63453b1d8874" data-wf-site="64edb1a184b086360fc066ca" lang="ru"><head><meta charset="utf-8"/><title>Ноябр-р-р-рский адвент</title><meta content="Рассказываем, как тепло провести ноябрь. Заходите и открывайте новое окошко каждый день. Внутри — приятные дела, идеи для путешествий и промокоды на Туту." name="description"/><meta content="Ноябр-р-р-рский адвент" property="og:title"/><meta content="Рассказываем, как тепло провести ноябрь. Заходите и открывайте новое окошко каждый день. Внутри — приятные дела, идеи для путешествий и промокоды на Туту." property="og:description"/><meta content="https://cdn4.tu-tu.ru/static/webflow/nova/novembrrrr-share.2970948b1e858839c82bd078fffb4acc1fb94d90.jpg" property="og:image"/><meta content="Ноябр-р-р-рский адвент" property="twitter:title"/><meta content="Рассказываем, как тепло провести ноябрь. Заходите и открывайте новое окошко каждый день. Внутри — приятные дела, идеи для путешествий и промокоды на Туту." property="twitter:description"/><meta content="https://cdn4.tu-tu.ru/static/webflow/nova/novembrrrr-share.2970948b1e858839c82bd078fffb4acc1fb94d90.jpg" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/css/tutu-test.shared.8f0b7ad34.min.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/67ff77049a868bec96c4be11_favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/680a268866355c8737aa4720_favicon256.png" rel="apple-touch-icon"/><style>
+  html, body {
+    -webkit-font-smoothing: antialiased;
+  }
+  .t-btn:before {
+    content: '';
+    position: absolute;
+    left: -110%;
+    top: -100%;
+    bottom: -100%;
+    margin: auto;
+    height: 200%;
+    width: 110%;
+    border-radius: 0 500px 500px 0;
+    background-color: #5F53D4;
+    transition: transform ease .4s;
+  }
+  .t-btn_stroke:before {
+  	background: rgba(255, 255, 255, 0.20);
+  }
+  .t-btn:hover:before {
+    transform: translateX(100%);
+  }
+
+  .t-hide-btn-up .t-btn-up {
+  	display: none;
+  }
+  
+
+</style>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PFRF35');</script>
+<!-- End Google Tag Manager -->
+<style>
+.t-body.is-scroll-blocked {
+    max-height: 100svh;
+    overflow: hidden;
+}
+ .day-open {
+ 	position: fixed;
+  z-index: 100;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  background-color: rgba(13, 11, 104, 0.7);
+  opacity: 0;
+  overflow: auto;
+  -webkit-animation: fade-in 1s 0.2s both;
+	        animation: fade-in 1s 0.2s both;
+ }
+ 
+ .day-open > .t-container {
+ 	margin: auto;
+ }
+ .day-open.is-closing {
+  -webkit-animation: fade-out 0.6s 0.2s both;
+	        animation: fade-out 0.6s 0.2s both;
+ }
+ .day-open__wrapper {
+ 	position: relative;
+ }
+ .day-open__close {
+ 	position: absolute;
+ 	right: 40px;
+  top: 40px;
+ 	background: none;
+  border: none;
+  padding: 0;
+ }
+ .day-open__window {
+  padding: 80px 32px;
+ 	background-color: #fff;
+  border-radius: 40px;
+ }
+ .day-open__top-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ .day-open__title {
+ 	max-width: 580px;
+ 	margin-bottom: 16px;
+  font-size: clamp(34px, 3.5vw, 52px);
+  line-height: 100%;
+  text-align: center;
+  grid-area: title;
+ }
+ .day-open__desc {
+ 	max-width: 50%;
+  min-width: 270px;
+ 	margin-bottom: 32px;
+  font-size: clamp(16px, 1.39vw, 20px);
+  line-height: 110%;
+  text-align: center;
+  grid-area: desc;
+ }
+ .day-open__img-wrap {
+ position: relative;
+ 	width: 482px;
+  max-width: 100%;
+  margin-bottom: 32px;
+   grid-area: img;
+   cursor: pointer;
+ }
+.day-open__img {
+    border-radius: 24px;
+}
+ .day-open__codeterms {
+     max-width: 580px;
+    margin-top: 32px;
+    font-size: clamp(16px, 1.39vw, 20px);
+    color: #7D82A0;
+    grid-area: terms;
+    text-align: center;
+   line-height: 110%;
+ }
+ .day-open__code {
+ position: relative;
+ 	display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+   min-width: 248px;
+  padding: 22px 32px;
+  font-size: 18px;
+  border-radius: 16px;
+  background-color: var(--light-blue);
+  cursor: pointer;
+  overflow: hidden;
+ }
+ .day-open__code:hover {
+  background-color: var(--purple-30);
+ }
+ .day-open__code-copied {
+ 	position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   
+ 	display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+  background-color: var(--light-blue);
+ 	transform: translateY(100%);
+  transition: transform ease .3s;
+ }
+ .is-copied .day-open__code-copied {
+ 	transform: translateY(0);
+ }
+ 
+.day-open__buttons {
+    display: flex;
+    gap: 24px;
+  grid-area: buttons;
+}
+.day-open__save {
+    position: absolute;
+    bottom: 16px;
+    right: 16px;
+    display: flex;
+    padding-left: 12px;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 8px;
+    width: 245px;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--deep-blue);
+    line-height: 110%;
+    text-align: right;
+    background-color: rgba(255,255,255,0.63);
+    border-radius: 40px;
+}
+.day-open__save.is-dark-color {
+	color: var(--deep-blue)
+}
+.day-open__save svg {
+    flex-shrink: 0;
+}
+.day-open__save svg rect {
+    fill: rgba(255,255,255, 0.8);
+}
+.day-open__hotels {
+    display: flex;
+    gap: 16px;
+}
+.day-open__hotel {
+    text-decoration: none;
+}
+.day-open__hotel-img {
+    margin-bottom: 16px;
+    width: 100%;
+    height: 60%;
+    border-radius: 24px;
+    object-fit: cover;
+}
+.day-open__hotel-name {
+    margin-bottom: 24px;
+    font-size: 24px;
+    font-size: clamp(18px, 1.6vw, 24px);
+    line-height: 115%;
+}
+@media screen and (min-width: 768px) {
+  .day-open__window.is-hor {
+      padding: 40px 32px;
+  }
+  .is-hor .day-open__top-info {
+      display: grid;
+      grid-template-areas:
+          'img title'
+          'img desc'
+          'img buttons'
+          'img terms'
+          'img --';
+      gap: 0 16px;
+    	grid-template-columns: 300px 1fr;
+  }
+   .is-hor .day-open__title, .is-hor .day-open__desc,  .day-open__codeterms {
+    text-align: left;
+     max-width: 80%;
+   }
+   .day-open__hotels +  .day-open__codeterms {
+    display: none;
+   }
+   /*.is-hor .day-open__save {
+      right: auto;
+      left: calc(100% + 16px);
+      color: inherit;
+      flex-direction: row-reverse;
+      text-align: left;
+  }
+  .day-open__save svg rect {
+      fill: #EDEFFF;
+  }*/
+  .is-hor .day-open__img-wrap {
+    width: 300px;
+	}
+}
+ @media screen and (max-width: 991px) {
+   .day-open {
+     background-color: transparent;
+   }
+}
+ @media screen and (max-width: 767px) {
+ 
+   .is-hor .day-open__codeterms {
+   display: none;
+   }
+   .day-open__hotels +  .day-open__codeterms {
+    display: block;
+   }
+ 	.day-open__close {
+    right: 20px;
+    top: 20px;
+   }
+   .day-open__img-wrap {
+    margin-bottom: 16px;
+    order: 2;
+   }
+   .day-open__window {
+     padding: 20px 24px;
+     align-items: flex-start;
+    justify-content: flex-start;
+  }
+   .day-open__title {
+     max-width: 90%;
+     font-size: 34px;
+     text-align: left;
+     order: 1;
+   }
+   .day-open__codeterms {
+     text-align: left;
+    order: 5;
+   }
+   .day-open__desc {
+    text-align: left;
+    order: 3;
+   }
+   .day-open__buttons {
+    order: 4;
+	}
+  .day-open__hotels {
+    overflow: auto;
+    margin: 0 -24px;
+    padding: 0 24px;
+	}
+  .day-open__hotel {
+    min-width: 250px;
+	}
+  .day-open__top-info {
+    align-items: flex-start;
+    margin-bottom: 40px;
+	}
+  .day-open__desc {
+    max-width: 100%;
+   }
+ }
+ @media screen and (max-width: 520px) {
+   .day-open__buttons {
+    width: 100%;
+    flex-direction: column;
+    gap: 8px;
+	}
+  
+   .day-open__code {
+    padding: 14px 32px 16px;
+   }
+ }
+ @media screen and (max-width: 339px) {
+   .day-open__save {
+      bottom: 8px;
+      right: 8px;
+    }
+}
+ @-webkit-keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+ @-webkit-keyframes fade-out {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+@keyframes fade-out {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+</style></head><body class="t-body"><div class="t-google-tag w-embed w-iframe"><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PFRF35"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --></div><div class="tutu-custom-static w-embed"><style>
+@font-face {
+    font-family: 'Cooper_local';
+    src: url('https://cdn4.tu-tu.ru/static/webflow/cooper_light.ce8115cec7a10de6baaaae7012a63165fe852ce7.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Cooper_local';
+    src: url('https://cdn4.tu-tu.ru/static/webflow/cooper_light-italic.150a8e9f6e0057f268e2be1806434009cb7fdb74.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Tutu-sans_local';
+    src: url('https://cdn4.tu-tu.ru/static/webflow/tutu_sans_regular.861d15625c80f4282a2abc72232d9236ffb5918b.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Tutu-sans_local';
+    src: url('https://cdn4.tu-tu.ru/static/webflow/tutu_sans_medium.d65f368255a9d1b448bc3803c7d90224f3c53786.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Tutu-sans_local';
+    src: url('https://cdn4.tu-tu.ru/static/webflow/tutu_sans_demibold.d5b630e54247e68c49d133d7ca07fbdea2b62417.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+* {
+	font-family: inherit !important;
+}
+.t-body, .t-basic-font {
+	font-family: 'Tutu-sans_local', sans-serif !important;
+  /*letter-spacing: -0.03rem;*/
+}
+.t-accent-font {
+	font-family: 'Cooper_local', serif !important;
+}
+
+
+.t-cta-wide_tours {
+	background: center / cover no-repeat url('https://cdn4.tu-tu.ru/static/webflow/tours-cta-bg-dark-2x.73db32aecb9f29d5ff5749552987e8fe4e2d6dfd.jpg'); 
+}
+
+.t-button {
+    background-image: url('https://cdn4.tu-tu.ru/static/webflow/hover-bg-dark.281163a0ac0812b035641285d02a0d46183e6559.svg');
+}
+.t-button.t-button_compact, 
+[data-wf--button--variant="light"], 
+[data-wf--button--variant="stroke-dark"], 
+[data-wf--button--variant="stroke-light"]
+[data-wf--button--variant="compact-light"], 
+[data-wf--button--variant="compact-stroke-dark"],
+[data-wf--button--variant="compact-stroke-light"]
+{
+    background-image: url('https://cdn4.tu-tu.ru/static/webflow/hover-bg-darkest.2a52aed3278e8c937f8b64b79e3141c28986fd39.svg');
+}
+[data-wf--button--variant="orange"]
+{
+    background-image: none;
+}
+@media screen and (max-width: 991px) {
+  .t-header_white .t-button.t-button_compact.t-button__compact-light, [data-wf--header--variant="on-dark"] .t-button {
+      border-color: var(--deep-blue);
+      color: var(--deep-blue);
+  }
+}
+.wf-active .t-header__logo-img + .t-header__logo-svg {
+	display: none;
+}
+.t-header__logo-svg svg {
+    max-width: 100%;
+}
+.t-header__btn-wrap {
+    flex-basis: 120px;
+    white-space: nowrap;
+}
+.t-text-center {
+	text-align: center;
+}
+  .t-color-accent {
+  	color: var(--purple);
+  }
+.t-max-w-900 {
+	max-width: 900px;
+}
+.t-max-w-800 {
+	max-width: 800px;
+}
+.t-max-w-700 {
+	max-width: 700px;
+}
+.t-max-w-450 {
+	max-width: 450px;
+}
+.t-max-w-250 {
+	max-width: 250px;
+}
+.t-color-light {
+	color: var(--light-blue);
+}
+.t-mb-xl {
+	margin-bottom: var(--xl-space)
+}
+.t-mb-l {
+	margin-bottom: var(--l-space)
+}
+.t-mb-xs {
+	margin-bottom: var(--xs-space)
+}
+.t-mt-0 {
+	margin-top: 0;
+}
+@media (min-width: 769px) {
+  .t-hide-desktop {
+  	display: none;
+  }
+}
+@media (max-width: 768px) {
+  .t-mb-xl {
+    margin-bottom: var(--m-space)
+  }
+  .t-mb-l {
+    margin-bottom: var(--s-space)
+  }
+  .t-hide-mobile {
+  	display: none;
+  }
+}
+
+  .t-form_success .t-form__success-text {
+    display: block;
+	}
+  .t-form_success .t-form__form {
+  	display: none;
+  }
+  .--t-error .t-field__error {
+    display: block;
+	}
+  
+  .t-ptt-links_m .t-ptt-links__app-icon, .t-ptt-links_m .t-ptt-links__qr {
+  	width: 68px;
+    height: 68px;
+  }
+  
+  .t-switch__help {
+    transition: background-color ease .35s;
+  }
+  .t-switch__help:before {
+  	content:'';
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    display: block;
+    width: 18px;
+    height: 18px;
+    background-color: #fff;
+    border: 1px solid var(--purple);
+    border-radius: 20px;
+    transform: translateX(-20px);
+    transition: transform ease .35s;
+  }
+  .t-switch__input:checked + .t-switch__help:before {
+    transform: translateX(0px);
+  }
+  .t-switch__input:checked + .t-switch__help {
+    background-color: var(--purple);
+  }
+  .t-switch__input:checked + .t-switch__help:hover {
+    background-color: #473db0;
+  }
+  .t-overflow-hidden {
+  	overflow: hidden;
+  }
+  
+  
+  [data-slider] {
+    display: flex;
+  }
+
+  [data-slider] > * {
+    flex-shrink: 0;
+    user-select: none;
+  }
+</style></div><div class="w-embed"><style>
+.nova-days__item.is-opened .nova-days__open {
+	opacity: 1;
+}
+.nova-days__item.is-opened .nova-days__closed {
+	opacity: 0;
+}
+.nova-hero-section {
+	background-image: url(https://cdn4.tu-tu.ru/static/webflow/nova/nova-hero-decor-1.6b0b5fe77da8acc4d199d136cca596ffb40e7f8f.png),
+  									url(https://cdn4.tu-tu.ru/static/webflow/nova/nova-hero-decor-2.4fdc1579732b56dd6a830c8cc4c776ac555f3d41.png);
+  background-repeat: no-repeat;
+  background-size: 33% auto;
+  background-position: 0 0, 100% 0;
+}
+.rk5000__ptt-title {
+	font-weight: 400;
+}
+.rk5000-ptt {
+	background-color: #6C95F9;
+  background-image: url(https://cdn4.tu-tu.ru/static/webflow/nova/inei-top.4c7aaf6c5d33823215ee62ce1188ca0f7a24be13.png),
+ 										url(https://cdn4.tu-tu.ru/static/webflow/nova/inei-bottom.d59750f9aa7b9dbd15276c7319b942e25725b074.png);
+  background-repeat: no-repeat;
+  background-size: 16% auto;
+  background-position: 0 0, 100% 100%;
+  
+}
+.t-form__form .t-block-desc {
+	margin-bottom: 24px;
+}
+.t-form__field-list + .t-form__field-list {
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+.t-form__form_left {
+	margin-left: 0;
+}
+.rk5000__ptt-desc {
+	width: 100%;
+	max-width: 400px;
+  font-weight: 400;
+}
+.t-form__success-text {
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  align-items: flex-start;
+	color: var(--dark-blue);
+  text-align: left;
+	height: 400px;
+  max-width: 470px;
+}
+.t-form_success .t-form__success-text {
+    display: flex; 
+}
+@media screen and (min-width: 992px) {
+  .t-form__form .t-heading__text {
+    font-size: 52px;
+  }
+  .t-block-desc__text, .rk5000__ptt-desc, .t-form__success-text {
+    font-size: clamp(16px, 1.39vw, 20px);
+  }
+}
+@media screen and (max-width: 991px) {
+	
+  .nova-hero-section {
+    background-image: url(https://cdn4.tu-tu.ru/static/webflow/nova/nova-hero-decor-2.4fdc1579732b56dd6a830c8cc4c776ac555f3d41.png);
+    background-size: 33% auto;
+    background-position: 100% 0;
+    margin-top: 0px;
+  }
+  .nova-hero {
+    padding-top: 64px;
+    padding-bottom: 24px;
+    align-items: flex-start;
+	}
+  .nova-hero__desc {
+    text-align: left;
+    width: 100%;
+    min-width: auto;
+    max-width: 510px;
+    font-size: 18px;
+	}
+  .t-header__trigger {
+    background-color: #fff;
+    border-radius: 12px;
+  }
+}
+@media screen and (max-width: 767px) {
+	.nova-days__item {
+    width: 20%;
+  }
+  .nova-hero-section {
+    background-size: 44% auto;
+  }
+  .rk5000__ptt-desc {
+    font-size: 18px;
+  }
+}
+</style></div><header id="header" data-wf--header-multicms--variant="base" class="t-header"><div class="t-header__float"><div class="w-layout-blockcontainer t-container t-container_header-footer w-container"><div class="t-header__inner"><a href="https://www.tutu.ru/" target="_blank" class="t-header__logo-link w-inline-block"><div class="t-header__logo-svg w-embed"><svg style="display: block;" xmlns="http://www.w3.org/2000/svg" width="152" height="41" viewBox="0 0 152 41" >
+<path d="M36.6669 21.1138H24.7285C24.2415 21.1138 23.9162 21.3147 23.9162 21.8378V24.0495C23.9162 25.8992 22.8197 26.9454 21.0335 26.9454C19.2472 26.9454 18.1096 25.9002 18.1096 24.0495V18.1781C18.1096 17.8559 18.3536 17.6152 18.7593 17.6152H33.5804C34.1086 17.6152 34.3927 17.4143 34.3927 16.8912V7.80172C34.3927 7.27865 34.1086 7.07775 33.5804 7.07775H18.7593C18.3536 7.07775 18.1096 6.91666 18.1096 6.51486V0.763792C18.1096 0.200903 17.8254 0 17.2973 0H5.4009C4.9139 0 4.58862 0.200903 4.58862 0.723974V6.51486C4.58862 6.91666 4.34466 7.07775 3.93898 7.07775H0.812283C0.325278 7.07775 0 7.27865 0 7.80172V16.8912C0 17.4143 0.325278 17.6152 0.812283 17.6152H3.93898C4.34466 17.6152 4.58862 17.7763 4.58862 18.1781V24.0495C4.58862 33.2992 11.5319 40.0964 21.0344 40.0964C30.5369 40.0964 37.4801 33.2992 37.4801 24.0495V21.8776C37.4801 21.3147 37.196 21.1138 36.6678 21.1138H36.6669Z" fill="currentColor"/>
+<path d="M71.7909 7.07886H59.8936C59.4066 7.07886 59.0813 7.27976 59.0813 7.80283V24.0506C59.0813 25.8198 57.9446 26.9465 56.1574 26.9465C54.3702 26.9465 53.2336 25.8207 53.2336 24.0506V7.84265C53.2336 7.27976 52.9494 7.07886 52.4213 7.07886H40.524C40.0369 7.07886 39.7117 7.27976 39.7117 7.80283V24.0506C39.7117 33.3003 46.6549 40.0975 56.1574 40.0975C65.6599 40.0975 72.6032 33.3003 72.6032 24.0506V7.84265C72.6032 7.27976 72.319 7.07886 71.7909 7.07886Z" fill="currentColor"/>
+<path d="M151.176 6.99512H138.995C138.385 6.99512 138.142 7.1562 137.98 7.71909L133.067 24.2085C132.498 26.0582 130.996 26.9433 129.331 26.9433C127.829 26.9433 126.529 25.9777 127.098 24.0881L132.011 7.9209C132.213 7.27747 131.929 6.99602 131.28 6.99602H118.854C118.326 6.99602 118.002 7.19692 117.839 7.71999L113.494 22.5605C110.205 33.7414 117.88 40.0952 127.3 40.0952C137.777 40.0952 144.03 34.9876 147.116 24.4501L151.948 7.9209C152.11 7.35801 151.907 6.99602 151.176 6.99602V6.99512Z" fill="#7D71FF"/>
+<path d="M111.377 7.07774H96.9619C96.4749 7.07774 96.272 6.87684 96.4337 6.3945L98.22 0.64343C98.3416 0.281443 98.2602 0 97.8144 0H85.7142C85.1047 0 84.8617 0.120359 84.699 0.683249L82.7903 6.51485C82.6277 6.95738 82.465 7.07774 81.978 7.07774H78.6887C78.1204 7.07774 77.8362 7.23883 77.6736 7.76099L75.075 16.569C74.8722 17.293 74.9535 17.6143 75.6433 17.6143H78.8102C79.257 17.6143 79.4197 17.8559 79.3383 18.2577L78.4045 21.9979C75.4405 33.862 82.6277 40.0955 91.5198 40.0955C100.412 40.0955 107.519 35.1082 110.117 26.1798L111.295 22.1581C111.498 21.5147 111.335 21.2332 110.605 21.2332H98.951C98.4229 21.2332 97.9761 21.3943 97.8144 21.9572L97.1245 24.1689C96.5151 26.1798 95.054 27.0241 93.4697 27.0241C91.8853 27.0241 90.7898 26.1391 91.3581 24.1282L93.1042 18.1355C93.2257 17.7735 93.3884 17.6125 93.9567 17.6125H108.331C109.143 17.6125 109.428 17.4514 109.63 16.7274L112.148 7.9999C112.35 7.35647 112.148 7.07503 111.376 7.07503L111.377 7.07774Z" fill="#7D71FF"/>
+</svg></div></a><div class="t-header__trigger w-embed"><style>
+.t-header__trigger-icon {
+	position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+}
+.t-header__trigger_active {
+	background-color: #fff;
+}
+.t-header__trigger-cross, .t-header__trigger_active .t-header__trigger-burger {
+	opacity: 0;
+}
+.t-header__trigger_active .t-header__trigger-cross {
+	opacity: 1;
+}
+
+</style>
+
+<svg class="t-header__trigger-icon t-header__trigger-burger" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="currentColor">
+<path d="M4 7H24V9H4V7Z"/>
+<path d="M4 13H24V15H4V13Z" />
+<path d="M4 19H24V21H4V19Z" />
+</svg>
+<svg class="t-header__trigger-icon t-header__trigger-cross" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="var(--deep-blue)">
+<path d="M12.5859 14.0001L5.79297 7.20718L7.20718 5.79297L14.0001 12.5859L20.793 5.79297L22.2072 7.20718L15.4143 14.0001L22.2072 20.793L20.793 22.2072L14.0001 15.4143L7.20718 22.2072L5.79297 20.793L12.5859 14.0001Z" />
+</svg></div><div class="w-layout-hflex t-header__content"><div data-wf--header-menu--variant="base" class="t-header__menu-cms"><nav class="t-cms-menu t-cms-menu_base w-dyn-list"><div role="list" class="t-header__menu w-dyn-items"><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://avia.tutu.ru/" class="t-header__link">Авиабилеты</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://www.tutu.ru/poezda/" class="t-header__link">Ж/д билеты</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://bus.tutu.ru/" class="t-header__link">Автобусы</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://hotel.tutu.ru/" class="t-header__link">Отели</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://www.tutu.ru/prigorod/" class="t-header__link">Электрички</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://tours.tutu.ru/" class="t-header__link">Туры</a></div></div></nav><nav class="t-cms-menu t-cms-menu_hr w-dyn-list"><div role="list" class="t-header__menu w-dyn-items"><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://c.tutu.ru/company" class="t-header__link">О компании</a></div><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://c.tutu.ru/hr" class="t-header__link">Карьера в Туту</a></div></div></nav><nav class="t-cms-menu t-cms-menu_support w-dyn-list"><div role="list" class="t-header__menu w-dyn-items"><div role="listitem" class="t-header__menu-item w-dyn-item"><a href="https://c.tutu.ru/company" class="t-header__link">О компании</a></div></div></nav></div><div class="t-header__btn-wrap"><a data-wf--button--variant="compact-stroke-dark" href="https://id.tutu.ru/login" target="_blank" class="t-button w-variant-08184a5c-fed2-70b3-95b0-ed34dc3295cd w-inline-block"><div class="t-button__text">Войти</div></a></div></div></div><div class="html-embed-3 w-embed w-script"><script>
+const menuTrigger = document.querySelector('.t-header__trigger');
+const menu = document.querySelector('.t-header__content');
+menuTrigger.addEventListener('click', function(e) {
+	e.preventDefault();
+	menuTrigger.classList.toggle('t-header__trigger_active');
+	menu.classList.toggle('t-header__content_active');
+});
+</script></div></div></div></header><section class="t-section nova-hero-section"><div class="w-layout-blockcontainer t-container w-container"><div class="w-layout-vflex nova-hero"><picture class="nova-hero__title"><source srcset="https://cdn4.tu-tu.ru/static/webflow/nova/nova-hero-title-mob.d4fba8231124320354747a41a50e487f2f37ee41.png" media="(max-width: 767px)"/><img src="https://cdn4.tu-tu.ru/static/webflow/nova/nova-hero-title.d00948f5b9ae23889bb528712c29c5815a6e4470.png" alt="Ноябр-р-р-рский адвент"/></picture><div class="nova-hero__desc">Рассказываем, как тепло провести ноябрь. Заходите и открывайте новое окошко каждый день. Внутри — приятные дела, идеи для путешествий и промокоды на Туту.</div></div><div class="w-dyn-list"><div role="list" class="nova-days w-dyn-items"><div data-id="1-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034a9898c4ccb8ab304f18_IMG_7168.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034a9c86ac4c02d51356f8_IMG_7175.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="2-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034ac51fe526003ec0598a_IMG_7179.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034ac841b038d1bc420e98_IMG_7178.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="3-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/690613f65c55f38d5df785e9_IMG_7372.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/690613faa725a361790f366e_IMG_7373.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="4-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034afdda2b45718296216e_IMG_7184.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b00f9858c746522eea5_IMG_7183.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="5-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b1467d216c8c4c0a601_IMG_7185.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b192d7cf78e096b3613_IMG_7186.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="6-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b3023c9449b9dfe35de_IMG_7205.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b32d704a24b3316503c_IMG_7206.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="7-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b4398051d76e1d3bdb4_IMG_7210.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b4685a4f23c1e4dc277_IMG_7211.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="8-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b58e758009ee246f343_IMG_7218.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b5a96b64397eefefdc6_IMG_7217.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="9-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b788a96928d474431e4_IMG_7215.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b7bb1cd10af231a0d71_IMG_7214.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="10-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b8b4e70a4283f26f515_IMG_7219.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b8d5626ca68b20a6cf0_IMG_7220.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="11-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034b9e321a5c0fab84fa0f_IMG_7223.png" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034ba1daabbed5b75001b0_IMG_7224.png" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="12-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034bb041b038d1bc4255d8_IMG_7225.png" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034bb2d21e30992d23fe27_IMG_7226.png" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="13-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034bc8db745c3ab41fc7de_IMG_7227.png" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034bc9a30219b4cbec7044_IMG_7228.png" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="14-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034be0f53ff13630f39916_IMG_7231.png" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034be20189b9f0c1a637ec_IMG_7232.png" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="15-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69061480e495691972c93a22_IMG_7370.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/690614840725926bdcb57be9_IMG_7371.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="16-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034c08de7772098a5879c7_IMG_7247.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034c10e0db154fa228e5e8_IMG_7248.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="17-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034c700189b9f0c1a66375_IMG_7249.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034c72d12a0e07babcb0a3_IMG_7250.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="18-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034c8841b038d1bc4295d2_IMG_7251.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034c8b015944fcf995c28a_IMG_7252.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="19-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034d4b57f1d6d11d14a071_IMG_7253.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034d4e7919b9dd475a546f_IMG_7254.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="20-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034d5ccf64b2785b39fc2f_IMG_7255.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034d5f9f3425226926290d_IMG_7256.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="21-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034e25d54b26e69d8f3be0_IMG_7260.png" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034dff5e613d6059a13302_IMG_7257.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="22-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034e37296cb41fcf4f8bea_IMG_7258.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034e3a96c2b0c0b3502cac_IMG_7259.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="23-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034e5098cdce79b2201a8f_IMG_7268.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034e520433ae202953b635_IMG_7269.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="24-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034e64628bea4567530fac_IMG_7270.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034e670433ae202953bb7d_IMG_7271.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="25-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034e7ac1e0125033f09a85_IMG_7272.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69034e7c7a7ef1cf5bb44ada_IMG_7273.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="26-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69035189daabbed5b751b9a5_IMG_7283.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/69035197321a5c0fab86e606_IMG_7274.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="27-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/690351ac628bea4567541d07_IMG_7275.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/690351aee01881a7f1af73ee_IMG_7276.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="28-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/690351c0e5ab7e3ecb28c0e3_IMG_7277.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/690351c3d75612a16e3e2638_IMG_7278.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="29-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/690351def9a08f87d31c3f96_IMG_7279.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/690351e10f08013d7eec9634_IMG_7280.PNG" loading="lazy" alt="" class="nova-days__open"/></div><div data-id="30-noyabrya" role="listitem" class="nova-days__item w-dyn-item"><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/690351f5d12a0e07babe73dd_IMG_7281.PNG" loading="lazy" alt="" class="nova-days__closed"/><img src="https://cdn.prod.website-files.com/66a28caa406dc1eb6e9258c9/690351f8d2b83a8eba132ac6_IMG_7282.PNG" loading="lazy" alt="" class="nova-days__open"/></div></div></div></div></section><section id="adventForm" class="t-section"><div class="t-white-wrap"><div class="w-layout-blockcontainer t-container w-container"><picture class="nova-form-pic"><img src="https://cdn4.tu-tu.ru/static/webflow/nova/form-guy.6b170ebfe7d67a156f5523a09c0343318cd8dd7f.png" class="nova-form-pic__img"/></picture><div id="adventFormBlock" class="t-form__wrap w-form"><form id="wf-form-" name="wf-form-" data-name="" action="/" method="get" class="t-form__form t-form__form_hero t-form__form_left" data-wf-page-id="69022482c26c63453b1d8874" data-wf-element-id="682b54d1-3c51-36a1-f81a-c865bb1b95b9"><div data-wf--block-heading--variant="no-margin" class="t-heading w-variant-510aae3a-1dee-ead5-6392-4259c3eef46b"><h2 class="t-heading__text">Давайте дружить</h2></div><div class="t-block-desc"><div class="t-block-desc__text">Оставьте почту, чтобы мы иногда напоминали вам про календарь. А ещё будем держать вас в курсе новых акций и промокодов.</div></div><div class="w-layout-vflex t-form__field-list"><div id="emailWrap" class="t-field"><div class="t-field__label"><div class="t-field__label-name">Введите почту</div><div class="t-field__error">Введите другую почту</div></div><input class="t-field__input t-field__input-gray w-input" maxlength="256" name="email" data-name="email" placeholder="" type="email" id="email" required=""/></div></div><div class="w-layout-vflex t-form__field-list"><label id="agreementWrap" class="w-checkbox t-checkbox"><div class="w-checkbox-input w-checkbox-input--inputType-custom t-checkbox__box"></div><input type="checkbox" id="agreementCheckbox" name="agreementCheckbox" data-name="agreementCheckbox" required="" style="opacity:0;position:absolute;z-index:-1"/><span class="t-checkbox__text w-form-label" for="agreementCheckbox">Даю <a href="https://www.tutu.ru/2read/legal_information/private_data_consent/" target="_blank" class="t-checkbox__link">согласие</a> на обработку персональных данных</span><div class="t-checkbox__error">Требуется ваше согласие</div></label><label id="advWrap" class="w-checkbox t-checkbox"><div class="w-checkbox-input w-checkbox-input--inputType-custom t-checkbox__box"></div><input type="checkbox" id="advCheckbox" name="advCheckbox" data-name="advCheckbox" required="" style="opacity:0;position:absolute;z-index:-1"/><span class="t-checkbox__text w-form-label" for="advCheckbox">Даю <a href="https://www.tutu.ru/2read/legal_information/newsletter_agreement/" target="_blank" class="t-checkbox__link">согласие</a> на получение рекламной рассылки</span><div class="t-checkbox__error">Требуется ваше согласие</div></label></div><input type="submit" data-wait="Отправляем..." class="t-button t-button_orange w-button" value="Отправить"/></form><div class="t-form__success-text t-form__success-text_no-icon w-form-done"><div class="t-font-size-h2">Готово</div><div>Будем отправлять вам наши новости, промокоды и напоминания про календарь!</div></div><div class="t-form__error w-form-fail"><div class="text-block-15">Произошла ошибка при отправке, попробуйте позже</div></div></div></div></div></section><section class="t-section"><div class="w-layout-blockcontainer t-container t-container__mob-full w-container"><div class="rk5000-ptt"><div class="rk5000-ptt__content"><div class="rk5000-ptt__text"><h2 class="rk5000__ptt-title">Туту — приложение для путешествий №1*</h2><h2 class="rk5000__ptt-desc">Билеты на самолёты, поезда и автобусы, а ещё отели и туры по отличным ценам</h2></div><div class="rk5000-ptt__qr-block"><img src="https://cdn4.tu-tu.ru/static/webflow/fall25/app-logo.f6f85ebdf3e1c7107fc0f7cbc43538b96fc9c02f.png" alt="Приложение Туту" width="104" class="rk5000__hero-img icon-app rk5000__icon-shadow"/><img src="https://cdn4.tu-tu.ru/static/webflow/nova/nova-qr.2218db4b5675fb2439c6643cc7a50dd81fbbe6ae.svg" alt="Скачать приложение Туту" width="104" class="rk5000__hero-img icon-app"/></div><div class="w-layout-vflex rk5000__ptt-links-mob"><a href="https://tutu.onelink.me/CCCT/geitcwnw?af_qr=true" target="_blank" class="t-app-list__item w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/nbb/google-mini-dark.ae7346e6ffe42ab6b23ebff058a159a0dea6b916.svg"/></a><a href="https://tutu.onelink.me/CCCT/geitcwnw?af_qr=true" target="_blank" class="t-app-list__item w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/nbb/appstore-mini-dark.70f979e6516eb2d107a9a2ab491181d058e52a07.svg"/></a><a href="https://tutu.onelink.me/CCCT/geitcwnw?af_qr=true" target="_blank" class="t-app-list__item w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/nbb/huawei-mini-dark.37aad75f7d2d7588fd158ec62d4555ac1165aca6.svg"/></a><a href="https://www.rustore.ru/catalog/app/ru.tutu.tutu_emp" target="_blank" class="t-app-list__item w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/nbb/rustore-mini-dark.ccc91012d5d9259d18e92c9d72f2a6367e5eafd1.svg"/></a></div></div><img src="https://cdn4.tu-tu.ru/static/webflow/app-phone-pic.093417eb9c7a3e221c44e3f61473bcf75cf0b1df.png" class="rk5000-ptt__img"/></div><p class="rk5000-ptt__legal">* По посещаемости Туту среди онлайн-сервисов в категории «Поездки и путешествия» по результатам исследований ООО «ТИБУРОН» с 2 квартала 2023 по 3 квартал 2025</p></div><div class="w-embed"><style>
+.t-light-wrap .t-section {
+	margin-top: 0;
+}
+</style></div></section><section class="t-footer"><div class="t-footer__wrap"><div class="w-layout-blockcontainer t-container t-container_header-footer w-container"><div class="t-footer__logo-wrapper"><img src="https://cdn4.tu-tu.ru/static/webflow/tutu-logo-dark-n-berry.8598c2f9851a72ef7705c3494418d924d33621d0.svg" alt="Туту"/></div><div class="w-layout-grid t-footer__content"><div id="w-node-ec339f58-d933-582d-25a4-4b84550857bc-550857b6" class="t-footer__menu-holder"><ul role="list" class="t-footer__menu w-list-unstyled"><li class="t-footer__menu-header">Сервисы</li><li class="t-footer__menu-item"><a href="https://avia.tutu.ru/" class="t-footer__menu-link">Авиабилеты</a></li><li class="t-footer__menu-item"><a href="https://www.tutu.ru/poezda/" class="t-footer__menu-link">Ж/д билеты</a></li><li class="t-footer__menu-item"><a href="https://bus.tutu.ru/" class="t-footer__menu-link">Автобусы</a></li><li class="t-footer__menu-item"><a href="https://hotel.tutu.ru/" class="t-footer__menu-link">Отели</a></li><li class="t-footer__menu-item"><a href="https://www.tutu.ru/prigorod/" class="t-footer__menu-link">Электрички</a></li><li class="t-footer__menu-item"><a href="https://tours.tutu.ru/" class="t-footer__menu-link">Туры</a></li></ul><ul role="list" class="t-footer__menu w-list-unstyled"><li class="t-footer__menu-header">Компания</li><li class="t-footer__menu-item"><a href="/company" class="t-footer__menu-link">О нас</a></li><li class="t-footer__menu-item"><a href="/hr" class="t-footer__menu-link">Вакансии</a></li><li class="t-footer__menu-item"><a href="/customer-support" class="t-footer__menu-link">Вакансии контакт-центра</a></li><li class="t-footer__menu-item"><a href="/adv" class="t-footer__menu-link">Реклама на Туту</a></li><li class="t-footer__menu-item"><a href="/partners" class="t-footer__menu-link">Стать партнёром</a></li><li class="t-footer__menu-item"><a href="https://c.tutu.ru/company#company-contacts" class="t-footer__menu-link">Контакты</a></li></ul><ul role="list" class="t-footer__menu w-list-unstyled"><li class="t-footer__menu-header">Путешественникам</li><li class="t-footer__menu-item"><a href="https://www.tutu.ru/user/profile/" target="_blank" class="t-footer__menu-link">Личный кабинет</a></li><li class="t-footer__menu-item"><a href="https://www.tutu.ru/2read/" class="t-footer__menu-link">Справочная</a></li><li class="t-footer__menu-item"><a href="https://www.tutu.ru/geo/" class="t-footer__menu-link">Путеводитель</a></li><li class="t-footer__menu-item"><a href="/certificates" class="t-footer__menu-link">Подарочные сертификаты</a></li></ul></div><div id="w-node-ec339f58-d933-582d-25a4-4b84550857f9-550857b6" class="w-layout-vflex t-footer__other"><div class="w-layout-hflex t-footer__apps"><a id="w-node-ec339f58-d933-582d-25a4-4b84550857fd-550857b6" href="https://play.google.com/store/apps/details?id=ru.tutu.tutu_emp" target="_blank" class="t-app-btn w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/dark-googleplay.97da7c55e7a3afc32d3825ae27fe4713af654fc6.svg" alt="Приложение Туту в Google Play"/></a><a id="w-node-ec339f58-d933-582d-25a4-4b84550857fb-550857b6" href="https://apps.apple.com/ru/app/%D0%B6%D0%B4-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B-%D0%BE%D1%82%D0%B5%D0%BB%D0%B8-%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B/id1296791829" target="_blank" class="t-app-btn w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/dark-appstore.d78e150f9911fe421ad7a29b4d315761a3b995de.svg" alt="Приложение Туту в AppStore"/></a><a id="w-node-ec339f58-d933-582d-25a4-4b84550857ff-550857b6" href="https://appgallery.huawei.com/app/C100925545" target="_blank" class="t-app-btn w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/dark-appgallery.231c5cf8476ab43e624a0c50601f93d9d9be2e0d.svg" alt="Приложение Туту в AppGallery"/></a><a id="w-node-ec339f58-d933-582d-25a4-4b8455085801-550857b6" href="https://apps.rustore.ru/app/ru.tutu.tutu_emp" target="_blank" class="t-app-btn w-inline-block"><img src="https://cdn4.tu-tu.ru/static/webflow/dark-rustore.b858bfe627f8ed977d166f95d12fd0bfa639f54c.svg" alt="Приложение Туту в RuStore"/></a></div><div class="w-layout-hflex t-footer__social"><a href="https://vk.com/tu_tu_ru" target="_blank" class="t-social-item is-footer w-inline-block"><div class="t-social-item__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 40 40">
+  <path fill="currentColor" d="M20.9 26.6C14 26.6 10.2 21.9 10 14h3.4c.1 5.8 2.7 8.2 4.7 8.7V14h3.2v5c2-.2 4-2.5 4.7-5h3.3c-.6 3-2.8 5.3-4.4 6.3a10 10 0 0 1 5.1 6.3h-3.5a6.2 6.2 0 0 0-5.2-4.5v4.5h-.4Z"/>
+</svg></div></a><a href="https://ok.ru/tuturu" target="_blank" class="t-social-item is-footer w-inline-block"><div class="t-social-item__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 40 40">
+  <path fill="currentColor" d="M21.3 24.5A9.4 9.4 0 0 0 25 23c.6-.5.7-1.3.2-2-.5-.6-1.5-.7-2.1-.2 0 0-1.5 1-3.8 1a7 7 0 0 1-3.8-1c-.7-.5-1.6-.4-2.2.2-.5.7-.4 1.5.3 2 0 0 1.4 1 3.7 1.5l-3.2 3.1c-.6.6-.5 1.5 0 2 .4.3.7.4 1.1.4.4 0 .8-.1 1.1-.4l3-3 3.2 3c.6.5 1.6.5 2.2 0 .6-.6.6-1.5 0-2l-3.4-3.1Z"/>
+  <path fill="currentColor" d="M19.4 10c-3.1 0-5.6 2.3-5.6 5.2 0 2.8 2.5 5.2 5.6 5.2 3 0 5.5-2.4 5.5-5.2 0-2.9-2.5-5.2-5.5-5.2Zm0 7.3c-1.3 0-2.4-1-2.4-2.1 0-1.2 1-2.2 2.4-2.2 1.2 0 2.3 1 2.3 2.2 0 1.2-1 2.1-2.3 2.1Z"/>
+</svg></div></a><a href="https://t.me/tutu_travel" target="_blank" class="t-social-item is-footer w-inline-block"><div class="t-social-item__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 40 40">
+  <path fill="currentColor" fill-rule="evenodd" d="M10.3 19.3 21 14.6c5.2-2.2 6.2-2.6 7-2.6 0 0 .4 0 .6.2l.3.5v.8A227 227 0 0 1 27 27c-.3 1.4-.8 1.9-1.3 2-1 0-2-.8-3-1.5l-4-2.8c-1.9-1.2-.7-2 .3-3 .3-.3 5-4.7 5.1-5v-.4c-.2-.1-.3 0-.4 0a91 91 0 0 0-7.8 5.2c-.7.5-1.4.8-2 .8-.7 0-2-.4-2.9-.7-1.1-.4-2-.6-2-1.3 0-.3.5-.7 1.4-1Z" clip-rule="evenodd"/>
+</svg></div></a><a href="https://www.youtube.com/@tutu_ru" target="_blank" class="t-social-item is-footer w-inline-block"><div class="t-social-item__icon w-embed"><svg width="100%" height="100%" viewBox="0 0 40 40">
+  <path fill="currentColor" fill-rule="evenodd" d="M15 13.2c3.3-.3 6.6-.3 9.9 0l2.2.2c1.2 0 2.2 1 2.4 2.2.6 3 .6 6 0 9.1a2.7 2.7 0 0 1-2.4 2.2l-2.2.2c-3.3.2-6.6.2-10 0l-2.1-.2c-1.3 0-2.3-1-2.5-2.2-.5-3-.5-6.1 0-9.1a2.7 2.7 0 0 1 2.5-2.2l2.2-.2Zm3 9.4v-4.9c0-.2.2-.3.4-.2l4 2.4c.3.1.3.4 0 .5l-4 2.4c-.2.1-.4 0-.4-.2Z" clip-rule="evenodd"/>
+</svg></div></a></div><div class="w-layout-vflex t-footer__info"><a href="https://www.tutu.ru/2read/legal_information/legal_personal/" target="_blank" class="t-footer__policy">Политика обработки персональных данных</a><div class="t-footer__text">При использовании материалов ссылка на сайт Туту обязательна</div></div></div></div></div></div></section><template id="daysInfo" class="template"><div class="w-dyn-list"><div role="list" class="w-dyn-items"><div data-color="" data-id="14-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/glamping-14-11.8ad7b42c16373c2f22b692535d06feea5c3d8312.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/glamping-14-11-userpic.886307b3b5221c1d93e5d52223cc54bd98731d96.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Ближе к звёздам</div><div class="nova-days__desc w-richtext"><p>Спланируйте мини-поездку на выходные в глэмпинг, чтобы всю ночь смотреть на звёзды и почувствовать себя частью природы.</p></div><div class="nova-days__code">HOTEL-4000</div><div class="nova-days__codeterms w-richtext"><p>–4000 ₽ на отели при покупке от 30 000 ₽ до 31.12.2025</p></div><div class="nova-days__hotels"><div data-img="https://cdn4.tu-tu.ru/static/hotels-photo/hotels-photo/e3901f12a5c2cee3bf36873ac136b61f1e4a352d.85538e40db5ce9dd70766f6875a04367827f1336.jpeg" data-link="https://hotel.tutu.ru/offers/details?check_in=2025-11-21&amp;check_out=2025-11-23&amp;details_params=&amp;geo_id=10723123&amp;geo_name=%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%26quot%3BFISHERIX%26quot%3B&amp;geo_type=hotel&amp;room[0]=2.&amp;search_id=41b579d1-d847-46f1-ae04-0a569cd49680&amp;sorting=relevanceDesc%2F%3Futm_source%3Dhotel&amp;utm_campaign=mrkt_november_advent&amp;utm_medium=special" class="nova-days__hotel"><div>Комплекс FISHERIX</div></div><div data-img="https://cdn.worldota.net/t/1024x768/extranet/58/2d/582d3192dfd335895ddd863afb121220343cef6c.JPEG" data-link="https://hotel.tutu.ru/offers/details?check_in=2025-11-28&amp;check_out=2025-11-30&amp;details_params=&amp;geo_id=7493051&amp;geo_name=%D0%9C%D0%B8%D0%BD%D0%B8-%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%91%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%82%20%D0%93%D1%83%D1%81%D0%B8-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B8&amp;geo_type=hotel&amp;room[0]=2.&amp;search_id=dc278d3f-ff14-4353-b594-c1b06d3b2916&amp;sorting=relevanceDesc%2F%3Futm_source%3Dhotel&amp;utm_campaign=mrkt_november_advent&amp;utm_medium=special" class="nova-days__hotel"><div>Мини-отель Гуси-Лебеди</div></div><div data-img="https://cdn.worldota.net/t/1024x768/extranet/48/53/4853e1c7507fcf102463378599e8d01fa8f9fc2b.JPEG" data-link="https://hotel.tutu.ru/offers/details?check_in=2025-11-28&amp;check_out=2025-11-30&amp;details_params=&amp;geo_id=10662830&amp;geo_name=%25D0%2593%25D0%25BB%25D1%258D%25D0%25BC%25D0%25BF%25D0%25B8%25D0%25BD%25D0%25B3%2520%25D0%25A5%25D0%25B2%25D0%25BE%25D1%258F&amp;geo_type=hotel&amp;room[0]=2.&amp;search_id=6ca67638-eab0-4828-9d15-b2e8d67ed745&amp;sorting=relevanceDesc%2F%3Futm_source%3Dhotel&amp;utm_campaign=mrkt_november_advent&amp;utm_medium=special" class="nova-days__hotel"><div>Глэмпинг Хвоя</div></div></div></div><div data-color="" data-id="13-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/ropes-13-11.ece40f556bcf04e0994ff1bac616dec783cf1e26.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/ropes-13-11-userpic.ac3d0681235ecdad0ed39cc28dd056aae88c8ca3.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Ловкость рук</div><div class="nova-days__desc w-richtext"><p>Забираемся выше, подтягиваемся сильнее, бежим быстрее. Или покоряем канатный парк!</p></div><div class="nova-days__code w-dyn-bind-empty"></div><div class="nova-days__codeterms w-dyn-bind-empty w-richtext"></div></div><div data-color="" data-id="12-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/ceramic-12-11.5a2f3f55c3159c523f1a2a0a767fe57d0a6b8c28.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/ceramic-12-11-userpic.bbdd0a99e25eba4b9a1c8fbfe6b71356097787a2.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">В единственном экземпляре</div><div class="nova-days__desc w-richtext"><p>Одним днём в другой город на мастер-класс по керамике, чтобы сделать что-то на память об этой осени своими руками.</p></div><div class="nova-days__code">POEZD500</div><div class="nova-days__codeterms w-richtext"><p>–500 ₽ на ж/д билеты при покупке от 5000 ₽ до 31.12.2025</p></div></div><div data-color="" data-id="11-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/cosmos-11-11.9ebbe45f3302d2dcd5a32f6cf5acd041683e8326.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/cosmos-11-11-userpic.3ccc4a989803088eb15f75f71c06e853bbeaf6da.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Просто космос</div><div class="nova-days__desc w-richtext"><p>Сегодня смотрим на звёзды и путешествуем по космосу: от Большой медведицы до Кассиопеи.</p></div><div class="nova-days__code w-dyn-bind-empty"></div><div class="nova-days__codeterms w-dyn-bind-empty w-richtext"></div></div><div data-color="" data-id="10-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/museum-10-11.dec7a5723467407c5e16e787fd2c4cb91acfcbc6.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/museum-10-11-userpic.ec17ba63dacee923bff7898a43691138ea707dac.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Вечер в музее</div><div class="nova-days__desc w-richtext"><p>Если вы давно не были на выставке, то это знак. Культурная программа, привет!</p></div><div class="nova-days__code w-dyn-bind-empty"></div><div class="nova-days__codeterms w-dyn-bind-empty w-richtext"></div></div><div data-color="" data-id="9-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/reading-9-11.d8fff93d6d55fab2b4ee01096020b74f603e081c.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/reading-9-11-userpic.ac64107cf7d72538ebe6eb9693f24ab77678dd4d.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Наедине с книгой</div><div class="nova-days__desc w-richtext"><p>Идеальная погода, чтобы никуда не выходить, и отправиться в путешествие вместе с главным героем истории.</p></div><div class="nova-days__code w-dyn-bind-empty"></div><div class="nova-days__codeterms w-dyn-bind-empty w-richtext"></div></div><div data-color="" data-id="8-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/bowling-8-11.95651af9e9e219449a85c9fbfaa5510e05dafbf2.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/bowling-8-11-userpic.7125638007033069dad99567f841b284821a5b78.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Флешбэк в детство</div><div class="nova-days__desc w-richtext"><p>Взрослые тоже дети. Забронируйте дорожку в боулинге, пару часов в лазертеге и сорвитесь на один вечер в детство.</p></div><div class="nova-days__code w-dyn-bind-empty"></div><div class="nova-days__codeterms w-dyn-bind-empty w-richtext"></div></div><div data-color="" data-id="7-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/spa-girl.7aef2450f61bb96c13af4b217b47e1cf6576311b.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/spa-girl-userpic.bd61948fc25129112a7ca45d16451ca59232f7a5.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Спа-выходные</div><div class="nova-days__desc w-richtext"><p>Человек, который спланирует для вас лучший отдых… это вы. Уезжайте за город и устройте спа-выходные: хаммам сам в себя не сходит!</p></div><div class="nova-days__code">HOTEL-2000</div><div class="nova-days__codeterms w-richtext"><p>–2000 ₽ на отели при покупке от 18 000 ₽ до 31.12.2025</p></div><div class="nova-days__hotels"><div data-img="https://cdn.worldota.net/t/1024x768/extranet/08/86/088650c9874352bd2c5937ff83b1a330ff5e094c.jpeg" data-link="https://hotel.tutu.ru/offers/details?check_in=2025-11-21&amp;check_out=2025-11-23&amp;details_params=&amp;geo_id=7618255&amp;geo_name=%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%20Palace%20Bridge%20Hotel&amp;geo_type=hotel&amp;room[0]=2.&amp;search_id=d538e956-b3b5-4210-9401-5c4691e2a0da&amp;sorting=relevanceDesc" class="nova-days__hotel"><div>Отель Palace Bridge Hotel</div></div><div data-img="https://cdn.worldota.net/t/1024x768/extranet/90/9a/909a6dfd8ea8dd121d8483cb52f03e7947c94554.jpeg" data-link="https://hotel.tutu.ru/offers/details?check_in=2025-11-21&amp;check_out=2025-11-23&amp;details_params=&amp;geo_id=8220166&amp;geo_name=%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A1%D0%9F%D0%90%20Palmira%20Garden&amp;geo_type=hotel&amp;room[0]=2.&amp;search_id=0e27e4d3-f7fd-4d64-a7e5-109d45fd068f&amp;sorting=relevanceDesc" class="nova-days__hotel"><div>Отель СПА Palmira Garden</div></div><div data-img="https://cdn.worldota.net/t/1024x768/extranet/6b/74/6b7461f9da54a27ff6c01161a0c70d1540e321b9.jpeg" data-link="https://hotel.tutu.ru/offers/details/?check_in=2025-11-21&amp;check_out=2025-11-23&amp;details_params=a%3D5&amp;filters[0]=optionFilters.distance_to_center.distance_to_center_any_distance&amp;filters[1]=optionFilters.extra_bed.extra_bed_no_value&amp;filters[2]=optionFilters.hotel_amenities.2006-2057-2100&amp;filters[3]=optionFilters.rating.rating_more_zero&amp;geo_id=8513277&amp;geo_name=%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&amp;geo_type=locality&amp;room[0]=2.&amp;search_id=740daef5-d772-49be-86a8-d719f266384e&amp;sorting=relevanceDesc" class="nova-days__hotel"><div>Kravt Nevsky Hotel and Spa</div></div></div></div><div data-color="" data-id="6-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/cinema-6-11.9bc9fa727d4facf32f62936da7ddfd1e9756c2b9.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/cinema-6-11-userpic.8e3a2cab78133de716d8af43488d4e14d2965749.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Фильм, фильм, фильм</div><div class="nova-days__desc w-richtext"><p>В кинотеатре, дома, у друзей или в путешествии. А может, и там, и там, и там, и там?</p></div><div class="nova-days__code w-dyn-bind-empty"></div><div class="nova-days__codeterms w-dyn-bind-empty w-richtext"></div></div><div data-color="" data-id="5-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/plus28-5-11.c610f1f10968002a89ed377a6f41ac200a6244b1.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/plus28-5-11-userpic.b3af715036b8e028b4c90cae4f14ed97af8624e0.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">+28</div><div class="nova-days__desc w-richtext"><p>Вот бы сейчас в +28… Есть идея! Находим бассейн с подогревом и плаваем под открытым небом или уезжаем в спонтанное путешествие.</p></div><div class="nova-days__code">HOTEL-1000</div><div class="nova-days__codeterms w-richtext"><p>–1000 ₽ на отели при покупке от 10 000 ₽ до 31.12.2025</p></div><div class="nova-days__hotels"><div data-img="https://cdn.worldota.net/t/1024x768/extranet/ea/a2/eaa2339658fe7508e6ada3fa528a996391959029.JPEG" data-link="https://hotel.tutu.ru/offers/details/?check_in=2025-11-21&amp;check_out=2025-11-23&amp;details_params=a%3D5&amp;filters[0]=optionFilters.distance_to_center.distance_to_center_any_distance&amp;filters[1]=optionFilters.extra_bed.extra_bed_no_value&amp;filters[2]=optionFilters.hotel_amenities.2006-2057-2100&amp;filters[3]=optionFilters.rating.rating_more_zero&amp;geo_id=9610761&amp;geo_name=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BB%D1%8F%D0%BD%D0%B0&amp;geo_type=locality&amp;room[0]=2.&amp;search_id=9bcdbd91-e2f8-4bb6-bdbb-d1b42bfef29e&amp;sorting=relevanceDesc" class="nova-days__hotel"><div>Поляна 1389 Отель и СПА</div></div><div data-img="https://cdn.bronevik.com/static/photo/g/1024x768/b14112198987b7da12723dbfb3ae22bb" data-link="https://hotel.tutu.ru/offers/details?check_in=2025-11-21&amp;check_out=2025-11-23&amp;details_params=&amp;geo_id=9466897&amp;geo_name=%D0%97%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20Pine%20River%20%28%D0%9F%D0%B0%D0%B9%D0%BD%20%D0%A0%D0%B8%D0%B2%D0%B5%D1%80%29&amp;geo_type=hotel&amp;room[0]=2.&amp;search_id=9ce6545b-f748-4cef-9a50-bd0acedbdbb8&amp;sorting=relevanceDesc" class="nova-days__hotel"><div>Pine River</div></div><div data-img="https://cdn.worldota.net/t/1024x768/extranet/d5/bb/d5bbfa249cd90f4722fc085dc8de11c90ec6420c.jpeg" data-link="https://hotel.tutu.ru/offers/details?check_in=2025-11-21&amp;check_out=2025-11-23&amp;details_params=&amp;geo_id=7644885&amp;geo_name=%D0%9F%D0%B0%D1%80%D0%BA%20%D0%9E%D1%82%D0%B5%D0%BB%D1%8C%20%D0%97%D0%B2%D0%B5%D0%BD%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B4&amp;geo_type=hotel&amp;room[0]=2.&amp;search_id=b87ee4d1-0cef-49aa-a528-8cec2d5c13ff&amp;sorting=relevanceDesc" class="nova-days__hotel"><div>Парк Отель Звенигород</div></div></div><div class="nova-days__dark-color"></div></div><div data-color="" data-id="4-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/tabletop-4-11.945f4aa3b6afcea625cdd000658fd3cfbd2e4728.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/tabletop-4-11-userpic.34362680eddb8c47f9844e1d2409bdc7d202ce90.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Кто ходит в гости по утрам</div><div class="nova-days__desc w-richtext"><p>У того вторник — выходной! Зовём друзей в гости на настолки или идём в гости сами.</p></div><div class="nova-days__code w-dyn-bind-empty"></div><div class="nova-days__codeterms w-dyn-bind-empty w-richtext"></div></div><div data-color="" data-id="3-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/park-3-11.de68796b25ee351b07b88562d09c58c7f47038a6.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/park-3-11-userpic.3cc8cf2c88e78c79397746fb3c7afa75d3071393.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Парк аттракционов </div><div class="nova-days__desc w-richtext"><p>Посвящается всем, кто когда-то был ребёнком: ааааамериканские горки, картинг, тир, карусель, качели, колесо обзрения.</p></div><div class="nova-days__code w-dyn-bind-empty"></div><div class="nova-days__codeterms w-dyn-bind-empty w-richtext"></div></div><div data-color="" data-id="2-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/fall-best-2-11.6614c5380a2171ecce20ac1d53c2a4de88a6d5b4.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/fall-best-2-11-userpic.43ffbca2d6086aaf6a19895b035613586645a762.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Осень: лучшее</div><div class="nova-days__desc w-richtext"><p>Сегодня гуляем в парке! Ласт кол, чтобы пошуршать листьями или наступить в большую лужу.</p></div><div class="nova-days__code">VAGON1000</div><div class="nova-days__codeterms w-richtext"><p>–1000 ₽ на ж/д билеты при покупке от 10 000 ₽ до 30.11.2025</p></div></div><div data-color="" data-id="1-noyabrya" data-img="https://cdn4.tu-tu.ru/static/webflow/nova/detox-1-11.17eb510e8372a0b03f9b755cd39a5e43742bf408.jpg" data-userpic="https://cdn4.tu-tu.ru/static/webflow/nova/detox-1-11-userpic.09c369ee45cc8c7ea2e6caadd62be75e7fbd3fc0.jpg" role="listitem" class="nova-days__info w-dyn-item"><div class="nova-days__title">Цифровой детокс</div><div class="nova-days__desc w-richtext"><p>Впереди большие выходные, а значит, можно сбежать из города и онлайна. Бронируем отель посреди ничего, дышим лесным воздухом и слушаем тишину.</p></div><div class="nova-days__code">HOTEL-4000</div><div class="nova-days__codeterms w-richtext"><p>–4000 ₽ на отели при покупке от 30 000 ₽ до 31.12.2025</p></div><div class="nova-days__hotels"><div data-img="https://cdn.bronevik.com/static/photo/g/1024x768/864f1a1595ff4182ecaef53edea6b976" data-link="https://hotel.tutu.ru/offers/details?details_params=&amp;geo_id=7886814&amp;geo_name=%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%94%D0%B0%D1%87%D0%B0&amp;geo_type=hotel&amp;room[0]=2.&amp;search_id=62922741-1f95-497d-a13d-523104ea286e&amp;sorting=relevanceDesc" class="nova-days__hotel"><div>Родионова Дача</div></div><div data-img="https://cdn.worldota.net/t/1024x768/extranet/77/28/77289ce0d89330f7641cab66803b0888ca8c1921.jpeg" data-link="https://hotel.tutu.ru/offers/details?check_in=2025-11-21&amp;check_out=2025-11-23&amp;details_params=&amp;geo_id=8022048&amp;geo_name=%25D0%259E%25D1%2582%25D0%25B5%25D0%25BB%25D1%258C%2520%25D0%25A7%25D0%25B5%25D1%2585%25D0%25BE%25D0%25B2%2520APi&amp;geo_type=hotel&amp;room%5B0%5D=2.&amp;search_id=70e03fa3-f17d-4a64-937c-0378bda050f9&amp;sorting=relevanceDesc" class="nova-days__hotel"><div>Отель Чехов APi</div></div><div data-img="https://cdn.bronevik.com/static/photo/g/1024x768/f935e2e9d19eb844e838332c877ea63c" data-link="https://hotel.tutu.ru/offers/details?details_params=&amp;geo_id=7831493&amp;geo_name=%D0%93%D0%BB%D1%8D%D0%BC%D0%BF%D0%B8%D0%BD%D0%B3%20%D0%BD%D0%B0%20%D0%9E%D0%B7%D1%91%D1%80%D0%B0%D1%85&amp;geo_type=hotel&amp;room[0]=2.&amp;search_id=31078328-23a8-45c1-a074-53fcdfb0f15d&amp;sorting=relevanceDesc" class="nova-days__hotel"><div>Глэмпинг на Озёрах</div></div></div></div></div></div></template><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=64edb1a184b086360fc066ca" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/js/tutu-test.schunk.36b8fb49256177c8.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/js/tutu-test.schunk.ae693a5d397372c2.js" type="text/javascript"></script><script src="https://cdn.prod.website-files.com/64edb1a184b086360fc066ca/js/tutu-test.11c2587e.f8345d604bbeaa40.js" type="text/javascript"></script><script>
+const dayItems = document.querySelectorAll('.nova-days__item');
+let daysOpen = localStorage.getItem("daysOpen") ? JSON.parse(localStorage.getItem("daysOpen")) : [];
+
+if (daysOpen.length > 0) {
+	daysOpen.forEach(function(openDayId) {
+  	const openDay = document.querySelector('[data-id="' + openDayId + '"]');
+    openDay.classList.add('is-opened');
+  });
+}
+document.addEventListener('click', function(e) {
+	const dayItem = e.target.closest('.nova-days__item');
+  if (!!dayItem) {
+    const dayId = dayItem.getAttribute('data-id');
+    const dayData = document.querySelector('#daysInfo').content.querySelector('.nova-days__info[data-id="'+dayId+'"]');
+		let title, desc, userpic, hotels = [], imgUrl = '', code = '', codeTerms, darkColor;
+    if (!dayData) {
+    	title = 'Это окошко пока не открылось';
+      desc = `<a class="nova-days__form-link" href="javascript:;" onclick="closeToForm()">Оставьте почту</a>, чтобы мы напомнили вам вернуться.`;
+    } else {
+    	imgUrl = dayData.getAttribute('data-img');
+      userpic =  dayData.getAttribute('data-userpic');
+      title = dayData.querySelector('.nova-days__title').textContent;
+      desc = dayData.querySelector('.nova-days__desc').textContent;
+      code = dayData.querySelector('.nova-days__code') ? dayData.querySelector('.nova-days__code').textContent : '';
+      codeTerms = dayData.querySelector('.nova-days__code') ? dayData.querySelector('.nova-days__codeterms').textContent : '';
+      darkColor = !!dayData.querySelector('.nova-days__dark-color');
+      if (!!dayData.querySelectorAll('.nova-days__hotel')) {
+        dayData.querySelectorAll('.nova-days__hotel').forEach(function(hotel) {
+          hotels.push({
+            name: hotel.textContent,
+            link: hotel.getAttribute('data-link'),
+            img: hotel.getAttribute('data-img')
+          });
+        });
+      }
+  	
+    	dayItem.classList.add('is-opened');
+      
+      daysOpen.push(dayId);
+      localStorage.setItem("daysOpen", JSON.stringify(daysOpen));
+    
+    }
+    document.body.insertAdjacentHTML('beforeend', `
+    	<div class="day-open">
+      	<div class="t-container t-container__mob-full">
+          <div class="day-open__wrapper">
+            <button class="day-open__close">
+            	<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M18.5859 21.0001L11.793 14.2072L13.2072 12.793L20.0001 19.5859L26.793 12.793L28.2072 14.2072L21.4143 21.0001L28.2072 27.793L26.793 29.2072L20.0001 22.4143L13.2072 29.2072L11.793 27.793L18.5859 21.0001Z" fill="#0D0B68"/>
+							</svg>
+            </button>
+            <div class="day-open__window ${hotels.length > 0 ? 'is-hor' : ''}">
+              <div class="day-open__top-info">
+                ${imgUrl.length > 0 ? `<div class="day-open__img-wrap">
+                <img class="day-open__img" src="${imgUrl}">
+                <div class="day-open__save ${darkColor ? 'is-dark-color': ''}" data-save="${userpic}">
+                  <div class="day-open__save-text">
+                    Поставьте картинку на аватарку: все будут знать, что вы заняты
+                  </div>
+                  <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <rect width="40" height="40" rx="20"/>
+                  <path d="M19.0715 22.0165L19.0716 10.7144H20.9287L20.9286 22.0165L23.4094 19.6143C23.7748 19.2489 24.2546 19.0675 24.7336 19.0704C25.2052 19.0731 25.676 19.2545 26.0358 19.6143L20.0001 25.5715L13.9644 19.6159C14.3232 19.257 14.7925 19.0757 15.2628 19.072C15.743 19.0682 16.2244 19.2495 16.5908 19.6159L19.0715 22.0165Z" fill="#0D0B68"/>
+                  <path d="M10.7144 29.2858C10.7144 28.2601 11.5458 27.4286 12.5715 27.4286H27.4286C28.4543 27.4286 29.2858 28.2601 29.2858 29.2858H10.7144Z" fill="#0D0B68"/>
+                  </svg>
+                </div>
+                </div>` : ''}
+
+                <div class="day-open__title">${title}</div>
+                <div class="day-open__desc">${desc}</div>
+                <div class="day-open__buttons">
+
+                ${code.length > 0 ? `<div class="day-open__code">
+                  <span class="day-open__code-text">${code}</span>
+                  <svg width="24" height="24" viewBox="0 0 35 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0.357178 0.857178H27.7857V6.00003H24.3572V4.28575H3.78575V24.8572H5.50003V28.2857H0.357178V0.857178Z" fill="#0D0B68"/>
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M7.21432 7.71432V35.1429H34.6429V7.71432H7.21432ZM31.2143 11.1429V31.7143H10.6429V11.1429H31.2143Z" fill="#0D0B68"/>
+                  </svg>
+                  <div class="day-open__code-copied">
+                    Скопирован
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M4.64307 12.2837L11.1873 20.4288C11.1873 20.4288 13.8626 15.9826 16.9026 12.0595C19.9427 8.13647 21.8638 5.95076 21.8638 5.95076L20.6478 4.64307C20.6478 4.64307 17.5948 7.3612 15.0412 10.1074C12.4875 12.8535 10.6994 15.0672 10.6994 15.0672L5.73749 10.7145L4.64307 12.2837Z" fill="#0D0B68"/>
+                    </svg>
+                  </div>
+                </div>
+              </div><div class="day-open__codeterms">${codeTerms}</div>` 
+              : ''}
+              
+              </div>
+              ${hotels.length > 0 ? `<div class="day-open__hotels">` : ''}
+                	${hotels[0] ? `
+                      <a class="day-open__hotel" href="${hotels[0].link}" target="_blank">
+                      	<img class="day-open__hotel-img" src="${hotels[0].img}">
+                        <div class="day-open__hotel-name">${hotels[0].name}</div>
+                        <div class="t-button">Забронировать</div>
+                      </a>
+                      ` : ''}
+                      ${hotels[1] ? `
+                      <a class="day-open__hotel" href="${hotels[1].link}" target="_blank">
+                      	<img class="day-open__hotel-img" src="${hotels[1].img}">
+                      	<div class="day-open__hotel-name">${hotels[1].name}</div>
+                        <div class="t-button">Забронировать</div>
+  											</a>
+                      ` : ''}
+                      ${hotels[2] ? `
+                      <a class="day-open__hotel" href="${hotels[2].link}" target="_blank">
+                      	<img class="day-open__hotel-img" src="${hotels[2].img}">
+                      	<div class="day-open__hotel-name">${hotels[2].name}</div>
+                        <div class="t-button">Забронировать</div>
+  											</a>
+                      ` : ''}
+                ${hotels.length > 0 ? `</div>
+                <div class="day-open__codeterms">${codeTerms}</div>` : ''}
+                
+              
+            </div>
+          </div>
+ 				 </div>
+      </div>
+    `);
+    document.body.classList.add('is-scroll-blocked');
+    
+  }
+});
+document.addEventListener('click', function(e) {
+	const dayOpen = e.target.closest('.day-open');
+	const closeBtn = e.target.closest('.nova-days__item');
+  const dayWindow = e.target.closest('.day-open__window');
+  if (!dayOpen || !!dayWindow) return;
+  dayOpen.classList.add('is-closing');
+  document.body.classList.remove('is-scroll-blocked');
+  setTimeout(function() {dayOpen.remove()}, 800);
+});
+document.addEventListener('click', function(e) {
+	const codeBlock = e.target.closest('.day-open__code');
+  if (!!codeBlock) {
+  	const codeBlockText = codeBlock.querySelector('.day-open__code-text').textContent;
+    navigator.clipboard.writeText(codeBlockText).then(
+      () => {
+        codeBlock.classList.add('is-copied');
+  			setTimeout(function() {codeBlock.classList.remove('is-copied');}, 2000);
+      },
+    );
+  }
+});
+
+document.addEventListener('click', function(e) {
+    const link = e.target.closest('.day-open__save');
+    if (link) {
+        e.preventDefault();
+        let url = link.getAttribute("data-save");
+        let fileName = "tutu-advent";
+        let xhr = new XMLHttpRequest();
+        xhr.open("GET", url, true);
+        xhr.responseType = "blob";
+        xhr.onload = function(){
+            let urlCreator = window.URL || window.webkitURL;
+            let imageUrl = urlCreator.createObjectURL(this.response);
+            let tag = document.createElement('a');
+            tag.href = imageUrl;
+            tag.download = fileName;
+            document.body.appendChild(tag);
+            tag.click();
+            document.body.removeChild(tag);
+        }
+        xhr.send();
+    }
+});
+
+function closeToForm() {
+	const dayOpen = document.querySelector('.day-open');
+	const formBlockTop = document.getElementById('adventForm').getClientRects()[0].y;
+  dayOpen.classList.add('is-closing');
+  document.body.classList.remove('is-scroll-blocked');
+  setTimeout(function() {
+  	dayOpen.remove();
+    window.scrollTo({ top: formBlockTop, behavior: "smooth" });
+  }, 800);
+}
+</script>
+<script>
+    class Api {
+        async post(formData, url) {
+            const response = await fetch(url, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify(formData),
+            });
+            const result = await response.json();
+            return result;
+        }
+    }
+
+    const api = new Api();
+  
+    const fields = document.querySelectorAll('.t-field');
+    document.addEventListener("focusin", (event) => {
+        const field = event.target.closest('.t-field');
+        if (!field) return;
+        const input = field.querySelector('.t-field__input');
+        const label = field.querySelector('.t-field__label');
+        label.classList.add("t-field__label_focus");
+        field.classList.remove('--t-error');
+    });
+    document.addEventListener("focusout", (event) => {
+        const field = event.target.closest('.t-field');
+        if (!field) return;
+        const input = field.querySelector('.t-field__input');
+        const label = field.querySelector('.t-field__label');
+        if (input.value.length == 0) {
+        label.classList.remove("t-field__label_focus");
+        }
+    });
+    const contactForm = document.querySelector('.t-form__form');
+    const contactFormBlock = document.querySelector('.t-form__wrap');
+
+    
+    contactForm.onsubmit = function(e) {
+        e.preventDefault();
+        const isAdvAgreed = contactForm.advCheckbox.checked;
+        const fetchURL = isAdvAgreed ? 'https://marketing-endpoints.tutu.ru/tours_promo_adv_2' : 'https://marketing-endpoints.tutu.ru/tours_promo_pd_2';
+        const formData = {
+            "email": contactForm.email.value,
+        };
+        api.post(formData, fetchURL).then((result) => {
+            
+            if (result['status'] === 'success') {
+                contactFormBlock.classList.add('t-form_success');
+                
+            } else if (result['error_code'] === 'duplicate_entry') {
+                const errorField = document.getElementById('emailWrap');
+                errorField.classList.add('--t-error');
+            }  else if (result['error_code'] === 'internal_error') {
+                contactForm.classList.add('t-form_error');
+            } else {
+                contactFormBlock.classList.add('t-form_error');
+            }
+        });
+    };
+    contactForm.addEventListener('focusin', function() {
+        contactForm.classList.remove('t-form_error');
+        contactForm.classList.remove('t-form_success');
+    });
+</script></body></html>

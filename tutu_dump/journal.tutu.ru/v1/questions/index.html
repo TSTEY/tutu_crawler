@@ -1,0 +1,923 @@
+<style>
+	.tutu-widget-comments { font: 15px/20px Arial; color: #000000; }
+
+	.tutu-widget-comments h2 {
+		font-size: 18px;
+		line-height: 20px;
+		font-weight: bold;
+		margin: 0 0 17px 15px;
+		padding:0;
+	}
+
+	.tutu-widget-comments h3 {
+		font-size: 15px;
+		line-height: 17px;
+		font-weight: bold;
+		margin: 0 0 8px 0;
+		padding:0;
+	}
+
+	.tutu-widget-comments h3._green { color: #3c9c01; }
+
+	.tutu-widget-comments__frame { margin-bottom: 17px; }
+	.tutu-widget-comments__frame__door {
+		display: inline-block;
+		font: 15px Arial;
+		text-align: center;
+		color: #000000;
+		text-shadow: 0 1px 0 rgba(255, 255, 255, 0.6);
+		padding: 7px 10px 7px 10px;
+		margin-left: 15px;
+		border-radius: 4px;
+		background: linear-gradient(to bottom, #faf9f7, #f0efeb 50%, #e5e4df 50%, #dedcd4);
+		border-left: 1px solid #dadad7;
+		border-right: 1px solid #dadad7;
+		border-top: 1px solid #f0f0ef;
+		border-bottom: 1px solid #d4d4d3;
+		cursor: pointer;
+	}
+
+	.tutu-widget-comments__frame._open .tutu-widget-comments__form { display: block; }
+	.tutu-widget-comments__frame._open .tutu-widget-comments__frame__door { display: none; }
+
+	.tutu-widget-comments__frame._new { margin-bottom: 25px; }
+	.tutu-widget-comments__frame._new .tutu-widget-comments__frame__door {
+		color: #336699;
+		border: 0 none;
+		border-bottom: 1px dotted #336699;
+		text-shadow: none;
+		background: none;
+		margin-left: 47px;
+		padding: 0;
+		border-radius: 0;
+	}
+
+	.tutu-widget-comments-form-message__success {
+		margin-left: 12px;
+		padding: 0 0 5px 35px;
+		background: url("//questions.tutu.ru/img/success.svg") no-repeat 0 3px;
+		background-size: 27px 27px;
+	}
+
+
+	.tutu-widget-comments__form {
+		display: none;
+		padding: 8px 15px 0 15px;
+		border-radius: 4px;
+		background-color: #ffffff;
+		box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.3);
+	}
+
+
+	.tutu-widget-comments__form__row {
+		position: relative;
+		margin-bottom: 10px;
+	}
+	.tutu-widget-comments__form__row._button {
+		margin: 20px -15px 0 -15px;
+		padding: 24px 15px;
+		background: #f3f5da;
+		border-bottom-right-radius: 4px;
+		border-bottom-left-radius: 4px;
+	}
+
+	.tutu-widget-comments__form__row._button._disabled { position: relative; opacity: 0.4; }
+	.tutu-widget-comments__form__row._button._disabled:before {
+		content: ' ';
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+	}
+
+	.tutu-widget-comments__form__row._button input,
+	.tutu-widget-comments__form__row__txt {
+		display: inline-block;
+		vertical-align: middle;
+	}
+
+	.tutu-widget-comments__form__row__txt {
+		color: #9fa08f;
+		margin-left: 10px;
+	}
+
+	.tutu-widget-comments__form__row__note {
+		position: absolute;
+		bottom: 15px;
+		left: 196px;
+		right: 0;
+		width: 51px;
+		padding-left: 33px;
+		font-size: 11px;
+		line-height: 15px;
+		color: #9e9e9e;
+		background: url("//questions.tutu.ru/img/bg.png") no-repeat 0 6px;
+	}
+
+	.tutu-widget-comments__form__row__name {
+		font-size: 13px;
+		line-height: 15px;
+		margin-bottom: 5px;
+	}
+
+	.tutu-widget-comments__form__row__field { display: inline-block; position: relative; }
+
+	.tutu-widget-comments__form__field {
+		font: 15px Arial;
+		color:#000000;
+		padding: 5px 10px 3px 10px;
+		outline: none;
+		border: 1px solid #e9e9e9;
+		background: #ffffff;
+		border-radius: 4px;
+		box-shadow: inset 0 2px 3px 0 rgba(135, 135, 135, 0.25);
+		box-sizing: border-box;
+	}
+
+	.tutu-widget-comments__form__field._name { width: 180px; }
+	.tutu-widget-comments__form__field._email { width: 215px; }
+
+	.tutu-widget-comments__form__row._textarea .tutu-widget-comments__form__row__field { display: block; }
+	.tutu-widget-comments__form__row._textarea .tutu-widget-comments__form__field {
+		max-width: 410px;
+		width: 100%;
+		height: 100px;
+	}
+
+
+	.form__field::-webkit-input-placeholder { color:#aaaaaa; }
+	.form__field::-moz-placeholder          { color:#aaaaaa; }/* Firefox 19+ */
+	.form__field:-ms-input-placeholder      { color:#aaaaaa; }
+
+	input:focus::-webkit-input-placeholder {color: transparent !important;}
+	input:focus::-moz-placeholder          {color: transparent !important;}
+	input:focus:-ms-input-placeholder      {color: transparent !important;}
+
+	textarea:focus::-webkit-input-placeholder {color: transparent !important;}
+	textarea:focus::-moz-placeholder          {color: transparent !important;}
+	textarea:focus:-ms-input-placeholder      {color: transparent !important;}
+
+	.tutu-widget-comments__form__button {
+		display: inline-block;
+		font: 16px Arial;
+		text-align: center;
+		color: #ffffff;
+		text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.15);
+		padding: 7px 10px 7px 10px;
+		outline: none;
+		border-radius: 4px;
+		box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.5);
+		background: linear-gradient(to bottom,  #30a2da 0%,#0971b3 25%,#045893 51%,#0665a4 77%,#005889 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		border: 0 none;
+	}
+
+
+	.tutu-widget-comments__form__row._error { z-index: 1; }
+
+	.tutu-widget-comments__form__row__field__error {
+		display: none;
+		position: absolute;
+		top: 32px;
+		left: 0;
+		right: 0;
+		font-size: 12px;
+		line-height: 15px;
+		color: #1a1a1a;
+		padding: 9px 12px;
+		background: #ffe471;
+		box-shadow: 0 4px 5px 0 rgba(65, 97, 124, 0.1), 0 4px 11px 1px rgba(65, 97, 124, 0.4), 0 0 1px 1px rgba(65, 97, 124, 0.1);
+		box-sizing: border-box;
+		border-radius: 4px;
+	}
+
+	.tutu-widget-comments__form__row__field__error:before {
+		content: ' ';
+		position: absolute;
+		top: -10px;
+		left: 50%;
+		width: 0;
+		height: 0;
+		margin-left: -5px;
+		border: 5px solid transparent;
+		border-bottom-color: #ffe471;
+	}
+
+	.tutu-widget-comments__form__row._error .tutu-widget-comments__form__field {
+		border-color: transparent;
+		background: #fffce0;
+		border-radius: 4px;
+		box-shadow: 0 1px 0 0 rgba(255, 255, 255, 0.5), inset 0 1px 4px 0 #ffcd00;
+	}
+
+	.tutu-widget-comments__form__row._textarea._error .tutu-widget-comments__form__row__field__error { top: 85px; }
+
+	.tutu-widget-comments__form__argee {
+		display: inline-block;
+		font-size: 13px;
+		line-height: 15px;
+	}
+
+	.tutu-widget-comments__form__argee > a { color: #336699; }
+
+	.tutu-widget-comments__form__argee > input {
+		display: inline-block;
+		vertical-align: top;
+		margin: 0 5px 0 0;
+		padding: 0;
+	}
+
+
+
+
+
+	.tutu-widget-comments__list { margin-bottom: 17px; padding: 0; }
+	.tutu-widget-comments__list li {
+		display: block;
+		padding: 7px 15px 20px 15px;
+		border-radius: 4px;
+		border: 1px solid #dddddd;
+		margin-bottom: 9px;
+		list-style:none;
+	}
+
+	.tutu-widget-comments__list li p { margin: 15px 0; font-size: 15px; }
+	.tutu-widget-comments__list li a { color: #369; text-decoration: underline; cursor: pointer; }
+
+	.tutu-widget-comments__list__info {
+		font-size: 0;
+		margin-bottom: 1px;
+	}
+
+	.tutu-widget-comments__list__info__item {
+		display: inline-block;
+		vertical-align: top;
+		width: 50%;
+		font-size: 15px;
+	}
+
+	.tutu-widget-comments__list__info__date { color: #ababab; }
+	.tutu-widget-comments__list__info__name { margin-left: 5px; font-weight: bold; }
+
+	.tutu-widget-comments__list__info__item._estimate {
+		text-align: right;
+		color: #ababab;
+	}
+
+	.tutu-widget-comments__list__info__item._estimate span {
+		display: inline-block;
+		vertical-align: middle;
+		margin-left: 9px;
+		padding-left: 19px;
+		cursor: pointer;
+	}
+
+	.tutu-widget-comments__list__info__item._estimate ._plus {
+		color: #3c9c01;
+		background: url("//questions.tutu.ru/img/plus.svg") no-repeat 0 0;
+	}
+	.tutu-widget-comments__list__info__item._estimate ._minus {
+		color: #c53c0c;
+		background: url("//questions.tutu.ru/img/minus.svg") no-repeat 0 5px;
+	}
+
+	.tutu-widget-comments__list__info__item._estimate ._disabled {
+		opacity: 0.2;
+	}
+
+	.tutu-widget-comments__list__answer {
+		margin-top: 11px;
+		padding: 12px 0 0 20px;
+		border-top: 1px solid #dddddd;
+	}
+	.tutu-widget-comments__list__answer .tutu-widget-comments__list__info__name {
+		padding-left: 55px;
+		font-weight: normal;
+		width: 65px;
+		height: 20px;
+		background: url("//questions.tutu.ru/img/black_small_text.svg") no-repeat 0 0;
+		background-size: contain;
+		display: inline-block;
+	}
+
+	.tutu-widget-comments__more { text-align: center; }
+	.tutu-widget-comments__more._hide { display: none; }
+	.tutu-widget-comments__more span {
+		display: inline-block;
+		font-size: 15px;
+		line-height: 29px;
+		height: 29px;
+		padding: 0 10px;
+		color: #356a9f;
+		border-radius: 4px;
+		border: solid 1px #afc5d9;
+		cursor: pointer;
+	}
+
+	.tutu-widget-comments__box._noUsefull h3,
+	.tutu-widget-comments__box._noUsefull .tutu-widget-comments__list._usefull { display: none; }
+
+	@media (min-width: 370px) {
+		.tutu-widget-comments__form__row__note {
+			bottom: 4px;
+			left: 222px;
+			font-size: 13px;
+			line-height: 18px;
+			width: auto;
+		}
+	}
+</style>
+
+<div class="tutu-widget-comments">
+	<h2>Вопросы, советы и отзывы пользователей</h2>
+		<div id="tutu-widget-comments-form-box" class="tutu-widget-comments__frame _open">
+		<div id="tutu-widget-comments-form-door" class="tutu-widget-comments__frame__door">Написать комментарий</div>
+		<div id="tutu-widget-comments-form-add" class="tutu-widget-comments__form">
+			<h3>Напишите комментарий</h3>			<div class="tutu-widget-comments__form__row">
+				<div class="tutu-widget-comments__form__row__name">Как вас зовут?</div>
+				<div class="tutu-widget-comments__form__row__field">
+					<input type="text" name="name" id="tutu-widget-comments-form-add-name" value=""
+						   class="tutu-widget-comments__form__field _name"/>
+					<div class="tutu-widget-comments__form__row__field__error js-error-message"></div>
+				</div>
+			</div>
+							<div class="tutu-widget-comments__form__row">
+					<div class="tutu-widget-comments__form__row__name">Электронная почта</div>
+					<div class="tutu-widget-comments__form__row__field">
+						<input type="text" name="email" id="tutu-widget-comments-form-add-email" value=""
+							class="tutu-widget-comments__form__field _email"/>
+						<div class="tutu-widget-comments__form__row__field__error js-error-message"></div>
+					</div>
+					<div class="tutu-widget-comments__form__row__note">можно не указывать</div>
+				</div>
+						<div class="tutu-widget-comments__form__row _textarea">
+				<div class="tutu-widget-comments__form__row__name">Ваш вопрос, совет или отзыв</div>
+				<div class="tutu-widget-comments__form__row__field">
+                <textarea name="comment" id="tutu-widget-comments-form-add-comment" cols="30" rows="10"
+						  placeholder=""
+						  class="tutu-widget-comments__form__field"></textarea>
+					<div class="tutu-widget-comments__form__row__field__error js-error-message"></div>
+				</div>
+			</div>
+			<div class="tutu-widget-comments__form__row">
+				<label class="tutu-widget-comments__form__argee">
+					<input type="checkbox" value="" name="isAgree" id="tutu-widget-comments-form-add-agree" />
+					Я ознакомлен и согласен с <a href="https://www.tutu.ru/poezda/content/rules_feedback_short/" id="tutu-widget-comments-form-add-agreement-link" target="_blank">правилами размещения</a> и даю <a href="https://www.tutu.ru/2read/legal_information/agreement_geography/" target="_blank">согласие на обработку моих персональных данных</a>
+				</label>
+			</div>
+			<div id="tutu-widget-comments-form-button" class="tutu-widget-comments__form__row _button _disabled">
+				<input type="button" value="Опубликовать" id="tutu-widget-comments-form-submit" class="tutu-widget-comments__form__button" disabled/>
+				<div class="tutu-widget-comments__form__row__txt">Спасибо! Ваш вопрос отправлен на модерацию. После проверки он будет виден другим пользователям.</div>
+			</div>
+		</div>
+	</div>
+		<div id="tutu-widget-comments-frame" class="tutu-widget-comments__box _noUsefull">
+		<ul class="tutu-widget-comments__list" id="tutu-widget-comments-list">
+                            <li id="GgPaiZQBA-7zXN3uStD0">
+    <div class="tutu-widget-comments__list__info">
+        <div class="tutu-widget-comments__list__info__item _inf">
+            <span class="tutu-widget-comments__list__info__date">21.01.2025 20:12</span>
+            <span class="tutu-widget-comments__list__info__name">Наталья:</span>
+        </div>
+        <div class="tutu-widget-comments__list__info__item _estimate" data-id="GgPaiZQBA-7zXN3uStD0">
+            Полезность:
+            <span class="_plus js-comment-plus " data-type="p">0</span>
+            <span class="_minus js-comment-minus " data-type="m">1</span>
+        </div>
+    </div>
+	<p>Хочу посетить Китай. Но я пенсионерка и мне 62 года.а ещё я не знаю ни китайский ни английский. Поэтому мне сложно будет в помещении этой страны.... Но, желание есть.<br />
+Поэтому, могли бы вы подобрать для меня тур в Китай на 10 дней.<br />
+Можно и на поезде. Живу я в саратовской области.</p>
+            <div class="tutu-widget-comments__list__answer">
+            <div class="tutu-widget-comments__list__info">
+                <div class="tutu-widget-comments__list__info__item _inf">
+                    <span class="tutu-widget-comments__list__info__date">23.01.2025 16:16</span>
+                    <span class="tutu-widget-comments__list__info__name">:</span>
+                </div>
+            </div>
+			<p><p>Здравствуйте, Наталья! <a href="https://tours.tutu.ru/">Подобрать тур можно у нас вот тут.</a></p></p>
+        </div>
+    </li>
+                            <li id="MraV8JEB54bRyjiXZCLq">
+    <div class="tutu-widget-comments__list__info">
+        <div class="tutu-widget-comments__list__info__item _inf">
+            <span class="tutu-widget-comments__list__info__date">14.09.2024 15:50</span>
+            <span class="tutu-widget-comments__list__info__name">Анжелика:</span>
+        </div>
+        <div class="tutu-widget-comments__list__info__item _estimate" data-id="MraV8JEB54bRyjiXZCLq">
+            Полезность:
+            <span class="_plus js-comment-plus " data-type="p">0</span>
+            <span class="_minus js-comment-minus " data-type="m">0</span>
+        </div>
+    </div>
+	<p>Здравствуйте! Ни разу не была в Китае. Очень хочу поехать. Меня интересует и рабочие процессы и отдых)<br />
+Занимаюсь недвижимостью, изучаю строительные технологии. Помогите выбрать место, пожалуйста, очень хочется все успеть и совместить приятное и полезное 🙏</p>
+            <div class="tutu-widget-comments__list__answer">
+            <div class="tutu-widget-comments__list__info">
+                <div class="tutu-widget-comments__list__info__item _inf">
+                    <span class="tutu-widget-comments__list__info__date">17.09.2024 18:49</span>
+                    <span class="tutu-widget-comments__list__info__name">:</span>
+                </div>
+            </div>
+			<p><p>Добрый день! Спасибо за ваш вопрос, пожалуйста, задайте его в <a href="https://t.me/joinchat/U3UiEqFGpzw_r6rS">телеграм-чате &laquo;Туту&raquo;</a>, там мы собрали много опытных путешественников. Уверены, вам подскажут.</p></p>
+        </div>
+    </li>
+                            <li id="PqvD9o8BWrBRUObscm2d">
+    <div class="tutu-widget-comments__list__info">
+        <div class="tutu-widget-comments__list__info__item _inf">
+            <span class="tutu-widget-comments__list__info__date">08.06.2024 10:32</span>
+            <span class="tutu-widget-comments__list__info__name">Николай:</span>
+        </div>
+        <div class="tutu-widget-comments__list__info__item _estimate" data-id="PqvD9o8BWrBRUObscm2d">
+            Полезность:
+            <span class="_plus js-comment-plus " data-type="p">2</span>
+            <span class="_minus js-comment-minus " data-type="m">1</span>
+        </div>
+    </div>
+	<p>Какая погода в Санье?</p>
+            <div class="tutu-widget-comments__list__answer">
+            <div class="tutu-widget-comments__list__info">
+                <div class="tutu-widget-comments__list__info__item _inf">
+                    <span class="tutu-widget-comments__list__info__date">10.06.2024 15:58</span>
+                    <span class="tutu-widget-comments__list__info__name">:</span>
+                </div>
+            </div>
+			<p><p>Здравствуйте, Николай! На летние месяцы в Санье погода тёплая, днём +31&deg;С</p></p>
+        </div>
+    </li>
+                            <li id="zSuXOm4BIMaVL3oru8Ju">
+    <div class="tutu-widget-comments__list__info">
+        <div class="tutu-widget-comments__list__info__item _inf">
+            <span class="tutu-widget-comments__list__info__date">29.08.2018 04:34</span>
+            <span class="tutu-widget-comments__list__info__name">Эдуард:</span>
+        </div>
+        <div class="tutu-widget-comments__list__info__item _estimate" data-id="zSuXOm4BIMaVL3oru8Ju">
+            Полезность:
+            <span class="_plus js-comment-plus " data-type="p">7</span>
+            <span class="_minus js-comment-minus " data-type="m">6</span>
+        </div>
+    </div>
+	<p>Посмотрел цену билетов на сентябрь-октябрь туда и обратно из Москвы до ШЭНЬЯЖЭНЯ, она в рекламе гораздо ниже, чем в действительности, -обидно получается, желание сразу же лететь отпадает...</p>
+            <div class="tutu-widget-comments__list__answer">
+            <div class="tutu-widget-comments__list__info">
+                <div class="tutu-widget-comments__list__info__item _inf">
+                    <span class="tutu-widget-comments__list__info__date">31.08.2018 16:20</span>
+                    <span class="tutu-widget-comments__list__info__name">:</span>
+                </div>
+            </div>
+			<p>Эдуард, здравствуйте! <br />
+В статье приведены цены из Москвы до Урумчи. Шеньчжень — менее популярное направление, а все авиарейсы из Москвы осуществляются с пересадкой, поэтому стоимость билетов выше. При подборе авиабилета вы можете посмотреть цены на ближайшие даты и выбрать более выгодные предложения. Также чтобы купить билеты дешево, рекомендуем приобретать их заранее — как правило, чем больше времени до полета, тем ниже цена.</p>
+        </div>
+    </li>
+            		</ul>
+			<div id="tutu-widget-comments-more" data-page="1" class="tutu-widget-comments__more"><span>Показать еще</span></div>
+	</div>
+</div>
+
+<script>
+	(function() {
+		var contentOrigin = "geo_questions",
+			pageUrl = "/geo/strana/china/",
+			host = "questions.tutu.ru",
+			recordsOnPage = 20		;
+
+		var widget = {
+
+			api: function(type, url, data, callback, failback) {
+
+				if (typeof callback != "function") {
+					return;
+				}
+				if (typeof failback != "function") {
+					return;
+				}
+
+				var prefix = "";
+				if (location.protocol == 'https:') {
+					prefix = 's';
+				}
+
+				var xmlhttp = new XMLHttpRequest();
+
+				xmlhttp.open(type, "http" + prefix + "://" + host + url);
+				xmlhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+				xmlhttp.withCredentials = true;
+				xmlhttp.send(JSON.stringify(data));
+
+				xmlhttp.onreadystatechange = function() {
+					if (xmlhttp.readyState == 4) {
+
+						if(xmlhttp.status == 200 || xmlhttp.status == 201) {
+							var response = JSON.parse(xmlhttp.responseText);
+							if (response.success) {
+								callback(response);
+							} else {
+								failback({ status: 400, error: response.errors});
+							}
+
+						} else {
+							failback({ status: xmlhttp.status, error: JSON.parse(xmlhttp.responseText)});
+						}
+					}
+				};
+
+			},
+
+			sendComment: function(){
+				var widget = this,
+
+					formBox = document.getElementById("tutu-widget-comments-form-box"),
+					formDoor = document.getElementById("tutu-widget-comments-form-door"),
+					buttonBox = document.getElementById("tutu-widget-comments-form-button"),
+					buttonSubmit = document.getElementById("tutu-widget-comments-form-submit"),
+
+					isAgree = document.getElementById("tutu-widget-comments-form-add-agree"),
+                    isAgreementLink = document.getElementById("tutu-widget-comments-form-add-agreement-link"),
+
+					messageSuccess = document.createElement('div'),
+					messageError
+				;
+
+				if(isAgree !== null) {
+					isAgree.addEventListener('change', function(){
+
+						if (this.checked) {
+							buttonBox.classList.remove("_disabled");
+							buttonSubmit.disabled = false;
+						} else {
+							buttonBox.classList.add("_disabled");
+							buttonSubmit.disabled = true;
+						}
+					});
+				}
+
+				if(buttonSubmit !== null) {
+					buttonSubmit.addEventListener("click", function(event) {
+						var fieldsForm = {
+								user_name:  document.getElementById("tutu-widget-comments-form-add-name"),
+								user_email: document.getElementById("tutu-widget-comments-form-add-email"),
+								comment: document.getElementById("tutu-widget-comments-form-add-comment"),
+                                agreement_link: document.getElementById("tutu-widget-comments-form-add-agreement-link")
+							},
+
+							data = {
+								userName: fieldsForm.user_name.value,
+								userEmail: fieldsForm.user_email !== null ? fieldsForm.user_email.value : '',
+								questionText: fieldsForm.comment.value,
+                                agreementLink: fieldsForm.agreement_link.getAttribute('href'),
+								pageUrl: pageUrl
+							}
+						;
+
+						function showError(row, text, isView) {
+							row.classList.add("_error");
+							messageError = row.getElementsByClassName("js-error-message");
+							messageError[0].innerHTML = text;
+							messageError[0].style.display = isView ? 'block' : 'none';
+						}
+
+						buttonBox.classList.add("_disabled");
+
+						if (fieldsForm.user_name.value && fieldsForm.comment.value) {
+							widget.api("POST", "/front/"+contentOrigin, data, function(response){
+								var answer = "<b>Спасибо! Ваш комментарий отправлен на модерацию.</b><br />После проверки он станет виден другим пользователям."; 
+								// if(!!fieldsForm.user_email.value) {
+								// 	answer+= 'Уведомление об ответе на вопрос придет на указанную эл. почту.';
+								// }
+								
+								fieldsForm.user_name.value = "";
+								fieldsForm.user_email.value = "";
+								fieldsForm.comment.value = "";
+
+								formBox.classList.remove("_open");
+								formBox.classList.add("_new");
+								formDoor.innerHTML = "Написать еще один комментарий";
+
+								messageSuccess.id = "tutu-widget-comments-form-message-success";
+								messageSuccess.className = "tutu-widget-comments-form-message__success";
+								messageSuccess.innerHTML = answer;
+								
+								formBox.insertBefore(messageSuccess, formBox.firstChild);
+
+								buttonBox.classList.remove("_disabled");
+
+							}, function(error){
+								var errorText = "",
+									isErrorView = true,
+									textErrors = {
+										no_links: "Указание ссылок в тексте запрещено",
+										email_not_valid: "Не валидный email",
+										comment_too_long: "Текст слишком большой",
+										unknown: "Неизветсная ошибка"
+									}
+								;
+
+								if (error.status == 400 ) {
+
+									for (var prop in error.error) {
+										var list = error.error[prop];
+
+										errorText = "";
+
+										for (var field in list) {
+											if (textErrors[list[field]].length) {
+												errorText += textErrors[list[field]] + "<br />";
+											} else {
+												errorText += field + ":" + textErrors[unknown] + "<br />";
+											}
+
+										}
+										showError(fieldsForm[field].parentNode.parentNode, errorText, isErrorView);
+										isErrorView = false;
+									}
+
+
+								} else {
+									console.log (error);
+								}
+
+							});
+
+						} else {
+
+							if (!fieldsForm.user_name.value) {
+								showError(fieldsForm.user_name.parentNode.parentNode, "Представьтесь, пожалуйста", true);
+							}
+
+							if (!fieldsForm.comment.value) {
+								showError(fieldsForm.comment.parentNode.parentNode, "Напишите сообщение", !!name.value);
+							}
+
+						}
+
+						event.preventDefault();
+
+					});
+				}
+			},
+
+			fieldsFocus: function(){
+				var fields = document.getElementsByClassName("tutu-widget-comments__form__field");
+
+				function hideError() {
+					var curField = this,
+						fieldRow = curField.parentNode.parentNode,
+						errorMessage = fieldRow.getElementsByClassName("js-error-message")
+					;
+
+					if (fieldRow.classList.contains('_error')) {
+
+						fieldRow.classList.remove("_error");
+						errorMessage[0].style.display = 'none';
+						errorMessage[0].innerHTML = "";
+					}
+
+				}
+
+				for (var i = 0; i < fields.length; i++) {
+					fields[i].addEventListener('focus', hideError, false);
+				}
+			},
+
+			fieldsBlur: function(){
+				var fields = document.getElementsByClassName("tutu-widget-comments__form__field"),
+					buttonBox = document.getElementById("tutu-widget-comments-form-button"),
+					isAgree = document.getElementById("tutu-widget-comments-form-add-agree")
+				;
+
+
+				function viewNextError() {
+					var rowsError = document.getElementsByClassName("tutu-widget-comments__form__row _error");
+
+					if (rowsError.length) {
+						errorMessage = rowsError[0].getElementsByClassName("js-error-message");
+						errorMessage[0].style.display = 'block';
+
+					} else if (buttonBox.classList.contains('_disabled') && isAgree.checked) {
+						buttonBox.classList.remove("_disabled");
+					}
+
+				}
+
+
+				for (var i = 0; i < fields.length; i++) {
+					fields[i].addEventListener('blur', viewNextError, false);
+				}
+			},
+
+			dateDateConvert: function(date){
+				date = new Date(date);
+
+				var day = date.getDate(),
+					month = date.getMonth(),  //0 - январь; 11 - декабрь
+					year = date.getFullYear(),
+					hours   = date.getHours(),
+					minutes = date.getMinutes(),
+
+					dateFormat
+				;
+
+
+				day = (day < 10) ? '0' + day : day;
+				month = (month < 9) ? '0' + (month + 1) : (month + 1);
+
+				hours   = (hours < 10)   ? ('0' + hours)   : (hours);
+				minutes = (minutes < 10) ? ('0' + minutes) : (minutes);
+
+				dateFormat = day + "." + month + "." + year + " " + hours + ":" + minutes;
+
+				return dateFormat;
+			},
+
+
+			votes: function(obj) {
+				var widget = this,
+
+					votesPlus = obj ? obj.getElementsByClassName("js-comment-plus") : document.getElementsByClassName("js-comment-plus"),
+					votesMinus = obj ? obj.getElementsByClassName("js-comment-minus") : document.getElementsByClassName("js-comment-minus"),
+
+					urlBase = "/front/" + contentOrigin + "/like/"
+				;
+
+
+				function changeVote(commentId, block, url, isDisabled) {
+					var parentBox = block.parentNode,
+						minusVote = parentBox.getElementsByClassName("js-comment-minus")[0],
+						plusVote = parentBox.getElementsByClassName("js-comment-plus")[0]
+					;
+
+					widget.api("POST", url, null, function(response){
+						plusVote.innerHTML = response.likesCount;
+						minusVote.innerHTML = response.dislikesCount;
+						if (isDisabled) {
+							plusVote.classList.add("_disabled");
+							minusVote.classList.add("_disabled");
+						}
+						else {
+							plusVote.classList.remove("_disabled");
+							minusVote.classList.remove("_disabled");
+						}
+					}, function(error){
+						console.log(error);
+					});
+
+				}
+
+				function sendVote() {
+					var type = this.getAttribute('data-type'),
+						commentId = this.parentNode.getAttribute('data-id'),
+						url = urlBase + commentId + "/";
+
+					if (this.classList.contains('_disabled')) {
+						url += (type == 'p') ? "undo_like" : "undo_dislike";
+						changeVote(commentId, this, url, false);
+					} else {
+						url += (type == 'p') ? "like" : "dislike";
+						changeVote(commentId, this, url, true);
+					}
+				}
+
+
+				for (var i = 0; i < votesPlus.length; i++) {
+					votesPlus[i].addEventListener('click', sendVote, false);
+					votesMinus[i].addEventListener('click', sendVote, false);
+				}
+			},
+
+			showForm: function(){
+				var door = document.getElementById("tutu-widget-comments-form-door");
+				if(door !== null) {
+					door.addEventListener("click", function() {
+						var box = this.parentNode,
+							messageSuccess = document.getElementById("tutu-widget-comments-form-message-success");
+						;
+
+						if (box.classList.contains('_new')) {
+							box.classList.remove("_new");
+						}
+
+						if (messageSuccess) {
+							box.removeChild(messageSuccess);
+						}
+
+						box.classList.add("_open");
+					});
+				}
+			},
+
+			getComments: function(){
+				var widget = this,
+					moreButton = document.getElementById("tutu-widget-comments-more"),
+					listBox = document.getElementById("tutu-widget-comments-frame"),
+					listBoxLi = listBox.getElementsByTagName('li'),
+
+					nextList = [],
+					hasRecordsAfterNextList = false;
+				;
+
+
+				function nextPage(page) {
+					widget.api("GET", "/front/"+contentOrigin+"/more?page_url=" + pageUrl + "&page=" + page, null, function(response){
+						nextList = response.items;
+						hasRecordsAfterNextList = response.hasMoreRecords;
+					}, function(error){
+						moreButton.classList.add("_hide");
+					});
+
+				}
+
+				if (listBoxLi.length < recordsOnPage) {
+					moreButton.classList.add("_hide");
+				} else {
+					nextPage("2");
+				}
+
+				moreButton.addEventListener("click", function() {
+					var button = this,
+						curPage = +button.getAttribute('data-page')
+					;
+
+
+					curPage++;
+					button.dataset.page = curPage;
+					widget.viewComments(nextList);
+
+					if (hasRecordsAfterNextList) {
+						curPage++;
+						nextPage(curPage);
+					} else {
+						moreButton.classList.add("_hide");
+					}
+				});
+			},
+
+			viewComments: function(list){
+				var widget = this,
+					ulMain = document.getElementById("tutu-widget-comments-list"),
+					ulUsefull = document.getElementById("tutu-widget-comments-list-usefull")
+				;
+
+
+				list.forEach(function(item, i, list) {
+					var li = document.createElement('li'),
+						date = widget.dateDateConvert(item.createdAt),
+						html = "",
+						likesAreDisabledClass = item.currentUserHasLikedThis ? '_disabled' : '';
+					;
+
+
+					html = "<div class='tutu-widget-comments__list__info'>" +
+						"<div class='tutu-widget-comments__list__info__item _inf'>" +
+						"<span class='tutu-widget-comments__list__info__date'>"+ date +"</span>" +
+						"<span class='tutu-widget-comments__list__info__name'>" + item.userName + ":</span>" +
+						"</div>" +
+						"<div class='tutu-widget-comments__list__info__item _estimate' data-id='"+ item.id +"'>Полезность: " +
+						"<span class='_plus js-comment-plus "+ likesAreDisabledClass +"' data-type='p'>" + item.likesCount + "</span>" +
+						"<span class='_minus js-comment-minus "+ likesAreDisabledClass +"' data-type='m'>"+ item.dislikesCount +"</span>" +
+						"</div>" +
+						"</div>" + item.text
+					;
+
+					if (item.answerText) {
+
+						date = widget.dateDateConvert(item.answeredAt);
+
+						html += "<div class='tutu-widget-comments__list__answer'>"+
+							"<div class='tutu-widget-comments__list__info'>" +
+							"<div class='tutu-widget-comments__list__info__item _inf'>" +
+							"<span class='tutu-widget-comments__list__info__date'>"+ date +"</span>" +
+							"<span class='tutu-widget-comments__list__info__name'>Туту.ру:</span>" +
+							"</div>" +
+							"</div>" + item.answerText +
+							"</div>"
+						;
+					}
+
+
+					li.innerHTML = html;
+
+					if (item.is_useful) {
+						ulUsefull.appendChild(li); //добавляем в конец полезного списка
+
+					} else {
+						ulMain.appendChild(li); //добавляем в конец общего списка
+					}
+
+					widget.votes(li);
+
+				});
+
+			}
+
+		};
+
+
+		widget.sendComment();
+		widget.votes();
+		widget.showForm();
+		widget.fieldsFocus();
+		widget.fieldsBlur();
+		widget.getComments();
+
+	})();
+</script>
